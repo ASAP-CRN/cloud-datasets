@@ -1,0 +1,37 @@
+{
+    "project_name": "Implications of Polyamine and Glucosylceramide Transport for Parkinson's Disease (IMPACT-PD)",
+    "project_description": "Our research program investigates the molecular mechanisms of Parkinson's disease (PD) by dissecting how PD-associated genes\u2014specifically ATP13A2, ATP10B, and GBA1\u2014regulate lysosomal homeostasis. As part of the ASAP Collaborative Research Network (CRN), our team employs a multi-disciplinary approach\u2014integrating human iPSC-derived midbrain models, rodent systems, and purified protein complexes\u2014to determine how lysosomal dysfunction triggers cellular states associated with neurodegeneration. A primary focus of this project is characterizing the transition of astrocytes toward a reactive, pro-inflammatory state and the subsequent impact on dopaminergic neuron survival. By generating large-scale transcriptomic (RNA-seq), chromatin accessibility (ATAC-seq), and methylome (bisulfite sequencing) datasets, we aim to map the pathways linking genetic loss-of-function (e.g., ATP13A2 c.1306) to chronic neuroinflammation and impaired lysosomal proteolysis. Ultimately, this work seeks to identify central regulators of these pathogenic states to provide new therapeutic strategies for PD.",
+    "dataset_title": "Chromatin accessibility profiling (ATAC-seq)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306 deficiency models",
+    "dataset_description": "This dataset contains bulk\u00a0Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq)\u00a0data from human iPSC-derived midbrain astrocytes. The study compares Wild Type (WT) astrocytes and\u00a0ATP13A2 c.1306\u00a0loss-of-function mutants. The objective was to characterize the\u00a0epigenomic landscape\u00a0and changes in genome-wide accessibility driven by the genotype.",
+    "creators": [
+        {
+            "name": "Coccia, Elena",
+            "affiliation": "Icahn School of Medicine at Mount Sinai",
+            "orcid": "0000-0002-9849-2423"
+        },
+        {
+            "name": "Blanchard, Joel",
+            "affiliation": "Icahn School of Medicine at Mount Sinai",
+            "orcid": "0000-0003-3142-2970"
+        }
+    ],
+    "publication_date": "2026-03-25",
+    "version": "0.1",
+    "title": "Chromatin accessibility profiling (ATAC-seq)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306 deficiency models",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Peter  Vangheluwe",
+    "PI_email": "peter.vangheluwe@kuleuven.be",
+    "coPI_full_name": [
+        "Joel Blanchard"
+    ],
+    "coPI_email": [
+        "Joel.blanchard@mssm.edu"
+    ],
+    "submitter_name": "Elena Coccia",
+    "submitter_email": "Elena.coccia@mssm.edu",
+    "publication_DOI": "",
+    "grant_ids": [
+        "ASAP-024297"
+    ],
+    "team_name": "Vangheluwe"
+}

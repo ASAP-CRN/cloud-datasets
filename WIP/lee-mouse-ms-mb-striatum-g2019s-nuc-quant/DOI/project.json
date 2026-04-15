@@ -1,0 +1,31 @@
+{
+    "project_name": "Are there bidirectional pathological interactions between senescence and LRRK2 models of PD",
+    "project_description": "Mutations in LRRK2 gene cause late-onset, autosomal dominant forms of familial PD that are clinically indistinguishable from sporadic PD. In addition, LRRK2 gene polymorphisms are associated with sporadic PD risk. The late disease-onset with these PD-linked genes suggest that interactions with age-related pathways are critical for manifesting or unmasking their pathogenic actions. Studies in experimental models further suggest that PD-linked LRRK2 mutations can induce abnormal mitochondrial function, lysosomal activity, autophagy, proteostasis and inflammatory processes, pathways that are dysregulated by cellular senescence. Our project focuses on determining whether:(1) PD-linked mutations in LRRK2 induce cellular senescence in the rodent brain, (2) increased senescence can exacerbate or unmask PD-like neurodegenerative phenotypes in LRRK2 mouse models, and (3) if removing senescent cells will provide neuroprotection in LRRK2 rodent models of PD.",
+    "dataset_title": "Nucleoside quantification in the striatum of G2019S LRRK2 knockin mice",
+    "dataset_description": "G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 9 per group).",
+    "creators": [
+        {
+            "name": "Ma, Yue",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-1031-5175"
+        },
+        {
+            "name": "Moore, Darren",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-2359-5679"
+        }
+    ],
+    "publication_date": "2026-01-31",
+    "version": "1.0.0",
+    "title": "Nucleoside quantification in the striatum of G2019S LRRK2 knockin mice",
+    "ASAP_lab_name": "MOORE-LAB",
+    "PI_full_name": "Darren J. Moore",
+    "PI_email": "Darren.Moore@vai.org",
+    "submitter_name": "Yue Ma",
+    "submitter_email": "yue.ma@vai.org",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000592"
+    ],
+    "team_name": "Lee"
+}

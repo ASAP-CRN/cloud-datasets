@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs)",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs)\".</p>\n<p><strong>Description:</strong> Quantitative DIA-based proteomic analysis comparing isolated lysosomes (Lyso-IP) from Wild-Type and VPS35[D620N] knock-in MEFs. This dataset provides the basal characterization of mutant lysosomal protein changes without inhibitor treatment. Expression of the 3XHA-TMEM192 tag was verified by genotyping PCR and anti-HA Western Blotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2026-01-31",
+        "version": "1.0.0",
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Taylor, Matthew",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4003-3128"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Alessi"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000463"
+            }
+        ]
+    }
+}

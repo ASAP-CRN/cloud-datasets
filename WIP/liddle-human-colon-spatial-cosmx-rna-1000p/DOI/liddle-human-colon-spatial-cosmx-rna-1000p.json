@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bolen Human Sigmoid Colon RNA CosMx Dataset\".</p>\n<p><strong>Description:</strong> NanoString CosMxTM human sigmoid colon RNA 1000-plex dataset exported from Atomx for downstream analysis spatially resolves up to 1000 transcripts (CMx Hs Univ Cell Panel RNA Kit EA: CAT# 121500002). A custom spike in for the following 12 genes labeled following the HUGO gene nomenclature were included in the RNA assay: SLC6A4 (solute carrier family 6 member 4), CHGA (chromogranin A), SLC11A2 (solute carrier family 11 member 2), FTH1(ferritin heavy chain 1), HAMP (hepcidin antimicrobial peptide), IREB2 (iron responsive element binding protein 2), ITPKB (Inositol-Trisphosphate 3-Kinase B), NDUFB1 (NADH: Ubiquinone Oxidoreductase Subunit B1), PINK1 (PTEN-induced kinase 1), PYY (peptide YY), RAB8A (RAB8A, member RAS oncogene family), TF (transferrin). We used morphology markers CD45, PanCK, CD3 to visualize the tissue and picked two 0.5mm fields of view (FOV) per sample.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-12-12",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Bolen, MacKenzie L.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+                "orcid": "0000-0003-1973-3784"
+            },
+            {
+                "name": "Buendia, Marc",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain\nAugust Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;\n7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+            },
+            {
+                "name": "Shi, Ji",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+            },
+            {
+                "name": "Salas, Azucena",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain"
+            },
+            {
+                "name": "Thompson, E. Aubrey",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+            },
+            {
+                "name": "Tansey, Mal\u00fa G.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+                "orcid": "0000-0002-1719-4708"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Liddle"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-020527"
+            }
+        ]
+    }
+}

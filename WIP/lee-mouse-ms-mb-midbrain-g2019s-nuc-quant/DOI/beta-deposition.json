@@ -1,0 +1,91 @@
+{
+  "created": "2026-01-16T20:59:27.049313+00:00",
+  "modified": "2026-01-16T20:59:27.535491+00:00",
+  "id": 18273871,
+  "conceptrecid": "18273870",
+  "doi": "10.5281/zenodo.18273871",
+  "conceptdoi": "10.5281/zenodo.18273870",
+  "doi_url": "https://doi.org/10.5281/zenodo.18273871",
+  "metadata": {
+    "title": "Nucleoside quantification in the ventral midbrain of G2019S LRRK2 knockin mice",
+    "doi": "10.5281/zenodo.18273871",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Nucleoside quantification in the ventral midbrain of G2019S LRRK2 knockin mice\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 9 per group).</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18273871",
+      "recid": 18273871
+    }
+  },
+  "title": "Nucleoside quantification in the ventral midbrain of G2019S LRRK2 knockin mice",
+  "links": {
+    "self": "https://zenodo.org/api/records/18273871",
+    "html": "https://zenodo.org/records/18273871",
+    "doi": "https://doi.org/10.5281/zenodo.18273871",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18273870",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273871.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273870.svg",
+    "files": "https://zenodo.org/api/records/18273871/files",
+    "bucket": "https://zenodo.org/api/files/fd203c26-a6cd-46d2-9a18-ad845172f482",
+    "thumb250": "https://zenodo.org/record/18273871/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18273871/thumb10",
+      "50": "https://zenodo.org/record/18273871/thumb50",
+      "100": "https://zenodo.org/record/18273871/thumb100",
+      "250": "https://zenodo.org/record/18273871/thumb250",
+      "750": "https://zenodo.org/record/18273871/thumb750",
+      "1200": "https://zenodo.org/record/18273871/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18273871",
+    "latest_draft_html": "https://zenodo.org/deposit/18273871",
+    "publish": "https://zenodo.org/api/deposit/depositions/18273871/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18273871/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18273871/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18273871/actions/newversion",
+    "record": "https://zenodo.org/api/records/18273871",
+    "record_html": "https://zenodo.org/record/18273871",
+    "latest": "https://zenodo.org/api/records/18273871/versions/latest",
+    "latest_html": "https://zenodo.org/records/18273871/latest"
+  },
+  "record_id": 18273871,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f9a0b37b-f855-44ba-8470-2086d14dd168",
+      "filename": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant_README.pdf",
+      "filesize": 5184,
+      "checksum": "68188953d5d3baa7af4e17bb7e34f53c",
+      "links": {
+        "self": "https://zenodo.org/api/records/18273871/files/f9a0b37b-f855-44ba-8470-2086d14dd168",
+        "download": "https://zenodo.org/api/records/18273871/draft/files/lee-mouse-ms-mb-midbrain-g2019s-nuc-quant_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

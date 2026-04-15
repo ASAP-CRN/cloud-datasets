@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "title": "asap-raw-team-indipd-ipsc-lr-wgs-kolf21j-wt",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"asap-raw-team-indipd-ipsc-lr-wgs-kolf21j-wt\".</p>\n<p><strong>Description:</strong> This dataset includes the diploid assembly (.fa) and annotations (.gff3) for the KOLF2.1J assembly.   Additionally, we also have R9 ultra-long ONT data from iPSC as well as R9 30kb ONT data for iPSC, cortical neurons, NGN2-derived neurons, microglia, and 2 types of astrocytes. All these files have methylation tags on them for epigenetic analyses.   We also have PacBio HiFi IPSC data with methylation tags.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2026-02-25",
+        "version": "1.0.0",
+        "creators": [
+            {
+                "name": "Alvarez Jerez, Pilar",
+                "affiliation": "Global Parkinson's Genetics Program (GP2) Chevy Chase, MD, USA",
+                "orcid": "0000-0002-5812-1898"
+            },
+            {
+                "name": "Rhie, Arang",
+                "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA",
+                "orcid": "0000-0002-9809-8127"
+            },
+            {
+                "name": "Kim, Juhyun",
+                "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA"
+            },
+            {
+                "name": "Hebbar, Prajna",
+                "affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, CA, USA.",
+                "orcid": "0009-0008-9817-5330"
+            },
+            {
+                "name": "Antipov, Dmitry",
+                "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA"
+            },
+            {
+                "name": "Koren, Sergey",
+                "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA",
+                "orcid": "0000-0002-1472-8962"
+            },
+            {
+                "name": "Lara, Erika",
+                "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA"
+            },
+            {
+                "name": "Beilina, Alexandra",
+                "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA",
+                "orcid": "0000-0001-6400-1684"
+            },
+            {
+                "name": "Arber, Charlie",
+                "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London"
+            },
+            {
+                "name": "Zulueta, Jimena",
+                "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA"
+            },
+            {
+                "name": "Patel, Dhairya",
+                "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+            },
+            {
+                "name": "Billingsley, Kimberley",
+                "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA",
+                "orcid": "0000-0002-8003-4029"
+            },
+            {
+                "name": "Grenn, Francis",
+                "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+            },
+            {
+                "name": "Fossati, Valentina",
+                "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA",
+                "orcid": "0000-0003-1825-9371"
+            },
+            {
+                "name": "Wray, Selina",
+                "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London",
+                "orcid": "0000-0003-3062-7050"
+            },
+            {
+                "name": "Blauwendraat, Cornelis",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+                "orcid": "0000-0001-9358-8111"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Indipd"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::NA"
+            }
+        ]
+    }
+}

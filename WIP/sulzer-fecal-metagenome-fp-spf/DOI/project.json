@@ -1,0 +1,32 @@
+{
+    "project_name": "Interactions between the gut microbiome and the nervous and immune systems influence the brain, behavior, and disease",
+    "project_description": "This project examines the role of the gut microbiome in Parkinson's disease (PD) with a focus on inflammation and gut mucosal adaptive immunity. Mouse models are able to illuminate the effects of alterations to the gut microbiome on various neurological characteristics commonly associated with PD. Areas of emphasis cover various aspects of the gut-brain axis, from probiotic treatment and gut mucosal immunity to behavior and motor function. Fecal shotgun metagenomic data is used to provide a snapshot of the gut microbial community under various experimental conditions.",
+    "dataset_title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+    "dataset_description": "A number of microbial taxa have been found to be reduced in Parkinson's disease (PD). Treatment of \u03b1-synuclein overexpressing (Thy1-ASO) mice, an animal model of PD, with these taxa has also been shown to improve motor and GI deficits. This dataset focuses on one of the reduced taxa, Faecalibacterium prausnitzii, and the effect of providing it as an oral treatment to both Thy1-ASO mice and wild-type controls.",
+    "creators": [
+        {
+            "name": "Moiseyenko, Anastasiya",
+            "affiliation": "California Institute of Technology",
+            "orcid": "0000-0001-5379-7808"
+        },
+        {
+            "name": "Mazmanian, Sarkis",
+            "affiliation": "California Institute of Technology",
+            "orcid": "0000-0003-2713-1513"
+        }
+    ],
+    "publication_date": "2026-03-12",
+    "version": "1.0",
+    "title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+    "ASAP_lab_name": "Sarkis Mazmanian",
+    "PI_full_name": "Sarkis, K, Mazmanian",
+    "PI_email": "sarkis@caltech.edu",
+    "submitter_name": "Kaelyn, Long",
+    "submitter_email": "krlong586@gmail.com",
+    "publication_DOI": "https://doi.org/10.1101/2025.09.18.677192",
+    "grant_ids": [
+        "ASAP-020495",
+        "ASAP-000375"
+    ],
+    "team_name": "Sulzer"
+}

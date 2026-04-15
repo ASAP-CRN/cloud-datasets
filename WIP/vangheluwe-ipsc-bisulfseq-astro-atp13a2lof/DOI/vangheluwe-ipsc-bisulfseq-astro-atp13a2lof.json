@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "DNA methylome profiling (Bisulfite Sequencing)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306deficiency models",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"DNA methylome profiling (Bisulfite Sequencing)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306deficiency models\".</p>\n<p><strong>Description:</strong> This dataset provides base-resolution DNA methylation profiles generated via\u00a0Whole-Genome Bisulfite Sequencing (WGBS)\u00a0of human iPSC-derived midbrain astrocytes. The study contrasts the methylome of\u00a0ATP13A2 c.1306\u00a0mutants with Wild Type (WT) controls. The objective was to evaluate\u00a0overall DNA methylation levels\u00a0and regional epigenetic modifications associated with the genotype. This dataset is designed to be\u00a0integrated\u00a0with companion\u00a0RNA-seq\u00a0and\u00a0ATAC-seq\u00a0data to provide a multi-omic characterization of\u00a0the model.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2026-03-25",
+        "version": "0.1",
+        "creators": [
+            {
+                "name": "Coccia, Elena",
+                "affiliation": "Icahn School of Medicine at Mount Sinai",
+                "orcid": "0000-0002-9849-2423"
+            },
+            {
+                "name": "Blanchard, Joel",
+                "affiliation": "Icahn School of Medicine at Mount Sinai",
+                "orcid": "0000-0003-3142-2970"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Vangheluwe"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-024297"
+            }
+        ]
+    }
+}

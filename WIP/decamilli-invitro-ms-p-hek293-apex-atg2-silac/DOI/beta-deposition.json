@@ -1,0 +1,86 @@
+{
+  "created": "2026-04-07T16:25:56.027581+00:00",
+  "modified": "2026-04-07T16:25:56.576397+00:00",
+  "id": 19456909,
+  "conceptrecid": "19456908",
+  "doi": "10.5281/zenodo.19456909",
+  "conceptdoi": "10.5281/zenodo.19456908",
+  "doi_url": "https://doi.org/10.5281/zenodo.19456909",
+  "metadata": {
+    "title": "APEX proximity labeling of autophagy protein ATG2A in complete media and starvation",
+    "doi": "10.5281/zenodo.19456909",
+    "publication_date": "2026-04-07",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"APEX proximity labeling of autophagy protein ATG2A in complete media and starvation\".</p>\n<p><strong>Description:</strong> This dataset contains a proximity labeling experiment centered on the autophagy protein ATG2A. The APEX2 enzyme was fused to the N-terminus of GFP-ATG2A. Three conditions were assessed: a no labeling condition without hydrogen peroxide, a complete reaction in DMEM, and a complete reaction in starvation media (EBSS) with bafilomycin A1. The conditions were differentiated using SILAC labeling, with light, medium, and heavy isotopes for the respective conditions. Mass spectrometry and analysis was performed by the Yale Keck mass spectrometry core.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Fuller, Devin",
+        "affiliation": "Yale University",
+        "orcid": "0000-0002-3049-7914"
+      },
+      {
+        "name": "Melia, Thomas",
+        "affiliation": "Yale University",
+        "orcid": "0000-0002-5798-4624"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Decamilli"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19456909",
+      "recid": 19456909
+    }
+  },
+  "title": "APEX proximity labeling of autophagy protein ATG2A in complete media and starvation",
+  "links": {
+    "self": "https://zenodo.org/api/records/19456909",
+    "html": "https://zenodo.org/records/19456909",
+    "doi": "https://doi.org/10.5281/zenodo.19456909",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19456908",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19456909.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19456908.svg",
+    "files": "https://zenodo.org/api/records/19456909/files",
+    "bucket": "https://zenodo.org/api/files/07718710-6a5a-481c-a9e1-e2c639f0739b",
+    "thumb250": "https://zenodo.org/record/19456909/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19456909/thumb10",
+      "50": "https://zenodo.org/record/19456909/thumb50",
+      "100": "https://zenodo.org/record/19456909/thumb100",
+      "250": "https://zenodo.org/record/19456909/thumb250",
+      "750": "https://zenodo.org/record/19456909/thumb750",
+      "1200": "https://zenodo.org/record/19456909/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19456909",
+    "latest_draft_html": "https://zenodo.org/deposit/19456909",
+    "publish": "https://zenodo.org/api/deposit/depositions/19456909/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19456909/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19456909/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19456909/actions/newversion",
+    "record": "https://zenodo.org/api/records/19456909",
+    "record_html": "https://zenodo.org/record/19456909",
+    "latest": "https://zenodo.org/api/records/19456909/versions/latest",
+    "latest_html": "https://zenodo.org/records/19456909/latest"
+  },
+  "record_id": 19456909,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "ea8e3ec5-4189-4062-bb86-e515f33d8561",
+      "filename": "decamilli-invitro-ms-p-hek293-apex-atg2-silac_README.pdf",
+      "filesize": 5501,
+      "checksum": "a5e1f1690baff96a6aeee0dddf94cb2a",
+      "links": {
+        "self": "https://zenodo.org/api/records/19456909/files/ea8e3ec5-4189-4062-bb86-e515f33d8561",
+        "download": "https://zenodo.org/api/records/19456909/draft/files/decamilli-invitro-ms-p-hek293-apex-atg2-silac_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

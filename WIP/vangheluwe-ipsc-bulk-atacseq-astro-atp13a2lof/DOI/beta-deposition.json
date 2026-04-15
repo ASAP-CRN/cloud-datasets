@@ -1,0 +1,86 @@
+{
+  "created": "2026-03-25T20:42:40.079728+00:00",
+  "modified": "2026-03-25T20:42:40.503760+00:00",
+  "id": 19226013,
+  "conceptrecid": "19226012",
+  "doi": "10.5281/zenodo.19226013",
+  "conceptdoi": "10.5281/zenodo.19226012",
+  "doi_url": "https://doi.org/10.5281/zenodo.19226013",
+  "metadata": {
+    "title": "Chromatin accessibility profiling (ATAC-seq)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306 deficiency models",
+    "doi": "10.5281/zenodo.19226013",
+    "publication_date": "2026-03-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Chromatin accessibility profiling (ATAC-seq)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306 deficiency models\".</p>\n<p><strong>Description:</strong> This dataset contains bulk\u00a0Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq)\u00a0data from human iPSC-derived midbrain astrocytes. The study compares Wild Type (WT) astrocytes and\u00a0ATP13A2 c.1306\u00a0loss-of-function mutants. The objective was to characterize the\u00a0epigenomic landscape\u00a0and changes in genome-wide accessibility driven by the genotype.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Coccia, Elena",
+        "affiliation": "Icahn School of Medicine at Mount Sinai",
+        "orcid": "0000-0002-9849-2423"
+      },
+      {
+        "name": "Blanchard, Joel",
+        "affiliation": "Icahn School of Medicine at Mount Sinai",
+        "orcid": "0000-0003-3142-2970"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Vangheluwe"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19226013",
+      "recid": 19226013
+    }
+  },
+  "title": "Chromatin accessibility profiling (ATAC-seq)\u00a0of human iPSC-derived midbrain astrocytes in\u00a0ATP13A2 c.1306 deficiency models",
+  "links": {
+    "self": "https://zenodo.org/api/records/19226013",
+    "html": "https://zenodo.org/records/19226013",
+    "doi": "https://doi.org/10.5281/zenodo.19226013",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19226012",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19226013.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19226012.svg",
+    "files": "https://zenodo.org/api/records/19226013/files",
+    "bucket": "https://zenodo.org/api/files/4ab93653-b9d2-4dd3-b9cd-068055578f6a",
+    "thumb250": "https://zenodo.org/record/19226013/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19226013/thumb10",
+      "50": "https://zenodo.org/record/19226013/thumb50",
+      "100": "https://zenodo.org/record/19226013/thumb100",
+      "250": "https://zenodo.org/record/19226013/thumb250",
+      "750": "https://zenodo.org/record/19226013/thumb750",
+      "1200": "https://zenodo.org/record/19226013/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19226013",
+    "latest_draft_html": "https://zenodo.org/deposit/19226013",
+    "publish": "https://zenodo.org/api/deposit/depositions/19226013/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19226013/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19226013/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19226013/actions/newversion",
+    "record": "https://zenodo.org/api/records/19226013",
+    "record_html": "https://zenodo.org/record/19226013",
+    "latest": "https://zenodo.org/api/records/19226013/versions/latest",
+    "latest_html": "https://zenodo.org/records/19226013/latest"
+  },
+  "record_id": 19226013,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "1fb3c5b6-e70a-4611-b4bc-071256e609c8",
+      "filename": "vangheluwe-ipsc-bulk-atacseq-astro-atp13a2lof_README.pdf",
+      "filesize": 5777,
+      "checksum": "244db61476e5548f04fc5fc9bc49bb9a",
+      "links": {
+        "self": "https://zenodo.org/api/records/19226013/files/1fb3c5b6-e70a-4611-b4bc-071256e609c8",
+        "download": "https://zenodo.org/api/records/19226013/draft/files/vangheluwe-ipsc-bulk-atacseq-astro-atp13a2lof_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

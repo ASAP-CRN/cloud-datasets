@@ -1,0 +1,86 @@
+{
+  "created": "2026-03-25T20:42:53.950838+00:00",
+  "modified": "2026-03-25T20:42:54.470064+00:00",
+  "id": 19226019,
+  "conceptrecid": "19226018",
+  "doi": "10.5281/zenodo.19226019",
+  "conceptdoi": "10.5281/zenodo.19226018",
+  "doi_url": "https://doi.org/10.5281/zenodo.19226019",
+  "metadata": {
+    "title": "Transcriptomic profiling of human iPSC-derived midbrain astrocytes in ATP13A2 deficiency (c.1306) models",
+    "doi": "10.5281/zenodo.19226019",
+    "publication_date": "2026-03-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Transcriptomic profiling of human iPSC-derived midbrain astrocytes in ATP13A2 deficiency (c.1306) models\".</p>\n<p><strong>Description:</strong> This dataset contains transcriptomic profiling of human iPSC-derived midbrain astrocytes. The study compares Wild Type (WT) astrocytes and\u00a0ATP13A2 c.1306 loss of function\u00a0mutants. The objective was to characterize the transcriptional effects of the genotype, specifically focusing on the induction of\u00a0neuroinflammation\u00a0and markers of\u00a0lysosome\u00a0dysfunction associated with early-onset Parkinson's Disease</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Coccia, Elena",
+        "affiliation": "Icahn School of Medicine at Mount Sinai",
+        "orcid": "0000-0002-9849-2423"
+      },
+      {
+        "name": "Blanchard, Joel",
+        "affiliation": "Icahn School of Medicine at Mount Sinai",
+        "orcid": "0000-0003-3142-2970"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Vangheluwe"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19226019",
+      "recid": 19226019
+    }
+  },
+  "title": "Transcriptomic profiling of human iPSC-derived midbrain astrocytes in ATP13A2 deficiency (c.1306) models",
+  "links": {
+    "self": "https://zenodo.org/api/records/19226019",
+    "html": "https://zenodo.org/records/19226019",
+    "doi": "https://doi.org/10.5281/zenodo.19226019",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19226018",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19226019.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19226018.svg",
+    "files": "https://zenodo.org/api/records/19226019/files",
+    "bucket": "https://zenodo.org/api/files/feb1e3e1-fb70-4d33-8adf-d7f673848ec3",
+    "thumb250": "https://zenodo.org/record/19226019/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19226019/thumb10",
+      "50": "https://zenodo.org/record/19226019/thumb50",
+      "100": "https://zenodo.org/record/19226019/thumb100",
+      "250": "https://zenodo.org/record/19226019/thumb250",
+      "750": "https://zenodo.org/record/19226019/thumb750",
+      "1200": "https://zenodo.org/record/19226019/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19226019",
+    "latest_draft_html": "https://zenodo.org/deposit/19226019",
+    "publish": "https://zenodo.org/api/deposit/depositions/19226019/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19226019/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19226019/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19226019/actions/newversion",
+    "record": "https://zenodo.org/api/records/19226019",
+    "record_html": "https://zenodo.org/record/19226019",
+    "latest": "https://zenodo.org/api/records/19226019/versions/latest",
+    "latest_html": "https://zenodo.org/records/19226019/latest"
+  },
+  "record_id": 19226019,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "834c4474-6fc6-4e5b-b3b0-a477e2bf08e2",
+      "filename": "vangheluwe-ipsc-bulk-rnaseq-astro-atp13a2lof_README.pdf",
+      "filesize": 5751,
+      "checksum": "f986b695c690a6a493b0296d3481c8bc",
+      "links": {
+        "self": "https://zenodo.org/api/records/19226019/files/834c4474-6fc6-4e5b-b3b0-a477e2bf08e2",
+        "download": "https://zenodo.org/api/records/19226019/draft/files/vangheluwe-ipsc-bulk-rnaseq-astro-atp13a2lof_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

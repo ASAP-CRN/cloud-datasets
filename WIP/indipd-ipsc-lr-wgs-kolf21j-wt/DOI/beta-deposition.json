@@ -1,0 +1,149 @@
+{
+  "created": "2026-02-25T21:36:07.335585+00:00",
+  "modified": "2026-02-25T21:36:08.035720+00:00",
+  "id": 18777354,
+  "conceptrecid": "18777353",
+  "doi": "10.5281/zenodo.18777354",
+  "conceptdoi": "10.5281/zenodo.18777353",
+  "doi_url": "https://doi.org/10.5281/zenodo.18777354",
+  "metadata": {
+    "title": "asap-raw-team-indipd-ipsc-lr-wgs-kolf21j-wt",
+    "doi": "10.5281/zenodo.18777354",
+    "publication_date": "2026-02-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"asap-raw-team-indipd-ipsc-lr-wgs-kolf21j-wt\".</p>\n<p><strong>Description:</strong> This dataset includes the diploid assembly (.fa) and annotations (.gff3) for the KOLF2.1J assembly.   Additionally, we also have R9 ultra-long ONT data from iPSC as well as R9 30kb ONT data for iPSC, cortical neurons, NGN2-derived neurons, microglia, and 2 types of astrocytes. All these files have methylation tags on them for epigenetic analyses.   We also have PacBio HiFi IPSC data with methylation tags.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Alvarez Jerez, Pilar",
+        "affiliation": "Global Parkinson's Genetics Program (GP2) Chevy Chase, MD, USA",
+        "orcid": "0000-0002-5812-1898"
+      },
+      {
+        "name": "Rhie, Arang",
+        "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA",
+        "orcid": "0000-0002-9809-8127"
+      },
+      {
+        "name": "Kim, Juhyun",
+        "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA"
+      },
+      {
+        "name": "Hebbar, Prajna",
+        "affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, CA, USA.",
+        "orcid": "0009-0008-9817-5330"
+      },
+      {
+        "name": "Antipov, Dmitry",
+        "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA"
+      },
+      {
+        "name": "Koren, Sergey",
+        "affiliation": "Genome Informatics Section, Center for Genomics and Data Science Research, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA",
+        "orcid": "0000-0002-1472-8962"
+      },
+      {
+        "name": "Lara, Erika",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA"
+      },
+      {
+        "name": "Beilina, Alexandra",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA",
+        "orcid": "0000-0001-6400-1684"
+      },
+      {
+        "name": "Arber, Charlie",
+        "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London"
+      },
+      {
+        "name": "Zulueta, Jimena",
+        "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA"
+      },
+      {
+        "name": "Patel, Dhairya",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+      },
+      {
+        "name": "Billingsley, Kimberley",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA",
+        "orcid": "0000-0002-8003-4029"
+      },
+      {
+        "name": "Grenn, Francis",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+      },
+      {
+        "name": "Fossati, Valentina",
+        "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA",
+        "orcid": "0000-0003-1825-9371"
+      },
+      {
+        "name": "Wray, Selina",
+        "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London",
+        "orcid": "0000-0003-3062-7050"
+      },
+      {
+        "name": "Blauwendraat, Cornelis",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+        "orcid": "0000-0001-9358-8111"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Indipd"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18777354",
+      "recid": 18777354
+    }
+  },
+  "title": "asap-raw-team-indipd-ipsc-lr-wgs-kolf21j-wt",
+  "links": {
+    "self": "https://zenodo.org/api/records/18777354",
+    "html": "https://zenodo.org/records/18777354",
+    "doi": "https://doi.org/10.5281/zenodo.18777354",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18777353",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18777354.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18777353.svg",
+    "files": "https://zenodo.org/api/records/18777354/files",
+    "bucket": "https://zenodo.org/api/files/47b99b68-6d7e-41d3-89ea-b5fc7746eb8f",
+    "thumb250": "https://zenodo.org/record/18777354/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18777354/thumb10",
+      "50": "https://zenodo.org/record/18777354/thumb50",
+      "100": "https://zenodo.org/record/18777354/thumb100",
+      "250": "https://zenodo.org/record/18777354/thumb250",
+      "750": "https://zenodo.org/record/18777354/thumb750",
+      "1200": "https://zenodo.org/record/18777354/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18777354",
+    "latest_draft_html": "https://zenodo.org/deposit/18777354",
+    "publish": "https://zenodo.org/api/deposit/depositions/18777354/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18777354/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18777354/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18777354/actions/newversion",
+    "record": "https://zenodo.org/api/records/18777354",
+    "record_html": "https://zenodo.org/record/18777354",
+    "latest": "https://zenodo.org/api/records/18777354/versions/latest",
+    "latest_html": "https://zenodo.org/records/18777354/latest"
+  },
+  "record_id": 18777354,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "a0e67526-6cab-4b31-b859-8b68507e199f",
+      "filename": "indipd-ipsc-lr-wgs-kolf21j-wt_README.pdf",
+      "filesize": 5366,
+      "checksum": "e8c1f569d9588d50b3b24f0c9d766e51",
+      "links": {
+        "self": "https://zenodo.org/api/records/18777354/files/a0e67526-6cab-4b31-b859-8b68507e199f",
+        "download": "https://zenodo.org/api/records/18777354/draft/files/indipd-ipsc-lr-wgs-kolf21j-wt_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

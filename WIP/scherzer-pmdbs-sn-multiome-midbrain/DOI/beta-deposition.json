@@ -1,0 +1,136 @@
+{
+  "created": "2026-03-12T19:58:40.834323+00:00",
+  "modified": "2026-03-12T19:58:41.248807+00:00",
+  "id": 18989318,
+  "conceptrecid": "18989317",
+  "doi": "10.5281/zenodo.18989318",
+  "conceptdoi": "10.5281/zenodo.18989317",
+  "doi_url": "https://doi.org/10.5281/zenodo.18989318",
+  "metadata": {
+    "title": "PD5D_Midbrain_Multiome_snRNAseq",
+    "doi": "10.5281/zenodo.18989318",
+    "publication_date": "2026-03-12",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_Midbrain_Multiome_snRNAseq\".</p>\n<p><strong>Description:</strong> This dataset contains Multiome single-nucleus (snRNAeq) raw data in FASTQ format for 108 midbrain samples from human subjects. Individuals with incidental Lewy body disease, clinical PD, and healthy control were included.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Teng, Xufei",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9282-4282"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-7437-285X"
+      },
+      {
+        "name": "Sharma, Monika",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-7258-1399"
+      },
+      {
+        "name": "Serrano, Geidy E.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas G.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Weykopf, Beatrice",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-5541-839X"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Scherzer, Clemens R.",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-0567-9193"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18989318",
+      "recid": 18989318
+    }
+  },
+  "title": "PD5D_Midbrain_Multiome_snRNAseq",
+  "links": {
+    "self": "https://zenodo.org/api/records/18989318",
+    "html": "https://zenodo.org/records/18989318",
+    "doi": "https://doi.org/10.5281/zenodo.18989318",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18989317",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18989318.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18989317.svg",
+    "files": "https://zenodo.org/api/records/18989318/files",
+    "bucket": "https://zenodo.org/api/files/a020957a-1b00-4b34-9d3f-4a23291eb705",
+    "thumb250": "https://zenodo.org/record/18989318/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18989318/thumb10",
+      "50": "https://zenodo.org/record/18989318/thumb50",
+      "100": "https://zenodo.org/record/18989318/thumb100",
+      "250": "https://zenodo.org/record/18989318/thumb250",
+      "750": "https://zenodo.org/record/18989318/thumb750",
+      "1200": "https://zenodo.org/record/18989318/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18989318",
+    "latest_draft_html": "https://zenodo.org/deposit/18989318",
+    "publish": "https://zenodo.org/api/deposit/depositions/18989318/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18989318/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18989318/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18989318/actions/newversion",
+    "record": "https://zenodo.org/api/records/18989318",
+    "record_html": "https://zenodo.org/record/18989318",
+    "latest": "https://zenodo.org/api/records/18989318/versions/latest",
+    "latest_html": "https://zenodo.org/records/18989318/latest"
+  },
+  "record_id": 18989318,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f414ea29-138a-4f50-beaf-cb016f19618b",
+      "filename": "scherzer-pmdbs-sn-multiome-midbrain_README.pdf",
+      "filesize": 5785,
+      "checksum": "faa4033166cad6ddb294acc83716a7b6",
+      "links": {
+        "self": "https://zenodo.org/api/records/18989318/files/f414ea29-138a-4f50-beaf-cb016f19618b",
+        "download": "https://zenodo.org/api/records/18989318/draft/files/scherzer-pmdbs-sn-multiome-midbrain_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

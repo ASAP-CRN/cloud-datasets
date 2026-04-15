@@ -1,0 +1,230 @@
+{
+  "created": "2026-01-23T18:05:11.977969+00:00",
+  "modified": "2026-01-23T18:05:12.843223+00:00",
+  "id": 18353681,
+  "conceptrecid": "18353680",
+  "doi": "10.5281/zenodo.18353681",
+  "conceptdoi": "10.5281/zenodo.18353680",
+  "doi_url": "https://doi.org/10.5281/zenodo.18353681",
+  "metadata": {
+    "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
+    "doi": "10.5281/zenodo.18353681",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls\".</p>\n<p><strong>Description:</strong> The microbial species abundance table: list of microbial species detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial species catalogues. The species are listed as msp_ID, which corresponds to metagenomic species pangenomes (MSPs), which is a collection of known or still unknown species reconstructed from human gut metagenomic assemblies. The MSPs are annotated at all taxonomical level using the Genome Taxonomy Database GDTB R07-RS207 database, up until the lowest known taxonomical rank. The microbial functional abundance table: list of microbial functions detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial gene catalogues and annotated with KEGG, eggNOG and TIGRFAM databases. These databases are used to infer the presence, abundance and completeness of functional modules (Gut-Brain modules, Gut-Metabolic modules and KEGG modules) in each metagenomic samples.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Menozzi, Elisa",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0003-3565-7910"
+      },
+      {
+        "name": "Meslier, Victoria",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 &  Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas,France",
+        "orcid": "0000-0003-2699-0092"
+      },
+      {
+        "name": "Ren, Yani",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0009-0009-3426-2897"
+      },
+      {
+        "name": "Geiger, Mallia",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0009-0005-4430-7914"
+      },
+      {
+        "name": "Macnaughtan, Jane",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Liver Failure Group, Institute for Liver and Digestive Health, University College London, London WC1E 6BT, UK",
+        "orcid": "0000-0003-1211-9298"
+      },
+      {
+        "name": "Avenali, Micol",
+        "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+        "orcid": "0000-0002-7880-9921"
+      },
+      {
+        "name": "Gilles, Marine",
+        "affiliation": "Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0009-0003-6650-7824"
+      },
+      {
+        "name": "Calabrese, Rosaria",
+        "affiliation": "IRCCS Mondino Foundation, Pavia, Italy",
+        "orcid": "0009-0008-6632-4653"
+      },
+      {
+        "name": "Mitrotti, Pierfrancesco",
+        "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+        "orcid": "0000-0003-3574-1290"
+      },
+      {
+        "name": "Gallo, Luca",
+        "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+        "orcid": "0009-0007-3693-0380"
+      },
+      {
+        "name": "Famechon, Alexandre",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0009-0009-6298-3755"
+      },
+      {
+        "name": "Lucas Del Pozo, Sara",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0002-5431-8204"
+      },
+      {
+        "name": "Mezabrovschi, Roxana",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0001-8580-0629"
+      },
+      {
+        "name": "Koletsi, Sofia",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0002-6661-7797"
+      },
+      {
+        "name": "Loefflad, Nadine",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0002-9940-7753"
+      },
+      {
+        "name": "Yalkic, Selen",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0002-9811-6612"
+      },
+      {
+        "name": "Limbachiya, Naomi",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815"
+      },
+      {
+        "name": "Blotti\u00e8re, Herv\u00e9",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &\nNantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
+        "orcid": "0000-0002-8390-0607"
+      },
+      {
+        "name": "Morabito, Christian",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0002-3193-7299"
+      },
+      {
+        "name": "David, Aymeric",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0002-4951-0058"
+      },
+      {
+        "name": "Quinquis, Benoit",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0002-7573-969X"
+      },
+      {
+        "name": "Pons, Nicolas",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0003-1926-8077"
+      },
+      {
+        "name": "Valzania, Franco",
+        "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+        "orcid": "0000-0003-4887-1692"
+      },
+      {
+        "name": "Cavallieri, Francesco",
+        "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+        "orcid": "0000-0001-5836-1982"
+      },
+      {
+        "name": "Fioravanti, Valentina",
+        "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+        "orcid": "0000-0003-2741-0512"
+      },
+      {
+        "name": "Toschi, Giulia",
+        "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+        "orcid": "0009-0003-1987-0495"
+      },
+      {
+        "name": "Blandini, Fabio",
+        "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Ca' Granda Foundation, Ospedale Maggiore Policlinico, Milan, Italy",
+        "orcid": "0000-0002-0178-1289"
+      },
+      {
+        "name": "Ehrlich, Stanislav Dusko",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0002-7563-4046"
+      },
+      {
+        "name": "Almeida, Mathieu",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+        "orcid": "0000-0003-4971-0049"
+      },
+      {
+        "name": "Schapira, Anthony HV",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "orcid": "0000-0002-3018-3966"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Schapira"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000420"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18353681",
+      "recid": 18353681
+    }
+  },
+  "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
+  "links": {
+    "self": "https://zenodo.org/api/records/18353681",
+    "html": "https://zenodo.org/records/18353681",
+    "doi": "https://doi.org/10.5281/zenodo.18353681",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18353680",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18353681.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18353680.svg",
+    "files": "https://zenodo.org/api/records/18353681/files",
+    "bucket": "https://zenodo.org/api/files/d31fece3-9e3f-4dca-88d5-293432ea451f",
+    "thumb250": "https://zenodo.org/record/18353681/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18353681/thumb10",
+      "50": "https://zenodo.org/record/18353681/thumb50",
+      "100": "https://zenodo.org/record/18353681/thumb100",
+      "250": "https://zenodo.org/record/18353681/thumb250",
+      "750": "https://zenodo.org/record/18353681/thumb750",
+      "1200": "https://zenodo.org/record/18353681/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18353681",
+    "latest_draft_html": "https://zenodo.org/deposit/18353681",
+    "publish": "https://zenodo.org/api/deposit/depositions/18353681/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18353681/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18353681/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18353681/actions/newversion",
+    "record": "https://zenodo.org/api/records/18353681",
+    "record_html": "https://zenodo.org/record/18353681",
+    "latest": "https://zenodo.org/api/records/18353681/versions/latest",
+    "latest_html": "https://zenodo.org/records/18353681/latest"
+  },
+  "record_id": 18353681,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "69dd6cdc-955e-4ce8-ae70-acdd178c85be",
+      "filename": "schapira-fecal-metagenome-human-baseline_README.pdf",
+      "filesize": 8317,
+      "checksum": "ba9a87f0161407b16a4b97be1ee250d1",
+      "links": {
+        "self": "https://zenodo.org/api/records/18353681/files/69dd6cdc-955e-4ce8-ae70-acdd178c85be",
+        "download": "https://zenodo.org/api/records/18353681/draft/files/schapira-fecal-metagenome-human-baseline_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

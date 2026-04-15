@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "title": "team-indipd-ipsc-bulk-rnaseq-kolf21j-wt",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"team-indipd-ipsc-bulk-rnaseq-kolf21j-wt\".</p>\n<p><strong>Description:</strong> This dataset includes whole transcriptome RNA data from three different technologies, Illumina, ONT, and PacBio.   We have Illumina RNA data for iPSC and cortical neuron, PacBio RNA for microglia, and ONT RNA for seven cell types: iPSC, cortical neuron, NGN2-derived neuron, microglia, astrocytes x2, and oligodendrocytes. The illumina and PacBio data was generated at Psomagen while the ONT data was generated at the Center for Alzheimer's and Related Dementias within NIH.   PacBio RNA data is Kinnex while ONT data is the R9 chemistry.   Average data output per technology includes: Illumina ~18Gb at 150bp, PacBio 134 gb at 1.81 kb, and ONT 16-87Gb at ~1.3kb.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2026-02-25",
+        "version": "1.0.0",
+        "creators": [
+            {
+                "name": "Alvarez Jerez, Pilar",
+                "affiliation": "Global Parkinson's Genetics Program (GP2) Chevy Chase, MD, USA",
+                "orcid": "0000-0002-5812-1898"
+            },
+            {
+                "name": "Lara, Erika",
+                "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA"
+            },
+            {
+                "name": "Beilina, Alexandra",
+                "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA",
+                "orcid": "0000-0001-6400-1684"
+            },
+            {
+                "name": "Arber, Charlie",
+                "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London"
+            },
+            {
+                "name": "Zulueta, Jimena",
+                "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA"
+            },
+            {
+                "name": "Patel, Dhairya",
+                "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+            },
+            {
+                "name": "Fossati, Valentina",
+                "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA",
+                "orcid": "0000-0003-1825-9371"
+            },
+            {
+                "name": "Wray, Selina",
+                "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London",
+                "orcid": "0000-0003-3062-7050"
+            },
+            {
+                "name": "Blauwendraat, Cornelis",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+                "orcid": "0000-0001-9358-8111"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Indipd"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::NA"
+            }
+        ]
+    }
+}

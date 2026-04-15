@@ -1,0 +1,106 @@
+{
+    "project_name": "Parkinson5D: deconstructing proximal disease mechanisms across cells, space, and progression",
+    "project_description": "Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D), brain space (3D), and disease stage (1D). We will reveal how genetic variants modulate transcription in specific cells in specific topographic locations of midbrain and cortex during the progression of neuropathology from healthy brains to prodromal to symptomatic disease. This research will for the first time integrate whole genome sequencing, single-nucleus transcriptomics, and high-resolution spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in model systems.",
+    "dataset_title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+    "dataset_description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.",
+    "creators": [
+        {
+            "name": "Kim, Kwanho",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0002-4448-3193"
+        },
+        {
+            "name": "Lin, Zechuan",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA,& APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+            "orcid": "0000-0003-2270-5194"
+        },
+        {
+            "name": "Simmons, Sean",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0002-1537-4000"
+        },
+        {
+            "name": "Parker, Jacob",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+            "orcid": "0000-0001-9425-6418"
+        },
+        {
+            "name": "Kearney, Matthew",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA",
+            "orcid": "0009-0005-2106-7401"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Precision Neurology Program of Brigham & Women\u2019s Hospital, Harvard Medical School, Boston, MA  02115, USA",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Haywood, Nathan",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0003-2213-5080"
+        },
+        {
+            "name": "Zhang, Jixiang",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0002-1641-8650"
+        },
+        {
+            "name": "Cline, Madison",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+            "orcid": "0000-0001-9672-7738"
+        },
+        {
+            "name": "Tuncali, Idil",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Precision Neurology Program of Brigham & Women\u2019s Hospital, Harvard Medical School, Boston, MA  02115, USA",
+            "orcid": "0000-0001-7437-285X"
+        },
+        {
+            "name": "Sharma, Monika",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA",
+            "orcid": "0000-0002-7258-1399"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Dong, Xianjun",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neuroscience, Yale, New Haven, CT  06510, USA",
+            "orcid": "0000-0002-8052-9320"
+        },
+        {
+            "name": "Popic, Victoria",
+            "affiliation": "Broad Clinical Labs, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0003-3181-5432"
+        },
+        {
+            "name": "Scherzer, Clemens",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Levin, Joshua",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+            "orcid": "0000-0002-0170-3598"
+        }
+    ],
+    "publication_date": "2026-03-19",
+    "version": "0.1",
+    "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+    "ASAP_lab_name": "Scherzer and Levin",
+    "PI_full_name": "Dr. Joshua Levin",
+    "PI_email": "jlevin@broadinstitute.org",
+    "submitter_name": "Kwanho Kim",
+    "submitter_email": "kwanho@broadinstitute.org",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000301"
+    ],
+    "team_name": "Scherzer"
+}

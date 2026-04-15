@@ -1,0 +1,47 @@
+{
+    "project_name": "Role of enteroendocrine cells in the origin of Parkinson's pathology",
+    "project_description": "The gastrointestinal tract has been implicated in the origins of PD through the formation and spread of pathological alpha-synuclein. Moreover, environmental toxins, alterations in the gut microbiome, and gut inflammation contribute to the risk and progression of PD. We propose the targeted study of a novel circuit that connects microbes and immune regulators with enteroendocrine cells, sensory cells of the gut. In this circuit under investigation, enteroendocrine cells are predicted as the origin of toxin- and microbe-stimulated pathological alpha-synuclein that spreads to the vagus and beyond. This project investigates the gut-barrier in Parkinson's disease in the body-first hypothesis of PD that our team has focused on in the context of the enteroendocrine cell-enteric nervous system circuit.",
+    "dataset_title": "Bolen Human Sigmoid Colon Protein CosMx Dataset",
+    "dataset_description": "NanoString CosMxTM human sigmoid colon protein 64-plex dataset exported from Atomx for downstream analysis spatially resolves up to 64 proteins (CMx Hs IO Panel Protein Kit: CAT# 121500010). We picked two 0.5mm fields of view (FOV) per sample.",
+    "creators": [
+        {
+            "name": "Bolen, MacKenzie L.",
+            "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+            "orcid": "0000-0003-1973-3784"
+        },
+        {
+            "name": "Buendia, Marc",
+            "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain\nAugust Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;\n7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        },
+        {
+            "name": "Shi, Ji",
+            "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        },
+        {
+            "name": "Salas, Azucena",
+            "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain"
+        },
+        {
+            "name": "Thompson, E. Aubrey",
+            "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        },
+        {
+            "name": "Tansey, Mal\u00fa G.",
+            "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+            "orcid": "0000-0002-1719-4708"
+        }
+    ],
+    "publication_date": "2025-12-12",
+    "version": "1.0",
+    "title": "Bolen Human Sigmoid Colon Protein CosMx Dataset",
+    "ASAP_lab_name": "NA",
+    "PI_full_name": "NA",
+    "PI_email": "NA",
+    "submitter_name": "Bolen, MacKenzie L",
+    "submitter_email": "mbolen@stanford.edu",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-020527"
+    ],
+    "team_name": "Liddle"
+}

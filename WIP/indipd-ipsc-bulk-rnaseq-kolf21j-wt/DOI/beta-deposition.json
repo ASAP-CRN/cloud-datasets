@@ -1,0 +1,117 @@
+{
+  "created": "2026-02-25T21:27:40.102960+00:00",
+  "modified": "2026-02-25T21:27:47.731709+00:00",
+  "id": 18777224,
+  "conceptrecid": "18777223",
+  "doi": "10.5281/zenodo.18777224",
+  "conceptdoi": "10.5281/zenodo.18777223",
+  "doi_url": "https://doi.org/10.5281/zenodo.18777224",
+  "metadata": {
+    "title": "team-indipd-ipsc-bulk-rnaseq-kolf21j-wt",
+    "doi": "10.5281/zenodo.18777224",
+    "publication_date": "2026-02-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"team-indipd-ipsc-bulk-rnaseq-kolf21j-wt\".</p>\n<p><strong>Description:</strong> This dataset includes whole transcriptome RNA data from three different technologies, Illumina, ONT, and PacBio.   We have Illumina RNA data for iPSC and cortical neuron, PacBio RNA for microglia, and ONT RNA for seven cell types: iPSC, cortical neuron, NGN2-derived neuron, microglia, astrocytes x2, and oligodendrocytes. The illumina and PacBio data was generated at Psomagen while the ONT data was generated at the Center for Alzheimer's and Related Dementias within NIH.   PacBio RNA data is Kinnex while ONT data is the R9 chemistry.   Average data output per technology includes: Illumina ~18Gb at 150bp, PacBio 134 gb at 1.81 kb, and ONT 16-87Gb at ~1.3kb.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Alvarez Jerez, Pilar",
+        "affiliation": "Global Parkinson's Genetics Program (GP2) Chevy Chase, MD, USA",
+        "orcid": "0000-0002-5812-1898"
+      },
+      {
+        "name": "Lara, Erika",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA"
+      },
+      {
+        "name": "Beilina, Alexandra",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA",
+        "orcid": "0000-0001-6400-1684"
+      },
+      {
+        "name": "Arber, Charlie",
+        "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London"
+      },
+      {
+        "name": "Zulueta, Jimena",
+        "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA"
+      },
+      {
+        "name": "Patel, Dhairya",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, Bethesda, Maryland, USA"
+      },
+      {
+        "name": "Fossati, Valentina",
+        "affiliation": "The New York Stem Cell Foundation Research Institute, New York City, NY, USA",
+        "orcid": "0000-0003-1825-9371"
+      },
+      {
+        "name": "Wray, Selina",
+        "affiliation": "Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, UCL, London",
+        "orcid": "0000-0003-3062-7050"
+      },
+      {
+        "name": "Blauwendraat, Cornelis",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+        "orcid": "0000-0001-9358-8111"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Indipd"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18777224",
+      "recid": 18777224
+    }
+  },
+  "title": "team-indipd-ipsc-bulk-rnaseq-kolf21j-wt",
+  "links": {
+    "self": "https://zenodo.org/api/records/18777224",
+    "html": "https://zenodo.org/records/18777224",
+    "doi": "https://doi.org/10.5281/zenodo.18777224",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18777223",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18777224.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18777223.svg",
+    "files": "https://zenodo.org/api/records/18777224/files",
+    "bucket": "https://zenodo.org/api/files/9d09dd8b-954c-48f7-b613-f75a3acfed17",
+    "thumb250": "https://zenodo.org/record/18777224/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18777224/thumb10",
+      "50": "https://zenodo.org/record/18777224/thumb50",
+      "100": "https://zenodo.org/record/18777224/thumb100",
+      "250": "https://zenodo.org/record/18777224/thumb250",
+      "750": "https://zenodo.org/record/18777224/thumb750",
+      "1200": "https://zenodo.org/record/18777224/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18777224",
+    "latest_draft_html": "https://zenodo.org/deposit/18777224",
+    "publish": "https://zenodo.org/api/deposit/depositions/18777224/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18777224/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18777224/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18777224/actions/newversion",
+    "record": "https://zenodo.org/api/records/18777224",
+    "record_html": "https://zenodo.org/record/18777224",
+    "latest": "https://zenodo.org/api/records/18777224/versions/latest",
+    "latest_html": "https://zenodo.org/records/18777224/latest"
+  },
+  "record_id": 18777224,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "eda0b23e-af6d-488a-b393-539266142ac8",
+      "filename": "indipd-ipsc-bulk-rnaseq-kolf21j-wt_README.pdf",
+      "filesize": 5038,
+      "checksum": "95da1d73b28b2c808ea76693464ceea3",
+      "links": {
+        "self": "https://zenodo.org/api/records/18777224/files/eda0b23e-af6d-488a-b393-539266142ac8",
+        "download": "https://zenodo.org/api/records/18777224/draft/files/indipd-ipsc-bulk-rnaseq-kolf21j-wt_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
