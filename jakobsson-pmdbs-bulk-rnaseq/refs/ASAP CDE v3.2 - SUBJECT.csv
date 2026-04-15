@@ -1,0 +1,21 @@
+subject_id;source_subject_id;biobank_name;sex;age_at_collection;race;gp2_phenotype;primary_diagnosis;primary_diagnosis_text;PMI;Braak stage;Hypoxia
+NP16-00119;NP16-00119;Cambridge Brain Bank ;M;74;White;Control;;;74;0;
+NP16-00284;NP16-00284;Cambridge Brain Bank ;F;70;Not reported;Control;;;32;0;
+NP16-00285;NP16-00285;Cambridge Brain Bank ;M;87;White;PD;;;68;4;
+NP16-00293;NP16-00293;Cambridge Brain Bank ;F;75;White;Control;;;92;0;
+NP17-00020;NP17-00020;Cambridge Brain Bank ;M;87;White;Control;;;49;0;
+NP17-00216;NP17-00216;Cambridge Brain Bank ;F;77;Not reported;Control;;;59;0;
+NP17-00232;NP17-00232;Cambridge Brain Bank ;F;71;White;PD;;;54;3;
+NP18-00046;NP18-00046;Cambridge Brain Bank ;F;86;Not reported;Control;;;67;0;
+NP18-00148;NP18-00148;Cambridge Brain Bank ;F;88;Not reported;Control;;;28;0;
+NP19-00091;NP19-00091;Cambridge Brain Bank ;F;82;White;PD;;;67;4;
+NP19-00137;NP19-00137;Cambridge Brain Bank ;M;76;Not reported;PD;;;59;4;
+NP19-00218;NP19-00218;Cambridge Brain Bank ;M;88;Not reported;Control;;;18;0;
+NP21-00004;NP21-00004;Cambridge Brain Bank ;M;74;White;PD;;;48;6;
+NP21-00057;NP21-00057;Cambridge Brain Bank ;F;82;White;PD;;;28;4;
+NP21-00208;NP21-00208;Cambridge Brain Bank ;M;81;White;PD;;;87;6;
+NP21-00217;NP21-00217;Cambridge Brain Bank ;F;84;White;PD;;;43;6;
+NP22-00037;NP22-00037;Cambridge Brain Bank ;M;90;White;Control;;;56;0;
+NP22-00055;NP22-00055;Cambridge Brain Bank ;F;75;White;PD;;;59;6;
+NP22-00075;NP22-00075;Cambridge Brain Bank ;M;74;White;Control;;;115;0;hypoxic
+NP23-00021;NP23-00021;Cambridge Brain Bank ;M;70;White;PD;;;114;5;

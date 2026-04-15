@@ -1,0 +1,5 @@
+All required fields are present in *ASAP CDE v3* table.
+No empty entries (NULL) found .
+No invalid entries found in Enum fields.
+🚨⚠️❗ **Extra field in ASAP CDE v3: subject_id;source_subject_id;duration_pmi;age_at_death;AMPPD_id;GP2_id;ethnicity;family_history;last_diagnosis;age_at_onset;age_at_diagnosis;first_motor_symptom;hx_dementia_mci;hx_melanoma;education_level;smoking_status;smoking_years;APOE_e4_status;cognitive_status;time_from_baseline;path_autopsy_dx_main;path_autopsy_second_dx;path_autopsy_third_dx;path_autopsy_fourth_dx;path_autopsy_fifth_dx;path_autopsy_sixth_dx;path_autopsy_seventh_dx;path_autopsy_eight_dx;path_year_death;cause_death;other_cause_death_1;other_cause_death_2;brain_weight;path_braak_nft;path_braak_asyn;path_cerad;path_thal;known_pathogenic_mutation;PD_pathogenic_mutation;path_mckeith;sn_neuronal_loss;path_infarcs;path_nia_ri;path_nia_aa_a;path_nia_aa_b;path_nia_aa_c;TDP43;arteriolosclerosis_severity_scale;amyloid_angiopathy_severity_scale;path_ad_level;dig_slide_avail;quant_path_avail**
+------------------------------------------------------------

@@ -1,0 +1,38 @@
+{
+  "name": "scherzer-pmdbs-genetics",
+  "title": "team-scherzer-pmdbs-genetics",
+  "description": "pmdbs-genetics dataset from team-scherzer",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-scherzer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-genetics",
+    "other-pmdbs",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-genetics",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-genetics",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-genetics",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-genetics"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice\".</p>\n<p><strong>Description:</strong> We performed single-nucleus transcriptomic analysis of the dorsal striatum from 5 wild-type and 5 G2019S LRRK2 mutant mice. This dataset contains the raw fastqs files (grouped together by indexes) from mouse dorsal striatum, sorted by 10 samples (S1 to S10), with files separated by read 1 (R1), read 2 (R2), index reads (I1 and I2), and which lane they were in on the S4 flow cell (L1 to L4). These files are created by bcl2fastq of Cell Ranger; the sequences in those files were used for the alignments.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-09-18",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Khan, Shahzad",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0003-3962-0226"
+            },
+            {
+                "name": "Lin, Yu-En",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0002-5848-5405"
+            },
+            {
+                "name": "Pfeffer, Suzanne",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0002-6462-984X"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Alessi"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000463"
+            }
+        ]
+    }
+}

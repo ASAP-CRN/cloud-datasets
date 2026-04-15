@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "title": "Single Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology\".</p>\n<p><strong>Description:</strong> This dataset was created with the goal of identifying transcriptomic changes associated with alpha-synuclein pathology in the alpha-synuclein fibril seeding mouse model. The dataset includes single cell RNA Sequencing data from motor cortex of mice injected with alpha-synuclein pre-formed fibrils (\u201cPFF\u201d group) or alpha-synuclein monomer as controls (\u201cControl\u201d group). The dataset includes subject cohorts with different levels of the following additional experimental factors: sex (male or female); brain hemisphere relative to the PFF injection site (ipsilateral or contralateral); time post-injection (1, 3, 6, or 9 months post-injection).</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-05-08",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Feketa, Viktor",
+                "affiliation": "Yale University",
+                "orcid": "0000-0003-4978-0581"
+            },
+            {
+                "name": "Gracheva, Elena",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-0846-3427"
+            },
+            {
+                "name": "Henderson, Michael",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-9710-0726"
+            },
+            {
+                "name": "Breton, Elizabeth",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-9968-1878"
+            },
+            {
+                "name": "Meyerdirk, Lindsay",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-4640-9517"
+            },
+            {
+                "name": "Volpicelli-Daley, Laura",
+                "affiliation": "University of Alabama at Birmingham",
+                "orcid": "0000-0001-8934-4018"
+            },
+            {
+                "name": "Menard, Marissa",
+                "affiliation": "University of Alabama at Birmingham",
+                "orcid": "0000-0002-0976-3448"
+            },
+            {
+                "name": "Biederer, Thomas",
+                "affiliation": "Yale University",
+                "orcid": "0000-0003-0912-1514"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Biederer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-020616"
+            }
+        ]
+    }
+}

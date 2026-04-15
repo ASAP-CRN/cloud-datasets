@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains\".</p>\n<p><strong>Description:</strong> To identify and characterize selectively vulnerable brain cell populations in Parkinson\u2019s disease (PD), we performed single nucleus transcriptomics and unbiased proteomics to profile the prefrontal cortex from postmortem human brains of six individuals with late-stage PD and six age-matched controls. Analysis of nearly 80,000 nuclei led to the identification of eight major brain cell types, including elevated brain-resident T cells in PD, each with distinct transcriptional changes in agreement with the known genetics of PD. By analyzing Lewy body pathology in the same postmortem brain tissues, we found that \u03b1-synuclein pathology was inversely correlated with chaperone expression in excitatory neurons. Examining cell-cell interactions, we found a selective abatement of neuron-astrocyte interactions and enhanced neuroinflammation. Proteomic analyses of the same brains identified synaptic proteins in the prefrontal cortex that were preferentially downregulated in PD. By comparing this single cell PD dataset with a published analysis of similar brain regions in Alzheimer\u2019s disease (AD), we found no common differentially expressed genes in neurons but identified many shared differentially expressed genes in glial cells, suggesting that the disease etiologies, especially in the context of neuronal vulnerability, in PD and AD are likely distinct. To prepare these samples, nuclei were isolated from post-mortem, fresh-frozen human brain tissue. Approximately 50 to 100 mg of frozen tissue was homogenized in 15 ml of ice-cold nuclei homogenization buffer [2 M sucrose, 10 mM HEPES (pH 7.9), 25 mM KCl, 1 mM EDTA (pH 8.0), 10% glycerol, with freshly added RNase inhibitors (80 U/ml)] using a Dounce tissue grinder (10 strokes with the loose pestle, followed by 10 strokes with the tight pestle). The homogenate was layered over 10 ml of fresh homogenization buffer in an ultracentrifuge tube and centrifuged at 25,000 rpm for 60 minutes at 4\u00b0C. After ultracentrifugation, the supernatant was discarded, and the nuclei pellet was resuspended in 1 ml of nuclei resuspension buffer [15 mM HEPES (pH 7.4), 15 mM NaCl, 60 mM KCl, 2 mM MgCl\u2082, 3 mM CaCl\u2082, with freshly added RNase inhibitors (80 U/ml)] and counted using a hemocytometer prior to loading for 10x Genomics platform.  The snRNA-seq libraries were prepared by the 10x Genomics Chromium Single Cell 3' Reagent Kit v3 chemistry according to the manufacturer's instructions and sequenced using Illumina NovaSeq6000 S4 sequencer. A custom pre-mRNA human genome reference was generated with GRCh38 (Ensembl 93) that included pre-mRNA sequences by 10x Cell Ranger. snRNA-seq data were aligned to this GRCh38 pre-mRNA human genome reference (Ensembl 93) to map both unspliced pre-mRNA and mature mRNA using 10x CellRanger version 3.1.0.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2023-09-28",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Zhang, Le",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-4860-831X"
+            },
+            {
+                "name": "Sreeganga, Chandra",
+                "affiliation": "Yale University",
+                "orcid": "0000-0001-9035-1733"
+            },
+            {
+                "name": "Biqing, Zhu",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-7428-6297"
+            },
+            {
+                "name": "Jae Min, Park",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-9770-7197"
+            },
+            {
+                "name": "Anthony, Russo",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-0623-6618"
+            },
+            {
+                "name": "Haowei, Wang",
+                "affiliation": "Yale University"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Hafler"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000529"
+            }
+        ]
+    }
+}

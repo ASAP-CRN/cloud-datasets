@@ -1,0 +1,46 @@
+{
+  "name": "cohort-pmdbs-sc-rnaseq",
+  "title": "asap-cohort-pmdbs-sc-rnaseq",
+  "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
+  "version": "v3.1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "asap-cohort",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "cohort"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-cohort-pmdbs-sc-rnaseq",
+    "dev": "gs://asap-dev-cohort-pmdbs-sc-rnaseq",
+    "uat": "gs://asap-uat-cohort-pmdbs-sc-rnaseq",
+    "prod": "gs://asap-curated-cohort-pmdbs-sc-rnaseq"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "date": null
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "date": null
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

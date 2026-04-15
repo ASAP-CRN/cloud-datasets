@@ -1,0 +1,62 @@
+{
+  "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+  "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+  "description": "pmdbs-other dataset from team-scherzer",
+  "version": "v1.1",
+  "doi": "10.5281/zenodo.16885839",
+  "creators": [
+    {
+      "name": "team-scherzer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-other",
+    "other-pmdbs",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.1"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.1"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.1"
+    }
+  }
+}

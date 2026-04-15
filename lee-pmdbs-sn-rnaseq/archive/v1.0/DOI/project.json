@@ -1,0 +1,60 @@
+{
+    "project_name": "Is senescence a component of human PD and does experimental senescence lead to alterations in PD-related gene expression?",
+    "project_description": "Characterize the neuropathological progression of PD with single-cell resolution, and determine the levels of senescence, as captured by a transcriptome signature.",
+    "dataset_title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "dataset_description": "Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substantia nigra samples of human PD and control postmortem brains. All three brain regions were co-sampled from each donor to enable direct comparison of transcriptomic signatures across anatomically and functionally distinct regions within the same brain.",
+    "creators": [
+        {
+            "name": "Marshall, Lee L.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-9884-4636"
+        },
+        {
+            "name": "Paquette, Kimberly E.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-3989-4614"
+        },
+        {
+            "name": "DenHaan, Kaitlyn E.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-7804-6661"
+        },
+        {
+            "name": "Lopes, Ellison",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-1661-6304"
+        },
+        {
+            "name": "Pyman, Andrew D.",
+            "affiliation": "Van Andel Institute"
+        },
+        {
+            "name": "Kun-Rodrigues, Celia",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-4528-0061"
+        },
+        {
+            "name": "Guerreiro, Rita",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-5879-3486"
+        },
+        {
+            "name": "Bras, Jose",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-8186-0333"
+        }
+    ],
+    "publication_date": "2023-09-28",
+    "version": "1.0",
+    "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "ASAP_lab_name": "Bras",
+    "PI_full_name": "Jose, Bras",
+    "PI_email": "jose.bras@vai.org",
+    "submitter_name": "Kaitlyn E Westra",
+    "submitter_email": "NA",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000592"
+    ],
+    "team_name": "Lee"
+}

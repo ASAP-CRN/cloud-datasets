@@ -1,0 +1,36 @@
+{
+    "project_name": "Consequence of LRRK2 mutation in mouse dorsal striatum by single nucleus RNA sequencing",
+    "project_description": "We employed single-nucleus RNA sequencing of the dorsal striatum from wild-type and G2019S LRRK2 mutant mice to elucidate the dysregulation of Hedgehog-related pathways in PD.",
+    "dataset_title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+    "dataset_description": "We performed single-nucleus transcriptomic analysis of the dorsal striatum from 5 wild-type and 5 G2019S LRRK2 mutant mice. This dataset contains the raw fastqs files (grouped together by indexes) from mouse dorsal striatum, sorted by 10 samples (S1 to S10), with files separated by read 1 (R1), read 2 (R2), index reads (I1 and I2), and which lane they were in on the S4 flow cell (L1 to L4). These files are created by bcl2fastq of Cell Ranger; the sequences in those files were used for the alignments.",
+    "creators": [
+        {
+            "name": "Khan, Shahzad",
+            "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+            "orcid": "0000-0003-3962-0226"
+        },
+        {
+            "name": "Lin, Yu-En",
+            "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+            "orcid": "0000-0002-5848-5405"
+        },
+        {
+            "name": "Pfeffer, Suzanne",
+            "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+            "orcid": "0000-0002-6462-984X"
+        }
+    ],
+    "publication_date": "2025-09-18",
+    "version": "1.0",
+    "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+    "ASAP_lab_name": "Pfeffer lab",
+    "PI_full_name": "Suzanne Pfeffer",
+    "PI_email": "pfeffer@stanford.edu",
+    "submitter_name": "Yu-En Lin",
+    "submitter_email": "yuenlin@stanford.edu",
+    "publication_DOI": "10.1073/pnas.2402206121",
+    "grant_ids": [
+        "ASAP-000463"
+    ],
+    "team_name": "Alessi"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
+  "title": "team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+  "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.17149266",
+  "creators": [
+    {
+      "name": "team-jakobsson",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "invitro-bulk-rnaseq",
+    "invitro",
+    "jakobsson"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+    "dev": "gs://asap-dev-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+    "uat": "gs://asap-uat-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+    "prod": "gs://asap-curated-team-jakobsson-invitro-bulk-rnaseq-dopaminergic"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.2": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

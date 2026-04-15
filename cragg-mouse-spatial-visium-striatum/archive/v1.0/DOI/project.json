@@ -1,0 +1,81 @@
+{
+    "project_name": "Investigating Gene Expression in the Striatum of Early Models of PD with snRNA seq and Spatial Transcriptomics",
+    "project_description": "As part of the ASAP Collaborative Research Network (CRN), our research program aims to uncover the cellular and molecular mechanisms underlying Parkinson\u2019s disease (PD) progression by integrating high-resolution transcriptomic and spatial data across mouse models. The overarching goal is to define convergent and divergent pathways across disease stages, brain regions, and etiologies, and to map how cellular composition and gene expression landscapes are altered in PD.",
+    "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
+    "dataset_description": "This dataset includes Spatial Transcriptomics (ST) data derived from mouse models of Parkinson\u2019s disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology. The Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls. Spatial gene expression profiling was conducted on the striata of mice from the mild 6-OHDA model to preserve anatomical context. Tissue sections were collected from six adult mice \u2014 three 6-OHDA-treated and three untreated controls. For each animal, four rostro-caudal levels of the striatum were analyzed, capturing regional heterogeneity in response to dopaminergic denervation. The 10X Genomics Visium platform was used to generate spatially resolved transcriptomic maps. This ST dataset allows for the visualization and quantification of spatial patterns in gene expression following mild dopaminergic injury, complementing the cell-type-specific insights gained from the snRNA-seq data.",
+    "creators": [
+        {
+            "name": "Graziano, Marta",
+            "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+            "orcid": "0000-0001-9417-5212"
+        },
+        {
+            "name": "Mantas, Ioannis",
+            "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+            "orcid": "0000-0001-6288-5439"
+        },
+        {
+            "name": "Masarapu, Yuvarani",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0002-3267-2085"
+        },
+        {
+            "name": "Frapard, Sol\u00e8ne",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0002-2649-7225"
+        },
+        {
+            "name": "Garza, Raquel",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0002-2524-3055"
+        },
+        {
+            "name": "Adami, Anita",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University,  Lund, Sweden. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom.",
+            "orcid": "0000-0002-9421-7942"
+        },
+        {
+            "name": "Fazal, Shaline",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK.",
+            "orcid": "0000-0002-2813-4022"
+        },
+        {
+            "name": "Quaegebeur, Annelies",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+            "orcid": "0000-0001-5357-9341"
+        },
+        {
+            "name": "Barker, Roger",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+            "orcid": "0000-0001-8843-7730"
+        },
+        {
+            "name": "Jakobsson, Johan",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0003-0669-7673"
+        },
+        {
+            "name": "Giacomello, Stefania",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0003-0738-1574"
+        },
+        {
+            "name": "Meletis, Konstantinos",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0001-5665-4781"
+        }
+    ],
+    "publication_date": "2025-05-08",
+    "version": "1.0",
+    "title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
+    "ASAP_lab_name": "Meletis Lab",
+    "PI_full_name": "Dr. Konstantinos Meletis",
+    "PI_email": "dinos.meletis@ki.se",
+    "submitter_name": "Marta Graziano",
+    "submitter_email": "marta.graziano@ki.se",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-020370ASAP-000520ASAP-024296ASAP-025170"
+    ],
+    "team_name": "Cragg"
+}

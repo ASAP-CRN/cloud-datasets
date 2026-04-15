@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.\".</p>\n<p><strong>Description:</strong> This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived from mouse models of Parkinson's disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology.  Single-nucleus RNA sequencing (snRNA-seq) was performed on mouse striatal tissue from two distinct PD models: </p>\n<ol>\n<li>\n<p>Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls. </p>\n</li>\n<li>\n<p>Progressive Genetic Model (MitoPark): The MitoPark model (Slc6a3-cre; Tfam^flx/flx) induces mitochondrial dysfunction specifically in dopaminergic neurons, leading to progressive neurodegeneration. Samples were collected at two timepoints: </p>\n<ul>\n<li>10\u201311 weeks of age: Early stage, pre-symptomatic or mildly affected, and  </li>\n<li>15\u201318 weeks of age: Late stage, with clear motor deficits and advanced degeneration.   This snRNA-seq dataset enables in-depth analysis of transcriptomic alterations across distinct PD etiologies and stages.</li>\n</ul>\n</li>\n</ol>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-05-08",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Graziano, Marta",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-9417-5212"
+            },
+            {
+                "name": "Mantas, Ioannis",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-6288-5439"
+            },
+            {
+                "name": "Masarapu, Yuvarani",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-3267-2085"
+            },
+            {
+                "name": "Frapard, Sol\u00e8ne",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-2649-7225"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University,  Lund, Sweden. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Fazal, Shaline",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK.",
+                "orcid": "0000-0002-2813-4022"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Giacomello, Stefania",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0003-0738-1574"
+            },
+            {
+                "name": "Meletis, Konstantinos",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0001-5665-4781"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Cragg"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-020370::ASAP-000520"
+            },
+            {
+                "id": "10.13039/100018231::ASAP-020370::ASAP-024296"
+            },
+            {
+                "id": "10.13039/100018231::ASAP-020370::ASAP-025170"
+            }
+        ]
+    }
+}

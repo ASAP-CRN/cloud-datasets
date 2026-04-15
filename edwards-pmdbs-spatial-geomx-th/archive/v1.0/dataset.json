@@ -1,0 +1,42 @@
+{
+  "name": "edwards-pmdbs-spatial-geomx-th",
+  "title": "team-edwards-pmdbs-spatial-geomx-th",
+  "description": "pmdbs-spatial dataset from team-edwards",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-edwards",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-spatial",
+    "pmdbs-other",
+    "edwards"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
+    "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
+    "uat": "gs://asap-uat-team-edwards-pmdbs-spatial-geomx-th",
+    "prod": "gs://asap-curated-team-edwards-pmdbs-spatial-geomx-th"
+  },
+  "cde_version": "v3.1",
+  "releases": {
+    "v2.0.2": {
+      "cde_version": "v3.1",
+      "date": null
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

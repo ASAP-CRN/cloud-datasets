@@ -1,0 +1,38 @@
+{
+  "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+  "title": "team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+  "description": "mouse-sc-rnaseq dataset from team-alessi",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-alessi",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "mouse-sc-rnaseq",
+    "other-mouse",
+    "alessi"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+    "dev": "gs://asap-dev-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+    "uat": "gs://asap-uat-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+    "prod": "gs://asap-curated-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

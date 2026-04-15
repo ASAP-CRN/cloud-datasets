@@ -1,0 +1,66 @@
+{
+  "name": "jakobsson-pmdbs-sn-rnaseq",
+  "title": "team-jakobsson-pmdbs-sn-rnaseq",
+  "description": "pmdbs-sc-rnaseq dataset from team-jakobsson",
+  "version": "v2.0",
+  "doi": "10.5281/zenodo.15162834",
+  "creators": [
+    {
+      "name": "team-jakobsson",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-other",
+    "jakobsson"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-jakobsson-pmdbs-sn-rnaseq",
+    "dev": "gs://asap-dev-team-jakobsson-pmdbs-sn-rnaseq",
+    "uat": "gs://asap-uat-team-jakobsson-pmdbs-sn-rnaseq",
+    "prod": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq"
+  },
+  "cde_version": "v3.1",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.1",
+      "dataset_version": "v2.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v2.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v2.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v2.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v2.0"
+    }
+  }
+}

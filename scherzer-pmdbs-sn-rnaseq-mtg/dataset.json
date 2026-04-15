@@ -1,0 +1,66 @@
+{
+  "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+  "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
+  "description": "pmdbs-sc-rnaseq dataset from team-scherzer",
+  "version": "v1.1",
+  "doi": "10.5281/zenodo.16751625",
+  "creators": [
+    {
+      "name": "team-scherzer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-mtg",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.1"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.1"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.1"
+    }
+  }
+}

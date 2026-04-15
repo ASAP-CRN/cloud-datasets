@@ -1,0 +1,62 @@
+{
+  "name": "cohort-pmdbs-bulk-rnaseq",
+  "title": "asap-cohort-pmdbs-bulk-rnaseq",
+  "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
+  "version": "v1.2.0",
+  "doi": "10.5281/zenodo.16975686",
+  "creators": [
+    {
+      "name": "asap-cohort",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-bulk-rnaseq",
+    "pmdbs-bulk-rnaseq",
+    "cohort"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-bulk-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-cohort-pmdbs-bulk-rnaseq",
+    "dev": "gs://asap-dev-cohort-pmdbs-bulk-rnaseq",
+    "uat": "gs://asap-uat-cohort-pmdbs-bulk-rnaseq",
+    "prod": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.2.0"
+    }
+  }
+}

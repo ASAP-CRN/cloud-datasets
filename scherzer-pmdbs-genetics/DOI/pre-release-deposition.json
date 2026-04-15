@@ -1,0 +1,101 @@
+{
+  "created": "2025-10-01T10:37:58.795923+00:00",
+  "modified": "2025-10-01T10:38:07.352237+00:00",
+  "id": 17242299,
+  "conceptrecid": "17242295",
+  "conceptdoi": "10.5281/zenodo.17242295",
+  "metadata": {
+    "title": "PD5D_MTG_MEGA_Chip_Genotype",
+    "publication_date": "2025-10-30",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_MEGA_Chip_Genotype\".</p>\n<p><strong>Description:</strong> This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD5D_MTG_snRNAseq). All subjects were genotyped on the  Infinium Multi-Ethnic Global-8 v1 chip. Raw genotypes were processed  with PLINK (v1.90) and basic quality control, including removal of low quality genotypes and low-quality variants, was performed. Please note  that the position information in the file was based on human GRC37/hg19  reference genome.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": null,
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": null,
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": null,
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": null,
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Lin, Zechuan",
+        "affiliation": null,
+        "orcid": "0000-0003-2270-5194"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.17242299",
+      "recid": 17242299
+    }
+  },
+  "title": "PD5D_MTG_MEGA_Chip_Genotype",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/17242299",
+    "html": "https://zenodo.org/deposit/17242299",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/17242299/files",
+    "bucket": "https://zenodo.org/api/files/f2fb2b0c-a92a-4c93-8419-e8f160adbe17",
+    "thumb250": "https://zenodo.org/record/17242299/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/17242299/thumb10",
+      "50": "https://zenodo.org/record/17242299/thumb50",
+      "100": "https://zenodo.org/record/17242299/thumb100",
+      "250": "https://zenodo.org/record/17242299/thumb250",
+      "750": "https://zenodo.org/record/17242299/thumb750",
+      "1200": "https://zenodo.org/record/17242299/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/17242299",
+    "latest_draft_html": "https://zenodo.org/deposit/17242299",
+    "publish": "https://zenodo.org/api/deposit/depositions/17242299/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/17242299/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/17242299/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/17242299/actions/newversion"
+  },
+  "record_id": 17242299,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "956e2d85-9728-461e-bd48-c9b9480d235f",
+      "filename": "scherzer-pmdbs-genetics_README.pdf",
+      "filesize": 4680,
+      "checksum": "e7880c51e5d8042743efd9400c0d3a89",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/17242299/files/956e2d85-9728-461e-bd48-c9b9480d235f",
+        "download": "https://zenodo.org/api/records/17242299/draft/files/scherzer-pmdbs-genetics_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

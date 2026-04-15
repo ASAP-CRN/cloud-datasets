@@ -1,0 +1,66 @@
+{
+  "name": "hafler-pmdbs-sn-rnaseq-pfc",
+  "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
+  "description": "pmdbs-sc-rnaseq dataset from team-hafler",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.15490150",
+  "creators": [
+    {
+      "name": "team-hafler",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "hafler"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "dev": "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
+  },
+  "cde_version": "v2.1",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

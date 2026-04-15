@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "title": "Bulk RNAseq of dopaminergic neurons in vitro cultures",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bulk RNAseq of dopaminergic neurons in vitro cultures\".</p>\n<p><strong>Description:</strong> This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human embryonic stem cells into dopaminergic neurons. Briefly, hES (RC17) and hiPSCs (KOLF2.1) were differentiated towards ventral midbrain (vMB) fate based on a previously published protocol (Nolbrant et al, 2017). Detailed protocols for generation of human ventral midbrain dopaminergic progenitors and dopaminergic neurons can be found at dx.doi.org/10.17504/protocols.io.kxygx4eqol8j/v1 and dx.doi.org/10.17504/protocols.io.q26g7nbd1lwz/v1, respectively.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-09-17",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Gale Hammell, Molly",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0003-0405-8392"
+            },
+            {
+                "name": "Kirkeby, Agnete",
+                "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+                "orcid": "0000-0001-8203-6901"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Sharma, Yogita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0001-9702-1809"
+            },
+            {
+                "name": "Tam, Oliver",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-1023-3655"
+            },
+            {
+                "name": "Wunderlich, Cole",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-6171-888X"
+            },
+            {
+                "name": "Forcier, Talitha",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-7933-5086"
+            },
+            {
+                "name": "Jones, Jo",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0003-4974-1371"
+            },
+            {
+                "name": "Curle, Annabel",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0002-9105-1131"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Wijesinghe, Sasvi",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0009-0004-6811-0043"
+            },
+            {
+                "name": "J\u00f6nsson, Marie",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-1184-6269"
+            },
+            {
+                "name": "Kouli, Antonina",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-6553-6154"
+            },
+            {
+                "name": "Atacho, Diahann",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-6158-0235"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Jakobsson"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000520"
+            }
+        ]
+    }
+}

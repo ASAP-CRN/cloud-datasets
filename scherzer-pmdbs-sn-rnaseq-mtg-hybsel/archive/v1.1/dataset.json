@@ -1,0 +1,46 @@
+{
+  "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+  "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+  "description": "pmdbs-other dataset from team-scherzer",
+  "version": "v1.1",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-scherzer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-other",
+    "other-pmdbs",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "date": null
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "date": null
+    },
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

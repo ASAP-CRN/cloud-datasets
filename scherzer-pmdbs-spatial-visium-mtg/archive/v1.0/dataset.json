@@ -1,0 +1,38 @@
+{
+  "name": "scherzer-pmdbs-spatial-visium-mtg",
+  "title": "team-scherzer-pmdbs-spatial-visium-mtg",
+  "description": "pmdbs-spatial dataset from team-scherzer",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-scherzer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-spatial",
+    "other-pmdbs",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-spatial-visium-mtg",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-spatial-visium-mtg"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "created": "2025-09-27T05:19:25.841562+00:00",
+  "modified": "2025-09-27T05:19:26.111123+00:00",
+  "id": 17212216,
+  "conceptrecid": "17212215",
+  "doi": "10.5281/zenodo.17212216",
+  "conceptdoi": "10.5281/zenodo.17212215",
+  "doi_url": "https://doi.org/10.5281/zenodo.17212216",
+  "metadata": {
+    "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+    "doi": "10.5281/zenodo.17212216",
+    "publication_date": "2025-09-18",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice\".</p>\n<p><strong>Description:</strong> We performed single-nucleus transcriptomic analysis of the dorsal striatum from 5 wild-type and 5 G2019S LRRK2 mutant mice. This dataset contains the raw fastqs files (grouped together by indexes) from mouse dorsal striatum, sorted by 10 samples (S1 to S10), with files separated by read 1 (R1), read 2 (R2), index reads (I1 and I2), and which lane they were in on the S4 flow cell (L1 to L4). These files are created by bcl2fastq of Cell Ranger; the sequences in those files were used for the alignments.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Khan, Shahzad",
+        "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+        "orcid": "0000-0003-3962-0226"
+      },
+      {
+        "name": "Lin, Yu-En",
+        "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+        "orcid": "0000-0002-5848-5405"
+      },
+      {
+        "name": "Pfeffer, Suzanne",
+        "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+        "orcid": "0000-0002-6462-984X"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.17212216",
+      "recid": 17212216
+    }
+  },
+  "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+  "links": {
+    "self": "https://zenodo.org/api/records/17212216",
+    "html": "https://zenodo.org/records/17212216",
+    "doi": "https://doi.org/10.5281/zenodo.17212216",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17212215",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17212216.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17212215.svg",
+    "files": "https://zenodo.org/api/records/17212216/files",
+    "bucket": "https://zenodo.org/api/files/e2022f08-97e9-4b20-93ab-e53ad0add935",
+    "thumb250": "https://zenodo.org/record/17212216/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/17212216/thumb10",
+      "50": "https://zenodo.org/record/17212216/thumb50",
+      "100": "https://zenodo.org/record/17212216/thumb100",
+      "250": "https://zenodo.org/record/17212216/thumb250",
+      "750": "https://zenodo.org/record/17212216/thumb750",
+      "1200": "https://zenodo.org/record/17212216/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/17212216",
+    "latest_draft_html": "https://zenodo.org/deposit/17212216",
+    "publish": "https://zenodo.org/api/deposit/depositions/17212216/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/17212216/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/17212216/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/17212216/actions/newversion",
+    "record": "https://zenodo.org/api/records/17212216",
+    "record_html": "https://zenodo.org/record/17212216",
+    "latest": "https://zenodo.org/api/records/17212216/versions/latest",
+    "latest_html": "https://zenodo.org/records/17212216/latest"
+  },
+  "record_id": 17212216,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "7d95798b-7419-4412-add9-4695148dbd4a",
+      "filename": "alessi-mouse-sc-rnaseq-dorsal-striatum-g2019s_README.pdf",
+      "filesize": 4449,
+      "checksum": "2d208e466651f30d08ec5326a6a020a1",
+      "links": {
+        "self": "https://zenodo.org/api/records/17212216/files/7d95798b-7419-4412-add9-4695148dbd4a",
+        "download": "https://zenodo.org/api/records/17212216/draft/files/alessi-mouse-sc-rnaseq-dorsal-striatum-g2019s_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

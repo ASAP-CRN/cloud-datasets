@@ -1,0 +1,34 @@
+{
+  "name": "cohort-mouse-sc-rnaseq",
+  "title": "asap-cohort-mouse-sc-rnaseq",
+  "description": "mouse-sc-rnaseq dataset from asap-cohort",
+  "version": "v1.0.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "asap-cohort",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "mouse-sc-rnaseq",
+    "mouse-sc-rnaseq",
+    "cohort"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "mouse-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-cohort-mouse-sc-rnaseq",
+    "dev": "gs://asap-dev-cohort-mouse-sc-rnaseq",
+    "uat": "gs://asap-uat-cohort-mouse-sc-rnaseq",
+    "prod": "gs://asap-curated-cohort-mouse-sc-rnaseq"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

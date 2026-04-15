@@ -1,0 +1,38 @@
+{
+  "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+  "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+  "description": "mouse-sc-rnaseq dataset from team-schlossmacher",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-schlossmacher",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "mouse-sc-rnaseq",
+    "other-mouse",
+    "schlossmacher"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "dev": "gs://asap-dev-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "uat": "gs://asap-uat-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "prod": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

@@ -1,0 +1,67 @@
+subject_id;brain_region;hemisphere;region_level_1;region_level_2;region_level_3
+ASAP156_PD_NP21-57_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP157_PD_NP21-208_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP158_PD_NP21-217_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP159_ctrl_16-119_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP160_ctrl_NP17-216_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP161_ctrl_NP18-46_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP162_ctrl_NP18-148_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP163_PD_NP21-208_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP164_PD_NP21-217_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP165_ctrl_NP16-284_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP166_ctrl_NP16-293_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP167_ctrl_NP17-20_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP168_ctrl_NP16-284_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP170_ctrl_NP17-20_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP172_ctrl_NP18-46_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP173_PD_NP21-57_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP174_ctrl_NP16-119_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP175_ctrl_NP16-284_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP176_ctrl_NP18-148_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP177_PD_NP21-57_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP178_PD_NP21-208_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP179_PD_NP21-217_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP180_ctrl_NP16-119_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP181_ctrl_NP16-293_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP184_ctrl_NP18-148_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP185_PD_NP21-217_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP186_ctrl_NP16-119_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP188_ctrl_NP16-293_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP189_ctrl_NP18-148_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP190_PD_NP21-57_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP191_PD_NP21-208_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP192_PD_NP22-55_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP193_PD_NP22-55_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP194_PD_NP22-55_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP195_PD_NP22-55_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP196_PD_NP16-285_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP199_ctrl_NP19-218_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP200_ctrl_NP22-37_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP201_ctrl_NP22-75_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP202_PD_NP19-137_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP203_ctrl_NP19-218_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP204_PD_NP21-04_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP206_ctrl_NP22-75_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP207_PD_NP23-21_AMY;AMY;NA;Temporal lobe;Amygdala;Unknown
+ASAP208_PD_NP16-285_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP209_PD_NP17-232_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP210_PD_NP19-91_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP211_PD_NP19-137_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP212_PD_NP21-04_SN;SN;NA;Midbrain;Substantia Nigra;Unknown
+ASAP214_PD_NP16-285_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP215_PD_NP17-232_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP216_PD_NP19-91_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP217_ctrl_NP19-218_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP218_ctrl_NP22-37_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP219_ctrl_NP22-75_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP220_PD_NP19-137_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP221_ctrl_NP19-218_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP222_PD_NP21-04_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP223_ctrl_NP22-37_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP224_ctrl_NP22-75_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP225_PD_NP23-21_PUT;PUT;NA;Striatum;Putamen;Unknown
+ASAP226_PD_NP16-285_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP227_PD_NP17-232_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP228_PD_NP19-91_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP229_ctrl_NP19-137_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown
+ASAP231_ctrl_NP23-21_PFC;PFC;NA;Frontal lobe;Prefrontal cortex;Unknown

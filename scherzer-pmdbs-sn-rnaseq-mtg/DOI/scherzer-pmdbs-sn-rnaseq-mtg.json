@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "title": "PD5D_MTG_snRNAseq",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_snRNAseq\".</p>\n<p><strong>Description:</strong> This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-10-30",
+        "version": "1.1",
+        "creators": [
+            {
+                "name": "Parker, Jacob",
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Scherzer, Clemens",
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Cline, Madison",
+                "orcid": "0000-0001-9672-7738"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Lin, Zechuan",
+                "orcid": "0000-0003-2270-5194"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Scherzer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000301"
+            }
+        ]
+    }
+}

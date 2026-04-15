@@ -1,0 +1,38 @@
+{
+  "name": "jakobsson-pmdbs-bulk-rnaseq",
+  "title": "team-jakobsson-pmdbs-bulk-rnaseq",
+  "description": "pmdbs-bulk-rnaseq dataset from team-jakobsson",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-jakobsson",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-bulk-rnaseq",
+    "other-pmdbs",
+    "jakobsson"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-jakobsson-pmdbs-bulk-rnaseq",
+    "dev": "gs://asap-dev-team-jakobsson-pmdbs-bulk-rnaseq",
+    "uat": "gs://asap-uat-team-jakobsson-pmdbs-bulk-rnaseq",
+    "prod": "gs://asap-curated-team-jakobsson-pmdbs-bulk-rnaseq"
+  },
+  "cde_version": "v3.2",
+  "releases": {
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

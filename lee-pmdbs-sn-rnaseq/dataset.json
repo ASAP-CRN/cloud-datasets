@@ -1,0 +1,66 @@
+{
+  "name": "lee-pmdbs-sn-rnaseq",
+  "title": "team-lee-pmdbs-sn-rnaseq",
+  "description": "pmdbs-sc-rnaseq dataset from team-lee",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.16744323",
+  "creators": [
+    {
+      "name": "team-lee",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "lee"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-team-lee-pmdbs-sn-rnaseq",
+    "dev": "gs://asap-dev-team-lee-pmdbs-sn-rnaseq",
+    "uat": "gs://asap-uat-team-lee-pmdbs-sn-rnaseq",
+    "prod": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq"
+  },
+  "cde_version": "v2.1",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

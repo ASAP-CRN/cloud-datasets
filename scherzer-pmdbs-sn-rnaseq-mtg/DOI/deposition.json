@@ -1,0 +1,111 @@
+{
+  "created": "2025-05-22T23:02:17.625672+00:00",
+  "modified": "2025-05-22T23:02:20.582460+00:00",
+  "id": 15492975,
+  "conceptrecid": "15492974",
+  "metadata": {
+    "title": "PD5D_MTG_snRNAseq",
+    "publication_date": "2024-06-24",
+    "description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Parker, Jacob",
+        "affiliation": null,
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": null,
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": null,
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": null,
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": null,
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": null,
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": null,
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": null,
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Lin, Zechuan",
+        "affiliation": null,
+        "orcid": "0000-0003-2270-5194"
+      }
+    ],
+    "version": "1.0",
+    "license": "cc-zero",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.15492975",
+      "recid": 15492975
+    }
+  },
+  "title": "PD5D_MTG_snRNAseq",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/15492975",
+    "html": "https://zenodo.org/deposit/15492975",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/15492975/files",
+    "bucket": "https://zenodo.org/api/files/46e4d781-08e5-45ba-a98e-9a17729b711b",
+    "thumb250": "https://zenodo.org/record/15492975/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/15492975/thumb10",
+      "50": "https://zenodo.org/record/15492975/thumb50",
+      "100": "https://zenodo.org/record/15492975/thumb100",
+      "250": "https://zenodo.org/record/15492975/thumb250",
+      "750": "https://zenodo.org/record/15492975/thumb750",
+      "1200": "https://zenodo.org/record/15492975/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/15492975",
+    "latest_draft_html": "https://zenodo.org/deposit/15492975",
+    "publish": "https://zenodo.org/api/deposit/depositions/15492975/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/15492975/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/15492975/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/15492975/actions/newversion"
+  },
+  "record_id": 15492975,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "1bba9176-87ea-4830-8728-81a333ac4db0",
+      "filename": "scherzer-pmdbs-sn-rnaseq-mtg.pdf",
+      "filesize": 104597,
+      "checksum": "81e47c282047805caeb64e9140f8126f",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/15492975/files/1bba9176-87ea-4830-8728-81a333ac4db0",
+        "download": "https://zenodo.org/api/records/15492975/draft/files/scherzer-pmdbs-sn-rnaseq-mtg.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

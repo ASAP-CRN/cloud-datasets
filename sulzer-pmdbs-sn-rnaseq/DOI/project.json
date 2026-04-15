@@ -1,0 +1,60 @@
+{
+    "project_name": "The landscape of T-cell Immunity in Parkinson Disease",
+    "project_description": "The project aims to assess the role of T-cells and astrocytes in the pathogenesis of Parkinson's disease as assessed in post-mortem human tissue. Single-nucleus RNAseq data is provided in this dataset.",
+    "dataset_title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
+    "dataset_description": "Samples of the Cingulate Cortex and Substantia Nigra from  post-mortem brains from the New York Brain Bank were dissected and processed using 10X single-nucleus RNA sequencing on the  Chromium Next GEM Single Cell v3.1 (Dual Index) platform.",
+    "creators": [
+        {
+            "name": "Ma, Maxwell",
+            "affiliation": "Columbia University",
+            "orcid": "0009-0008-0193-8646"
+        },
+        {
+            "name": "Jakubiak, Kelly A",
+            "affiliation": "Columbia University",
+            "orcid": "0009-0002-6932-4460"
+        },
+        {
+            "name": "Paryani, Fahad",
+            "affiliation": "Columbia University",
+            "orcid": "0000-0003-1418-1386"
+        },
+        {
+            "name": "Kannan, Adithya",
+            "affiliation": "Columbia University",
+            "orcid": "0000-0001-7359-184X"
+        },
+        {
+            "name": "Lee, Jaeseung",
+            "affiliation": "Columbia University",
+            "orcid": "0009-0003-0806-093X"
+        },
+        {
+            "name": "Li, Juncheng",
+            "affiliation": "Columbia University"
+        },
+        {
+            "name": "Sims, Peter",
+            "affiliation": "Columbia University",
+            "orcid": "0000-0002-3921-4837"
+        },
+        {
+            "name": "Al-Dalahmah, Osama",
+            "affiliation": "Columbia University",
+            "orcid": "0000-0002-3442-5459"
+        }
+    ],
+    "publication_date": "2025-12-05",
+    "version": "1.0",
+    "title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
+    "ASAP_lab_name": "Al-Dalahmah",
+    "PI_full_name": "Osama Al-Dalahmah",
+    "PI_email": "oa2298@cumc.columbia.edu",
+    "submitter_name": "Kelly Jakubiak",
+    "submitter_email": "kj2613@cumc.columbia.edu",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000375"
+    ],
+    "team_name": "Sulzer"
+}

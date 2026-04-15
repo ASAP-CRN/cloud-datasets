@@ -1,0 +1,62 @@
+{
+  "name": "hardy-pmdbs-sn-rnaseq",
+  "title": "team-hardy-pmdbs-sn-rnaseq",
+  "description": "pmdbs-sc-rnaseq dataset from team-hardy",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.16749080",
+  "creators": [
+    {
+      "name": "team-hardy",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "hardy"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-team-hardy-pmdbs-sn-rnaseq",
+    "dev": "gs://asap-dev-team-hardy-pmdbs-sn-rnaseq",
+    "uat": "gs://asap-uat-team-hardy-pmdbs-sn-rnaseq",
+    "prod": "gs://asap-curated-team-hardy-pmdbs-sn-rnaseq"
+  },
+  "cde_version": "v3.0",
+  "releases": {
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

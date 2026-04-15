@@ -1,0 +1,42 @@
+{
+  "name": "alessi-invitro-ms-p-hek293-gtip",
+  "title": "team-alessi-invitro-ms-p-hek293-gtip",
+  "description": "proteomics dataset from team-alessi",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.17355407",
+  "creators": [
+    {
+      "name": "team-alessi",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "proteomics",
+    "proteomics",
+    "alessi"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-alessi-invitro-ms-p-hek293-gtip",
+    "dev": "gs://asap-dev-team-alessi-invitro-ms-p-hek293-gtip",
+    "uat": "gs://asap-uat-team-alessi-invitro-ms-p-hek293-gtip",
+    "prod": "gs://asap-curated-team-alessi-invitro-ms-p-hek293-gtip"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v3.0.1": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "created": "2025-04-06T12:51:59.918215+00:00",
+  "modified": "2025-08-07T09:49:04.870939+00:00",
+  "id": 15162835,
+  "conceptrecid": "15162834",
+  "doi": "10.5281/zenodo.15653217",
+  "conceptdoi": "10.5281/zenodo.15162834",
+  "doi_url": "https://doi.org/10.5281/zenodo.15653217",
+  "metadata": {
+    "title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
+    "doi": "10.5281/zenodo.15653217",
+    "publication_date": "2025-04-06",
+    "description": "We performed single nuclei RNA sequencing of postmortem PD and control brain tissue of four different brain regions (substantia nigra, putamen, amygdala, and prefrontal cortex). Briefly, 8500 nuclei were FACS sorted from approximately 2 mm3 of tissue. Single nuclei RNAseq libraries were prepared using 10X genomics platform for single cell 3' sequencing. Sequencing libraries are prepared by fragmentation, end repair and a tailing followed by sample index PCR. To process the data, FASTQ files were processed using Cell Ranger, aligning and quantifying for hg38. Intronic reads were also quantified.",
+    "access_right": "restricted",
+    "creators": [
+      {
+        "name": "Jakobsson, Johan",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0003-0669-7673"
+      },
+      {
+        "name": "Barker, Roger",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0000-0001-8843-7730"
+      },
+      {
+        "name": "Gale Hammell, Molly",
+        "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+        "orcid": "0000-0003-0405-8392"
+      },
+      {
+        "name": "Kirkeby, Agnete",
+        "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+        "orcid": "0000-0001-8203-6901"
+      },
+      {
+        "name": "Garza, Raquel",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0002-2524-3055"
+      },
+      {
+        "name": "Sharma, Yogita",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0001-9702-1809"
+      },
+      {
+        "name": "Tam, Oliver",
+        "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+        "orcid": "0000-0002-1023-3655"
+      },
+      {
+        "name": "Wunderlich, Cole",
+        "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+        "orcid": "0000-0002-6171-888X"
+      },
+      {
+        "name": "Forcier, Talitha",
+        "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+        "orcid": "0000-0002-7933-5086"
+      },
+      {
+        "name": "Jones, Jo",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0000-0003-4974-1371"
+      },
+      {
+        "name": "Curle, Annabel",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0000-0002-9105-1131"
+      },
+      {
+        "name": "Quaegebeur, Annelies",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0000-0001-5357-9341"
+      },
+      {
+        "name": "Adami, Anita",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0002-9421-7942"
+      },
+      {
+        "name": "Wijesinghe, Sasvi",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0009-0004-6811-0043"
+      },
+      {
+        "name": "J\u00f6nsson, Marie",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0002-1184-6269"
+      },
+      {
+        "name": "Kouli, Antonina",
+        "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+        "orcid": "0000-0001-6553-6154"
+      },
+      {
+        "name": "Atacho, Diahann",
+        "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+        "orcid": "0000-0002-6158-0235"
+      }
+    ],
+    "version": "2.0-beta",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Jakobsson"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000520"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.15162835",
+      "recid": 15162835
+    }
+  },
+  "title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/15162835",
+    "html": "https://zenodo.org/deposit/15162835",
+    "doi": "https://doi.org/10.5281/zenodo.15653217",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.15653217.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/15162835/files",
+    "bucket": "https://zenodo.org/api/files/4e2a8223-c6a4-4419-9b2d-6db357395c10",
+    "thumb250": "https://zenodo.org/record/15162835/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/15162835/thumb10",
+      "50": "https://zenodo.org/record/15162835/thumb50",
+      "100": "https://zenodo.org/record/15162835/thumb100",
+      "250": "https://zenodo.org/record/15162835/thumb250",
+      "750": "https://zenodo.org/record/15162835/thumb750",
+      "1200": "https://zenodo.org/record/15162835/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/15162835",
+    "latest_draft_html": "https://zenodo.org/deposit/15162835",
+    "publish": "https://zenodo.org/api/deposit/depositions/15162835/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/15162835/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/15162835/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/15162835/actions/newversion",
+    "record": "https://zenodo.org/api/records/15162835",
+    "record_html": "https://zenodo.org/record/15162835",
+    "latest": "https://zenodo.org/api/records/15162835/versions/latest",
+    "latest_html": "https://zenodo.org/records/15162835/latest"
+  },
+  "record_id": 15162835,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "eda11e35-caf2-497b-8512-9cc41d87d418",
+      "filename": "jakobsson-pmdbs-sn-rnaseq.pdf",
+      "filesize": 106239,
+      "checksum": "702f4494a1029116897e5b55d013e5c9",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/15162835/files/eda11e35-caf2-497b-8512-9cc41d87d418",
+        "download": "https://zenodo.org/api/records/15162835/draft/files/jakobsson-pmdbs-sn-rnaseq.pdf/content"
+      }
+    }
+  ],
+  "state": "inprogress",
+  "submitted": true
+}

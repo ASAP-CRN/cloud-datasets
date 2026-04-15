@@ -1,0 +1,766 @@
+{
+  "alessi-invitro-ms-p-hek293-gtip": {
+    "name": "alessi-invitro-ms-p-hek293-gtip",
+    "title": "team-alessi-invitro-ms-p-hek293-gtip",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17355407",
+    "release": {
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s": {
+    "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+    "title": "team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17212215",
+    "release": {
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "biederer-mouse-sc-rnaseq": {
+    "name": "biederer-mouse-sc-rnaseq",
+    "title": "team-biederer-mouse-sc-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15485103",
+    "release": {
+      "v2.0.2": {
+        "cde_version": "v3.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "cohort-mouse-sc-rnaseq": {
+    "name": "cohort-mouse-sc-rnaseq",
+    "title": "asap-cohort-mouse-sc-rnaseq",
+    "version": "v1.0.0",
+    "doi": "10.5281/zenodo.17860975",
+    "release": {
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0.0"
+      }
+    }
+  },
+  "cohort-pmdbs-bulk-rnaseq": {
+    "name": "cohort-pmdbs-bulk-rnaseq",
+    "title": "asap-cohort-pmdbs-bulk-rnaseq",
+    "version": "v1.2.0",
+    "doi": "10.5281/zenodo.16975686",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.2.0"
+      }
+    }
+  },
+  "cohort-pmdbs-sc-rnaseq": {
+    "name": "cohort-pmdbs-sc-rnaseq",
+    "title": "asap-cohort-pmdbs-sc-rnaseq",
+    "version": "v3.1.0",
+    "doi": "10.5281/zenodo.17860778",
+    "release": {
+      "v1.0.0": {
+        "cde_version": "v2.1",
+        "dataset_version": "v1.0.0"
+      },
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v3.0.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v3.0.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v3.0.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v3.1.0"
+      }
+    }
+  },
+  "cragg-mouse-sn-rnaseq-striatum": {
+    "name": "cragg-mouse-sn-rnaseq-striatum",
+    "title": "team-cragg-mouse-sn-rnaseq-striatum",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15400039",
+    "release": {
+      "v2.0.2": {
+        "cde_version": "v3.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "cragg-mouse-spatial-visium-striatum": {
+    "name": "cragg-mouse-spatial-visium-striatum",
+    "title": "team-cragg-mouse-spatial-visium-striatum",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15428115",
+    "release": {
+      "v2.0.3": {
+        "cde_version": "v3.1",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "edwards-pmdbs-spatial-geomx-th": {
+    "name": "edwards-pmdbs-spatial-geomx-th",
+    "title": "team-edwards-pmdbs-spatial-geomx-th",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15480990",
+    "release": {
+      "v2.0.2": {
+        "cde_version": "v3.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "hafler-pmdbs-sn-rnaseq-pfc": {
+    "name": "hafler-pmdbs-sn-rnaseq-pfc",
+    "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15490150",
+    "release": {
+      "v1.0.0": {
+        "cde_version": "v2.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "hardy-pmdbs-bulk-rnaseq": {
+    "name": "hardy-pmdbs-bulk-rnaseq",
+    "title": "team-hardy-pmdbs-bulk-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16749098",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "hardy-pmdbs-sn-rnaseq": {
+    "name": "hardy-pmdbs-sn-rnaseq",
+    "title": "team-hardy-pmdbs-sn-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16749080",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "jakobsson-invitro-bulk-rnaseq-dopaminergic": {
+    "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
+    "title": "team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17149266",
+    "release": {
+      "v3.0.2": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "jakobsson-invitro-bulk-rnaseq-microglia": {
+    "name": "jakobsson-invitro-bulk-rnaseq-microglia",
+    "title": "team-jakobsson-invitro-bulk-rnaseq-microglia",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17149290",
+    "release": {
+      "v3.0.2": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "jakobsson-pmdbs-bulk-rnaseq": {
+    "name": "jakobsson-pmdbs-bulk-rnaseq",
+    "title": "team-jakobsson-pmdbs-bulk-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16929448",
+    "release": {
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "jakobsson-pmdbs-sn-rnaseq": {
+    "name": "jakobsson-pmdbs-sn-rnaseq",
+    "title": "team-jakobsson-pmdbs-sn-rnaseq",
+    "version": "v2.0",
+    "doi": "10.5281/zenodo.15162834",
+    "release": {
+      "v1.0.0": {
+        "cde_version": "v2.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.1",
+        "dataset_version": "v2.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v2.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v2.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v2.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v2.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v2.0"
+      }
+    }
+  },
+  "lee-pmdbs-bulk-rnaseq-mfg": {
+    "name": "lee-pmdbs-bulk-rnaseq-mfg",
+    "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16748937",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "lee-pmdbs-sn-rnaseq": {
+    "name": "lee-pmdbs-sn-rnaseq",
+    "title": "team-lee-pmdbs-sn-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16744323",
+    "release": {
+      "v1.0.0": {
+        "cde_version": "v2.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "scherzer-pmdbs-genetics": {
+    "name": "scherzer-pmdbs-genetics",
+    "title": "team-scherzer-pmdbs-genetics",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17242295",
+    "release": {
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "scherzer-pmdbs-sn-rnaseq-mtg": {
+    "name": "scherzer-pmdbs-sn-rnaseq-mtg",
+    "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.16751625",
+    "release": {
+      "v1.0.0": {
+        "cde_version": "v2.1",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.1"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.1"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.1"
+      }
+    }
+  },
+  "scherzer-pmdbs-sn-rnaseq-mtg-hybsel": {
+    "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.16885839",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.1"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.1"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.1"
+      }
+    }
+  },
+  "scherzer-pmdbs-spatial-visium-mtg": {
+    "name": "scherzer-pmdbs-spatial-visium-mtg",
+    "title": "team-scherzer-pmdbs-spatial-visium-mtg",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17242087",
+    "release": {
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "schlossmacher-mouse-sn-rnaseq-osn-aav-transd": {
+    "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17358327",
+    "release": {
+      "v3.0.1": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "sulzer-pmdbs-sn-rnaseq": {
+    "name": "sulzer-pmdbs-sn-rnaseq",
+    "title": "team-sulzer-pmdbs-sn-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17612853",
+    "release": {
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  },
+  "wood-pmdbs-bulk-rnaseq": {
+    "name": "wood-pmdbs-bulk-rnaseq",
+    "title": "team-wood-pmdbs-bulk-rnaseq",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.16749007",
+    "release": {
+      "v2.0.0": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.1": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.2": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v2.0.3": {
+        "cde_version": "v3.0",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.0": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.1": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v3.0.2": {
+        "cde_version": "v3.2",
+        "dataset_version": "v1.0"
+      },
+      "v4.0.0": {
+        "cde_version": "v3.3",
+        "dataset_version": "v1.0"
+      }
+    }
+  }
+}

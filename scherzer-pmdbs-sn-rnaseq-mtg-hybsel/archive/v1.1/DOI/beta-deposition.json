@@ -1,0 +1,171 @@
+{
+  "created": "2025-08-16T08:02:06.207173+00:00",
+  "modified": "2025-08-16T08:02:06.601664+00:00",
+  "id": 16885840,
+  "conceptrecid": "16885839",
+  "doi": "10.5281/zenodo.16885840",
+  "conceptdoi": "10.5281/zenodo.16885839",
+  "doi_url": "https://doi.org/10.5281/zenodo.16885840",
+  "metadata": {
+    "title": "PD5D_MTG_snRNAseq_hybsel",
+    "doi": "10.5281/zenodo.16885840",
+    "publication_date": "2024-06-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_snRNAseq_hybsel\".</p>\n<p><strong>Description:</strong> This dataset contains the raw data in FASTQ format for single-nucleus RNA  sequencing (snRNAseq) enriched with Agilent SureSelect for reads from a list  of targeted transcripts for human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. This data comes from the same 10X  libraries as PD5D_MTG_snRNAseq, except with the additional enrichment  step before sequencing. It's part of the PD5D cohort, where the same subjects  were also profiled with other omics assays incl. genotyping, single-cell  ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Simmons, Sean",
+        "affiliation": null,
+        "orcid": "0000-0002-1537-4000"
+      },
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": null,
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": null,
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Levin, Joshua",
+        "affiliation": null,
+        "orcid": "0000-0002-0170-3598"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": null,
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": null,
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": null,
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": null,
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": null,
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Sharma, Monika",
+        "affiliation": null,
+        "orcid": "0000-0002-7258-1399"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": null,
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Lin, Zechuan",
+        "affiliation": null,
+        "orcid": "0000-0003-2270-5194"
+      },
+      {
+        "name": "Yuan, Jie",
+        "affiliation": null,
+        "orcid": "0000-0002-5626-2881"
+      },
+      {
+        "name": "Haywood, Nathan",
+        "affiliation": null,
+        "orcid": "0000-0003-2213-5080"
+      },
+      {
+        "name": "Lin, Maoxuan",
+        "affiliation": null,
+        "orcid": "0000-0001-5191-1857"
+      },
+      {
+        "name": "Kim, Kwanho",
+        "affiliation": null,
+        "orcid": "0000-0002-4448-3193"
+      },
+      {
+        "name": "Teng, Xufei",
+        "affiliation": null,
+        "orcid": "0000-0001-9282-4282"
+      },
+      {
+        "name": "El Kodsi, Daniel",
+        "affiliation": null,
+        "orcid": "0000-0002-8896-0043"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.16885840",
+      "recid": 16885840
+    }
+  },
+  "title": "PD5D_MTG_snRNAseq_hybsel",
+  "links": {
+    "self": "https://zenodo.org/api/records/16885840",
+    "html": "https://zenodo.org/records/16885840",
+    "doi": "https://doi.org/10.5281/zenodo.16885840",
+    "parent_doi": "https://doi.org/10.5281/zenodo.16885839",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.16885840.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.16885839.svg",
+    "files": "https://zenodo.org/api/records/16885840/files",
+    "bucket": "https://zenodo.org/api/files/3f5c91b2-fe14-4cb4-a7a1-0676ab90b585",
+    "thumb250": "https://zenodo.org/record/16885840/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/16885840/thumb10",
+      "50": "https://zenodo.org/record/16885840/thumb50",
+      "100": "https://zenodo.org/record/16885840/thumb100",
+      "250": "https://zenodo.org/record/16885840/thumb250",
+      "750": "https://zenodo.org/record/16885840/thumb750",
+      "1200": "https://zenodo.org/record/16885840/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/16885840",
+    "latest_draft_html": "https://zenodo.org/deposit/16885840",
+    "publish": "https://zenodo.org/api/deposit/depositions/16885840/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/16885840/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/16885840/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/16885840/actions/newversion",
+    "record": "https://zenodo.org/api/records/16885840",
+    "record_html": "https://zenodo.org/record/16885840",
+    "latest": "https://zenodo.org/api/records/16885840/versions/latest",
+    "latest_html": "https://zenodo.org/records/16885840/latest"
+  },
+  "record_id": 16885840,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "5577a43b-43b7-405d-af2b-fc785efa311c",
+      "filename": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel_README.pdf",
+      "filesize": 5330,
+      "checksum": "b5a1255b940b3bc84fc3f454c0f1f647",
+      "links": {
+        "self": "https://zenodo.org/api/records/16885840/files/5577a43b-43b7-405d-af2b-fc785efa311c",
+        "download": "https://zenodo.org/api/records/16885840/draft/files/scherzer-pmdbs-sn-rnaseq-mtg-hybsel_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

@@ -1,0 +1,33 @@
+Dataset,Folders from drive,Description
+6OHDA ST dataset,6OHDA_ST/fastq/fastq_singlerun_2022-07-01,Set of 9 samples which were sequenced around 2022-07-01. These were only sequenced once and spaceranger was run on these to generate the counts
+,6OHDA_ST/fastq/fastq_files_with_2runs_2022-07-19,Set of 15 samples which were sequenced two times. The files from both runs were merged together for each sample when running spaceranger to generate the counts.
+,,First run files in folder /fastq-run-1
+,,Second run files in folder /fastq-2nd-run
+,,
+,6OHDA_ST/ST_hires_images,This folder contains all the microscopy images for the 6OHDA ST data samples. These images were fed to spaceranger in order to map the counts back to tissue spots.
+,,
+,6OHDA_ST/spaceranger_counts,"This folder contains spaceranger counts outputs, each subfolder corresponds to one ST sample and it named after the sample id itself for easier tracking."
+,,
+6OHDA snRNAseq dataset,6OHDA_snRNAseq/fastq/fastq_old_control_1,sequenced files for old control 1 which was one of the first samples we tested snRNAseq protocol on. This sample was good quality hence retained for the analysis. This sample was only ran once and no spikeins were done hence only 2 files for this sample.
+,6OHDA_snRNAseq/fastq/fastq_230516,Sequenced files for 5 samples from snRNAseq 6OHDA set - this includes three 6OHDA injected samples and two controls. First sequencing date for these is in the folder name - 2023-05-16
+,6OHDA_snRNAseq/fastq/fastq_230614,Second run for the samples from above. But this time only one control along with the three 6OHDA injected samples was sequenced again on 2023-06-14. This is because the other control (new_control_1) was already of good quality and had good number of nuclei for the analysis but the other 4 samples did not.
+,,"Fastq files for the samples which were run two times in sequencing were merged before running cellranger count to generate the count matrices, this can be seen in the scripts that multiple fastq paths were given for cellranger to understand that merging is required before any alignment or annotation in the cellranger pipeline begins."
+,,
+,6OHDA_snRNAseq/scripts,Scripts used to run cellranger count on the 6OHDA snRNAseq samples as well as the samples sheet in .csv that was provided.
+,,
+,6OHDA_snRNAseq/cellranger_counts,Count matrices for each 6OHDA snRNAseq sample as each subfolder. These were created when cellranger count scripts above were run.
+,,
+MitoPark dataset,mitopark/fastq_files/fastq_mitopark_11_weeks,Fastq files for mitopark 11 weeks samples.
+,,"Contains two subfolders - run1_2023-07-24 and run2_2023-08-23. Each subfolder corresponds to one sequencing run, hence two sequencing runs were performed for the mitopark 11 weeks."
+,,Files from both these subfolders were merged for each sample when running cellranger count to get the count matrices. Code in the scripts will show this as multiple fastq paths are given to cellranger count command.
+,,
+,mitopark/fastq_files/fastq_mitopark_15-18-weeks,Fastq files for mitopark 15/18 weeks samples.
+,,"Contains three subfolders - rrun1_2023-11-04, run2_2023-11-25 and run3_2023-12-04. Each subfolder corresponds to one sequencing run, hence three sequencing runs were performed for the mitopark 15/18 weeks."
+,,"Files from all three of these subfolders, i.e, sequencing runs, were merged for each sample when running cellranger count to get the count matrices. Code in the scripts will show this as multiple fastq paths are given to cellranger count command."
+,,
+,mitopark/scripts/scripts_for_cellranger_count,Scripts for each set (mitopark 11 weeks and 15/18 weeks) within this folder as individual subfolders.
+,mitopark/scripts/scripts_for_cellranger_count/code_files_11weeks,Scripts and sample sheet for mitopark 11 weeks samples
+,mitopark/scripts/scripts_for_cellranger_count/code_and_files_15-18weeks,Scripts and sample sheet for mitopark 15/18 weeks samples
+,,
+,mitopark/cellranger_counts/mitopark_11weeks_cellranger,"Count matrices for mitopark 11 weeks samples, each sample as its own subfolder"
+,mitopark/cellranger_counts/mitopark_15_18_weeks_cellranger,"Count matrices for mitopark 15/18 weeks samples, each sample as its own subfolder"

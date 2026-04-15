@@ -1,0 +1,115 @@
+{
+  "created": "2025-08-05T21:40:35.695062+00:00",
+  "modified": "2025-08-05T21:40:36.152108+00:00",
+  "id": 16748950,
+  "conceptrecid": "16748937",
+  "doi": "10.5281/zenodo.16748950",
+  "conceptdoi": "10.5281/zenodo.16748937",
+  "doi_url": "https://doi.org/10.5281/zenodo.16748950",
+  "metadata": {
+    "title": "Bulk RNA-sequencing of human middle frontal gyrus",
+    "doi": "10.5281/zenodo.16748950",
+    "publication_date": "2024-12-11",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bulk RNA-sequencing of human middle frontal gyrus\".</p>\n<p><strong>Description:</strong> Bulk RNA-seq data from middle frontal gyrus samples of human PD and control postmortem brains.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Marshall, Lee L.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-9884-4636"
+      },
+      {
+        "name": "Paquette, Kimberly E.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-3989-4614"
+      },
+      {
+        "name": "DenHaan, Kaitlyn E.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-7804-6661"
+      },
+      {
+        "name": "Lopes, Ellison",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-1661-6304"
+      },
+      {
+        "name": "Pyman, Andrew D.",
+        "affiliation": "Van Andel Institute"
+      },
+      {
+        "name": "Guerreiro, Rita",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0001-5879-3486"
+      },
+      {
+        "name": "Bras, Jose",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0001-8186-0333"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.16748950",
+      "recid": 16748950
+    }
+  },
+  "title": "Bulk RNA-sequencing of human middle frontal gyrus",
+  "links": {
+    "self": "https://zenodo.org/api/records/16748950",
+    "html": "https://zenodo.org/records/16748950",
+    "doi": "https://doi.org/10.5281/zenodo.16748950",
+    "parent_doi": "https://doi.org/10.5281/zenodo.16748937",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.16748950.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.16748937.svg",
+    "files": "https://zenodo.org/api/records/16748950/files",
+    "bucket": "https://zenodo.org/api/files/4b411f6b-7dac-453f-8791-1f3da1d250d9",
+    "thumb250": "https://zenodo.org/record/16748950/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/16748950/thumb10",
+      "50": "https://zenodo.org/record/16748950/thumb50",
+      "100": "https://zenodo.org/record/16748950/thumb100",
+      "250": "https://zenodo.org/record/16748950/thumb250",
+      "750": "https://zenodo.org/record/16748950/thumb750",
+      "1200": "https://zenodo.org/record/16748950/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/16748950",
+    "latest_draft_html": "https://zenodo.org/deposit/16748950",
+    "publish": "https://zenodo.org/api/deposit/depositions/16748950/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/16748950/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/16748950/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/16748950/actions/newversion",
+    "record": "https://zenodo.org/api/records/16748950",
+    "record_html": "https://zenodo.org/record/16748950",
+    "latest": "https://zenodo.org/api/records/16748950/versions/latest",
+    "latest_html": "https://zenodo.org/records/16748950/latest"
+  },
+  "record_id": 16748950,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "31b5647a-62c3-4863-9acb-4dda007606c5",
+      "filename": "lee-pmdbs-bulk-rnaseq-mfg_README.pdf",
+      "filesize": 4235,
+      "checksum": "529e867b8a78fb4d9bf6a2c7562794e2",
+      "links": {
+        "self": "https://zenodo.org/api/records/16748950/files/31b5647a-62c3-4863-9acb-4dda007606c5",
+        "download": "https://zenodo.org/api/records/16748950/draft/files/lee-pmdbs-bulk-rnaseq-mfg_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

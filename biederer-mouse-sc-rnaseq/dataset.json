@@ -1,0 +1,54 @@
+{
+  "name": "biederer-mouse-sc-rnaseq",
+  "title": "team-biederer-mouse-sc-rnaseq",
+  "description": "mouse-sc-rnaseq dataset from team-biederer",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.15485103",
+  "creators": [
+    {
+      "name": "team-biederer",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "mouse-sc-rnaseq",
+    "mouse-other",
+    "biederer"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-biederer-mouse-sc-rnaseq",
+    "dev": "gs://asap-dev-team-biederer-mouse-sc-rnaseq",
+    "uat": "gs://asap-uat-team-biederer-mouse-sc-rnaseq",
+    "prod": "gs://asap-curated-team-biederer-mouse-sc-rnaseq"
+  },
+  "cde_version": "v3.1",
+  "releases": {
+    "v2.0.2": {
+      "cde_version": "v3.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains\".</p>\n<p><strong>Description:</strong> Samples of the Cingulate Cortex and Substantia Nigra from  post-mortem brains from the New York Brain Bank were dissected and processed using 10X single-nucleus RNA sequencing on the  Chromium Next GEM Single Cell v3.1 (Dual Index) platform.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-12-05",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Ma, Maxwell",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0008-0193-8646"
+            },
+            {
+                "name": "Jakubiak, Kelly A",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0002-6932-4460"
+            },
+            {
+                "name": "Paryani, Fahad",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0003-1418-1386"
+            },
+            {
+                "name": "Kannan, Adithya",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0001-7359-184X"
+            },
+            {
+                "name": "Lee, Jaeseung",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0003-0806-093X"
+            },
+            {
+                "name": "Li, Juncheng",
+                "affiliation": "Columbia University"
+            },
+            {
+                "name": "Sims, Peter",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0002-3921-4837"
+            },
+            {
+                "name": "Al-Dalahmah, Osama",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0002-3442-5459"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Sulzer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000375"
+            }
+        ]
+    }
+}

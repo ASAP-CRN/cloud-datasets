@@ -1,0 +1,42 @@
+{
+  "name": "cragg-mouse-spatial-visium-striatum",
+  "title": "team-cragg-mouse-spatial-visium-striatum",
+  "description": "mouse-spatial dataset from team-cragg",
+  "version": "v1.0",
+  "doi": null,
+  "creators": [
+    {
+      "name": "team-cragg",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "mouse-spatial",
+    "mouse-other",
+    "cragg"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
+    "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
+    "uat": "gs://asap-uat-team-cragg-mouse-spatial-visium-striatum",
+    "prod": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum"
+  },
+  "cde_version": "v3.1",
+  "releases": {
+    "v2.0.3": {
+      "cde_version": "v3.1",
+      "date": null
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "date": null
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "date": null
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "project_name": "Mapping the LRRK2 Signalling Pathway and Its Interplay with Other Parkinson's Disease Components.",
+    "project_description": "LRRK2 targets and modifies a set of enzymes known as Rab GTPases, triggering new biological events by creating new protein: protein interactions. We aim to decipher what controls the activity of LRRK2 and to explore, in precise molecular detail, how this enzyme affects three major cellular structures (cilia, lysosomes and mitochondria) implicated in Parkinson's disease. We showed that mutant LRRK2 triggers a series of molecular changes that cause new sets of proteins to interact. Our goal is to use a combination of state-of-the-art approaches to understand the consequences of these new interactions on the biology of three important subcellular compartments: primary cilia, lysosomes, and mitochondria.",
+    "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "dataset_description": "Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data set contains six replicates of GolgiTAG-IP, Control-IP, GolgiTAG whole cell extract and Control cells whole cell extract. The mass spectrometry data is acquired using variable data independent acquisition (vDIA) on an Orbitrap Exploris 480 mass spectrometer. Database searches performed against Human Uniprot database using Spectronaut search algorithm.",
+    "creators": [
+        {
+            "name": "Nirujogi, Raja",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+            "orcid": "0000-0002-3177-8566"
+        },
+        {
+            "name": "Phung, Toan",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK"
+        }
+    ],
+    "publication_date": "2026-02-03",
+    "version": "1.1",
+    "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "ASAP_lab_name": "Dario Alessi",
+    "PI_full_name": "Dario R. Alessi",
+    "PI_email": "d.r.alessi@dundee.ac.uk",
+    "submitter_name": "Dr. Raja Nirujogi, Dr. Toan Phung",
+    "submitter_email": "r.nirujogi@dundee.ac.uk; TPhung001@dundee.ac.uk",
+    "publication_DOI": "10.1073/pnas.2219953120",
+    "grant_ids": [
+        "ASAP-000463"
+    ],
+    "team_name": "Alessi"
+}

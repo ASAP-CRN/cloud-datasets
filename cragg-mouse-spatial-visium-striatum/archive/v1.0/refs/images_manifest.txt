@@ -1,0 +1,25 @@
+ 330345926  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-305.B1-Spot000001.jpg#1746541869699047  metageneration=1
+ 318263766  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-305.C1-Spot000001.jpg#1746541869699177  metageneration=1
+ 290074399  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-305_A1-Spot000003.jpg#1746541869692414  metageneration=1
+ 328787765  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-305_D1-Spot000001.jpg#1746541869755963  metageneration=1
+ 169861357  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-306.B1-Spot000001.jpg#1746541869738128  metageneration=1
+ 170592678  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-306.C1-Spot000001.jpg#1746541869747814  metageneration=1
+ 188133138  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505-sf-ParkinsonProject_V11D08-306.D1-Spot000001.jpg#1746541869670107  metageneration=1
+ 158277331  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220505_V11D08-306_SF_ParkinsonProject.A1-Spot000001.jpg#1746541869764494  metageneration=1
+ 175638300  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-070.A1-Spot000001.jpg#1746541869664083  metageneration=1
+ 174535783  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-070_B1-Spot000001.jpg#1746541869640452  metageneration=1
+ 206818316  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-070_C1-Spot000001.jpg#1746541869649285  metageneration=1
+ 202017197  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-070_D1-Spot000001.jpg#1746541869676582  metageneration=1
+ 220265650  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-099_A1-Spot000001.jpg#1746541869696797  metageneration=1
+ 222329604  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-099_B1-Spot000001.jpg#1746541869705198  metageneration=1
+ 236216305  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-099_C1-Spot000001.jpg#1746541869699153  metageneration=1
+ 244341591  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220525-sf-ParkinsonProject_V11D06-099_D1-Spot000001.jpg#1746541869678684  metageneration=1
+ 153017688  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-069.A1-Spot000001.jpg#1746541869729930  metageneration=1
+ 174718946  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-069.D1-Spot000001.jpg#1746541869719493  metageneration=1
+ 159767189  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-069_B1-Spot000001.jpg#1746541869721445  metageneration=1
+ 167216477  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-069_C1-Spot000001.jpg#1746541869731453  metageneration=1
+ 216198226  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-100_A1-Spot000001.jpg#1746541869699908  metageneration=1
+ 213665376  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-100_B1-Spot000001.jpg#1746541869723755  metageneration=1
+ 228324545  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-100_C1-Spot000001.jpg#1746541869706414  metageneration=1
+ 207588836  2025-05-06T14:31:09Z  gs://asap-raw-team-cragg-mouse-spatial-visium-striatum/images/ST_hires_images/220526-sf-ParkinsonProject_V11D06-100_D1-Spot000001.jpg#1746541869714424  metageneration=1
+TOTAL: 24 objects, 5156996389 bytes (4.8 GiB)

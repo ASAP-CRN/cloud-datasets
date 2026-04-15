@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors\".</p>\n<p><strong>Description:</strong> Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Parietal Lobule (IPL), and Anterior Cingulate Cortex (ACG). Types of Samples: Late stage (Braak 5-6) PD and control post-mortem brains.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2024-12-11",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Fairbrother-Browne, Aine",
+                "affiliation": "UCL/EBI",
+                "orcid": "0000-0002-7196-1410"
+            },
+            {
+                "name": "Brenton, Jonathan",
+                "affiliation": "UCL/Cambridge",
+                "orcid": "0000-0002-2381-8484"
+            },
+            {
+                "name": "Grant-Peters, Melissa",
+                "affiliation": "Cambridge",
+                "orcid": "0000-0003-0585-0971"
+            },
+            {
+                "name": "Reynolds, Regina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-6470-7919"
+            },
+            {
+                "name": "Ryten, Mina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-9520-6957"
+            },
+            {
+                "name": "Jaunmuktane, Zane",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-7738-8881"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Hardy"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000478"
+            }
+        ]
+    }
+}

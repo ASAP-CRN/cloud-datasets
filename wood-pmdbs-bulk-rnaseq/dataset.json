@@ -1,0 +1,62 @@
+{
+  "name": "wood-pmdbs-bulk-rnaseq",
+  "title": "team-wood-pmdbs-bulk-rnaseq",
+  "description": "pmdbs-bulk-rnaseq dataset from team-wood",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.16749007",
+  "creators": [
+    {
+      "name": "team-wood",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-bulk-rnaseq",
+    "pmdbs-bulk-rnaseq",
+    "wood"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-bulk-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-team-wood-pmdbs-bulk-rnaseq",
+    "dev": "gs://asap-dev-team-wood-pmdbs-bulk-rnaseq",
+    "uat": "gs://asap-uat-team-wood-pmdbs-bulk-rnaseq",
+    "prod": "gs://asap-curated-team-wood-pmdbs-bulk-rnaseq"
+  },
+  "cde_version": "v3.0",
+  "releases": {
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
+  }
+}

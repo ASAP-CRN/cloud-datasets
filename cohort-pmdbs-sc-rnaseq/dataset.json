@@ -1,0 +1,66 @@
+{
+  "name": "cohort-pmdbs-sc-rnaseq",
+  "title": "asap-cohort-pmdbs-sc-rnaseq",
+  "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
+  "version": "v3.1.0",
+  "doi": "10.5281/zenodo.17860778",
+  "creators": [
+    {
+      "name": "asap-cohort",
+      "affiliation": "ASAP CRN"
+    }
+  ],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "cohort"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": "pmdbs-sc-rnaseq",
+  "buckets": {
+    "raw": "gs://asap-raw-cohort-pmdbs-sc-rnaseq",
+    "dev": "gs://asap-dev-cohort-pmdbs-sc-rnaseq",
+    "uat": "gs://asap-uat-cohort-pmdbs-sc-rnaseq",
+    "prod": "gs://asap-curated-cohort-pmdbs-sc-rnaseq"
+  },
+  "cde_version": "v3.3",
+  "releases": {
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v2.0.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v3.0.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v3.0.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v3.0.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v3.1.0"
+    }
+  }
+}
