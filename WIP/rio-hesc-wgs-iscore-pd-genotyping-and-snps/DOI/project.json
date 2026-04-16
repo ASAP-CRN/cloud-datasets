@@ -1,0 +1,172 @@
+{
+    "project_name": "iSCORE-PD",
+    "project_description": "The iSCORE-PD project generated a collection of 65 isogenic human stem cell lines harboring Parkinson's disease-associated mutations in an isogenic WIBR3 hESC background, enabling genetically controlled studies of PD risk genes in disease-relevant cell types.",
+    "dataset_title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
+    "dataset_description": "Whole-genome sequencing (WGS) data for the iSCORE-PD isogenic hESC clone collection. 150bp paired-end WGS was performed on Illumina NovaSeq X for 49 mutant clones across 11 PD-linked genes, 12 control lines (8 engineered wild-type subclones, 3 WIBR3 subclones, and the WIBR3 parental line), and 5 DJ1/PARK7 heterozygous clones. Variants were called using DeepVariant and jointly genotyped with GLnexus v1.4.1, producing per-chromosome VCF files aligned to GRCh38.",
+    "creators": [
+        {
+            "name": "Busquets, Oriol",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Ruth L. and David S. Gottesman Institute for Stem Cell and Regenerative Medicine Research, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-1372-9699"
+        },
+        {
+            "name": "Li, Hanqin",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Innovative Genomics Institute, University of California, Berkeley, CA, 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0001-7995-1084"
+        },
+        {
+            "name": "Syed, Khaja Mohieddin",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-7682-7608"
+        },
+        {
+            "name": "Alvarez-Jerez, Pilar",
+            "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA,& Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, University College London, London, UK",
+            "orcid": "0000-0002-5812-1898"
+        },
+        {
+            "name": "Dunnack, Jesse",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-0387-0090"
+        },
+        {
+            "name": "Lo Bu, Riana",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-1732-5878"
+        },
+        {
+            "name": "Verma, Yogendra",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0003-3380-6089"
+        },
+        {
+            "name": "Pangilinan, Gabriella R.",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0003-2662-7883"
+        },
+        {
+            "name": "Martin, Annika",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+            "orcid": "0009-0006-3369-1495"
+        },
+        {
+            "name": "Straub, Jannes",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-7178-1663"
+        },
+        {
+            "name": "Du, YuXin",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0001-5212-5372"
+        },
+        {
+            "name": "Simon, Vivien M.",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+            "orcid": "0009-0001-1976-0937"
+        },
+        {
+            "name": "Poser, Steven",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0003-4868-1389"
+        },
+        {
+            "name": "Bush, Zipporiah",
+            "affiliation": "Department of Genetics, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461,USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-6304-9579"
+        },
+        {
+            "name": "Diaz, Jessica",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0001-7165-6590"
+        },
+        {
+            "name": "Sahagun, Atehsa",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Department of Neuroscience, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0001-7521-3279"
+        },
+        {
+            "name": "Gao, Jianpu",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+            "orcid": "0009-0007-4535-6587"
+        },
+        {
+            "name": "Hong, Samantha",
+            "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA",
+            "orcid": "0009-0001-8968-6461"
+        },
+        {
+            "name": "Hernandez, Dena G.",
+            "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD,20892, US.",
+            "orcid": "0000-0002-0188-9927"
+        },
+        {
+            "name": "Levine, Kristin S.",
+            "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA",
+            "orcid": "0000-0002-5702-0980"
+        },
+        {
+            "name": "Pochet, Nathalie",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA.",
+            "orcid": "0000-0003-1820-5656"
+        },
+        {
+            "name": "Booth, Ezgi O.",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0001-9213-8426"
+        },
+        {
+            "name": "Blanchette, Marco",
+            "affiliation": "LiftOff Biosolution. 813 Isbel Ct, Santa Cruz 95060, USA.",
+            "orcid": "0009-0005-5592-7166"
+        },
+        {
+            "name": "Bateup, Helen S.",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Department of Neuroscience, University of California, Berkeley, Berkeley, CA 94720, USA,& Chan Zuckerberg Biohub, San Francisco, CA, 94158, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-0135-0972"
+        },
+        {
+            "name": "Rio, Donald C.",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-4775-3515"
+        },
+        {
+            "name": "Blauwendraat, Cornelis",
+            "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA,& Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD,20892, US",
+            "orcid": "0000-0001-9358-8111"
+        },
+        {
+            "name": "Hockemeyer, Dirk",
+            "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Innovative Genomics Institute, University of California, Berkeley, CA, 94720, USA,& Chan Zuckerberg Biohub, San Francisco, CA, 94158, USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-5598-5092"
+        },
+        {
+            "name": "Soldner, Frank",
+            "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Ruth L. and David S. Gottesman Institute for Stem Cell and Regenerative Medicine Research, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461, USA,& Department of Genetics, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461,USA,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+            "orcid": "0000-0002-7102-8655"
+        }
+    ],
+    "publication_date": "2026-04-15",
+    "version": "0.1",
+    "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Donald Rio",
+    "PI_email": "don_rio@berkeley.edu",
+    "coPI_full_name": [
+        "Frank Soldner",
+        "Dirk Hockemeyer",
+        "Helen Bateup"
+    ],
+    "coPI_email": [
+        "frank.soldner@einsteinmed.edu",
+        "hockemeyer@berkeley.edu",
+        "bateup@berkeley.edu"
+    ],
+    "submitter_name": "Jesse Dunnack",
+    "submitter_email": "jessedunnack@berkeley.edu",
+    "publication_DOI": "",
+    "grant_ids": [
+        "ASAP-024409",
+        " ASAP-000486"
+    ],
+    "team_name": "Rio"
+}

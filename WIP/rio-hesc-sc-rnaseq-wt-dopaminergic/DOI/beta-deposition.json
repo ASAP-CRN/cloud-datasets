@@ -1,0 +1,216 @@
+{
+  "created": "2026-04-16T00:47:35.303595+00:00",
+  "modified": "2026-04-16T00:47:35.710134+00:00",
+  "id": 19600811,
+  "conceptrecid": "19600810",
+  "doi": "10.5281/zenodo.19600811",
+  "conceptdoi": "10.5281/zenodo.19600810",
+  "doi_url": "https://doi.org/10.5281/zenodo.19600811",
+  "metadata": {
+    "title": "iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons",
+    "doi": "10.5281/zenodo.19600811",
+    "publication_date": "2026-04-15",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons\".</p>\n<p><strong>Description:</strong> Single-cell RNA sequencing of WIBR3 hESC-derived dopaminergic neurons differentiated for 35-37 days. Three biological replicates were independently differentiated and assayed via CellPlex-multiplexed 10x Chromium v3.1 scRNA-seq libraries.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Busquets, Oriol",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Ruth L. and David S. Gottesman Institute for Stem Cell and Regenerative Medicine Research, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-1372-9699"
+      },
+      {
+        "name": "Li, Hanqin",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Innovative Genomics Institute, University of California, Berkeley, CA, 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0001-7995-1084"
+      },
+      {
+        "name": "Syed, Khaja Mohieddin",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-7682-7608"
+      },
+      {
+        "name": "Alvarez-Jerez, Pilar",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA,& Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, University College London, London, UK",
+        "orcid": "0000-0002-5812-1898"
+      },
+      {
+        "name": "Dunnack, Jesse",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-0387-0090"
+      },
+      {
+        "name": "Lo Bu, Riana",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-1732-5878"
+      },
+      {
+        "name": "Verma, Yogendra",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0003-3380-6089"
+      },
+      {
+        "name": "Pangilinan, Gabriella R.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0003-2662-7883"
+      },
+      {
+        "name": "Martin, Annika",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "orcid": "0009-0006-3369-1495"
+      },
+      {
+        "name": "Straub, Jannes",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-7178-1663"
+      },
+      {
+        "name": "Du, YuXin",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0001-5212-5372"
+      },
+      {
+        "name": "Simon, Vivien M.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "orcid": "0009-0001-1976-0937"
+      },
+      {
+        "name": "Poser, Steven",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0003-4868-1389"
+      },
+      {
+        "name": "Bush, Zipporiah",
+        "affiliation": "Department of Genetics, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461,USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-6304-9579"
+      },
+      {
+        "name": "Diaz, Jessica",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0001-7165-6590"
+      },
+      {
+        "name": "Sahagun, Atehsa",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Department of Neuroscience, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0001-7521-3279"
+      },
+      {
+        "name": "Gao, Jianpu",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "orcid": "0009-0007-4535-6587"
+      },
+      {
+        "name": "Hong, Samantha",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA",
+        "orcid": "0009-0001-8968-6461"
+      },
+      {
+        "name": "Hernandez, Dena G.",
+        "affiliation": "Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD,20892, US.",
+        "orcid": "0000-0002-0188-9927"
+      },
+      {
+        "name": "Levine, Kristin S.",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA",
+        "orcid": "0000-0002-5702-0980"
+      },
+      {
+        "name": "Pochet, Nathalie",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA.",
+        "orcid": "0000-0003-1820-5656"
+      },
+      {
+        "name": "Booth, Ezgi O.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0001-9213-8426"
+      },
+      {
+        "name": "Blanchette, Marco",
+        "affiliation": "LiftOff Biosolution. 813 Isbel Ct, Santa Cruz 95060, USA.",
+        "orcid": "0009-0005-5592-7166"
+      },
+      {
+        "name": "Bateup, Helen S.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Department of Neuroscience, University of California, Berkeley, Berkeley, CA 94720, USA,& Chan Zuckerberg Biohub, San Francisco, CA, 94158, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-0135-0972"
+      },
+      {
+        "name": "Rio, Donald C.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-4775-3515"
+      },
+      {
+        "name": "Blauwendraat, Cornelis",
+        "affiliation": "Center for Alzheimer's and Related Dementias, National Institute on Aging and National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, 20892, USA,& Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD,20892, US",
+        "orcid": "0000-0001-9358-8111"
+      },
+      {
+        "name": "Hockemeyer, Dirk",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA,& Innovative Genomics Institute, University of California, Berkeley, CA, 94720, USA,& Chan Zuckerberg Biohub, San Francisco, CA, 94158, USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-5598-5092"
+      },
+      {
+        "name": "Soldner, Frank",
+        "affiliation": "Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Rose F. Kennedy Center, Albert Einstein College of Medicine, 1410 Pelham Parkway South, Bronx, NY 10461, USA,& Ruth L. and David S. Gottesman Institute for Stem Cell and Regenerative Medicine Research, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461, USA,& Department of Genetics, Albert Einstein College of Medicine, 1301 Morris Park Ave., Bronx, NY 10461,USA,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815,USA",
+        "orcid": "0000-0002-7102-8655"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Rio"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19600811",
+      "recid": 19600811
+    }
+  },
+  "title": "iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons",
+  "links": {
+    "self": "https://zenodo.org/api/records/19600811",
+    "html": "https://zenodo.org/records/19600811",
+    "doi": "https://doi.org/10.5281/zenodo.19600811",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19600810",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600811.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600810.svg",
+    "files": "https://zenodo.org/api/records/19600811/files",
+    "bucket": "https://zenodo.org/api/files/5cfaf6cd-8c3f-4801-98ca-0e9dd4377fce",
+    "thumb250": "https://zenodo.org/record/19600811/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19600811/thumb10",
+      "50": "https://zenodo.org/record/19600811/thumb50",
+      "100": "https://zenodo.org/record/19600811/thumb100",
+      "250": "https://zenodo.org/record/19600811/thumb250",
+      "750": "https://zenodo.org/record/19600811/thumb750",
+      "1200": "https://zenodo.org/record/19600811/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19600811",
+    "latest_draft_html": "https://zenodo.org/deposit/19600811",
+    "publish": "https://zenodo.org/api/deposit/depositions/19600811/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19600811/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19600811/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19600811/actions/newversion",
+    "record": "https://zenodo.org/api/records/19600811",
+    "record_html": "https://zenodo.org/record/19600811",
+    "latest": "https://zenodo.org/api/records/19600811/versions/latest",
+    "latest_html": "https://zenodo.org/records/19600811/latest"
+  },
+  "record_id": 19600811,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "c1eb7c5d-2ff0-453f-b21a-492affe061f5",
+      "filename": "rio-hesc-sc-rnaseq-wt-dopaminergic_README.pdf",
+      "filesize": 9125,
+      "checksum": "ff365a41192fe43dc963f738f9e2357d",
+      "links": {
+        "self": "https://zenodo.org/api/records/19600811/files/c1eb7c5d-2ff0-453f-b21a-492affe061f5",
+        "download": "https://zenodo.org/api/records/19600811/draft/files/rio-hesc-sc-rnaseq-wt-dopaminergic_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
