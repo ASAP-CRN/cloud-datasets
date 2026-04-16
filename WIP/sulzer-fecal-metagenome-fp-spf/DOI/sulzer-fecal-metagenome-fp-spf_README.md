@@ -15,7 +15,7 @@ A number of microbial taxa have been found to be reduced in Parkinson's disease 
 
 **ASAP Team:** Sulzer
 
-**Dataset Name:** sulzer-fecal-metagenome-fp-spf, v0.1
+**Dataset Name:** sulzer-fecal-metagenome-fp-spf, v1.0
 
 **Principal Investigator:** Sarkis, K, Mazmanian, sarkis@caltech.edu
 
@@ -31,7 +31,7 @@ A number of microbial taxa have been found to be reduced in Parkinson's disease 
 
 **Project Description:** This project examines the role of the gut microbiome in Parkinson's disease (PD) with a focus on inflammation and gut mucosal adaptive immunity. Mouse models are able to illuminate the effects of alterations to the gut microbiome on various neurological characteristics commonly associated with PD. Areas of emphasis cover various aspects of the gut-brain axis, from probiotic treatment and gut mucosal immunity to behavior and motor function. Fecal shotgun metagenomic data is used to provide a snapshot of the gut microbial community under various experimental conditions.
 
-**Submission Date:** 2026-03-12
+**Submission Date:** 2026-03-30
 
 __________________________________________
 

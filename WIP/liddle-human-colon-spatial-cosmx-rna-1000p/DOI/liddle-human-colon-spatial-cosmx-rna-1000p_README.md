@@ -9,37 +9,33 @@ NanoString CosMxTM human sigmoid colon RNA 1000-plex dataset exported from Atomx
 
 **Authors:**
 
-* Bolen, MacKenzie L.; [ORCID:0000-0003-1973-3784](0000-0003-1973-3784); Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; 
-Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA
-* Buendia, Marc; University of Barcelona, Gran Via de les Corts, Catalanes, 585, L’Eixample, 08007, Barcelona, Spain
-August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;
-7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
-* Shi, Ji; Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
-* Salas, Azucena; University of Barcelona, Gran Via de les Corts, Catalanes, 585, L’Eixample, 08007, Barcelona, Spain
-* Thompson, E. Aubrey; Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
-* Tansey, Malú G.; [ORCID:0000-0002-1719-4708](0000-0002-1719-4708); Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; 
-Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA
+* Bolen, MacKenzie L.; [ORCID:0000-0003-1973-3784](0000-0003-1973-3784); Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA
+* Buendia, Marc; [ORCID:Not available](Not available); University of Barcelona, Gran Via de les Corts, Catalanes, 585, L’Eixample, 08007, Barcelona, Spain,& August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;,& 7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
+* Shi, Ji; [ORCID:Not available](Not available); Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
+* Salas, Azucena; [ORCID:Not available](Not available); University of Barcelona, Gran Via de les Corts, Catalanes, 585, L’Eixample, 08007, Barcelona, Spain
+* Thompson, E. Aubrey; [ORCID:Not available](Not available); Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA
+* Tansey, Malú G.; [ORCID:0000-0002-1719-4708](0000-0002-1719-4708); Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA
 
 
 **ASAP Team:** Liddle
 
 **Dataset Name:** liddle-human-colon-spatial-cosmx-rna-1000p, v1.0
 
-**Principal Investigator:** NA, NA
+**Principal Investigator:** Mal? Gamez Tansey, mgtansey@iu.edu
 
-**Dataset Submitter:** Bolen, MacKenzie L, mbolen@stanford.edu
+**Dataset Submitter:** MacKenzie Bolen, mbolen@stanford.edu
 
-**Publication DOI:** NA
+**Publication DOI:** https://doi.org/10.1038/s41531-025-01199-2
 
-**Grant IDs:** ['ASAP-020527']
+**Grant IDs:** ['ASAP-020527 ']
 
-**ASAP Lab:** NA
+**ASAP Lab:** Tansey
 
 **ASAP Project:** Role of enteroendocrine cells in the origin of Parkinson's pathology
 
 **Project Description:** The gastrointestinal tract has been implicated in the origins of PD through the formation and spread of pathological alpha-synuclein. Moreover, environmental toxins, alterations in the gut microbiome, and gut inflammation contribute to the risk and progression of PD. We propose the targeted study of a novel circuit that connects microbes and immune regulators with enteroendocrine cells, sensory cells of the gut. In this circuit under investigation, enteroendocrine cells are predicted as the origin of toxin- and microbe-stimulated pathological alpha-synuclein that spreads to the vagus and beyond. This project investigates the gut-barrier in Parkinson's disease in the body-first hypothesis of PD that our team has focused on in the context of the enteroendocrine cell-enteric nervous system circuit.
 
-**Submission Date:** 2025-12-12
+**Submission Date:** 2026-02-26
 
 __________________________________________
 

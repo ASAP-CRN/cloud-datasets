@@ -23,13 +23,10 @@ The microbial species abundance table: list of microbial species detected from f
 * Lucas Del Pozo, Sara; [ORCID:0000-0002-5431-8204](0000-0002-5431-8204); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
 * Mezabrovschi, Roxana; [ORCID:0000-0001-8580-0629](0000-0001-8580-0629); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
 * Koletsi, Sofia; [ORCID:0000-0002-6661-7797](0000-0002-6661-7797); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
-* Loefflad, Nadine; [ORCID:0000-0002-9940-7753](0000-0002-9940-7753); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &
-Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
-* Yalkic, Selen; [ORCID:0000-0002-9811-6612](0000-0002-9811-6612); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &
-Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
+* Loefflad, Nadine; [ORCID:0000-0002-9940-7753](0000-0002-9940-7753); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
+* Yalkic, Selen; [ORCID:0000-0002-9811-6612](0000-0002-9811-6612); Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
 * Limbachiya, Naomi; Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815
-* Blottière, Hervé; [ORCID:0000-0002-8390-0607](0000-0002-8390-0607); Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Université Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &
-Nantes Université, INRAE, UMR 1280, PhAN Nantes FR
+* Blottière, Hervé; [ORCID:0000-0002-8390-0607](0000-0002-8390-0607); Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Université Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &,& Nantes Université, INRAE, UMR 1280, PhAN Nantes FR
 * Morabito, Christian; [ORCID:0000-0002-3193-7299](0000-0002-3193-7299); Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Université Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France
 * David, Aymeric; [ORCID:0000-0002-4951-0058](0000-0002-4951-0058); Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Université Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France
 * Quinquis, Benoit; [ORCID:0000-0002-7573-969X](0000-0002-7573-969X); Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Université Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France
@@ -46,7 +43,7 @@ Nantes Université, INRAE, UMR 1280, PhAN Nantes FR
 
 **ASAP Team:** Schapira
 
-**Dataset Name:** schapira-fecal-metagenome-human-baseline, v1.0.0
+**Dataset Name:** schapira-fecal-metagenome-human-baseline, v1.0
 
 **Principal Investigator:** Antony Schapira, a.schapira@ucl.ac.uk
 
@@ -62,7 +59,7 @@ Nantes Université, INRAE, UMR 1280, PhAN Nantes FR
 
 **Project Description:** This is a cross-sectional study comparing the gut (fecal) microbiome composition, analyzed thorough shotgun metagenomic sequencing, of three groups of individuals: 1) individuals with manifest Parkinson's disease, 2) non-manifesting GBA1 variant carriers (individuals who are at increased risk of developing Parkinson's disease because carriers of GBA1 genetic variants), and 3) healthy controls. The study also evaluated associations between gut microbiome alterations and clinical features suggestive of Parkinson's disease, in both Parkinson's disease and non-parkinsonian individuals (GBA1 variant carriers and healthy controls). For the three groups, the following datasets have been generated: A dataset including demographics and clinical features; A dataset including the list of microbial species detected from fecal samples sequenced by shotgun metagenomic sequencing (microbial species abundance table); A dataset including the list of microbial functions detected from fecal samples sequenced by shotgun metagenomic sequencing (microbial functional abundance table).
 
-**Submission Date:** 2026-01-31
+**Submission Date:** 2026-02-26
 
 __________________________________________
 

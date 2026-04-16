@@ -1,10 +1,10 @@
 This Zenodo deposit contains a publicly available description of the Dataset:
 
-# "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet".
+# "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice".
 
 ## Dataset Description:
  
-G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, striatal tissue was collected for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).
+The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).
 
 
 **Authors:**
@@ -15,7 +15,7 @@ G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a n
 
 **ASAP Team:** Lee
 
-**Dataset Name:** lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet, v1.0.0
+**Dataset Name:** lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet, v1.0
 
 **Principal Investigator:** Darren J. Moore, Darren.Moore@vai.org
 
@@ -31,7 +31,7 @@ G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a n
 
 **Project Description:** Mutations in LRRK2 gene cause late-onset, autosomal dominant forms of familial PD that are clinically indistinguishable from sporadic PD. In addition, LRRK2 gene polymorphisms are associated with sporadic PD risk. The late disease-onset with these PD-linked genes suggest that interactions with age-related pathways are critical for manifesting or unmasking their pathogenic actions. Studies in experimental models further suggest that PD-linked LRRK2 mutations can induce abnormal mitochondrial function, lysosomal activity, autophagy, proteostasis and inflammatory processes, pathways that are dysregulated by cellular senescence. Our project focuses on determining whether:(1) PD-linked mutations in LRRK2 induce cellular senescence in the rodent brain, (2) increased senescence can exacerbate or unmask PD-like neurodegenerative phenotypes in LRRK2 mouse models, and (3) if removing senescent cells will provide neuroprotection in LRRK2 rodent models of PD.
 
-**Submission Date:** 2026-01-31
+**Submission Date:** 2026-02-26
 
 __________________________________________
 

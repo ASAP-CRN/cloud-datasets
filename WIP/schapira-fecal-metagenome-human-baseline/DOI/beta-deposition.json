@@ -1,6 +1,6 @@
 {
   "created": "2026-01-23T18:05:11.977969+00:00",
-  "modified": "2026-01-23T18:05:12.843223+00:00",
+  "modified": "2026-02-26T23:59:13.180523+00:00",
   "id": 18353681,
   "conceptrecid": "18353680",
   "doi": "10.5281/zenodo.18353681",
@@ -85,12 +85,12 @@
       },
       {
         "name": "Loefflad, Nadine",
-        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
         "orcid": "0000-0002-9940-7753"
       },
       {
         "name": "Yalkic, Selen",
-        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+        "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
         "orcid": "0000-0002-9811-6612"
       },
       {
@@ -99,7 +99,7 @@
       },
       {
         "name": "Blotti\u00e8re, Herv\u00e9",
-        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &\nNantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &,& Nantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
         "orcid": "0000-0002-8390-0607"
       },
       {
@@ -175,6 +175,11 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.18353681",

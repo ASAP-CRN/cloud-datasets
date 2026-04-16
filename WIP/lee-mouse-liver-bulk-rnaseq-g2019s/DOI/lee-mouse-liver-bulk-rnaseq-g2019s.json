@@ -3,8 +3,8 @@
         "title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
         "upload_type": "dataset",
         "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice\".</p>\n<p><strong>Description:</strong> The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
-        "publication_date": "2026-01-31",
-        "version": "1.0.0",
+        "publication_date": "2026-02-26",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Ma, Yue",

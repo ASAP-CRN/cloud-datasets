@@ -76,12 +76,12 @@
         },
         {
             "name": "Loefflad, Nadine",
-            "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+            "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
             "orcid": "0000-0002-9940-7753"
         },
         {
             "name": "Yalkic, Selen",
-            "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+            "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
             "orcid": "0000-0002-9811-6612"
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "name": "Blotti\u00e8re, Herv\u00e9",
-            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &\nNantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
+            "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &,& Nantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
             "orcid": "0000-0002-8390-0607"
         },
         {
@@ -154,8 +154,8 @@
             "orcid": "0000-0002-3018-3966"
         }
     ],
-    "publication_date": "2026-01-31",
-    "version": "1.0.0",
+    "publication_date": "2026-02-26",
+    "version": "1.0",
     "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
     "ASAP_lab_name": "INRAE MetaGenoPolis",
     "PI_full_name": "Antony Schapira",

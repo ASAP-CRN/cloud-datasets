@@ -15,7 +15,7 @@ Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and wh
 
 **ASAP Team:** Alessi
 
-**Dataset Name:** alessi-mefs-ms-p-vps35-d620n-dmso-mli2, v1.0.0
+**Dataset Name:** alessi-mefs-ms-p-vps35-d620n-dmso-mli2, v1.0
 
 **Principal Investigator:** Dario R. Alessi, d.r.alessi@dundee.ac.uk
 
@@ -31,7 +31,7 @@ Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and wh
 
 **Project Description:** LRRK2 targets and modifies a set of enzymes known as Rab GTPases, triggering new biological events by creating new protein: protein interactions. We aim to decipher what controls the activity of LRRK2 and to explore, in precise molecular detail, how this enzyme affects three major cellular structures (cilia, lysosomes and mitochondria) implicated in Parkinson's disease. We showed that mutant LRRK2 triggers a series of molecular changes that cause new sets of proteins to interact. Our goal is to use a combination of state-of-the-art approaches to understand the consequences of these new interactions on the biology of three important subcellular compartments: primary cilia, lysosomes, and mitochondria.
 
-**Submission Date:** 2026-01-31
+**Submission Date:** 2026-03-30
 
 __________________________________________
 

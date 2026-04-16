@@ -3,8 +3,8 @@
         "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
         "upload_type": "dataset",
         "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls\".</p>\n<p><strong>Description:</strong> The microbial species abundance table: list of microbial species detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial species catalogues. The species are listed as msp_ID, which corresponds to metagenomic species pangenomes (MSPs), which is a collection of known or still unknown species reconstructed from human gut metagenomic assemblies. The MSPs are annotated at all taxonomical level using the Genome Taxonomy Database GDTB R07-RS207 database, up until the lowest known taxonomical rank. The microbial functional abundance table: list of microbial functions detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial gene catalogues and annotated with KEGG, eggNOG and TIGRFAM databases. These databases are used to infer the presence, abundance and completeness of functional modules (Gut-Brain modules, Gut-Metabolic modules and KEGG modules) in each metagenomic samples.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
-        "publication_date": "2026-01-31",
-        "version": "1.0.0",
+        "publication_date": "2026-02-26",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Menozzi, Elisa",
@@ -78,12 +78,12 @@
             },
             {
                 "name": "Loefflad, Nadine",
-                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
                 "orcid": "0000-0002-9940-7753"
             },
             {
                 "name": "Yalkic, Selen",
-                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &\nAligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
                 "orcid": "0000-0002-9811-6612"
             },
             {
@@ -92,7 +92,7 @@
             },
             {
                 "name": "Blotti\u00e8re, Herv\u00e9",
-                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &\nNantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &,& Nantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
                 "orcid": "0000-0002-8390-0607"
             },
             {

@@ -15,7 +15,7 @@ The liver was collected from G2019S LRRK2 knockin mice and their wild-type litte
 
 **ASAP Team:** Lee
 
-**Dataset Name:** lee-mouse-liver-bulk-rnaseq-g2019s, v1.0.0
+**Dataset Name:** lee-mouse-liver-bulk-rnaseq-g2019s, v1.0
 
 **Principal Investigator:** Darren J. Moore, Darren.Moore@vai.org
 
@@ -31,7 +31,7 @@ The liver was collected from G2019S LRRK2 knockin mice and their wild-type litte
 
 **Project Description:** Mutations in LRRK2 gene cause late-onset, autosomal dominant forms of familial PD that are clinically indistinguishable from sporadic PD. In addition, LRRK2 gene polymorphisms are associated with sporadic PD risk. The late disease-onset with these PD-linked genes suggest that interactions with age-related pathways are critical for manifesting or unmasking their pathogenic actions. Studies in experimental models further suggest that PD-linked LRRK2 mutations can induce abnormal mitochondrial function, lysosomal activity, autophagy, proteostasis and inflammatory processes, pathways that are dysregulated by cellular senescence. Our project focuses on determining whether:(1) PD-linked mutations in LRRK2 induce cellular senescence in the rodent brain, (2) increased senescence can exacerbate or unmask PD-like neurodegenerative phenotypes in LRRK2 mouse models, and (3) if removing senescent cells will provide neuroprotection in LRRK2 rodent models of PD.
 
-**Submission Date:** 2026-01-31
+**Submission Date:** 2026-02-26
 
 __________________________________________
 

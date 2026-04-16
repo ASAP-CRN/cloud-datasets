@@ -1,0 +1,86 @@
+{
+  "created": "2026-03-28T16:22:17.614486+00:00",
+  "modified": "2026-03-28T16:22:30.972849+00:00",
+  "id": 19291616,
+  "conceptrecid": "18476408",
+  "conceptdoi": "10.5281/zenodo.18476408",
+  "metadata": {
+    "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs)",
+    "publication_date": "2026-03-28",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs)\".</p>\n<p><strong>Description:</strong> Quantitative DIA-based proteomic analysis comparing isolated lysosomes (Lyso-IP) from Wild-Type and VPS35[D620N] knock-in MEFs. This dataset provides the basal characterization of mutant lysosomal protein changes without inhibitor treatment. Expression of the 3XHA-TMEM192 tag was verified by genotyping PCR and anti-HA Western Blotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Lam, Pui Yiu",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0001-5486-091X"
+      },
+      {
+        "name": "Taylor, Matthew",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0002-4003-3128"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19291616",
+      "recid": 19291616
+    }
+  },
+  "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs)",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/19291616",
+    "html": "https://zenodo.org/deposit/19291616",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/19291616/files",
+    "bucket": "https://zenodo.org/api/files/f388c4b3-51d3-4ba4-825c-bcc179c03df4",
+    "thumb250": "https://zenodo.org/record/19291616/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19291616/thumb10",
+      "50": "https://zenodo.org/record/19291616/thumb50",
+      "100": "https://zenodo.org/record/19291616/thumb100",
+      "250": "https://zenodo.org/record/19291616/thumb250",
+      "750": "https://zenodo.org/record/19291616/thumb750",
+      "1200": "https://zenodo.org/record/19291616/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19291616",
+    "latest_draft_html": "https://zenodo.org/deposit/19291616",
+    "publish": "https://zenodo.org/api/deposit/depositions/19291616/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19291616/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19291616/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19291616/actions/newversion"
+  },
+  "record_id": 19291616,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "c3d968a6-1f57-4ada-99ec-5b354828bb68",
+      "filename": "alessi-mefs-ms-p-vps35-d620n-wt_README.pdf",
+      "filesize": 4873,
+      "checksum": "f9a370ed136b2d85add8e84a7a9b7442",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/19291616/files/c3d968a6-1f57-4ada-99ec-5b354828bb68",
+        "download": "https://zenodo.org/api/records/19291616/draft/files/alessi-mefs-ms-p-vps35-d620n-wt_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

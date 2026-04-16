@@ -1,0 +1,99 @@
+{
+  "created": "2026-03-28T16:34:17.818626+00:00",
+  "modified": "2026-03-28T16:34:18.506543+00:00",
+  "id": 19291795,
+  "conceptrecid": "18989559",
+  "doi": "10.5281/zenodo.19291795",
+  "conceptdoi": "10.5281/zenodo.18989559",
+  "doi_url": "https://doi.org/10.5281/zenodo.19291795",
+  "metadata": {
+    "title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+    "doi": "10.5281/zenodo.19291795",
+    "publication_date": "2026-03-28",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii\".</p>\n<p><strong>Description:</strong> A number of microbial taxa have been found to be reduced in Parkinson's disease (PD). Treatment of \u03b1-synuclein overxpressing (Thy1-ASO) mice, an animal model of PD, with these taxa has also been shown to improve motor and GI deficits. This dataset focuses on one of the reduced taxa, Faecalibacterium prausnitzii, and the effect of providing it as an oral treatment to both Thy1-ASO mice and wild-type controls.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Moiseyenko, Anastasiya",
+        "affiliation": "California Institute of Technology",
+        "orcid": "0000-0001-5379-7808"
+      },
+      {
+        "name": "Mazmanian, Sarkis",
+        "affiliation": "California Institute of Technology",
+        "orcid": "0000-0003-2713-1513"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Sulzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-020495"
+      },
+      {
+        "id": "10.13039/100018231::ASAP-000375"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19291795",
+      "recid": 19291795
+    }
+  },
+  "title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+  "links": {
+    "self": "https://zenodo.org/api/records/19291795",
+    "html": "https://zenodo.org/records/19291795",
+    "doi": "https://doi.org/10.5281/zenodo.19291795",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18989559",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19291795.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18989559.svg",
+    "files": "https://zenodo.org/api/records/19291795/files",
+    "bucket": "https://zenodo.org/api/files/a06c6bc3-755e-499a-a90e-0742f705cd72",
+    "thumb250": "https://zenodo.org/record/19291795/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19291795/thumb10",
+      "50": "https://zenodo.org/record/19291795/thumb50",
+      "100": "https://zenodo.org/record/19291795/thumb100",
+      "250": "https://zenodo.org/record/19291795/thumb250",
+      "750": "https://zenodo.org/record/19291795/thumb750",
+      "1200": "https://zenodo.org/record/19291795/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19291795",
+    "latest_draft_html": "https://zenodo.org/deposit/19291795",
+    "publish": "https://zenodo.org/api/deposit/depositions/19291795/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19291795/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19291795/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19291795/actions/newversion",
+    "record": "https://zenodo.org/api/records/19291795",
+    "record_html": "https://zenodo.org/record/19291795",
+    "latest": "https://zenodo.org/api/records/19291795/versions/latest",
+    "latest_html": "https://zenodo.org/records/19291795/latest"
+  },
+  "record_id": 19291795,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f16a4a40-bf11-4798-9c33-9a93d300a3b6",
+      "filename": "sulzer-fecal-metagenome-fp-spf_README.pdf",
+      "filesize": 4580,
+      "checksum": "611351b9a566acb39d07ee8c438dec47",
+      "links": {
+        "self": "https://zenodo.org/api/records/19291795/files/f16a4a40-bf11-4798-9c33-9a93d300a3b6",
+        "download": "https://zenodo.org/api/records/19291795/draft/files/sulzer-fecal-metagenome-fp-spf_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

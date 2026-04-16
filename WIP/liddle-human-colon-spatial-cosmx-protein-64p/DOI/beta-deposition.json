@@ -1,6 +1,6 @@
 {
-  "created": "2025-12-12T23:58:17.861522+00:00",
-  "modified": "2025-12-12T23:58:18.195651+00:00",
+  "created": "2025-12-12T23:58:09.356598+00:00",
+  "modified": "2026-02-26T23:45:37.692078+00:00",
   "id": 17917772,
   "conceptrecid": "17917771",
   "doi": "10.5281/zenodo.17917772",
@@ -15,28 +15,28 @@
     "creators": [
       {
         "name": "Bolen, MacKenzie L.",
-        "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+        "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
         "orcid": "0000-0003-1973-3784"
       },
       {
-        "name": "Buendia, Marc",
-        "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L'Eixample, 08007, Barcelona, Spain\nAugust Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;\n7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L'Eixample, 08007, Barcelona, Spain,& August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;,& 7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+        "orcid": "Nota-vail-able-"
       },
       {
-        "name": "Shi, Ji",
-        "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+        "orcid": "Nota-vail-able-"
       },
       {
-        "name": "Salas, Azucena",
-        "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L'Eixample, 08007, Barcelona, Spain"
+        "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L'Eixample, 08007, Barcelona, Spain",
+        "orcid": "Nota-vail-able-"
       },
       {
-        "name": "Thompson, E. Aubrey",
-        "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA"
+        "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+        "orcid": "Nota-vail-able-"
       },
       {
         "name": "Tansey, Mal\u00fa G.",
-        "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA; \nDepartment of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+        "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
         "orcid": "0000-0002-1719-4708"
       }
     ],
@@ -52,6 +52,11 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.17917772",
@@ -60,14 +65,12 @@
   },
   "title": "Bolen Human Sigmoid Colon Protein CosMx Dataset",
   "links": {
-    "self": "https://zenodo.org/api/records/17917772",
-    "html": "https://zenodo.org/records/17917772",
+    "self": "https://zenodo.org/api/deposit/depositions/17917772",
+    "html": "https://zenodo.org/deposit/17917772",
     "doi": "https://doi.org/10.5281/zenodo.17917772",
-    "parent_doi": "https://doi.org/10.5281/zenodo.17917771",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17917772.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17917771.svg",
-    "files": "https://zenodo.org/api/records/17917772/files",
-    "bucket": "https://zenodo.org/api/files/ac66c43c-fdda-4894-96fe-2a421f76fed3",
+    "files": "https://zenodo.org/api/deposit/depositions/17917772/files",
+    "bucket": "https://zenodo.org/api/files/014f8fb7-492b-455a-a540-0f514b6e7652",
     "thumb250": "https://zenodo.org/record/17917772/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/17917772/thumb10",
@@ -97,11 +100,11 @@
       "filesize": 5090,
       "checksum": "b20e86294c5da1af3cdd551a4b0721a2",
       "links": {
-        "self": "https://zenodo.org/api/records/17917772/files/874e84f9-caf9-4b42-95dc-d8ba5f7809fb",
+        "self": "https://zenodo.org/api/deposit/depositions/17917772/files/874e84f9-caf9-4b42-95dc-d8ba5f7809fb",
         "download": "https://zenodo.org/api/records/17917772/draft/files/liddle-human-colon-spatial-cosmx-protein-64p_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }

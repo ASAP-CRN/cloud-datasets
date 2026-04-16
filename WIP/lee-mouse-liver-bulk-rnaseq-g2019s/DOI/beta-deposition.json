@@ -1,6 +1,6 @@
 {
   "created": "2026-01-16T20:55:34.163771+00:00",
-  "modified": "2026-01-16T20:55:35.182593+00:00",
+  "modified": "2026-02-26T22:45:03.414700+00:00",
   "id": 18273811,
   "conceptrecid": "18273810",
   "doi": "10.5281/zenodo.18273811",
@@ -36,6 +36,11 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.18273811",
