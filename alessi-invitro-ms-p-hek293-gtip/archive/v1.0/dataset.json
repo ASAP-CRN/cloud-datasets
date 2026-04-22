@@ -3,7 +3,7 @@
   "title": "team-alessi-invitro-ms-p-hek293-gtip",
   "description": "proteomics dataset from team-alessi",
   "version": "v1.0",
-  "doi": null,
+  "doi": "10.5281/zenodo.17355407",
   "creators": [
     {
       "name": "team-alessi",
@@ -28,11 +28,15 @@
   "releases": {
     "v3.0.1": {
       "cde_version": "v3.3",
-      "date": null
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
     },
     "v4.0.0": {
       "cde_version": "v3.3",
-      "date": null
+      "dataset_version": "v1.0"
     }
   }
 }

@@ -3,7 +3,7 @@
   "title": "team-sulzer-pmdbs-sn-rnaseq",
   "description": "pmdbs-sc-rnaseq dataset from team-sulzer",
   "version": "v1.0",
-  "doi": null,
+  "doi": "10.5281/zenodo.17612853",
   "creators": [
     {
       "name": "team-sulzer",
@@ -28,7 +28,7 @@
   "releases": {
     "v4.0.0": {
       "cde_version": "v3.3",
-      "date": null
+      "dataset_version": "v1.0"
     }
   }
 }

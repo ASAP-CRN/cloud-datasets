@@ -3,7 +3,7 @@
   "title": "team-biederer-mouse-sc-rnaseq",
   "description": "mouse-sc-rnaseq dataset from team-biederer",
   "version": "v1.0",
-  "doi": null,
+  "doi": "10.5281/zenodo.15485103",
   "creators": [
     {
       "name": "team-biederer",
@@ -28,15 +28,27 @@
   "releases": {
     "v2.0.2": {
       "cde_version": "v3.1",
-      "date": null
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
     },
     "v3.0.0": {
       "cde_version": "v3.2",
-      "date": null
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
     },
     "v4.0.0": {
       "cde_version": "v3.3",
-      "date": null
+      "dataset_version": "v1.0"
     }
   }
 }
