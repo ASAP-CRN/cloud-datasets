@@ -3,7 +3,7 @@
   "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
   "description": "pmdbs-bulk-rnaseq dataset from team-lee",
   "version": "v1.0",
-  "doi": null,
+  "doi": "10.5281/zenodo.16748937",
   "creators": [
     {
       "name": "team-lee",
@@ -28,15 +28,35 @@
   "releases": {
     "v2.0.0": {
       "cde_version": "v3.0",
-      "date": null
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
     },
     "v3.0.0": {
       "cde_version": "v3.2",
-      "date": null
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
     },
     "v4.0.0": {
       "cde_version": "v3.3",
-      "date": null
+      "dataset_version": "v1.0"
     }
   }
 }
