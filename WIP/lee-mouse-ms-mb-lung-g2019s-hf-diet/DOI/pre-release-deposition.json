@@ -1,0 +1,86 @@
+{
+  "created": "2026-04-30T17:31:54.255813+00:00",
+  "modified": "2026-04-30T17:32:05.736891+00:00",
+  "id": 19926117,
+  "conceptrecid": "18273832",
+  "conceptdoi": "10.5281/zenodo.18273832",
+  "metadata": {
+    "title": "Targeted metabolomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
+    "publication_date": "2026-04-30",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Targeted metabolomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 5-6 per group).</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19926117",
+      "recid": 19926117
+    }
+  },
+  "title": "Targeted metabolomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/19926117",
+    "html": "https://zenodo.org/deposit/19926117",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/19926117/files",
+    "bucket": "https://zenodo.org/api/files/d48f0281-d77f-4f35-a9d1-e6722aa86847",
+    "thumb250": "https://zenodo.org/record/19926117/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19926117/thumb10",
+      "50": "https://zenodo.org/record/19926117/thumb50",
+      "100": "https://zenodo.org/record/19926117/thumb100",
+      "250": "https://zenodo.org/record/19926117/thumb250",
+      "750": "https://zenodo.org/record/19926117/thumb750",
+      "1200": "https://zenodo.org/record/19926117/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19926117",
+    "latest_draft_html": "https://zenodo.org/deposit/19926117",
+    "publish": "https://zenodo.org/api/deposit/depositions/19926117/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19926117/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19926117/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19926117/actions/newversion"
+  },
+  "record_id": 19926117,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "05b08f1a-9086-4387-a0d3-c629343ef6e0",
+      "filename": "lee-mouse-ms-mb-lung-g2019s-hf-diet_README.pdf",
+      "filesize": 5722,
+      "checksum": "0d6d975abba19526c346430d19c70b73",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/19926117/files/05b08f1a-9086-4387-a0d3-c629343ef6e0",
+        "download": "https://zenodo.org/api/records/19926117/draft/files/lee-mouse-ms-mb-lung-g2019s-hf-diet_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}
