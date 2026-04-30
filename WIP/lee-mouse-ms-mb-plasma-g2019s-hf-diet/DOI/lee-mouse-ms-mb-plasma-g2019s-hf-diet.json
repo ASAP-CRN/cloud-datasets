@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "Targeted metabolomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Targeted metabolomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, and whole blood was collected from cardiac puncture. 50 \u03bcL plasma from each mouse was split and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 6 per group).</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2026-01-31",
+        "version": "1.0.0",
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Lee"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000592"
+            }
+        ]
+    }
+}
