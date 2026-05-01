@@ -20,11 +20,12 @@ Bulk RNA-seq data from middle frontal gyrus samples of human PD and control post
 
 **ASAP Team:** Lee
 
-**Dataset Name:** lee-pmdbs-bulk-rnaseq-mfg, v1.0
+**Dataset Name:** lee-pmdbs-bulk-rnaseq-mfg, v1.1
 
-**Principal Investigator:** Jose, Bras, jose.bras@vai.org
+**Principal Investigator:** Jose, Bras <jose.bras@vai.org>
 
-**Dataset Submitter:** Kaitlyn E Westra, NA
+
+**Dataset Submitter:** Kaitlyn E Westra <NA>
 
 **Publication DOI:** NA
 

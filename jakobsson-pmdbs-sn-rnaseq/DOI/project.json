@@ -91,7 +91,7 @@
         }
     ],
     "publication_date": "2025-04-06",
-    "version": "2.0",
+    "version": "2.1",
     "title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
     "ASAP_lab_name": "Jakobsson",
     "PI_full_name": "Johan Jakobsson",
@@ -102,5 +102,6 @@
     "grant_ids": [
         "ASAP-000520"
     ],
-    "team_name": "Jakobsson"
+    "team_name": "Jakobsson",
+    "description": "\n\nVersion bump from 2.0 to 2.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

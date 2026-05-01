@@ -45,7 +45,7 @@
         }
     ],
     "publication_date": "2025-12-05",
-    "version": "1.0",
+    "version": "1.1",
     "title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
     "ASAP_lab_name": "Al-Dalahmah",
     "PI_full_name": "Osama Al-Dalahmah",
@@ -56,5 +56,6 @@
     "grant_ids": [
         "ASAP-000375"
     ],
-    "team_name": "Sulzer"
+    "team_name": "Sulzer",
+    "description": "\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

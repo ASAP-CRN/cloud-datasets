@@ -19,11 +19,12 @@ Bulk RNA-seq data from 234 samples derived from PMDBS samples across Substantia 
 
 **ASAP Team:** Wood
 
-**Dataset Name:** wood-pmdbs-bulk-rnaseq, v1.0
+**Dataset Name:** wood-pmdbs-bulk-rnaseq, v1.1
 
-**Principal Investigator:** Mina Ryten, mina.ryten@ucl.ac.uk
+**Principal Investigator:** Mina Ryten <mina.ryten@ucl.ac.uk>
 
-**Dataset Submitter:** Jonathan Brenton, jonathan.brenton.14@ucl.ac.uk
+
+**Dataset Submitter:** Jonathan Brenton <jonathan.brenton.14@ucl.ac.uk>
 
 **Publication DOI:** NA
 

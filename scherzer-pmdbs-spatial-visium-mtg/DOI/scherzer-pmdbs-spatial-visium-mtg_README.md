@@ -26,11 +26,12 @@ Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  tempor
 
 **ASAP Team:** Scherzer
 
-**Dataset Name:** scherzer-pmdbs-spatial-visium-mtg, v1.0
+**Dataset Name:** scherzer-pmdbs-spatial-visium-mtg, v1.1
 
-**Principal Investigator:** Xianjun Dong, xianjun.dong@yale.edu
+**Principal Investigator:** Xianjun Dong <xianjun.dong@yale.edu>
 
-**Dataset Submitter:** Dr. Jie Yuan, jay.yuan@gmail.com
+
+**Dataset Submitter:** Dr. Jie Yuan <jay.yuan@gmail.com>
 
 **Publication DOI:** NA
 

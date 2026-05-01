@@ -34,11 +34,12 @@ Neuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA
 
 **ASAP Team:** Jakobsson
 
-**Dataset Name:** jakobsson-pmdbs-sn-rnaseq, v2.0
+**Dataset Name:** jakobsson-pmdbs-sn-rnaseq, v2.1
 
-**Principal Investigator:** Johan Jakobsson, johan.jakobsson@med.lu.se
+**Principal Investigator:** Johan Jakobsson <johan.jakobsson@med.lu.se>
 
-**Dataset Submitter:** Raquel Garza, raquel.garza@med.lu.se
+
+**Dataset Submitter:** Raquel Garza <raquel.garza@med.lu.se>
 
 **Publication DOI:** No publication DOI exists at the moment
 

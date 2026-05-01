@@ -42,7 +42,7 @@
         }
     ],
     "publication_date": "2025-10-30",
-    "version": "1.1",
+    "version": "1.2",
     "title": "PD5D_MTG_snRNAseq",
     "ASAP_lab_name": "Scherzer and Dong",
     "PI_full_name": "Dr.Clemens Scherzer",
@@ -53,5 +53,6 @@
     "grant_ids": [
         "ASAP-000301"
     ],
-    "team_name": "Scherzer"
+    "team_name": "Scherzer",
+    "description": "\n\nVersion bump from 1.1 to 1.2\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

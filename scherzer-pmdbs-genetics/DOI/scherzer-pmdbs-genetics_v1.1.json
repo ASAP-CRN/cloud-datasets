@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "title": "PD5D_MTG_MEGA_Chip_Genotype",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_MEGA_Chip_Genotype\".</p>\n<p><strong>Description:</strong> This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD5D_MTG_snRNAseq). All subjects were genotyped on the  Infinium Multi-Ethnic Global-8 v1 chip. Raw genotypes were processed  with PLINK (v1.90) and basic quality control, including removal of low quality genotypes and low-quality variants, was performed. Please note  that the position information in the file was based on human GRC37/hg19  reference genome.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-10-30",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Scherzer, Clemens",
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Lin, Zechuan",
+                "orcid": "0000-0003-2270-5194"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Scherzer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000301"
+            }
+        ]
+    }
+}

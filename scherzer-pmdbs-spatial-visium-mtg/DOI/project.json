@@ -58,7 +58,7 @@
         }
     ],
     "publication_date": "2025-10-30",
-    "version": "1.0",
+    "version": "1.1",
     "title": "PD5D_MTG_Visium10x_ST",
     "ASAP_lab_name": "Scherzer, Dong, and Levin",
     "PI_full_name": "Xianjun Dong",
@@ -69,5 +69,6 @@
     "grant_ids": [
         "ASAP-000301"
     ],
-    "team_name": "Scherzer"
+    "team_name": "Scherzer",
+    "description": "\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

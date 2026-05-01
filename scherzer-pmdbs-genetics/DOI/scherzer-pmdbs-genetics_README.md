@@ -18,11 +18,12 @@ This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD
 
 **ASAP Team:** Scherzer
 
-**Dataset Name:** scherzer-pmdbs-genetics, v1.0
+**Dataset Name:** scherzer-pmdbs-genetics, v1.1
 
-**Principal Investigator:** Dr.Clemens Scherzer, clemens.scherzer@yale.edu
+**Principal Investigator:** Dr.Clemens Scherzer <clemens.scherzer@yale.edu>
 
-**Dataset Submitter:** Dr.Zechuan Lin, zechuan.lin@yale.edu
+
+**Dataset Submitter:** Dr.Zechuan Lin <zechuan.lin@yale.edu>
 
 **Publication DOI:** NA
 

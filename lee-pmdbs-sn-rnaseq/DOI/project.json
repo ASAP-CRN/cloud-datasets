@@ -45,7 +45,7 @@
         }
     ],
     "publication_date": "2023-09-28",
-    "version": "1.0",
+    "version": "1.1",
     "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
     "ASAP_lab_name": "Bras",
     "PI_full_name": "Jose, Bras",
@@ -56,5 +56,6 @@
     "grant_ids": [
         "ASAP-000592"
     ],
-    "team_name": "Lee"
+    "team_name": "Lee",
+    "description": "\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

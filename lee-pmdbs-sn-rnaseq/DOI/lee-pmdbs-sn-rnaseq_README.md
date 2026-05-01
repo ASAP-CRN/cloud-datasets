@@ -21,11 +21,12 @@ Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substant
 
 **ASAP Team:** Lee
 
-**Dataset Name:** lee-pmdbs-sn-rnaseq, v1.0
+**Dataset Name:** lee-pmdbs-sn-rnaseq, v1.1
 
-**Principal Investigator:** Jose, Bras, jose.bras@vai.org
+**Principal Investigator:** Jose, Bras <jose.bras@vai.org>
 
-**Dataset Submitter:** Kaitlyn E Westra, NA
+
+**Dataset Submitter:** Kaitlyn E Westra <NA>
 
 **Publication DOI:** NA
 

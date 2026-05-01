@@ -31,11 +31,12 @@ This dataset contains the raw data in FASTQ format for single-nucleus RNA  seque
 
 **ASAP Team:** Scherzer
 
-**Dataset Name:** scherzer-pmdbs-sn-rnaseq-mtg-hybsel, v1.1
+**Dataset Name:** scherzer-pmdbs-sn-rnaseq-mtg-hybsel, v1.2
 
-**Principal Investigator:** Dr. Joshua Levin, Jlevin@broadinstitute.org
+**Principal Investigator:** Dr. Joshua Levin <Jlevin@broadinstitute.org>
 
-**Dataset Submitter:** Dr. Sean Simmons, Ssimmons@broadinstitute.org
+
+**Dataset Submitter:** Dr. Sean Simmons <Ssimmons@broadinstitute.org>
 
 **Publication DOI:** 10.1101/2024.08.13.607784
 

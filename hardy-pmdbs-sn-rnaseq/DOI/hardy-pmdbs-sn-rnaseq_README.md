@@ -19,11 +19,12 @@ Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Pa
 
 **ASAP Team:** Hardy
 
-**Dataset Name:** hardy-pmdbs-sn-rnaseq, v1.0
+**Dataset Name:** hardy-pmdbs-sn-rnaseq, v1.1
 
-**Principal Investigator:** Mina Ryten, mina.ryten@ucl.ac.uk
+**Principal Investigator:** Mina Ryten <mina.ryten@ucl.ac.uk>
 
-**Dataset Submitter:** Aine Fairbrother-Browne, aine.fairbrother-browne.18@ucl.ac.uk
+
+**Dataset Submitter:** Aine Fairbrother-Browne <aine.fairbrother-browne.18@ucl.ac.uk>
 
 **Publication DOI:** NA
 

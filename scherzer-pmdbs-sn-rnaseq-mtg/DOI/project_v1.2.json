@@ -1,0 +1,57 @@
+{
+    "project_name": "Parkinson5D: deconstructing proximal disease mechanisms across cells, space, and  progression",
+    "project_description": "Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping  GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D),  brain space (3D), and disease stage (1D). We will reveal how genetic variants  modulate transcription in specific cells in specific topographic locations of midbrain  and cortex during the progression of neuropathology from healthy brains to  prodromal to symptomatic disease. This research will for the first time integrate  whole genome sequencing, single-nucleus transcriptomics, and high-resolution  spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in  model systems.",
+    "dataset_title": "PD5D_MTG_snRNAseq",
+    "dataset_description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.",
+    "creators": [
+        {
+            "name": "Parker, Jacob",
+            "orcid": "0000-0001-9425-6418"
+        },
+        {
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Dong, Xianjun",
+            "orcid": "0000-0002-8052-9320"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Cline, Madison",
+            "orcid": "0000-0001-9672-7738"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Tuncali, Idil",
+            "orcid": "0000-0001-5549-3082"
+        },
+        {
+            "name": "Lin, Zechuan",
+            "orcid": "0000-0003-2270-5194"
+        }
+    ],
+    "publication_date": "2025-10-30",
+    "version": "1.1",
+    "title": "PD5D_MTG_snRNAseq",
+    "ASAP_lab_name": "Scherzer and Dong",
+    "PI_full_name": "Dr.Clemens Scherzer",
+    "PI_email": "clemens.scherzer@yale.edu",
+    "submitter_name": "Dr.Zechuan Lin",
+    "submitter_email": "zechuan.lin@yale.edu",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000301"
+    ],
+    "team_name": "Scherzer"
+}

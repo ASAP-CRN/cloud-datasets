@@ -36,7 +36,7 @@
         }
     ],
     "publication_date": "2024-12-11",
-    "version": "1.0",
+    "version": "1.1",
     "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "ASAP_lab_name": "Ryten Lab",
     "PI_full_name": "Mina Ryten",
@@ -47,5 +47,6 @@
     "grant_ids": [
         "ASAP-000478"
     ],
-    "team_name": "Hardy"
+    "team_name": "Hardy",
+    "description": "\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
 }

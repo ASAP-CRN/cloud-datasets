@@ -21,11 +21,12 @@ Samples of the Cingulate Cortex and Substantia Nigra from  post-mortem brains fr
 
 **ASAP Team:** Sulzer
 
-**Dataset Name:** sulzer-pmdbs-sn-rnaseq, v1.0
+**Dataset Name:** sulzer-pmdbs-sn-rnaseq, v1.1
 
-**Principal Investigator:** Osama Al-Dalahmah, oa2298@cumc.columbia.edu
+**Principal Investigator:** Osama Al-Dalahmah <oa2298@cumc.columbia.edu>
 
-**Dataset Submitter:** Kelly Jakubiak, kj2613@cumc.columbia.edu
+
+**Dataset Submitter:** Kelly Jakubiak <kj2613@cumc.columbia.edu>
 
 **Publication DOI:** NA
 
