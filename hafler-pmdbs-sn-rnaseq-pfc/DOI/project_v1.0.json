@@ -35,7 +35,7 @@
         }
     ],
     "publication_date": "2023-09-28",
-    "version": "1.1",
+    "version": "1.0",
     "title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
     "ASAP_lab_name": "Le Zhang Lab",
     "PI_full_name": "Le Zhang",
@@ -46,6 +46,5 @@
     "grant_ids": [
         "ASAP-000529"
     ],
-    "team_name": "Hafler",
-    "description": "\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs."
+    "team_name": "Hafler"
 }

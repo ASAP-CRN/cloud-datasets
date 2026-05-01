@@ -22,7 +22,7 @@ This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FAST
 
 **ASAP Team:** Scherzer
 
-**Dataset Name:** scherzer-pmdbs-sn-rnaseq-mtg, v1.2
+**Dataset Name:** scherzer-pmdbs-sn-rnaseq-mtg, v1.1
 
 **Principal Investigator:** Dr.Clemens Scherzer <clemens.scherzer@yale.edu>
 
