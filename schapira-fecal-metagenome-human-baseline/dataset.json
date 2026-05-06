@@ -1,0 +1,33 @@
+{
+    "name": "schapira-fecal-metagenome-human-baseline",
+    "title": "team-schapira-fecal-metagenome-human-baseline",
+    "description": "Dataset from team-schapira",
+    "version": "v1.0",
+    "doi": null,
+    "creators": [
+        {
+            "name": "team-schapira",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "fecal-metagenome",
+        "schapira"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-schapira-fecal-metagenome-human-baseline",
+        "dev": "gs://asap-dev-team-schapira-fecal-metagenome-human-baseline",
+        "uat": "gs://asap-uat-team-schapira-fecal-metagenome-human-baseline",
+        "prod": "gs://asap-curated-team-schapira-fecal-metagenome-human-baseline"
+    },
+    "cde_version": "v4.1",
+    "releases": {
+        "v4.0.1": {
+            "cde_version": "v4.1",
+            "dataset_version": "1.0"
+        }
+    }
+}

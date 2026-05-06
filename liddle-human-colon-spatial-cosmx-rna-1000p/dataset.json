@@ -1,0 +1,34 @@
+{
+    "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
+    "title": "team-liddle-human-colon-spatial-cosmx-rna-1000p",
+    "description": "Dataset from team-liddle",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17917788",
+    "creators": [
+        {
+            "name": "team-liddle",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "human-colon",
+        "spatial-cosmx",
+        "liddle"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+        "dev": "gs://asap-dev-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+        "uat": "gs://asap-uat-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+        "prod": "gs://asap-curated-team-liddle-human-colon-spatial-cosmx-rna-1000p"
+    },
+    "cde_version": "v4.1",
+    "releases": {
+        "v4.0.1": {
+            "cde_version": "v4.1",
+            "dataset_version": "1.0"
+        }
+    }
+}
