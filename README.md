@@ -15,21 +15,23 @@ Datasets follow the pattern `<team>-<tissue>-<modality>`, e.g.:
 
 ```
 datasets.json                              # Master index of all datasets
-<dataset-name>/
-├── dataset.json                           # Canonical metadata (see schema below)
-├── DOI/                                   # Zenodo deposition files for current version
-│   ├── <dataset-name>.json                # Dataset summary
-│   ├── project.json                       # Project-level details
-│   ├── dataset.doi                        # Concept DOI (all versions)
-│   ├── version.doi                        # Version-specific DOI
-│   ├── deposition.json                    # Zenodo deposition record
-│   ├── <dataset-name>_README.md
-│   └── <dataset-name>_README.pdf
-├── refs/                                  # Reference files for current version
-└── archive/                               # Immutable snapshots of past versions
-    └── <version>/
-        ├── DOI/                           # Version-specific DOI files (same structure as above)
-        └── refs/
+WIP/                                       # Staging area for in-progress datasets
+datasets/
+└── <dataset-name>/
+    ├── dataset.json                       # Canonical metadata (see schema below)
+    ├── DOI/                               # Zenodo deposition files for current version
+    │   ├── <dataset-name>.json            # Dataset summary
+    │   ├── project.json                   # Project-level details
+    │   ├── dataset.doi                    # Concept DOI (all versions)
+    │   ├── version.doi                    # Version-specific DOI
+    │   ├── deposition.json                # Zenodo deposition record
+    │   ├── <dataset-name>_README.md
+    │   └── <dataset-name>_README.pdf
+    ├── refs/                              # Reference files for current version
+    └── archive/                           # Immutable snapshots of past versions
+        └── <version>/
+            ├── DOI/                       # Version-specific DOI files (same structure as above)
+            └── refs/
 ```
 
 ## Dataset Metadata Schema
