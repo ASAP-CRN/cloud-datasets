@@ -1,0 +1,51 @@
+{
+    "project_name": "Understanding mechanisms of Parkinson's disease progression",
+    "project_description": "Genetic analysis has identified many risk genes for Parkinson's disease (PD), giving insight into the mechanisms of initiation. The implicated pathways include mitophagy and lysosomal insufficiency. However, the disease is variable in its rate of progression and spread in the brain. Understanding this variability is our aim and our final goal is to slow this progression. We will shed light on the biology underlying this variability by studying the spread of pathology in the human brain, in mouse and cellular models of disease and by integrating these findings to develop a comprehensive model of the biology of progression. These data will provide the foundations for future drug development efforts. To achieve this vision, we have brought together a world-class interdisciplinary team. Our proposal has 4 themes: i) a Functional Genetics theme to identify loci underlying progression ii) a High Throughput Cell Biology theme to understand the mechanisms and test therapies, iii) a Human Molecular Pathology theme to understand progression in the human disease, and iv) a Mouse Transgenic Models theme to understand and manipulate progression in a model of pathology spread.",
+    "dataset_title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "dataset_description": "Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Parietal Lobule (IPL), and Anterior Cingulate Cortex (ACG). Types of Samples: Late stage (Braak 5-6) PD and control post-mortem brains.",
+    "creators": [
+        {
+            "name": "Fairbrother-Browne, Aine",
+            "affiliation": "UCL/EBI",
+            "orcid": "0000-0002-7196-1410"
+        },
+        {
+            "name": "Brenton, Jonathan",
+            "affiliation": "UCL/Cambridge",
+            "orcid": "0000-0002-2381-8484"
+        },
+        {
+            "name": "Grant-Peters, Melissa",
+            "affiliation": "Cambridge",
+            "orcid": "0000-0003-0585-0971"
+        },
+        {
+            "name": "Reynolds, Regina",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-6470-7919"
+        },
+        {
+            "name": "Ryten, Mina",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-9520-6957"
+        },
+        {
+            "name": "Jaunmuktane, Zane",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-7738-8881"
+        }
+    ],
+    "publication_date": "2024-12-11",
+    "version": "1.0",
+    "title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "ASAP_lab_name": "Ryten Lab",
+    "PI_full_name": "Mina Ryten",
+    "PI_email": "mina.ryten@ucl.ac.uk",
+    "submitter_name": "Aine Fairbrother-Browne",
+    "submitter_email": "aine.fairbrother-browne.18@ucl.ac.uk",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000478"
+    ],
+    "team_name": "Hardy"
+}

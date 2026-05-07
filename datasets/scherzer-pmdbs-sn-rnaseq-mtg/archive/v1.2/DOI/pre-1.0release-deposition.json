@@ -1,0 +1,121 @@
+{
+  "created": "2025-08-06T08:57:16.895765+00:00",
+  "modified": "2025-08-06T08:57:26.577546+00:00",
+  "id": 16751636,
+  "conceptrecid": "16751625",
+  "conceptdoi": "10.5281/zenodo.16751625",
+  "metadata": {
+    "title": "PD5D_MTG_snRNAseq",
+    "publication_date": "2024-06-25",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_snRNAseq\".</p>\n<p><strong>Description:</strong> This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Parker, Jacob",
+        "affiliation": null,
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": null,
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": null,
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": null,
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": null,
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": null,
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": null,
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": null,
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Lin, Zechuan",
+        "affiliation": null,
+        "orcid": "0000-0003-2270-5194"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.16751636",
+      "recid": 16751636
+    }
+  },
+  "title": "PD5D_MTG_snRNAseq",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/16751636",
+    "html": "https://zenodo.org/deposit/16751636",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/16751636/files",
+    "bucket": "https://zenodo.org/api/files/2bdfeee7-0d80-4ec7-80e7-d3baec62cde5",
+    "thumb250": "https://zenodo.org/record/16751636/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/16751636/thumb10",
+      "50": "https://zenodo.org/record/16751636/thumb50",
+      "100": "https://zenodo.org/record/16751636/thumb100",
+      "250": "https://zenodo.org/record/16751636/thumb250",
+      "750": "https://zenodo.org/record/16751636/thumb750",
+      "1200": "https://zenodo.org/record/16751636/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/16751636",
+    "latest_draft_html": "https://zenodo.org/deposit/16751636",
+    "publish": "https://zenodo.org/api/deposit/depositions/16751636/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/16751636/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/16751636/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/16751636/actions/newversion"
+  },
+  "record_id": 16751636,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "b0a9dd9a-a708-4a38-809f-5df6516fa68d",
+      "filename": "scherzer-pmdbs-sn-rnaseq-mtg_README.pdf",
+      "filesize": 4792,
+      "checksum": "35fd6fe1e0e9afb876898d0b838108bf",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/16751636/files/b0a9dd9a-a708-4a38-809f-5df6516fa68d",
+        "download": "https://zenodo.org/api/records/16751636/draft/files/scherzer-pmdbs-sn-rnaseq-mtg_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

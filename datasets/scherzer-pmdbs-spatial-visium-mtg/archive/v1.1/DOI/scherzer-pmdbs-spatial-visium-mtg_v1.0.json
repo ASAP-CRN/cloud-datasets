@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "title": "PD5D_MTG_Visium10x_ST",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_Visium10x_ST\".</p>\n<p><strong>Description:</strong> Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  temporal gyrus of 96 human subjects. Individuals with incidental Lewy body  disease, clinical PD, and healthy control were included. In addition to subject level metadata, Visium spatial metadata such as H&amp;E images and spot  coordinates are included.   These data are one component of the PD5D cohort, which intends to build a  multi-dimensional and multi-omic atlas of PD pathology. For the same subjects, other omics assays have been collected including genotyping,  snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus  and substantia nigra.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2025-10-30",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Scherzer, Clemens",
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Levin, Joshua",
+                "orcid": "0000-0002-0170-3598"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Parker, Jacob",
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Yuan, Jie",
+                "orcid": "0000-0002-5626-2881"
+            },
+            {
+                "name": "Haywood, Nathan",
+                "orcid": "0000-0003-2213-5080"
+            },
+            {
+                "name": "Simmons, Sean",
+                "orcid": "0000-0002-1537-4000"
+            },
+            {
+                "name": "Adiconis, Xian",
+                "orcid": "0000-0002-4052-2503"
+            },
+            {
+                "name": "Weykopf, Beatrice",
+                "orcid": "0000-0001-5541-839X"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Scherzer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000301"
+            }
+        ]
+    }
+}

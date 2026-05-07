@@ -2,7 +2,7 @@
     "project_name": "Parkinson5D: deconstructing proximal disease mechanisms across cells, space, and  progression",
     "project_description": "Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping  GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D),  brain space (3D), and disease stage (1D). We will reveal how genetic variants  modulate transcription in specific cells in specific topographic locations of midbrain  and cortex during the progression of neuropathology from healthy brains to  prodromal to symptomatic disease. This research will for the first time integrate  whole genome sequencing, single-nucleus transcriptomics, and high-resolution  spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in  model systems.",
     "dataset_title": "PD5D_MTG_snRNAseq",
-    "dataset_description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.",
+    "dataset_description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.\n\nVersion bump from 1.1 to 1.2\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs.",
     "creators": [
         {
             "name": "Parker, Jacob",
@@ -41,8 +41,8 @@
             "orcid": "0000-0003-2270-5194"
         }
     ],
-    "publication_date": "2025-10-30",
-    "version": "1.1",
+    "publication_date": "2026-04-30",
+    "version": "1.2",
     "title": "PD5D_MTG_snRNAseq",
     "ASAP_lab_name": "Scherzer and Dong",
     "PI_full_name": "Dr.Clemens Scherzer",

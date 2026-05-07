@@ -1,0 +1,151 @@
+{
+  "created": "2025-10-31T19:30:30.672820+00:00",
+  "modified": "2025-10-31T19:30:31.091580+00:00",
+  "id": 17242099,
+  "conceptrecid": "17242087",
+  "doi": "10.5281/zenodo.17242099",
+  "conceptdoi": "10.5281/zenodo.17242087",
+  "doi_url": "https://doi.org/10.5281/zenodo.17242099",
+  "metadata": {
+    "title": "PD5D_MTG_Visium10x_ST",
+    "doi": "10.5281/zenodo.17242099",
+    "publication_date": "2025-10-30",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D_MTG_Visium10x_ST\".</p>\n<p><strong>Description:</strong> Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  temporal gyrus of 96 human subjects. Individuals with incidental Lewy body  disease, clinical PD, and healthy control were included. In addition to subject level metadata, Visium spatial metadata such as H&amp;E images and spot  coordinates are included.   These data are one component of the PD5D cohort, which intends to build a  multi-dimensional and multi-omic atlas of PD pathology. For the same subjects, other omics assays have been collected including genotyping,  snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus  and substantia nigra.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": null,
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": null,
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Levin, Joshua",
+        "affiliation": null,
+        "orcid": "0000-0002-0170-3598"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": null,
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": null,
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": null,
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": null,
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": null,
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Yuan, Jie",
+        "affiliation": null,
+        "orcid": "0000-0002-5626-2881"
+      },
+      {
+        "name": "Haywood, Nathan",
+        "affiliation": null,
+        "orcid": "0000-0003-2213-5080"
+      },
+      {
+        "name": "Simmons, Sean",
+        "affiliation": null,
+        "orcid": "0000-0002-1537-4000"
+      },
+      {
+        "name": "Adiconis, Xian",
+        "affiliation": null,
+        "orcid": "0000-0002-4052-2503"
+      },
+      {
+        "name": "Weykopf, Beatrice",
+        "affiliation": null,
+        "orcid": "0000-0001-5541-839X"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.17242099",
+      "recid": 17242099
+    }
+  },
+  "title": "PD5D_MTG_Visium10x_ST",
+  "links": {
+    "self": "https://zenodo.org/api/records/17242099",
+    "html": "https://zenodo.org/records/17242099",
+    "doi": "https://doi.org/10.5281/zenodo.17242099",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17242087",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17242099.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17242087.svg",
+    "files": "https://zenodo.org/api/records/17242099/files",
+    "bucket": "https://zenodo.org/api/files/f45ead8f-e393-4ccc-b41c-319d63e65adf",
+    "thumb250": "https://zenodo.org/record/17242099/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/17242099/thumb10",
+      "50": "https://zenodo.org/record/17242099/thumb50",
+      "100": "https://zenodo.org/record/17242099/thumb100",
+      "250": "https://zenodo.org/record/17242099/thumb250",
+      "750": "https://zenodo.org/record/17242099/thumb750",
+      "1200": "https://zenodo.org/record/17242099/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/17242099",
+    "latest_draft_html": "https://zenodo.org/deposit/17242099",
+    "publish": "https://zenodo.org/api/deposit/depositions/17242099/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/17242099/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/17242099/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/17242099/actions/newversion",
+    "record": "https://zenodo.org/api/records/17242099",
+    "record_html": "https://zenodo.org/record/17242099",
+    "latest": "https://zenodo.org/api/records/17242099/versions/latest",
+    "latest_html": "https://zenodo.org/records/17242099/latest"
+  },
+  "record_id": 17242099,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "0e935c7f-c808-4502-854e-dbf29fe62e6a",
+      "filename": "scherzer-pmdbs-spatial-visium-mtg_README.pdf",
+      "filesize": 5192,
+      "checksum": "cf9bbf0c33e2acca27bb436ba5ad768b",
+      "links": {
+        "self": "https://zenodo.org/api/records/17242099/files/0e935c7f-c808-4502-854e-dbf29fe62e6a",
+        "download": "https://zenodo.org/api/records/17242099/draft/files/scherzer-pmdbs-spatial-visium-mtg_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

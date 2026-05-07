@@ -19,11 +19,12 @@ To identify and characterize selectively vulnerable brain cell populations in Pa
 
 **ASAP Team:** Hafler
 
-**Dataset Name:** hafler-pmdbs-sn-rnaseq-pfc, v1.0
+**Dataset Name:** hafler-pmdbs-sn-rnaseq-pfc, v1.1
 
-**Principal Investigator:** Le Zhang, Le.zhang@yale.edu
+**Principal Investigator:** Le Zhang <Le.zhang@yale.edu>
 
-**Dataset Submitter:** Le Zhang, le.zhang@yale.edu
+
+**Dataset Submitter:** Le Zhang <le.zhang@yale.edu>
 
 **Publication DOI:** Doi: https://doi.org/10.1101/2022.02.14.480397
 

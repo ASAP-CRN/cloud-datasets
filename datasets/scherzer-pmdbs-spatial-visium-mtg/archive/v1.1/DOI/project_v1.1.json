@@ -1,0 +1,73 @@
+{
+    "project_name": "Parkinson5D: deconstructing proximal disease mechanisms across cells, space, and  progression",
+    "project_description": "Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping  GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D),  brain space (3D), and disease stage (1D). We will reveal how genetic variants  modulate transcription in specific cells in specific topographic locations of midbrain  and cortex during the progression of neuropathology from healthy brains to  prodromal to symptomatic disease. This research will for the first time integrate  whole genome sequencing, single-nucleus transcriptomics, and high-resolution  spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in  model systems.",
+    "dataset_title": "PD5D_MTG_Visium10x_ST",
+    "dataset_description": "Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  temporal gyrus of 96 human subjects. Individuals with incidental Lewy body  disease, clinical PD, and healthy control were included. In addition to subject level metadata, Visium spatial metadata such as H&E images and spot  coordinates are included.   These data are one component of the PD5D cohort, which intends to build a  multi-dimensional and multi-omic atlas of PD pathology. For the same subjects, other omics assays have been collected including genotyping,  snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus  and substantia nigra.",
+    "creators": [
+        {
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Dong, Xianjun",
+            "orcid": "0000-0002-8052-9320"
+        },
+        {
+            "name": "Levin, Joshua",
+            "orcid": "0000-0002-0170-3598"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Tuncali, Idil",
+            "orcid": "0000-0001-5549-3082"
+        },
+        {
+            "name": "Parker, Jacob",
+            "orcid": "0000-0001-9425-6418"
+        },
+        {
+            "name": "Yuan, Jie",
+            "orcid": "0000-0002-5626-2881"
+        },
+        {
+            "name": "Haywood, Nathan",
+            "orcid": "0000-0003-2213-5080"
+        },
+        {
+            "name": "Simmons, Sean",
+            "orcid": "0000-0002-1537-4000"
+        },
+        {
+            "name": "Adiconis, Xian",
+            "orcid": "0000-0002-4052-2503"
+        },
+        {
+            "name": "Weykopf, Beatrice",
+            "orcid": "0000-0001-5541-839X"
+        }
+    ],
+    "publication_date": "2025-10-30",
+    "version": "1.0",
+    "title": "PD5D_MTG_Visium10x_ST",
+    "ASAP_lab_name": "Scherzer, Dong, and Levin",
+    "PI_full_name": "Xianjun Dong",
+    "PI_email": "xianjun.dong@yale.edu",
+    "submitter_name": "Dr. Jie Yuan",
+    "submitter_email": "jay.yuan@gmail.com",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000301"
+    ],
+    "team_name": "Scherzer"
+}

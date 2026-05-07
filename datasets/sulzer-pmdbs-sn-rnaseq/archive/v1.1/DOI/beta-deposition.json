@@ -1,0 +1,100 @@
+{
+  "created": "2025-11-14T20:34:51.727682+00:00",
+  "modified": "2025-11-14T20:34:52.102259+00:00",
+  "id": 17612854,
+  "conceptrecid": "17612853",
+  "doi": "10.5281/zenodo.17612854",
+  "conceptdoi": "10.5281/zenodo.17612853",
+  "doi_url": "https://doi.org/10.5281/zenodo.17612854",
+  "metadata": {
+    "title": "Post-mortem Single Nucleus Transcriptomics from Parkinson's and Control Brains",
+    "doi": "10.5281/zenodo.17612854",
+    "publication_date": "2025-11-15",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Post-mortem Single Nucleus Transcriptomics from Parkinson's and Control Brains\".</p>\n<p><strong>Description:</strong> Samples of the Cingulate Cortex and Substantial Nigra from  post-mortem brains (PMDBS) were obtained from the New York Brain Bank and prepared for single nucleus sequencing on the  Chromium Next GEM Single Cell v3.1 (Dual Index) platform.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Jakubiak, Kelly A",
+        "affiliation": null
+      },
+      {
+        "name": "Kannan, Adithya",
+        "affiliation": null
+      },
+      {
+        "name": "Lee, Jaeseung",
+        "affiliation": null
+      },
+      {
+        "name": "Li, Juncheng",
+        "affiliation": null
+      },
+      {
+        "name": "Sims, Peter",
+        "affiliation": null
+      },
+      {
+        "name": "Al-Dalahmah, Osama",
+        "affiliation": null
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Sulzer"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.17612854",
+      "recid": 17612854
+    }
+  },
+  "title": "Post-mortem Single Nucleus Transcriptomics from Parkinson's and Control Brains",
+  "links": {
+    "self": "https://zenodo.org/api/records/17612854",
+    "html": "https://zenodo.org/records/17612854",
+    "doi": "https://doi.org/10.5281/zenodo.17612854",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17612853",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17612854.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17612853.svg",
+    "files": "https://zenodo.org/api/records/17612854/files",
+    "bucket": "https://zenodo.org/api/files/d4e4949b-8638-476d-aa8d-3726e227bf6b",
+    "thumb250": "https://zenodo.org/record/17612854/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/17612854/thumb10",
+      "50": "https://zenodo.org/record/17612854/thumb50",
+      "100": "https://zenodo.org/record/17612854/thumb100",
+      "250": "https://zenodo.org/record/17612854/thumb250",
+      "750": "https://zenodo.org/record/17612854/thumb750",
+      "1200": "https://zenodo.org/record/17612854/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/17612854",
+    "latest_draft_html": "https://zenodo.org/deposit/17612854",
+    "publish": "https://zenodo.org/api/deposit/depositions/17612854/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/17612854/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/17612854/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/17612854/actions/newversion",
+    "record": "https://zenodo.org/api/records/17612854",
+    "record_html": "https://zenodo.org/record/17612854",
+    "latest": "https://zenodo.org/api/records/17612854/versions/latest",
+    "latest_html": "https://zenodo.org/records/17612854/latest"
+  },
+  "record_id": 17612854,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f202c566-afd5-4bab-8a5f-97fcee23a865",
+      "filename": "sulzer-pmdbs-sn-rnaseq_README.pdf",
+      "filesize": 4047,
+      "checksum": "71a9c5ec99f32f7e5c38cbb04b41c657",
+      "links": {
+        "self": "https://zenodo.org/api/records/17612854/files/f202c566-afd5-4bab-8a5f-97fcee23a865",
+        "download": "https://zenodo.org/api/records/17612854/draft/files/sulzer-pmdbs-sn-rnaseq_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

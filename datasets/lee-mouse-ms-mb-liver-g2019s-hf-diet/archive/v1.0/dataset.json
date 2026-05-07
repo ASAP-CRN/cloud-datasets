@@ -1,0 +1,34 @@
+{
+    "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
+    "title": "team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+    "description": "Dataset from team-lee",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.18273822",
+    "creators": [
+        {
+            "name": "team-lee",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "mouse",
+        "liver",
+        "lee"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+        "dev": "gs://asap-dev-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+        "uat": "gs://asap-uat-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+        "prod": "gs://asap-curated-team-lee-mouse-ms-mb-liver-g2019s-hf-diet"
+    },
+    "cde_version": "v4.3",
+    "releases": {
+        "v4.1.0": {
+            "cde_version": "v4.3",
+            "dataset_version": "1.0"
+        }
+    }
+}
