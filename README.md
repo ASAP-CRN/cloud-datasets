@@ -15,27 +15,28 @@ Datasets follow the pattern `<team>-<tissue>-<modality>`, e.g.:
 
 ```
 datasets.json                              # Master index of all datasets
-<dataset-name>/
-├── dataset.json                           # Canonical metadata (see schema below)
-├── DOI/                                   # Zenodo deposition files for current version
-│   ├── <dataset-name>.json                # Dataset summary
-│   ├── project.json                       # Project-level details
-│   ├── dataset.doi                        # Concept DOI (all versions)
-│   ├── version.doi                        # Version-specific DOI
-│   ├── deposition.json                    # Zenodo deposition record
-│   ├── <dataset-name>_README.md
-│   └── <dataset-name>_README.pdf
-├── refs/                                  # Reference files for current version
-├── scripts/                               # Scripts for current version
-└── archive/                               # Immutable snapshots of past versions
-    └── <version>/
-        ├── DOI/                           # Version-specific DOI files (same structure as above)
-        ├── refs/
-        └── scripts/
+WIP/                                       # Staging area for in-progress datasets
+datasets/
+└── <dataset-name>/
+    ├── dataset.json                       # Canonical metadata (see schema below)
+    ├── DOI/                               # Zenodo deposition files for current version
+    │   ├── <dataset-name>.json            # Dataset summary
+    │   ├── project.json                   # Project-level details
+    │   ├── dataset.doi                    # Concept DOI (all versions)
+    │   ├── version.doi                    # Version-specific DOI
+    │   ├── deposition.json                # Zenodo deposition record
+    │   ├── <dataset-name>_README.md
+    │   └── <dataset-name>_README.pdf
+    ├── refs/                              # Reference files for current version
+    └── archive/                           # Immutable snapshots of past versions
+        └── <version>/
+            ├── DOI/                       # Version-specific DOI files (same structure as above)
+            └── refs/
 ```
 
 ## Dataset Metadata Schema
 
+example
 ```json
 {
   "name": "hafler-pmdbs-sn-rnaseq-pfc",
@@ -49,32 +50,72 @@ datasets.json                              # Master index of all datasets
       "affiliation": "ASAP CRN"
     }
   ],
-  "keywords": ["pmdbs-sc-rnaseq", "hafler"],
+  "keywords": [
+    "pmdbs-sc-rnaseq",
+    "pmdbs-sc-rnaseq",
+    "hafler"
+  ],
   "license": "CC-BY-4.0",
   "references": [],
   "collection": "pmdbs-sc-rnaseq",
   "buckets": {
-    "raw":  "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
-    "dev":  "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
-    "uat":  "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "dev": "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
+    "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
     "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
   },
-  "cde_version": "v3.3",
+  "cde_version": "v2.1",
+  "all_versions": {
+    "v1.0": {
+      "doi": "10.5281/zenodo.15490150",
+      "releases":{
+
+      }
+    }
+
+  },
   "releases": {
-    "v1.0.0": { "cde_version": "v2.1", "date": null },
-    "v2.0.0": { "cde_version": "v3.0", "date": null },
-    "v3.0.0": { "cde_version": "v3.2", "date": null },
-    "v4.0.0": { "cde_version": "v3.3", "date": null }
+    "v1.0.0": {
+      "cde_version": "v2.1",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.0": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.1": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.2": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v2.0.3": {
+      "cde_version": "v3.0",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.0": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.1": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v3.0.2": {
+      "cde_version": "v3.2",
+      "dataset_version": "v1.0"
+    },
+    "v4.0.0": {
+      "cde_version": "v3.3",
+      "dataset_version": "v1.0"
+    }
   }
 }
+
 ```
 
-### Key Fields
-
-- **`buckets`**: GCS bucket paths for each pipeline environment (`raw` → `dev` → `uat` → `prod`/curated)
-- **`collection`**: The collection this dataset belongs to (or `"other"` for uncurated datasets)
-- **`cde_version`**: The Common Data Elements version currently applied to this dataset
-- **`releases`**: Map of release versions this dataset has appeared in, with the CDE version applied at that release
 
 ## GCS Curated Bucket Layout
 

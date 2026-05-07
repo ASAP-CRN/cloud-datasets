@@ -1,0 +1,96 @@
+{
+  "created": "2026-02-26T22:56:12.607136+00:00",
+  "modified": "2026-02-26T22:56:12.924693+00:00",
+  "id": 18794165,
+  "conceptrecid": "18273802",
+  "doi": "10.5281/zenodo.18794165",
+  "conceptdoi": "10.5281/zenodo.18273802",
+  "doi_url": "https://doi.org/10.5281/zenodo.18794165",
+  "metadata": {
+    "title": "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
+    "doi": "10.5281/zenodo.18794165",
+    "publication_date": "2026-02-26",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, striatal tissue was collected for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18794165",
+      "recid": 18794165
+    }
+  },
+  "title": "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
+  "links": {
+    "self": "https://zenodo.org/api/records/18794165",
+    "html": "https://zenodo.org/records/18794165",
+    "doi": "https://doi.org/10.5281/zenodo.18794165",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18273802",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18794165.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273802.svg",
+    "files": "https://zenodo.org/api/records/18794165/files",
+    "bucket": "https://zenodo.org/api/files/b5f090df-0c77-4d7e-affd-cc9c8d4ff67c",
+    "thumb250": "https://zenodo.org/record/18794165/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18794165/thumb10",
+      "50": "https://zenodo.org/record/18794165/thumb50",
+      "100": "https://zenodo.org/record/18794165/thumb100",
+      "250": "https://zenodo.org/record/18794165/thumb250",
+      "750": "https://zenodo.org/record/18794165/thumb750",
+      "1200": "https://zenodo.org/record/18794165/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18794165",
+    "latest_draft_html": "https://zenodo.org/deposit/18794165",
+    "publish": "https://zenodo.org/api/deposit/depositions/18794165/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18794165/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18794165/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18794165/actions/newversion",
+    "record": "https://zenodo.org/api/records/18794165",
+    "record_html": "https://zenodo.org/record/18794165",
+    "latest": "https://zenodo.org/api/records/18794165/versions/latest",
+    "latest_html": "https://zenodo.org/records/18794165/latest"
+  },
+  "record_id": 18794165,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f7641b9e-a1d0-4bb1-a554-38d3f5abf923",
+      "filename": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet_README.pdf",
+      "filesize": 4611,
+      "checksum": "06bd9b981df3ad2bdf1ed7feb1f1498f",
+      "links": {
+        "self": "https://zenodo.org/api/records/18794165/files/f7641b9e-a1d0-4bb1-a554-38d3f5abf923",
+        "download": "https://zenodo.org/api/records/18794165/draft/files/lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

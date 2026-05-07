@@ -1,0 +1,115 @@
+{
+  "created": "2026-05-01T02:53:49.136476+00:00",
+  "modified": "2026-05-01T02:53:58.165436+00:00",
+  "id": 19936443,
+  "conceptrecid": "16744323",
+  "conceptdoi": "10.5281/zenodo.16744323",
+  "metadata": {
+    "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "publication_date": "2026-05-01",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra\".</p>\n<p><strong>Description:</strong> Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substantia nigra samples of human PD and control postmortem brains. All three brain regions were co-sampled from each donor to enable direct comparison of transcriptomic signatures across anatomically and functionally distinct regions within the same brain.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>\n\nVersion bump from 1.0 to 1.1\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Marshall, Lee L.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-9884-4636"
+      },
+      {
+        "name": "Paquette, Kimberly E.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-3989-4614"
+      },
+      {
+        "name": "DenHaan, Kaitlyn E.",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-7804-6661"
+      },
+      {
+        "name": "Lopes, Ellison",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-1661-6304"
+      },
+      {
+        "name": "Pyman, Andrew D.",
+        "affiliation": "Van Andel Institute"
+      },
+      {
+        "name": "Kun-Rodrigues, Celia",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-4528-0061"
+      },
+      {
+        "name": "Guerreiro, Rita",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0001-5879-3486"
+      },
+      {
+        "name": "Bras, Jose",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0001-8186-0333"
+      }
+    ],
+    "version": "1.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.19936443",
+      "recid": 19936443
+    }
+  },
+  "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/19936443",
+    "html": "https://zenodo.org/deposit/19936443",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/19936443/files",
+    "bucket": "https://zenodo.org/api/files/536e1714-762e-470c-97f2-83f0cc683e5c",
+    "thumb250": "https://zenodo.org/record/19936443/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/19936443/thumb10",
+      "50": "https://zenodo.org/record/19936443/thumb50",
+      "100": "https://zenodo.org/record/19936443/thumb100",
+      "250": "https://zenodo.org/record/19936443/thumb250",
+      "750": "https://zenodo.org/record/19936443/thumb750",
+      "1200": "https://zenodo.org/record/19936443/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/19936443",
+    "latest_draft_html": "https://zenodo.org/deposit/19936443",
+    "publish": "https://zenodo.org/api/deposit/depositions/19936443/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/19936443/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/19936443/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/19936443/actions/newversion"
+  },
+  "record_id": 19936443,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "c9dfa1b6-732f-45aa-8075-1f97eddef71d",
+      "filename": "lee-pmdbs-sn-rnaseq_README.pdf",
+      "filesize": 4530,
+      "checksum": "3755d6f8834bbf7ab37a2c9b5ce99606",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/19936443/files/c9dfa1b6-732f-45aa-8075-1f97eddef71d",
+        "download": "https://zenodo.org/api/records/19936443/draft/files/lee-pmdbs-sn-rnaseq_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

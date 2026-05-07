@@ -1,0 +1,33 @@
+{
+    "name": "sulzer-fecal-metagenome-fp-spf",
+    "title": "team-sulzer-fecal-metagenome-fp-spf",
+    "description": "Dataset from team-sulzer",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.18989559",
+    "creators": [
+        {
+            "name": "team-sulzer",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "fecal-metagenome",
+        "sulzer"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-sulzer-fecal-metagenome-fp-spf",
+        "dev": "gs://asap-dev-team-sulzer-fecal-metagenome-fp-spf",
+        "uat": "gs://asap-uat-team-sulzer-fecal-metagenome-fp-spf",
+        "prod": "gs://asap-curated-team-sulzer-fecal-metagenome-fp-spf"
+    },
+    "cde_version": "v4.3",
+    "releases": {
+        "v4.0.2": {
+        "cde_version": "v4.3",
+        "dataset_version": "v1.0"
+        }
+    }
+}

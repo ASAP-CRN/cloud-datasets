@@ -1,0 +1,91 @@
+{
+  "created": "2026-02-04T02:20:37.764460+00:00",
+  "modified": "2026-02-04T02:20:38.364437+00:00",
+  "id": 18476411,
+  "conceptrecid": "18476410",
+  "doi": "10.5281/zenodo.18476411",
+  "conceptdoi": "10.5281/zenodo.18476410",
+  "doi_url": "https://doi.org/10.5281/zenodo.18476411",
+  "metadata": {
+    "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
+    "doi": "10.5281/zenodo.18476411",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.\".</p>\n<p><strong>Description:</strong> Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and whole-cell extracts (WCL) from VPS35[D620N] knock-in MEFs. The dataset includes six biological replicates comparing cells treated with the LRRK2 inhibitor MLi-2 (100 nM, 2 h) against DMSO vehicle controls. Expression of the 3XHA-TMEM192 lysosomal tag was determined by genotyping PCR and verified via anti-HA immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Lam, Pui Yiu",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0001-5486-091X"
+      },
+      {
+        "name": "Taylor, Matthew",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0002-4003-3128"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18476411",
+      "recid": 18476411
+    }
+  },
+  "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
+  "links": {
+    "self": "https://zenodo.org/api/records/18476411",
+    "html": "https://zenodo.org/records/18476411",
+    "doi": "https://doi.org/10.5281/zenodo.18476411",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18476410",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476411.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476410.svg",
+    "files": "https://zenodo.org/api/records/18476411/files",
+    "bucket": "https://zenodo.org/api/files/17830a73-a653-474f-81a3-68cffb618529",
+    "thumb250": "https://zenodo.org/record/18476411/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18476411/thumb10",
+      "50": "https://zenodo.org/record/18476411/thumb50",
+      "100": "https://zenodo.org/record/18476411/thumb100",
+      "250": "https://zenodo.org/record/18476411/thumb250",
+      "750": "https://zenodo.org/record/18476411/thumb750",
+      "1200": "https://zenodo.org/record/18476411/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18476411",
+    "latest_draft_html": "https://zenodo.org/deposit/18476411",
+    "publish": "https://zenodo.org/api/deposit/depositions/18476411/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18476411/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18476411/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18476411/actions/newversion",
+    "record": "https://zenodo.org/api/records/18476411",
+    "record_html": "https://zenodo.org/record/18476411",
+    "latest": "https://zenodo.org/api/records/18476411/versions/latest",
+    "latest_html": "https://zenodo.org/records/18476411/latest"
+  },
+  "record_id": 18476411,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "0d7a45cc-14f7-4fa7-8d01-bed91b1f7bb7",
+      "filename": "alessi-mefs-ms-p-vps35-d620n-dmso-mli2_README.pdf",
+      "filesize": 4880,
+      "checksum": "d28dd47ca0fd86633091247529e2b393",
+      "links": {
+        "self": "https://zenodo.org/api/records/18476411/files/0d7a45cc-14f7-4fa7-8d01-bed91b1f7bb7",
+        "download": "https://zenodo.org/api/records/18476411/draft/files/alessi-mefs-ms-p-vps35-d620n-dmso-mli2_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

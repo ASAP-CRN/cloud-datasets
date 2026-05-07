@@ -1,0 +1,91 @@
+{
+  "created": "2026-01-16T20:55:50.229914+00:00",
+  "modified": "2026-01-16T20:55:50.618807+00:00",
+  "id": 18273813,
+  "conceptrecid": "18273812",
+  "doi": "10.5281/zenodo.18273813",
+  "conceptdoi": "10.5281/zenodo.18273812",
+  "doi_url": "https://doi.org/10.5281/zenodo.18273813",
+  "metadata": {
+    "title": "Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet",
+    "doi": "10.5281/zenodo.18273813",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized and homogenized. Protein were digested and dried down before resuspension for LC-MS/MS analysis. DIA data was processed in Spectronaut (version 18, Biognosys, Switzerland) using direct DIA. Data was searched against the Mus musculus proteome, including expected mutations. The manufacturer's default parameters were used. Each experimental group contained biological replicates (n = 4 per group).</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18273813",
+      "recid": 18273813
+    }
+  },
+  "title": "Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet",
+  "links": {
+    "self": "https://zenodo.org/api/records/18273813",
+    "html": "https://zenodo.org/records/18273813",
+    "doi": "https://doi.org/10.5281/zenodo.18273813",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18273812",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273813.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273812.svg",
+    "files": "https://zenodo.org/api/records/18273813/files",
+    "bucket": "https://zenodo.org/api/files/492677dc-b959-461d-89b7-0a9d4cba1a4f",
+    "thumb250": "https://zenodo.org/record/18273813/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18273813/thumb10",
+      "50": "https://zenodo.org/record/18273813/thumb50",
+      "100": "https://zenodo.org/record/18273813/thumb100",
+      "250": "https://zenodo.org/record/18273813/thumb250",
+      "750": "https://zenodo.org/record/18273813/thumb750",
+      "1200": "https://zenodo.org/record/18273813/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18273813",
+    "latest_draft_html": "https://zenodo.org/deposit/18273813",
+    "publish": "https://zenodo.org/api/deposit/depositions/18273813/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18273813/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18273813/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18273813/actions/newversion",
+    "record": "https://zenodo.org/api/records/18273813",
+    "record_html": "https://zenodo.org/record/18273813",
+    "latest": "https://zenodo.org/api/records/18273813/versions/latest",
+    "latest_html": "https://zenodo.org/records/18273813/latest"
+  },
+  "record_id": 18273813,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "33bf7e0d-5d8c-4198-802b-f3b718c13b91",
+      "filename": "lee-mouse-ms-p-lung-g2019s-hf-diet_README.pdf",
+      "filesize": 5149,
+      "checksum": "5c939848fdc7b5d3d2de1050b3bbcacf",
+      "links": {
+        "self": "https://zenodo.org/api/records/18273813/files/33bf7e0d-5d8c-4198-802b-f3b718c13b91",
+        "download": "https://zenodo.org/api/records/18273813/draft/files/lee-mouse-ms-p-lung-g2019s-hf-diet_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

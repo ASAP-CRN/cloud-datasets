@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "title": "Bulk RNA-sequencing of human middle frontal gyrus",
+        "upload_type": "dataset",
+        "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Bulk RNA-sequencing of human middle frontal gyrus\".</p>\n<p><strong>Description:</strong> Bulk RNA-seq data from middle frontal gyrus samples of human PD and control postmortem brains.</p>\n<hr />\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+        "publication_date": "2024-12-11",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Marshall, Lee L.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-9884-4636"
+            },
+            {
+                "name": "Paquette, Kimberly E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-3989-4614"
+            },
+            {
+                "name": "DenHaan, Kaitlyn E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-7804-6661"
+            },
+            {
+                "name": "Lopes, Ellison",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-1661-6304"
+            },
+            {
+                "name": "Pyman, Andrew D.",
+                "affiliation": "Van Andel Institute"
+            },
+            {
+                "name": "Guerreiro, Rita",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-5879-3486"
+            },
+            {
+                "name": "Bras, Jose",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-8186-0333"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Lee"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        },
+        "grants": [
+            {
+                "id": "10.13039/100018231::ASAP-000592"
+            }
+        ]
+    }
+}

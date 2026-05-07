@@ -1,0 +1,91 @@
+{
+  "created": "2026-02-04T02:19:41.994549+00:00",
+  "modified": "2026-02-04T02:19:42.595773+00:00",
+  "id": 18476399,
+  "conceptrecid": "18476398",
+  "doi": "10.5281/zenodo.18476399",
+  "conceptdoi": "10.5281/zenodo.18476398",
+  "doi_url": "https://doi.org/10.5281/zenodo.18476399",
+  "metadata": {
+    "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain.",
+    "doi": "10.5281/zenodo.18476399",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain.\".</p>\n<p><strong>Description:</strong> Proteomic characterization of brain lysosomes comparing WT and VPS35[D620N] mutant mice. Tissue was processed via glass-Teflon homogenization and 3-minute Lyso-IP. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Lam, Pui Yiu",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0001-5486-091X"
+      },
+      {
+        "name": "Dickie, Emily",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0002-4509-5045"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18476399",
+      "recid": 18476399
+    }
+  },
+  "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain.",
+  "links": {
+    "self": "https://zenodo.org/api/records/18476399",
+    "html": "https://zenodo.org/records/18476399",
+    "doi": "https://doi.org/10.5281/zenodo.18476399",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18476398",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476399.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476398.svg",
+    "files": "https://zenodo.org/api/records/18476399/files",
+    "bucket": "https://zenodo.org/api/files/be55e0d2-233b-4476-bfe6-bcba7411e7e9",
+    "thumb250": "https://zenodo.org/record/18476399/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18476399/thumb10",
+      "50": "https://zenodo.org/record/18476399/thumb50",
+      "100": "https://zenodo.org/record/18476399/thumb100",
+      "250": "https://zenodo.org/record/18476399/thumb250",
+      "750": "https://zenodo.org/record/18476399/thumb750",
+      "1200": "https://zenodo.org/record/18476399/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18476399",
+    "latest_draft_html": "https://zenodo.org/deposit/18476399",
+    "publish": "https://zenodo.org/api/deposit/depositions/18476399/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18476399/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18476399/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18476399/actions/newversion",
+    "record": "https://zenodo.org/api/records/18476399",
+    "record_html": "https://zenodo.org/record/18476399",
+    "latest": "https://zenodo.org/api/records/18476399/versions/latest",
+    "latest_html": "https://zenodo.org/records/18476399/latest"
+  },
+  "record_id": 18476399,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "ee0fb9ce-7f1b-42a4-af81-fad566156489",
+      "filename": "alessi-mouse-ms-p-brain-vps35-d620n-wt_README.pdf",
+      "filesize": 4613,
+      "checksum": "8d1f158b31a27de657fd8060f6c92a6d",
+      "links": {
+        "self": "https://zenodo.org/api/records/18476399/files/ee0fb9ce-7f1b-42a4-af81-fad566156489",
+        "download": "https://zenodo.org/api/records/18476399/draft/files/alessi-mouse-ms-p-brain-vps35-d620n-wt_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

@@ -1,0 +1,41 @@
+{
+    "project_name": "Parkinson5D: deconstructing proximal disease mechanisms across cells, space, and  progression",
+    "project_description": "Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping  GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D),  brain space (3D), and disease stage (1D). We will reveal how genetic variants  modulate transcription in specific cells in specific topographic locations of midbrain  and cortex during the progression of neuropathology from healthy brains to  prodromal to symptomatic disease. This research will for the first time integrate  whole genome sequencing, single-nucleus transcriptomics, and high-resolution  spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in  model systems.",
+    "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype",
+    "dataset_description": "This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD5D_MTG_snRNAseq). All subjects were genotyped on the  Infinium Multi-Ethnic Global-8 v1 chip. Raw genotypes were processed  with PLINK (v1.90) and basic quality control, including removal of low quality genotypes and low-quality variants, was performed. Please note  that the position information in the file was based on human GRC37/hg19  reference genome.",
+    "creators": [
+        {
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Lin, Zechuan",
+            "orcid": "0000-0003-2270-5194"
+        }
+    ],
+    "publication_date": "2025-10-30",
+    "version": "1.0",
+    "title": "PD5D_MTG_MEGA_Chip_Genotype",
+    "ASAP_lab_name": "Scherzer, Dong, and Levin",
+    "PI_full_name": "Dr.Clemens Scherzer",
+    "PI_email": "clemens.scherzer@yale.edu",
+    "submitter_name": "Dr.Zechuan Lin",
+    "submitter_email": "zechuan.lin@yale.edu",
+    "publication_DOI": "NA",
+    "grant_ids": [
+        "ASAP-000301"
+    ],
+    "team_name": "Scherzer"
+}

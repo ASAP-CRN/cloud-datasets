@@ -1,0 +1,35 @@
+{
+    "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
+    "title": "team-lee-mouse-liver-bulk-rnaseq-g2019s",
+    "description": "Dataset from team-lee",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.18273810",
+    "creators": [
+        {
+            "name": "team-lee",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "mouse",
+        "liver",
+        "bulk-rnaseq",
+        "lee"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+        "dev": "gs://asap-dev-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+        "uat": "gs://asap-uat-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+        "prod": "gs://asap-curated-team-lee-mouse-liver-bulk-rnaseq-g2019s"
+    },
+    "cde_version": "v4.1",
+    "releases": {
+        "v4.0.1": {
+            "cde_version": "v4.1",
+            "dataset_version": "1.0"
+        }
+    }
+}

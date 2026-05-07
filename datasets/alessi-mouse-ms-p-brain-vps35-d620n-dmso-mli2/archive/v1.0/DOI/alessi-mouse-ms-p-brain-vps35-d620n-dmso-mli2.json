@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain with LRRK2 inhibition.",
+        "upload_type": "dataset",
+        "description": "Proteomic analysis of lysosomes isolated from the brain tissue of VPS35[D620N] mice treated in vivo with MLi-2 (100 mg/kg via oral gavage, 2 h). Tag expression was determined by genotyping PCR and brain lysate immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
+        "publication_date": "2026-04-30",
+        "version": "0.1",
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Dickie, Emily",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4509-5045"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Alessi"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

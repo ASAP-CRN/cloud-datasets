@@ -1,0 +1,91 @@
+{
+  "created": "2026-02-04T02:19:29.354492+00:00",
+  "modified": "2026-02-04T02:19:29.691524+00:00",
+  "id": 18476394,
+  "conceptrecid": "18476393",
+  "doi": "10.5281/zenodo.18476394",
+  "conceptdoi": "10.5281/zenodo.18476393",
+  "doi_url": "https://doi.org/10.5281/zenodo.18476394",
+  "metadata": {
+    "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung",
+    "doi": "10.5281/zenodo.18476394",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung\".</p>\n<p><strong>Description:</strong> Basal proteomic comparison of WT and VPS35[D620N] mutant lung lysosomes. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Lam, Pui Yiu",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0001-5486-091X"
+      },
+      {
+        "name": "Dicke, Emily",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0002-4509-5045"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18476394",
+      "recid": 18476394
+    }
+  },
+  "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung",
+  "links": {
+    "self": "https://zenodo.org/api/records/18476394",
+    "html": "https://zenodo.org/records/18476394",
+    "doi": "https://doi.org/10.5281/zenodo.18476394",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18476393",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476394.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18476393.svg",
+    "files": "https://zenodo.org/api/records/18476394/files",
+    "bucket": "https://zenodo.org/api/files/4d1ce2b6-24ed-4083-8803-4ede893a0a4b",
+    "thumb250": "https://zenodo.org/record/18476394/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18476394/thumb10",
+      "50": "https://zenodo.org/record/18476394/thumb50",
+      "100": "https://zenodo.org/record/18476394/thumb100",
+      "250": "https://zenodo.org/record/18476394/thumb250",
+      "750": "https://zenodo.org/record/18476394/thumb750",
+      "1200": "https://zenodo.org/record/18476394/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18476394",
+    "latest_draft_html": "https://zenodo.org/deposit/18476394",
+    "publish": "https://zenodo.org/api/deposit/depositions/18476394/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18476394/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18476394/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18476394/actions/newversion",
+    "record": "https://zenodo.org/api/records/18476394",
+    "record_html": "https://zenodo.org/record/18476394",
+    "latest": "https://zenodo.org/api/records/18476394/versions/latest",
+    "latest_html": "https://zenodo.org/records/18476394/latest"
+  },
+  "record_id": 18476394,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "297f8267-521a-4671-a3b3-5792b86c5004",
+      "filename": "alessi-mouse-ms-p-lung-vps35-d620n-wt_README.pdf",
+      "filesize": 4531,
+      "checksum": "7b78c8568073b5e4e3a455fd0de5863f",
+      "links": {
+        "self": "https://zenodo.org/api/records/18476394/files/297f8267-521a-4671-a3b3-5792b86c5004",
+        "download": "https://zenodo.org/api/records/18476394/draft/files/alessi-mouse-ms-p-lung-vps35-d620n-wt_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
