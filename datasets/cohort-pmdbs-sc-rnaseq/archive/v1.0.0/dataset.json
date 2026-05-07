@@ -2,7 +2,7 @@
   "name": "cohort-pmdbs-sc-rnaseq",
   "title": "asap-cohort-pmdbs-sc-rnaseq",
   "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
-  "version": "v3.1.0",
+  "version": "v1.0.0",
   "doi": "10.5281/zenodo.17860778",
   "creators": [
     {

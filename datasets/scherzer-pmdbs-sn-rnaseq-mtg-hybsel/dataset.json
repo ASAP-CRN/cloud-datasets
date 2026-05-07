@@ -2,7 +2,7 @@
     "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
     "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
     "description": "pmdbs-other dataset from team-scherzer",
-    "version": "v1.1",
+    "version": "1.2",
     "doi": "10.5281/zenodo.16885839",
     "creators": [
         {
@@ -60,7 +60,7 @@
         },
         "v4.1.0": {
             "cde_version": "v3.3",
-            "dataset_version": "3.1.1"
+            "dataset_version": "v1.2"
         }
     }
 }

@@ -1,0 +1,76 @@
+{
+    "project_name": "Comparative analysis of AAV serotypes for transduction of olfactory sensory neurons",
+    "project_description": "snRNAseq of mouse olfactory epithelium to identify best AAV serotype for transduction of olfactory sensory neurons.",
+    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
+    "dataset_description": "Single-nucleus RNA sequencing data of 4 mice, each inoculated with 4 AAV serotypes. The mice were all male and 8-10 weeks of age at when olfactory epithelium tissue was harvested. Samples were paired-end sequences using v3.1 \u2013 Dual Index using Illumina Novaseq 6000 sequencer.",
+    "creators": [
+        {
+            "name": "Belfort, Benjamin",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-2866-5763"
+        },
+        {
+            "name": "Jia, Johnathan",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-7466-8589"
+        },
+        {
+            "name": "Garza, Alexandra",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0003-3288-4237"
+        },
+        {
+            "name": "Insalaco, Anthony",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0009-0005-7761-0506"
+        },
+        {
+            "name": "McGinnis, John",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0009-0003-5669-5913"
+        },
+        {
+            "name": "Pekarek, Brandon",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-8785-4196"
+        },
+        {
+            "name": "Ortiz-Guzman, Joshua",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-7000-394X"
+        },
+        {
+            "name": "Tepe, Burak",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0003-4371-2502"
+        },
+        {
+            "name": "Chen, Hu",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-5472-7158"
+        },
+        {
+            "name": "Liu, Zhandong",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-7608-0831"
+        },
+        {
+            "name": "Arenkiel, Benjamin",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-9047-2420"
+        }
+    ],
+    "publication_date": "2025-10-03",
+    "version": "1.0",
+    "title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
+    "ASAP_lab_name": "Arenkiel/Liu Lab",
+    "PI_full_name": "Benjamin A Arenkiel",
+    "PI_email": "Arenkiel@bcm.edu",
+    "submitter_name": "Johnathan Jia",
+    "submitter_email": "johnathan.jia@bcm.edu",
+    "publication_DOI": "10.1101/2024.09.26.615247",
+    "grant_ids": [
+        "10000400"
+    ],
+    "team_name": "Schlossmacher"
+}

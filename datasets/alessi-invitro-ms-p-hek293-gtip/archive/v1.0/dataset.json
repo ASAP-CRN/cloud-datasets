@@ -11,7 +11,8 @@
     }
   ],
   "keywords": [
-    "proteomics",
+    "invitro",
+    "ms-p",
     "proteomics",
     "alessi"
   ],
@@ -24,7 +25,7 @@
     "uat": "gs://asap-uat-team-alessi-invitro-ms-p-hek293-gtip",
     "prod": "gs://asap-curated-team-alessi-invitro-ms-p-hek293-gtip"
   },
-  "cde_version": "v3.3",
+  "cde_version": "v4.3",
   "releases": {
     "v3.0.1": {
       "cde_version": "v3.3",

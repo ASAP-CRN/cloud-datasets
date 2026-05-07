@@ -15,7 +15,7 @@ Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data 
 
 **ASAP Team:** Alessi
 
-**Dataset Name:** alessi-invitro-ms-p-hek293-gtip, v1.1
+**Dataset Name:** alessi-invitro-ms-p-hek293-gtip, v1.0
 
 **Principal Investigator:** Dario R. Alessi, d.r.alessi@dundee.ac.uk
 
@@ -31,7 +31,7 @@ Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data 
 
 **Project Description:** LRRK2 targets and modifies a set of enzymes known as Rab GTPases, triggering new biological events by creating new protein: protein interactions. We aim to decipher what controls the activity of LRRK2 and to explore, in precise molecular detail, how this enzyme affects three major cellular structures (cilia, lysosomes and mitochondria) implicated in Parkinson's disease. We showed that mutant LRRK2 triggers a series of molecular changes that cause new sets of proteins to interact. Our goal is to use a combination of state-of-the-art approaches to understand the consequences of these new interactions on the biology of three important subcellular compartments: primary cilia, lysosomes, and mitochondria.
 
-**Submission Date:** 2026-02-03
+**Submission Date:** 2025-10-14
 
 __________________________________________
 

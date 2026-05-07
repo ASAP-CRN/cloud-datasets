@@ -1,0 +1,91 @@
+{
+  "created": "2026-01-16T20:56:40.692049+00:00",
+  "modified": "2026-01-16T20:56:41.029598+00:00",
+  "id": 18273825,
+  "conceptrecid": "18273824",
+  "doi": "10.5281/zenodo.18273825",
+  "conceptdoi": "10.5281/zenodo.18273824",
+  "doi_url": "https://doi.org/10.5281/zenodo.18273825",
+  "metadata": {
+    "title": "Targeted metabolomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
+    "doi": "10.5281/zenodo.18273825",
+    "publication_date": "2026-01-31",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Targeted metabolomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet\".</p>\n<p><strong>Description:</strong> G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 5-6 per group).</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000592"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.18273825",
+      "recid": 18273825
+    }
+  },
+  "title": "Targeted metabolomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
+  "links": {
+    "self": "https://zenodo.org/api/records/18273825",
+    "html": "https://zenodo.org/records/18273825",
+    "doi": "https://doi.org/10.5281/zenodo.18273825",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18273824",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273825.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18273824.svg",
+    "files": "https://zenodo.org/api/records/18273825/files",
+    "bucket": "https://zenodo.org/api/files/1edecab4-e73e-4af9-97f3-a3d4be512cfb",
+    "thumb250": "https://zenodo.org/record/18273825/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/18273825/thumb10",
+      "50": "https://zenodo.org/record/18273825/thumb50",
+      "100": "https://zenodo.org/record/18273825/thumb100",
+      "250": "https://zenodo.org/record/18273825/thumb250",
+      "750": "https://zenodo.org/record/18273825/thumb750",
+      "1200": "https://zenodo.org/record/18273825/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/18273825",
+    "latest_draft_html": "https://zenodo.org/deposit/18273825",
+    "publish": "https://zenodo.org/api/deposit/depositions/18273825/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/18273825/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/18273825/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/18273825/actions/newversion",
+    "record": "https://zenodo.org/api/records/18273825",
+    "record_html": "https://zenodo.org/record/18273825",
+    "latest": "https://zenodo.org/api/records/18273825/versions/latest",
+    "latest_html": "https://zenodo.org/records/18273825/latest"
+  },
+  "record_id": 18273825,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "395691c3-c762-46b3-8fb2-8981f1da1ba8",
+      "filename": "lee-mouse-ms-mb-striatum-g2019s-hf-diet_README.pdf",
+      "filesize": 5258,
+      "checksum": "a7784f25d21db0610fb319064f27ce1c",
+      "links": {
+        "self": "https://zenodo.org/api/records/18273825/files/395691c3-c762-46b3-8fb2-8981f1da1ba8",
+        "download": "https://zenodo.org/api/records/18273825/draft/files/lee-mouse-ms-mb-striatum-g2019s-hf-diet_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

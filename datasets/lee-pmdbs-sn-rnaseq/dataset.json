@@ -2,7 +2,7 @@
     "name": "lee-pmdbs-sn-rnaseq",
     "title": "team-lee-pmdbs-sn-rnaseq",
     "description": "pmdbs-sc-rnaseq dataset from team-lee",
-    "version": "v1.0",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16744323",
     "creators": [
         {
@@ -64,7 +64,7 @@
         },
         "v4.1.0": {
             "cde_version": "v3.3",
-            "dataset_version": "3.1.1"
+            "dataset_version": "v1.1"
         }
     }
 }

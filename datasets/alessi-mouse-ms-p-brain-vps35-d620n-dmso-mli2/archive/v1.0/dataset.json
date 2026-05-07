@@ -1,0 +1,34 @@
+{
+    "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+    "title": "team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+    "description": "Dataset from team-alessi",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.18476402",
+    "creators": [
+        {
+            "name": "team-alessi",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "mouse",
+        "brain",
+        "alessi"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+        "dev": "gs://asap-dev-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+        "uat": "gs://asap-uat-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+        "prod": "gs://asap-curated-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2"
+    },
+    "cde_version": "v4.3",
+    "releases": {
+        "v4.1.0": {
+            "cde_version": "v4.3",
+            "dataset_version": "1.0"
+        }
+    }
+}

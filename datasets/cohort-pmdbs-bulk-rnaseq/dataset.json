@@ -2,7 +2,7 @@
     "name": "cohort-pmdbs-bulk-rnaseq",
     "title": "asap-cohort-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
-    "version": "v1.2.0",
+    "version": "1.2.1",
     "doi": "10.5281/zenodo.16975686",
     "creators": [
         {

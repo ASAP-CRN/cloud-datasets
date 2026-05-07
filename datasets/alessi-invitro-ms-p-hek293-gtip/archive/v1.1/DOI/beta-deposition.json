@@ -1,0 +1,95 @@
+{
+  "created": "2025-10-15T04:35:41.423637+00:00",
+  "modified": "2025-10-15T04:35:41.719529+00:00",
+  "id": 17355408,
+  "conceptrecid": "17355407",
+  "doi": "10.5281/zenodo.17355408",
+  "conceptdoi": "10.5281/zenodo.17355407",
+  "doi_url": "https://doi.org/10.5281/zenodo.17355408",
+  "metadata": {
+    "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "doi": "10.5281/zenodo.17355408",
+    "publication_date": "2025-10-14",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Golgi-IP, a tool for multimodal analysis of Golgi molecular content\".</p>\n<p><strong>Description:</strong> Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data set contains six replicates of GolgiTAG-IP, Control-IP, GolgiTAG whole cell extract and Control cells whole cell extract. The mass spectrometry data is acquired using variable data independent acquisition (vDIA) on an Orbitrap Exploris 480 mass spectrometer. Database searches performed against Human Uniprot database using Spectronaut search algorithm.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Nirujogi, Raja",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+        "orcid": "0000-0002-3177-8566"
+      },
+      {
+        "name": "Phung, Toan",
+        "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000463"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.17355408",
+      "recid": 17355408
+    }
+  },
+  "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+  "links": {
+    "self": "https://zenodo.org/api/records/17355408",
+    "html": "https://zenodo.org/records/17355408",
+    "doi": "https://doi.org/10.5281/zenodo.17355408",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17355407",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17355408.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.17355407.svg",
+    "files": "https://zenodo.org/api/records/17355408/files",
+    "bucket": "https://zenodo.org/api/files/9e0bad37-1d87-47ad-a836-8e39c7a8d459",
+    "thumb250": "https://zenodo.org/record/17355408/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/17355408/thumb10",
+      "50": "https://zenodo.org/record/17355408/thumb50",
+      "100": "https://zenodo.org/record/17355408/thumb100",
+      "250": "https://zenodo.org/record/17355408/thumb250",
+      "750": "https://zenodo.org/record/17355408/thumb750",
+      "1200": "https://zenodo.org/record/17355408/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/17355408",
+    "latest_draft_html": "https://zenodo.org/deposit/17355408",
+    "publish": "https://zenodo.org/api/deposit/depositions/17355408/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/17355408/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/17355408/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/17355408/actions/newversion",
+    "record": "https://zenodo.org/api/records/17355408",
+    "record_html": "https://zenodo.org/record/17355408",
+    "latest": "https://zenodo.org/api/records/17355408/versions/latest",
+    "latest_html": "https://zenodo.org/records/17355408/latest"
+  },
+  "record_id": 17355408,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "90231a8c-6f59-4aa2-aaca-96d1a45299f5",
+      "filename": "alessi-invitro-ms-p-hek293-gtip_README.pdf",
+      "filesize": 4673,
+      "checksum": "dcd03a129136dec094203d3ea4947d46",
+      "links": {
+        "self": "https://zenodo.org/api/records/17355408/files/90231a8c-6f59-4aa2-aaca-96d1a45299f5",
+        "download": "https://zenodo.org/api/records/17355408/draft/files/alessi-invitro-ms-p-hek293-gtip_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
