@@ -28,11 +28,11 @@
   "releases": {
     "v1.0.0": {
       "cde_version": "v2.1",
-      "dataset_version": "v1.0",
+      "dataset_version": "v1.0"
     },
     "v2.0.0": {
       "cde_version": "v3.0",
-      "dataset_version": "v1.0",
-    },
+      "dataset_version": "v1.0"
+    }
   }
 }
