@@ -1,10 +1,10 @@
 This Zenodo deposit contains a publicly available description of the Dataset:
 
-# "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice".
+# "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet".
 
 ## Dataset Description:
  
-The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).
+G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, striatal tissue was collected for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).
 
 
 **Authors:**
@@ -17,9 +17,10 @@ The liver was collected from G2019S LRRK2 knockin mice and their wild-type litte
 
 **Dataset Name:** lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet, v1.0
 
-**Principal Investigator:** Darren J. Moore, Darren.Moore@vai.org
+**Principal Investigator:** Darren J. Moore <Darren.Moore@vai.org>
 
-**Dataset Submitter:** Yue Ma, yue.ma@vai.org
+
+**Dataset Submitter:** Yue Ma <yue.ma@vai.org>
 
 **Publication DOI:** NA
 

@@ -1,7 +1,7 @@
 {
     "name": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
     "title": "team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
-    "description": "Dataset from team-lee",
+    "description": "bulk RNAseq from team-lee",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18273802",
     "creators": [
