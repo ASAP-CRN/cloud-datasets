@@ -6,8 +6,14 @@
     "doi": "10.5281/zenodo.18989559",
     "creators": [
         {
-            "name": "team-sulzer",
-            "affiliation": "ASAP CRN"
+            "name": "Moiseyenko, Anastasiya",
+            "affiliation": "California Institute of Technology",
+            "orcid": "0000-0001-5379-7808"
+        },
+        {
+            "name": "Mazmanian, Sarkis",
+            "affiliation": "California Institute of Technology",
+            "orcid": "0000-0003-2713-1513"
         }
     ],
     "keywords": [
@@ -26,8 +32,9 @@
     "cde_version": "v4.3",
     "releases": {
         "v4.0.2": {
-        "cde_version": "v4.3",
-        "dataset_version": "v1.0"
+            "cde_version": "v4.3",
+            "dataset_version": "v1.0"
         }
-    }
+    },
+    "dataset_title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii"
 }

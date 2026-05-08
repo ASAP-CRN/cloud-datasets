@@ -6,8 +6,14 @@
     "doi": "10.5281/zenodo.18476408",
     "creators": [
         {
-            "name": "team-alessi",
-            "affiliation": "ASAP CRN"
+            "name": "Lam, Pui Yiu",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+            "orcid": "0000-0001-5486-091X"
+        },
+        {
+            "name": "Taylor, Matthew",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+            "orcid": "0000-0002-4003-3128"
         }
     ],
     "keywords": [
@@ -27,8 +33,9 @@
     "cde_version": "v4.3",
     "releases": {
         "v4.0.2": {
-        "cde_version": "v4.3",
-        "dataset_version": "v1.0"
+            "cde_version": "v4.3",
+            "dataset_version": "v1.0"
         }
-    }
+    },
+    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition."
 }

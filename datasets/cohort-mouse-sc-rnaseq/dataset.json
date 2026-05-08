@@ -30,5 +30,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.0.0"
         }
-    }
+    },
+    "dataset_title": "asap-cohort-mouse-sc-rnaseq"
 }

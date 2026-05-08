@@ -6,8 +6,14 @@
     "doi": "10.5281/zenodo.18476404",
     "creators": [
         {
-            "name": "team-alessi",
-            "affiliation": "ASAP CRN"
+            "name": "Lam, Pui Yiu",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+            "orcid": "0000-0001-5486-091X"
+        },
+        {
+            "name": "Dickie, Emily",
+            "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+            "orcid": "0000-0002-4509-5045"
         }
     ],
     "keywords": [
@@ -30,5 +36,6 @@
             "cde_version": "v4.3",
             "dataset_version": "1.0"
         }
-    }
+    },
+    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung with LRRK2 inhibition"
 }

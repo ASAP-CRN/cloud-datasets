@@ -6,8 +6,33 @@
     "doi": "10.5281/zenodo.15490150",
     "creators": [
         {
-            "name": "team-hafler",
-            "affiliation": "ASAP CRN"
+            "name": "Zhang, Le",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-4860-831X"
+        },
+        {
+            "name": "Sreeganga, Chandra",
+            "affiliation": "Yale University",
+            "orcid": "0000-0001-9035-1733"
+        },
+        {
+            "name": "Biqing, Zhu",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-7428-6297"
+        },
+        {
+            "name": "Jae Min, Park",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-9770-7197"
+        },
+        {
+            "name": "Anthony, Russo",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-0623-6618"
+        },
+        {
+            "name": "Haowei, Wang",
+            "affiliation": "Yale University"
         }
     ],
     "keywords": [
@@ -66,5 +91,6 @@
             "cde_version": "v3.3",
             "dataset_version": "1.1"
         }
-    }
+    },
+    "dataset_title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains"
 }

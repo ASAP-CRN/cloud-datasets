@@ -1,54 +1,91 @@
 {
-  "name": "biederer-mouse-sc-rnaseq",
-  "title": "team-biederer-mouse-sc-rnaseq",
-  "description": "mouse-sc-rnaseq dataset from team-biederer",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.15485103",
-  "creators": [
-    {
-      "name": "team-biederer",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "mouse-sc-rnaseq",
-    "mouse-other",
-    "biederer"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-biederer-mouse-sc-rnaseq",
-    "dev": "gs://asap-dev-team-biederer-mouse-sc-rnaseq",
-    "uat": "gs://asap-uat-team-biederer-mouse-sc-rnaseq",
-    "prod": "gs://asap-curated-team-biederer-mouse-sc-rnaseq"
-  },
-  "cde_version": "v3.1",
-  "releases": {
-    "v2.0.2": {
-      "cde_version": "v3.1",
-      "dataset_version": "v1.0"
+    "name": "biederer-mouse-sc-rnaseq",
+    "title": "team-biederer-mouse-sc-rnaseq",
+    "description": "mouse-sc-rnaseq dataset from team-biederer",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15485103",
+    "creators": [
+        {
+            "name": "Feketa, Viktor",
+            "affiliation": "Yale University",
+            "orcid": "0000-0003-4978-0581"
+        },
+        {
+            "name": "Gracheva, Elena",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-0846-3427"
+        },
+        {
+            "name": "Henderson, Michael",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-9710-0726"
+        },
+        {
+            "name": "Breton, Elizabeth",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-9968-1878"
+        },
+        {
+            "name": "Meyerdirk, Lindsay",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-4640-9517"
+        },
+        {
+            "name": "Volpicelli-Daley, Laura",
+            "affiliation": "University of Alabama at Birmingham",
+            "orcid": "0000-0001-8934-4018"
+        },
+        {
+            "name": "Menard, Marissa",
+            "affiliation": "University of Alabama at Birmingham",
+            "orcid": "0000-0002-0976-3448"
+        },
+        {
+            "name": "Biederer, Thomas",
+            "affiliation": "Yale University",
+            "orcid": "0000-0003-0912-1514"
+        }
+    ],
+    "keywords": [
+        "mouse-sc-rnaseq",
+        "mouse-other",
+        "biederer"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-biederer-mouse-sc-rnaseq",
+        "dev": "gs://asap-dev-team-biederer-mouse-sc-rnaseq",
+        "uat": "gs://asap-uat-team-biederer-mouse-sc-rnaseq",
+        "prod": "gs://asap-curated-team-biederer-mouse-sc-rnaseq"
     },
-    "v2.0.3": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
+    "cde_version": "v3.1",
+    "releases": {
+        "v2.0.2": {
+            "cde_version": "v3.1",
+            "dataset_version": "v1.0"
+        },
+        "v2.0.3": {
+            "cde_version": "v3.0",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.0": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.1": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.2": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        }
     },
-    "v3.0.0": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.1": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "dataset_title": "Single Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology"
 }

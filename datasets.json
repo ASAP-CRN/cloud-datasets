@@ -2,9 +2,39 @@
     "alessi-invitro-ms-p-hek293-gtip": {
         "name": "alessi-invitro-ms-p-hek293-gtip",
         "title": "team-alessi-invitro-ms-p-hek293-gtip",
+        "description": "proteomics dataset from team-alessi",
         "version": "v1.1",
+        "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
         "doi": "10.5281/zenodo.17355407",
-        "release": {
+        "creators": [
+            {
+                "name": "Nirujogi, Raja",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-3177-8566"
+            },
+            {
+                "name": "Phung, Toan",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": null
+            }
+        ],
+        "keywords": [
+            "invitro",
+            "ms-p",
+            "proteomics",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-invitro-ms-p-hek293-gtip",
+            "dev": "gs://asap-dev-team-alessi-invitro-ms-p-hek293-gtip",
+            "uat": "gs://asap-uat-team-alessi-invitro-ms-p-hek293-gtip",
+            "prod": "gs://asap-curated-team-alessi-invitro-ms-p-hek293-gtip"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v3.0.1": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -21,86 +51,339 @@
                 "cde_version": "v4.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.0.2"
+        ]
     },
     "alessi-mefs-ms-p-vps35-d620n-dmso-mli2": {
         "name": "alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
         "title": "team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
         "doi": "10.5281/zenodo.18476410",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Taylor, Matthew",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4003-3128"
+            }
+        ],
+        "keywords": [
+            "mefs",
+            "ms-p",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
+            "dev": "gs://asap-dev-team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
+            "uat": "gs://asap-uat-team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
+            "prod": "gs://asap-curated-team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.0.2": {
                 "cde_version": "v4.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v4.0.2"
+        ]
     },
     "alessi-mefs-ms-p-vps35-d620n-wt": {
         "name": "alessi-mefs-ms-p-vps35-d620n-wt",
         "title": "team-alessi-mefs-ms-p-vps35-d620n-wt",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
         "doi": "10.5281/zenodo.18476408",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Taylor, Matthew",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4003-3128"
+            }
+        ],
+        "keywords": [
+            "mefs",
+            "ms-p",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mefs-ms-p-vps35-d620n-wt",
+            "dev": "gs://asap-dev-team-alessi-mefs-ms-p-vps35-d620n-wt",
+            "uat": "gs://asap-uat-team-alessi-mefs-ms-p-vps35-d620n-wt",
+            "prod": "gs://asap-curated-team-alessi-mefs-ms-p-vps35-d620n-wt"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.0.2": {
                 "cde_version": "v4.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v4.0.2"
+        ]
     },
     "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2": {
         "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
         "title": "team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain with LRRK2 inhibition.",
         "doi": "10.5281/zenodo.18476402",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Dickie, Emily",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4509-5045"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "brain",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "dev": "gs://asap-dev-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "uat": "gs://asap-uat-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
+            "prod": "gs://asap-curated-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "alessi-mouse-ms-p-brain-vps35-d620n-wt": {
         "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
         "title": "team-alessi-mouse-ms-p-brain-vps35-d620n-wt",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain.",
         "doi": "10.5281/zenodo.18476398",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Dickie, Emily",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4509-5045"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "brain",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "dev": "gs://asap-dev-team-alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "uat": "gs://asap-uat-team-alessi-mouse-ms-p-brain-vps35-d620n-wt",
+            "prod": "gs://asap-curated-team-alessi-mouse-ms-p-brain-vps35-d620n-wt"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2": {
         "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
         "title": "team-alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung with LRRK2 inhibition",
         "doi": "10.5281/zenodo.18476404",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Dickie, Emily",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4509-5045"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "lung",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "dev": "gs://asap-dev-team-alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "uat": "gs://asap-uat-team-alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
+            "prod": "gs://asap-curated-team-alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "alessi-mouse-ms-p-lung-vps35-d620n-wt": {
         "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
         "title": "team-alessi-mouse-ms-p-lung-vps35-d620n-wt",
+        "description": "Dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung",
         "doi": "10.5281/zenodo.18476393",
-        "release": {
+        "creators": [
+            {
+                "name": "Lam, Pui Yiu",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0001-5486-091X"
+            },
+            {
+                "name": "Dicke, Emily",
+                "affiliation": "Team Alessi, MRC-PPU, University of Dundee, Dundee, UK",
+                "orcid": "0000-0002-4509-5045"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "lung",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "dev": "gs://asap-dev-team-alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "uat": "gs://asap-uat-team-alessi-mouse-ms-p-lung-vps35-d620n-wt",
+            "prod": "gs://asap-curated-team-alessi-mouse-ms-p-lung-vps35-d620n-wt"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s": {
         "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
         "title": "team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+        "description": "mouse-sc-rnaseq dataset from team-alessi",
         "version": "v1.0",
+        "dataset_title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
         "doi": "10.5281/zenodo.17212215",
-        "release": {
+        "creators": [
+            {
+                "name": "Khan, Shahzad",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0003-3962-0226"
+            },
+            {
+                "name": "Lin, Yu-En",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0002-5848-5405"
+            },
+            {
+                "name": "Pfeffer, Suzanne",
+                "affiliation": "Department of Biochemistry, Stanford University School of Medicine, Stanford, CA 94305-5307",
+                "orcid": "0000-0002-6462-984X"
+            }
+        ],
+        "keywords": [
+            "mouse-sc-rnaseq",
+            "other-mouse",
+            "alessi"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+            "dev": "gs://asap-dev-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+            "uat": "gs://asap-uat-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
+            "prod": "gs://asap-curated-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.1": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -113,14 +396,81 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "biederer-mouse-sc-rnaseq": {
         "name": "biederer-mouse-sc-rnaseq",
         "title": "team-biederer-mouse-sc-rnaseq",
+        "description": "mouse-sc-rnaseq dataset from team-biederer",
         "version": "v1.0",
+        "dataset_title": "Single Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology",
         "doi": "10.5281/zenodo.15485103",
-        "release": {
+        "creators": [
+            {
+                "name": "Feketa, Viktor",
+                "affiliation": "Yale University",
+                "orcid": "0000-0003-4978-0581"
+            },
+            {
+                "name": "Gracheva, Elena",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-0846-3427"
+            },
+            {
+                "name": "Henderson, Michael",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-9710-0726"
+            },
+            {
+                "name": "Breton, Elizabeth",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-9968-1878"
+            },
+            {
+                "name": "Meyerdirk, Lindsay",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-4640-9517"
+            },
+            {
+                "name": "Volpicelli-Daley, Laura",
+                "affiliation": "University of Alabama at Birmingham",
+                "orcid": "0000-0001-8934-4018"
+            },
+            {
+                "name": "Menard, Marissa",
+                "affiliation": "University of Alabama at Birmingham",
+                "orcid": "0000-0002-0976-3448"
+            },
+            {
+                "name": "Biederer, Thomas",
+                "affiliation": "Yale University",
+                "orcid": "0000-0003-0912-1514"
+            }
+        ],
+        "keywords": [
+            "mouse-sc-rnaseq",
+            "mouse-other",
+            "biederer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-biederer-mouse-sc-rnaseq",
+            "dev": "gs://asap-dev-team-biederer-mouse-sc-rnaseq",
+            "uat": "gs://asap-uat-team-biederer-mouse-sc-rnaseq",
+            "prod": "gs://asap-curated-team-biederer-mouse-sc-rnaseq"
+        },
+        "cde_version": "v3.1",
+        "releases": {
             "v2.0.2": {
                 "cde_version": "v3.1",
                 "dataset_version": "v1.0"
@@ -145,26 +495,91 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "cohort-mouse-sc-rnaseq": {
         "name": "cohort-mouse-sc-rnaseq",
         "title": "asap-cohort-mouse-sc-rnaseq",
+        "description": "mouse-sc-rnaseq dataset from asap-cohort",
         "version": "v1.0.0",
+        "dataset_title": "",
         "doi": "10.5281/zenodo.17860975",
-        "release": {
+        "creators": [
+            {
+                "name": "asap-cohort",
+                "affiliation": "ASAP CRN",
+                "orcid": null
+            }
+        ],
+        "keywords": [
+            "mouse-sc-rnaseq",
+            "mouse-sc-rnaseq",
+            "cohort"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "mouse-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-cohort-mouse-sc-rnaseq",
+            "dev": "gs://asap-dev-cohort-mouse-sc-rnaseq",
+            "uat": "gs://asap-uat-cohort-mouse-sc-rnaseq",
+            "prod": "gs://asap-curated-cohort-mouse-sc-rnaseq"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v4.0.0": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0.0"
+        ],
+        "all_releases": [
+            "v4.0.0"
+        ]
     },
     "cohort-pmdbs-bulk-rnaseq": {
         "name": "cohort-pmdbs-bulk-rnaseq",
         "title": "asap-cohort-pmdbs-bulk-rnaseq",
-        "version": "1.2.1",
+        "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
+        "version": "v1.2.1",
+        "dataset_title": "",
         "doi": "10.5281/zenodo.16975686",
-        "release": {
+        "creators": [
+            {
+                "name": "asap-cohort",
+                "affiliation": "ASAP CRN",
+                "orcid": null
+            }
+        ],
+        "keywords": [
+            "pmdbs-bulk-rnaseq",
+            "pmdbs-bulk-rnaseq",
+            "cohort"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-bulk-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-cohort-pmdbs-bulk-rnaseq",
+            "dev": "gs://asap-dev-cohort-pmdbs-bulk-rnaseq",
+            "uat": "gs://asap-uat-cohort-pmdbs-bulk-rnaseq",
+            "prod": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0.0"
@@ -201,14 +616,52 @@
                 "cde_version": "v3.3",
                 "dataset_version": "1.2.1"
             }
-        }
+        },
+        "all_versions": [
+            "1.2.1"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "cohort-pmdbs-sc-rnaseq": {
         "name": "cohort-pmdbs-sc-rnaseq",
         "title": "asap-cohort-pmdbs-sc-rnaseq",
-        "version": "3.1.1",
+        "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
+        "version": "v3.1.1",
+        "dataset_title": "",
         "doi": "10.5281/zenodo.19876217",
-        "release": {
+        "creators": [
+            {
+                "name": "asap-cohort",
+                "affiliation": "ASAP CRN",
+                "orcid": null
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "cohort"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-cohort-pmdbs-sc-rnaseq",
+            "dev": "gs://asap-dev-cohort-pmdbs-sc-rnaseq",
+            "uat": "gs://asap-uat-cohort-pmdbs-sc-rnaseq",
+            "prod": "gs://asap-curated-cohort-pmdbs-sc-rnaseq"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v1.0.0": {
                 "cde_version": "v2.1",
                 "dataset_version": "v1.0.0"
@@ -249,14 +702,108 @@
                 "cde_version": "v3.3",
                 "dataset_version": "3.1.1"
             }
-        }
+        },
+        "all_versions": [
+            "3.1.1"
+        ],
+        "all_releases": [
+            "v1.0.0",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "cragg-mouse-sn-rnaseq-striatum": {
         "name": "cragg-mouse-sn-rnaseq-striatum",
         "title": "team-cragg-mouse-sn-rnaseq-striatum",
+        "description": "mouse-sc-rnaseq dataset from team-cragg",
         "version": "v1.0",
+        "dataset_title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
         "doi": "10.5281/zenodo.15400039",
-        "release": {
+        "creators": [
+            {
+                "name": "Graziano, Marta",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-9417-5212"
+            },
+            {
+                "name": "Mantas, Ioannis",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-6288-5439"
+            },
+            {
+                "name": "Masarapu, Yuvarani",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-3267-2085"
+            },
+            {
+                "name": "Frapard, Sol\u00e8ne",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-2649-7225"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University,  Lund, Sweden. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Fazal, Shaline",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK.",
+                "orcid": "0000-0002-2813-4022"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Giacomello, Stefania",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0003-0738-1574"
+            },
+            {
+                "name": "Meletis, Konstantinos",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0001-5665-4781"
+            }
+        ],
+        "keywords": [
+            "mouse-sc-rnaseq",
+            "mouse-other",
+            "cragg"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-cragg-mouse-sn-rnaseq-striatum",
+            "dev": "gs://asap-dev-team-cragg-mouse-sn-rnaseq-striatum",
+            "uat": "gs://asap-uat-team-cragg-mouse-sn-rnaseq-striatum",
+            "prod": "gs://asap-curated-team-cragg-mouse-sn-rnaseq-striatum"
+        },
+        "cde_version": "v3.1",
+        "releases": {
             "v2.0.2": {
                 "cde_version": "v3.1",
                 "dataset_version": "v1.0"
@@ -281,14 +828,104 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "cragg-mouse-spatial-visium-striatum": {
         "name": "cragg-mouse-spatial-visium-striatum",
         "title": "team-cragg-mouse-spatial-visium-striatum",
+        "description": "mouse-spatial dataset from team-cragg",
         "version": "v1.0",
+        "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
         "doi": "10.5281/zenodo.15428115",
-        "release": {
+        "creators": [
+            {
+                "name": "Graziano, Marta",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-9417-5212"
+            },
+            {
+                "name": "Mantas, Ioannis",
+                "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+                "orcid": "0000-0001-6288-5439"
+            },
+            {
+                "name": "Masarapu, Yuvarani",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-3267-2085"
+            },
+            {
+                "name": "Frapard, Sol\u00e8ne",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0002-2649-7225"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University,  Lund, Sweden. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Fazal, Shaline",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK.",
+                "orcid": "0000-0002-2813-4022"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Giacomello, Stefania",
+                "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+                "orcid": "0000-0003-0738-1574"
+            },
+            {
+                "name": "Meletis, Konstantinos",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+                "orcid": "0000-0001-5665-4781"
+            }
+        ],
+        "keywords": [
+            "mouse-spatial",
+            "mouse-other",
+            "cragg"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
+            "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
+            "uat": "gs://asap-uat-team-cragg-mouse-spatial-visium-striatum",
+            "prod": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum"
+        },
+        "cde_version": "v3.1",
+        "releases": {
             "v2.0.3": {
                 "cde_version": "v3.1",
                 "dataset_version": "v1.0"
@@ -309,14 +946,73 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "edwards-pmdbs-spatial-geomx-th": {
         "name": "edwards-pmdbs-spatial-geomx-th",
         "title": "team-edwards-pmdbs-spatial-geomx-th",
+        "description": "pmdbs-spatial dataset from team-edwards",
         "version": "v1.0",
+        "dataset_title": "Spatial Transcriptomics data (GeoMx) of midbrain dopamine cells in control and PD subjects",
         "doi": "10.5281/zenodo.15480990",
-        "release": {
+        "creators": [
+            {
+                "name": "Chatterton, Zac",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": "0000-0002-6683-1400"
+            },
+            {
+                "name": "Pineda, Sandy",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": "0000-0002-9003-0101"
+            },
+            {
+                "name": "Wu, Ping",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": null
+            },
+            {
+                "name": "Li, Hongyun",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": null
+            },
+            {
+                "name": "Fu, Yuhong",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": "0000-0003-4539-2039"
+            },
+            {
+                "name": "Halliday, Glenda",
+                "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+                "orcid": "0000-0003-0422-8398"
+            }
+        ],
+        "keywords": [
+            "pmdbs-spatial",
+            "pmdbs-other",
+            "edwards"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
+            "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
+            "uat": "gs://asap-uat-team-edwards-pmdbs-spatial-geomx-th",
+            "prod": "gs://asap-curated-team-edwards-pmdbs-spatial-geomx-th"
+        },
+        "cde_version": "v3.1",
+        "releases": {
             "v2.0.2": {
                 "cde_version": "v3.1",
                 "dataset_version": "v1.0"
@@ -341,14 +1037,74 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "hafler-pmdbs-sn-rnaseq-pfc": {
         "name": "hafler-pmdbs-sn-rnaseq-pfc",
         "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
-        "version": "1.1",
+        "description": "pmdbs-sc-rnaseq dataset from team-hafler",
+        "version": "v1.1",
+        "dataset_title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
         "doi": "10.5281/zenodo.15490150",
-        "release": {
+        "creators": [
+            {
+                "name": "Zhang, Le",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-4860-831X"
+            },
+            {
+                "name": "Sreeganga, Chandra",
+                "affiliation": "Yale University",
+                "orcid": "0000-0001-9035-1733"
+            },
+            {
+                "name": "Biqing, Zhu",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-7428-6297"
+            },
+            {
+                "name": "Jae Min, Park",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-9770-7197"
+            },
+            {
+                "name": "Anthony, Russo",
+                "affiliation": "Yale University",
+                "orcid": "0000-0002-0623-6618"
+            },
+            {
+                "name": "Haowei, Wang",
+                "affiliation": "Yale University",
+                "orcid": null
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "hafler"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
+            "dev": "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
+            "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
+            "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
+        },
+        "cde_version": "v2.1",
+        "releases": {
             "v1.0.0": {
                 "cde_version": "v2.1",
                 "dataset_version": "v1.0"
@@ -389,14 +1145,78 @@
                 "cde_version": "v3.3",
                 "dataset_version": "1.1"
             }
-        }
+        },
+        "all_versions": [
+            "1.1"
+        ],
+        "all_releases": [
+            "v1.0.0",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "hardy-pmdbs-bulk-rnaseq": {
         "name": "hardy-pmdbs-bulk-rnaseq",
         "title": "team-hardy-pmdbs-bulk-rnaseq",
-        "version": "1.1",
+        "description": "pmdbs-bulk-rnaseq dataset from team-hardy",
+        "version": "v1.1",
+        "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
         "doi": "10.5281/zenodo.16749098",
-        "release": {
+        "creators": [
+            {
+                "name": "Fairbrother-Browne, Aine",
+                "affiliation": "UCL/EBI",
+                "orcid": "0000-0002-7196-1410"
+            },
+            {
+                "name": "Brenton, Jonathan",
+                "affiliation": "UCL/Cambridge",
+                "orcid": "0000-0002-2381-8484"
+            },
+            {
+                "name": "Grant-Peters, Melissa",
+                "affiliation": "Cambridge",
+                "orcid": "0000-0003-0585-0971"
+            },
+            {
+                "name": "Reynolds, Regina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-6470-7919"
+            },
+            {
+                "name": "Ryten, Mina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-9520-6957"
+            },
+            {
+                "name": "Jaunmuktane, Zane",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-7738-8881"
+            }
+        ],
+        "keywords": [
+            "pmdbs-bulk-rnaseq",
+            "pmdbs-bulk-rnaseq",
+            "hardy"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-bulk-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-hardy-pmdbs-bulk-rnaseq",
+            "dev": "gs://asap-dev-team-hardy-pmdbs-bulk-rnaseq",
+            "uat": "gs://asap-uat-team-hardy-pmdbs-bulk-rnaseq",
+            "prod": "gs://asap-curated-team-hardy-pmdbs-bulk-rnaseq"
+        },
+        "cde_version": "v3.0",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0"
@@ -433,14 +1253,77 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "hardy-pmdbs-sn-rnaseq": {
         "name": "hardy-pmdbs-sn-rnaseq",
         "title": "team-hardy-pmdbs-sn-rnaseq",
-        "version": "1.1",
+        "description": "pmdbs-sc-rnaseq dataset from team-hardy",
+        "version": "v1.1",
+        "dataset_title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
         "doi": "10.5281/zenodo.16749080",
-        "release": {
+        "creators": [
+            {
+                "name": "Fairbrother-Browne, Aine",
+                "affiliation": "UCL/EBI",
+                "orcid": "0000-0002-7196-1410"
+            },
+            {
+                "name": "Brenton, Jonathan",
+                "affiliation": "UCL/Cambridge",
+                "orcid": "0000-0002-2381-8484"
+            },
+            {
+                "name": "Grant-Peters, Melissa",
+                "affiliation": "Cambridge",
+                "orcid": "0000-0003-0585-0971"
+            },
+            {
+                "name": "Reynolds, Regina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-6470-7919"
+            },
+            {
+                "name": "Ryten, Mina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-9520-6957"
+            },
+            {
+                "name": "Jaunmuktane, Zane",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-7738-8881"
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "hardy"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-hardy-pmdbs-sn-rnaseq",
+            "dev": "gs://asap-dev-team-hardy-pmdbs-sn-rnaseq",
+            "uat": "gs://asap-uat-team-hardy-pmdbs-sn-rnaseq",
+            "prod": "gs://asap-curated-team-hardy-pmdbs-sn-rnaseq"
+        },
+        "cde_version": "v3.0",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0"
@@ -477,14 +1360,132 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "jakobsson-invitro-bulk-rnaseq-dopaminergic": {
         "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
         "title": "team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+        "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
         "version": "v1.0",
+        "dataset_title": "Bulk RNAseq of dopaminergic neurons in vitro cultures",
         "doi": "10.5281/zenodo.17149266",
-        "release": {
+        "creators": [
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Gale Hammell, Molly",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0003-0405-8392"
+            },
+            {
+                "name": "Kirkeby, Agnete",
+                "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+                "orcid": "0000-0001-8203-6901"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Sharma, Yogita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0001-9702-1809"
+            },
+            {
+                "name": "Tam, Oliver",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-1023-3655"
+            },
+            {
+                "name": "Wunderlich, Cole",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-6171-888X"
+            },
+            {
+                "name": "Forcier, Talitha",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-7933-5086"
+            },
+            {
+                "name": "Jones, Jo",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0003-4974-1371"
+            },
+            {
+                "name": "Curle, Annabel",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0002-9105-1131"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Wijesinghe, Sasvi",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0009-0004-6811-0043"
+            },
+            {
+                "name": "J\u00f6nsson, Marie",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-1184-6269"
+            },
+            {
+                "name": "Kouli, Antonina",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-6553-6154"
+            },
+            {
+                "name": "Atacho, Diahann",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-6158-0235"
+            }
+        ],
+        "keywords": [
+            "invitro-bulk-rnaseq",
+            "invitro",
+            "jakobsson"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+            "dev": "gs://asap-dev-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+            "uat": "gs://asap-uat-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
+            "prod": "gs://asap-curated-team-jakobsson-invitro-bulk-rnaseq-dopaminergic"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.2": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -493,14 +1494,125 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "jakobsson-invitro-bulk-rnaseq-microglia": {
         "name": "jakobsson-invitro-bulk-rnaseq-microglia",
         "title": "team-jakobsson-invitro-bulk-rnaseq-microglia",
+        "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
         "version": "v1.0",
+        "dataset_title": "Bulk RNAseq of microglia in vitro cultures",
         "doi": "10.5281/zenodo.17149290",
-        "release": {
+        "creators": [
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Gale Hammell, Molly",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0003-0405-8392"
+            },
+            {
+                "name": "Kirkeby, Agnete",
+                "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+                "orcid": "0000-0001-8203-6901"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Sharma, Yogita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0001-9702-1809"
+            },
+            {
+                "name": "Tam, Oliver",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-1023-3655"
+            },
+            {
+                "name": "Wunderlich, Cole",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-6171-888X"
+            },
+            {
+                "name": "Forcier, Talitha",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-7933-5086"
+            },
+            {
+                "name": "Jones, Jo",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0003-4974-1371"
+            },
+            {
+                "name": "Curle, Annabel",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0002-9105-1131"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Wijesinghe, Sasvi",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0009-0004-6811-0043"
+            },
+            {
+                "name": "J\u00f6nsson, Marie",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-1184-6269"
+            },
+            {
+                "name": "Kouli, Antonina",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-6553-6154"
+            },
+            {
+                "name": "Atacho, Diahann",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-6158-0235"
+            }
+        ],
+        "keywords": [
+            "invitro-bulk-rnaseq",
+            "invitro",
+            "jakobsson"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-microglia",
+            "dev": "gs://asap-dev-team-jakobsson-invitro-bulk-rnaseq-microglia",
+            "uat": "gs://asap-uat-team-jakobsson-invitro-bulk-rnaseq-microglia",
+            "prod": "gs://asap-curated-team-jakobsson-invitro-bulk-rnaseq-microglia"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.2": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -509,14 +1621,125 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "jakobsson-pmdbs-bulk-rnaseq": {
         "name": "jakobsson-pmdbs-bulk-rnaseq",
         "title": "team-jakobsson-pmdbs-bulk-rnaseq",
+        "description": "pmdbs-bulk-rnaseq dataset from team-jakobsson",
         "version": "v1.0",
+        "dataset_title": "Deep bulk RNAseq of neurological controls and PD brains",
         "doi": "10.5281/zenodo.16929448",
-        "release": {
+        "creators": [
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Gale Hammell, Molly",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0003-0405-8392"
+            },
+            {
+                "name": "Kirkeby, Agnete",
+                "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+                "orcid": "0000-0001-8203-6901"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Sharma, Yogita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0001-9702-1809"
+            },
+            {
+                "name": "Tam, Oliver",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-1023-3655"
+            },
+            {
+                "name": "Wunderlich, Cole",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-6171-888X"
+            },
+            {
+                "name": "Forcier, Talitha",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-7933-5086"
+            },
+            {
+                "name": "Jones, Jo",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0003-4974-1371"
+            },
+            {
+                "name": "Curle, Annabel",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0002-9105-1131"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Wijesinghe, Sasvi",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0009-0004-6811-0043"
+            },
+            {
+                "name": "J\u00f6nsson, Marie",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-1184-6269"
+            },
+            {
+                "name": "Kouli, Antonina",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-6553-6154"
+            },
+            {
+                "name": "Atacho, Diahann",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-6158-0235"
+            }
+        ],
+        "keywords": [
+            "pmdbs-bulk-rnaseq",
+            "other-pmdbs",
+            "jakobsson"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-jakobsson-pmdbs-bulk-rnaseq",
+            "dev": "gs://asap-dev-team-jakobsson-pmdbs-bulk-rnaseq",
+            "uat": "gs://asap-uat-team-jakobsson-pmdbs-bulk-rnaseq",
+            "prod": "gs://asap-curated-team-jakobsson-pmdbs-bulk-rnaseq"
+        },
+        "cde_version": "v3.2",
+        "releases": {
             "v3.0.0": {
                 "cde_version": "v3.2",
                 "dataset_version": "v1.0"
@@ -533,14 +1756,127 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "jakobsson-pmdbs-sn-rnaseq": {
         "name": "jakobsson-pmdbs-sn-rnaseq",
         "title": "team-jakobsson-pmdbs-sn-rnaseq",
-        "version": "2.1",
+        "description": "pmdbs-sc-rnaseq dataset from team-jakobsson",
+        "version": "v2.1",
+        "dataset_title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
         "doi": "10.5281/zenodo.15162834",
-        "release": {
+        "creators": [
+            {
+                "name": "Jakobsson, Johan",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0003-0669-7673"
+            },
+            {
+                "name": "Barker, Roger",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-8843-7730"
+            },
+            {
+                "name": "Gale Hammell, Molly",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0003-0405-8392"
+            },
+            {
+                "name": "Kirkeby, Agnete",
+                "affiliation": "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) and Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.",
+                "orcid": "0000-0001-8203-6901"
+            },
+            {
+                "name": "Garza, Raquel",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-2524-3055"
+            },
+            {
+                "name": "Sharma, Yogita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0001-9702-1809"
+            },
+            {
+                "name": "Tam, Oliver",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-1023-3655"
+            },
+            {
+                "name": "Wunderlich, Cole",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-6171-888X"
+            },
+            {
+                "name": "Forcier, Talitha",
+                "affiliation": "Institute for Systems Genetics, Department of Neuroscience and Physiology, NYU Langone Health, New York, NY 10016, USA. \nNeuroscience Institute, NYU Grossman School of Medicine, New York, NY 10016, USA.",
+                "orcid": "0000-0002-7933-5086"
+            },
+            {
+                "name": "Jones, Jo",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0003-4974-1371"
+            },
+            {
+                "name": "Curle, Annabel",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0002-9105-1131"
+            },
+            {
+                "name": "Quaegebeur, Annelies",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-5357-9341"
+            },
+            {
+                "name": "Adami, Anita",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-9421-7942"
+            },
+            {
+                "name": "Wijesinghe, Sasvi",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0009-0004-6811-0043"
+            },
+            {
+                "name": "J\u00f6nsson, Marie",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-1184-6269"
+            },
+            {
+                "name": "Kouli, Antonina",
+                "affiliation": "Department of Clinical Neurosciences, University of Cambridge and Department of Pathology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK",
+                "orcid": "0000-0001-6553-6154"
+            },
+            {
+                "name": "Atacho, Diahann",
+                "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, BMC A11, Lund University, 221 84 Lund, Sweden.",
+                "orcid": "0000-0002-6158-0235"
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-other",
+            "jakobsson"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-jakobsson-pmdbs-sn-rnaseq",
+            "dev": "gs://asap-dev-team-jakobsson-pmdbs-sn-rnaseq",
+            "uat": "gs://asap-uat-team-jakobsson-pmdbs-sn-rnaseq",
+            "prod": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq"
+        },
+        "cde_version": "v3.1",
+        "releases": {
             "v1.0.0": {
                 "cde_version": "v2.1",
                 "dataset_version": "v1.0"
@@ -581,218 +1917,884 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v2.1"
             }
-        }
+        },
+        "all_versions": [
+            "v2.1"
+        ],
+        "all_releases": [
+            "v1.0.0",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet": {
         "name": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
         "title": "team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+        "description": "bulk RNAseq from team-lee",
         "version": "v1.0",
+        "dataset_title": "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273802",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "bulk-rnaseq",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "lee-mouse-liver-bulk-rnaseq-g2019s": {
         "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
         "title": "team-lee-mouse-liver-bulk-rnaseq-g2019s",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
         "doi": "10.5281/zenodo.18273810",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "liver",
+            "bulk-rnaseq",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+            "dev": "gs://asap-dev-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+            "uat": "gs://asap-uat-team-lee-mouse-liver-bulk-rnaseq-g2019s",
+            "prod": "gs://asap-curated-team-lee-mouse-liver-bulk-rnaseq-g2019s"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "lee-mouse-ms-l-kidney-g2019s-hf-diet": {
         "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-l-kidney-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Untargeted lipidomic profiling of the kidney in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273858",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "kidney",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-l-kidney-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-l-kidney-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-l-liver-g2019s-hf-diet": {
         "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-l-liver-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Untargeted lipidomic profiling of the liver in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273844",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "liver",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-l-liver-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-l-liver-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-l-lung-g2019s-hf-diet": {
         "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-l-lung-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Untargeted lipidomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273852",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "lung",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-l-lung-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-l-lung-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-l-plasma-g2019s-hf-diet": {
         "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-l-plasma-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Untargeted lipidomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273840",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "plasma",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-l-plasma-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-l-plasma-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-l-striatum-g2019s-hf-diet": {
         "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-l-striatum-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Untargeted lipidomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273848",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "striatum",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-l-striatum-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-l-striatum-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-kidney-g2019s-hf-diet": {
         "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Targeted metabolomic profiling of the kidney in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273834",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "kidney",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-kidney-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-kidney-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-liver-g2019s-hf-diet": {
         "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Targeted metabolomic profiling of the liver in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273822",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "liver",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-liver-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-liver-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-lung-g2019s-hf-diet": {
         "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-mb-lung-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Targeted metabolomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273832",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "lung",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-lung-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-lung-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant": {
         "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
         "title": "team-lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Nucleoside quantification in the ventral midbrain of G2019S LRRK2 knockin mice",
         "doi": "10.5281/zenodo.18273870",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "brain",
+            "midbrain",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-midbrain-g2019s-nuc-quant"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-plasma-g2019s-hf-diet": {
         "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Targeted metabolomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273818",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "plasma",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-plasma-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-plasma-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-plasma-g2019s-nuc-quant": {
         "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
         "title": "team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Nucleoside quantification in the plasma of G2019S LRRK2 knockin mice",
         "doi": "10.5281/zenodo.18273863",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "plasma",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-striatum-g2019s-hf-diet": {
         "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Targeted metabolomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273824",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "striatum",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-striatum-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-striatum-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-mb-striatum-g2019s-nuc-quant": {
         "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
         "title": "team-lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Nucleoside quantification in the striatum of G2019S LRRK2 knockin mice",
         "doi": "10.5281/zenodo.18273868",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "striatum",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-mb-striatum-g2019s-nuc-quant"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-ms-p-lung-g2019s-hf-diet": {
         "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
         "title": "team-lee-mouse-ms-p-lung-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet",
         "doi": "10.5281/zenodo.18273812",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "lung",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-ms-p-lung-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-ms-p-lung-g2019s-hf-diet"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.1.0"
+        ]
     },
     "lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet": {
         "name": "lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
         "title": "team-lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
+        "description": "Dataset from team-lee",
         "version": "v1.0",
+        "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
         "doi": "10.5281/zenodo.18273808",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "keywords": [
+            "mouse",
+            "sn-rnaseq",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
+            "dev": "gs://asap-dev-team-lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
+            "uat": "gs://asap-uat-team-lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
+            "prod": "gs://asap-curated-team-lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "lee-pmdbs-bulk-rnaseq-mfg": {
         "name": "lee-pmdbs-bulk-rnaseq-mfg",
         "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
-        "version": "1.1",
+        "description": "pmdbs-bulk-rnaseq dataset from team-lee",
+        "version": "v1.1",
+        "dataset_title": "Bulk RNA-sequencing of human middle frontal gyrus",
         "doi": "10.5281/zenodo.16748937",
-        "release": {
+        "creators": [
+            {
+                "name": "Marshall, Lee L.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-9884-4636"
+            },
+            {
+                "name": "Paquette, Kimberly E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-3989-4614"
+            },
+            {
+                "name": "DenHaan, Kaitlyn E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-7804-6661"
+            },
+            {
+                "name": "Lopes, Ellison",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-1661-6304"
+            },
+            {
+                "name": "Pyman, Andrew D.",
+                "affiliation": "Van Andel Institute",
+                "orcid": null
+            },
+            {
+                "name": "Guerreiro, Rita",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-5879-3486"
+            },
+            {
+                "name": "Bras, Jose",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-8186-0333"
+            }
+        ],
+        "keywords": [
+            "pmdbs-bulk-rnaseq",
+            "pmdbs-bulk-rnaseq",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-bulk-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-pmdbs-bulk-rnaseq-mfg",
+            "dev": "gs://asap-dev-team-lee-pmdbs-bulk-rnaseq-mfg",
+            "uat": "gs://asap-uat-team-lee-pmdbs-bulk-rnaseq-mfg",
+            "prod": "gs://asap-curated-team-lee-pmdbs-bulk-rnaseq-mfg"
+        },
+        "cde_version": "v3.0",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0"
@@ -829,14 +2831,87 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "lee-pmdbs-sn-rnaseq": {
         "name": "lee-pmdbs-sn-rnaseq",
         "title": "team-lee-pmdbs-sn-rnaseq",
-        "version": "1.1",
+        "description": "pmdbs-sc-rnaseq dataset from team-lee",
+        "version": "v1.1",
+        "dataset_title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
         "doi": "10.5281/zenodo.16744323",
-        "release": {
+        "creators": [
+            {
+                "name": "Marshall, Lee L.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-9884-4636"
+            },
+            {
+                "name": "Paquette, Kimberly E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-3989-4614"
+            },
+            {
+                "name": "DenHaan, Kaitlyn E.",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-7804-6661"
+            },
+            {
+                "name": "Lopes, Ellison",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-1661-6304"
+            },
+            {
+                "name": "Pyman, Andrew D.",
+                "affiliation": "Van Andel Institute",
+                "orcid": null
+            },
+            {
+                "name": "Kun-Rodrigues, Celia",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-4528-0061"
+            },
+            {
+                "name": "Guerreiro, Rita",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-5879-3486"
+            },
+            {
+                "name": "Bras, Jose",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0001-8186-0333"
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "lee"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-lee-pmdbs-sn-rnaseq",
+            "dev": "gs://asap-dev-team-lee-pmdbs-sn-rnaseq",
+            "uat": "gs://asap-uat-team-lee-pmdbs-sn-rnaseq",
+            "prod": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq"
+        },
+        "cde_version": "v2.1",
+        "releases": {
             "v1.0.0": {
                 "cde_version": "v2.1",
                 "dataset_version": "v1.0"
@@ -877,50 +2952,393 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v1.0.0",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "liddle-human-colon-spatial-cosmx-protein-64p": {
         "name": "liddle-human-colon-spatial-cosmx-protein-64p",
         "title": "team-liddle-human-colon-spatial-cosmx-protein-64p",
+        "description": "Dataset from team-liddle",
         "version": "v1.0",
+        "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
         "doi": "10.5281/zenodo.17917771",
-        "release": {
+        "creators": [
+            {
+                "name": "Bolen, MacKenzie L.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+                "orcid": "0000-0003-1973-3784"
+            },
+            {
+                "name": "Buendia, Marc",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain,& August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;,& 7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Shi, Ji",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Salas, Azucena",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Thompson, E. Aubrey",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Tansey, Mal\u00fa G.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+                "orcid": "0000-0002-1719-4708"
+            }
+        ],
+        "keywords": [
+            "human-colon",
+            "spatial-cosmx",
+            "liddle"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-liddle-human-colon-spatial-cosmx-protein-64p",
+            "dev": "gs://asap-dev-team-liddle-human-colon-spatial-cosmx-protein-64p",
+            "uat": "gs://asap-uat-team-liddle-human-colon-spatial-cosmx-protein-64p",
+            "prod": "gs://asap-curated-team-liddle-human-colon-spatial-cosmx-protein-64p"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "liddle-human-colon-spatial-cosmx-rna-1000p": {
         "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
         "title": "team-liddle-human-colon-spatial-cosmx-rna-1000p",
+        "description": "Dataset from team-liddle",
         "version": "v1.0",
+        "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
         "doi": "10.5281/zenodo.17917788",
-        "release": {
+        "creators": [
+            {
+                "name": "Bolen, MacKenzie L.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+                "orcid": "0000-0003-1973-3784"
+            },
+            {
+                "name": "Buendia, Marc",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain,& August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;,& 7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Shi, Ji",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Salas, Azucena",
+                "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Thompson, E. Aubrey",
+                "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+                "orcid": "Not available"
+            },
+            {
+                "name": "Tansey, Mal\u00fa G.",
+                "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+                "orcid": "0000-0002-1719-4708"
+            }
+        ],
+        "keywords": [
+            "human-colon",
+            "spatial-cosmx",
+            "liddle"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+            "dev": "gs://asap-dev-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+            "uat": "gs://asap-uat-team-liddle-human-colon-spatial-cosmx-rna-1000p",
+            "prod": "gs://asap-curated-team-liddle-human-colon-spatial-cosmx-rna-1000p"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "schapira-fecal-metagenome-human-baseline": {
         "name": "schapira-fecal-metagenome-human-baseline",
         "title": "team-schapira-fecal-metagenome-human-baseline",
+        "description": "Dataset from team-schapira",
         "version": "v1.0",
+        "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
         "doi": null,
-        "release": {
+        "creators": [
+            {
+                "name": "Menozzi, Elisa",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0003-3565-7910"
+            },
+            {
+                "name": "Meslier, Victoria",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 &  Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas,France",
+                "orcid": "0000-0003-2699-0092"
+            },
+            {
+                "name": "Ren, Yani",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0009-0009-3426-2897"
+            },
+            {
+                "name": "Geiger, Mallia",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0009-0005-4430-7914"
+            },
+            {
+                "name": "Macnaughtan, Jane",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Liver Failure Group, Institute for Liver and Digestive Health, University College London, London WC1E 6BT, UK",
+                "orcid": "0000-0003-1211-9298"
+            },
+            {
+                "name": "Avenali, Micol",
+                "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+                "orcid": "0000-0002-7880-9921"
+            },
+            {
+                "name": "Gilles, Marine",
+                "affiliation": "Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0009-0003-6650-7824"
+            },
+            {
+                "name": "Calabrese, Rosaria",
+                "affiliation": "IRCCS Mondino Foundation, Pavia, Italy",
+                "orcid": "0009-0008-6632-4653"
+            },
+            {
+                "name": "Mitrotti, Pierfrancesco",
+                "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+                "orcid": "0000-0003-3574-1290"
+            },
+            {
+                "name": "Gallo, Luca",
+                "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Mondino Foundation, Pavia, Italy",
+                "orcid": "0009-0007-3693-0380"
+            },
+            {
+                "name": "Famechon, Alexandre",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0009-0009-6298-3755"
+            },
+            {
+                "name": "Lucas Del Pozo, Sara",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0002-5431-8204"
+            },
+            {
+                "name": "Mezabrovschi, Roxana",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0001-8580-0629"
+            },
+            {
+                "name": "Koletsi, Sofia",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0002-6661-7797"
+            },
+            {
+                "name": "Loefflad, Nadine",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0002-9940-7753"
+            },
+            {
+                "name": "Yalkic, Selen",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK &,& Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0002-9811-6612"
+            },
+            {
+                "name": "Limbachiya, Naomi",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": null
+            },
+            {
+                "name": "Blotti\u00e8re, Herv\u00e9",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France &,& Nantes Universit\u00e9, INRAE, UMR 1280, PhAN Nantes FR",
+                "orcid": "0000-0002-8390-0607"
+            },
+            {
+                "name": "Morabito, Christian",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0002-3193-7299"
+            },
+            {
+                "name": "David, Aymeric",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0002-4951-0058"
+            },
+            {
+                "name": "Quinquis, Benoit",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0002-7573-969X"
+            },
+            {
+                "name": "Pons, Nicolas",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0003-1926-8077"
+            },
+            {
+                "name": "Valzania, Franco",
+                "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+                "orcid": "0000-0003-4887-1692"
+            },
+            {
+                "name": "Cavallieri, Francesco",
+                "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+                "orcid": "0000-0001-5836-1982"
+            },
+            {
+                "name": "Fioravanti, Valentina",
+                "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+                "orcid": "0000-0003-2741-0512"
+            },
+            {
+                "name": "Toschi, Giulia",
+                "affiliation": "Neurology Unit, Azienda Unit\u00e0 Sanitaria Locale-IRCCS di Reggio Emilia, Via Amendola 2, 42122, Reggio Emilia, Italy",
+                "orcid": "0009-0003-1987-0495"
+            },
+            {
+                "name": "Blandini, Fabio",
+                "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy & IRCCS Ca' Granda Foundation, Ospedale Maggiore Policlinico, Milan, Italy",
+                "orcid": "0000-0002-0178-1289"
+            },
+            {
+                "name": "Ehrlich, Stanislav Dusko",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0002-7563-4046"
+            },
+            {
+                "name": "Almeida, Mathieu",
+                "affiliation": "Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815 & Universit\u00e9 Paris-Saclay, INRAE, MGP, 78350 Jouy-en-Josas, France",
+                "orcid": "0000-0003-4971-0049"
+            },
+            {
+                "name": "Schapira, Anthony HV",
+                "affiliation": "Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK & Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+                "orcid": "0000-0002-3018-3966"
+            }
+        ],
+        "keywords": [
+            "fecal-metagenome",
+            "schapira"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-schapira-fecal-metagenome-human-baseline",
+            "dev": "gs://asap-dev-team-schapira-fecal-metagenome-human-baseline",
+            "uat": "gs://asap-uat-team-schapira-fecal-metagenome-human-baseline",
+            "prod": "gs://asap-curated-team-schapira-fecal-metagenome-human-baseline"
+        },
+        "cde_version": "v4.1",
+        "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
                 "dataset_version": "1.0"
             }
-        }
+        },
+        "all_versions": [
+            "1.0"
+        ],
+        "all_releases": [
+            "v4.0.1"
+        ]
     },
     "scherzer-pmdbs-genetics": {
         "name": "scherzer-pmdbs-genetics",
         "title": "team-scherzer-pmdbs-genetics",
-        "version": "1.1",
+        "description": "pmdbs-genetics dataset from team-scherzer",
+        "version": "v1.1",
+        "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype",
         "doi": "10.5281/zenodo.17242295",
-        "release": {
+        "creators": [
+            {
+                "name": "Scherzer, Clemens",
+                "affiliation": null,
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "affiliation": null,
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "affiliation": null,
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "affiliation": null,
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Lin, Zechuan",
+                "affiliation": null,
+                "orcid": "0000-0003-2270-5194"
+            }
+        ],
+        "keywords": [
+            "pmdbs-genetics",
+            "other-pmdbs",
+            "scherzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-scherzer-pmdbs-genetics",
+            "dev": "gs://asap-dev-team-scherzer-pmdbs-genetics",
+            "uat": "gs://asap-uat-team-scherzer-pmdbs-genetics",
+            "prod": "gs://asap-curated-team-scherzer-pmdbs-genetics"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.1": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -937,14 +3355,87 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "scherzer-pmdbs-sn-rnaseq-mtg": {
         "name": "scherzer-pmdbs-sn-rnaseq-mtg",
         "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
-        "version": "1.2",
+        "description": "pmdbs-sc-rnaseq dataset from team-scherzer",
+        "version": "v1.2",
+        "dataset_title": "PD5D_MTG_snRNAseq",
         "doi": "10.5281/zenodo.16751625",
-        "release": {
+        "creators": [
+            {
+                "name": "Parker, Jacob",
+                "affiliation": null,
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Scherzer, Clemens",
+                "affiliation": null,
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "affiliation": null,
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "affiliation": null,
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "affiliation": null,
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Cline, Madison",
+                "affiliation": null,
+                "orcid": "0000-0001-9672-7738"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "affiliation": null,
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "affiliation": null,
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Lin, Zechuan",
+                "affiliation": null,
+                "orcid": "0000-0003-2270-5194"
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "scherzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg",
+            "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-mtg",
+            "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg",
+            "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v1.0.0": {
                 "cde_version": "v2.1",
                 "dataset_version": "v1.0"
@@ -985,14 +3476,138 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.2"
             }
-        }
+        },
+        "all_versions": [
+            "v1.2"
+        ],
+        "all_releases": [
+            "v1.0.0",
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "scherzer-pmdbs-sn-rnaseq-mtg-hybsel": {
         "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
         "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-        "version": "1.2",
+        "description": "pmdbs-other dataset from team-scherzer",
+        "version": "v1.2",
+        "dataset_title": "PD5D_MTG_snRNAseq_hybsel",
         "doi": "10.5281/zenodo.16885839",
-        "release": {
+        "creators": [
+            {
+                "name": "Simmons, Sean",
+                "affiliation": null,
+                "orcid": "0000-0002-1537-4000"
+            },
+            {
+                "name": "Scherzer, Clemens",
+                "affiliation": null,
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "affiliation": null,
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Levin, Joshua",
+                "affiliation": null,
+                "orcid": "0000-0002-0170-3598"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "affiliation": null,
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "affiliation": null,
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Cline, Madison",
+                "affiliation": null,
+                "orcid": "0000-0001-9672-7738"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "affiliation": null,
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "affiliation": null,
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Sharma, Monika",
+                "affiliation": null,
+                "orcid": "0000-0002-7258-1399"
+            },
+            {
+                "name": "Parker, Jacob",
+                "affiliation": null,
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Lin, Zechuan",
+                "affiliation": null,
+                "orcid": "0000-0003-2270-5194"
+            },
+            {
+                "name": "Yuan, Jie",
+                "affiliation": null,
+                "orcid": "0000-0002-5626-2881"
+            },
+            {
+                "name": "Haywood, Nathan",
+                "affiliation": null,
+                "orcid": "0000-0003-2213-5080"
+            },
+            {
+                "name": "Lin, Maoxuan",
+                "affiliation": null,
+                "orcid": "0000-0001-5191-1857"
+            },
+            {
+                "name": "Kim, Kwanho",
+                "affiliation": null,
+                "orcid": "0000-0002-4448-3193"
+            },
+            {
+                "name": "Teng, Xufei",
+                "affiliation": null,
+                "orcid": "0000-0001-9282-4282"
+            },
+            {
+                "name": "El Kodsi, Daniel",
+                "affiliation": null,
+                "orcid": "0000-0002-8896-0043"
+            }
+        ],
+        "keywords": [
+            "pmdbs-other",
+            "other-pmdbs",
+            "scherzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
+            "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0"
@@ -1029,14 +3644,112 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.2"
             }
-        }
+        },
+        "all_versions": [
+            "v1.2"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "scherzer-pmdbs-spatial-visium-mtg": {
         "name": "scherzer-pmdbs-spatial-visium-mtg",
         "title": "team-scherzer-pmdbs-spatial-visium-mtg",
-        "version": "1.1",
+        "description": "pmdbs-spatial dataset from team-scherzer",
+        "version": "v1.1",
+        "dataset_title": "PD5D_MTG_Visium10x_ST",
         "doi": "10.5281/zenodo.17242087",
-        "release": {
+        "creators": [
+            {
+                "name": "Scherzer, Clemens",
+                "affiliation": null,
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "affiliation": null,
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Levin, Joshua",
+                "affiliation": null,
+                "orcid": "0000-0002-0170-3598"
+            },
+            {
+                "name": "Serrano, Geidy",
+                "affiliation": null,
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas",
+                "affiliation": null,
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "affiliation": null,
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "affiliation": null,
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Parker, Jacob",
+                "affiliation": null,
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Yuan, Jie",
+                "affiliation": null,
+                "orcid": "0000-0002-5626-2881"
+            },
+            {
+                "name": "Haywood, Nathan",
+                "affiliation": null,
+                "orcid": "0000-0003-2213-5080"
+            },
+            {
+                "name": "Simmons, Sean",
+                "affiliation": null,
+                "orcid": "0000-0002-1537-4000"
+            },
+            {
+                "name": "Adiconis, Xian",
+                "affiliation": null,
+                "orcid": "0000-0002-4052-2503"
+            },
+            {
+                "name": "Weykopf, Beatrice",
+                "affiliation": null,
+                "orcid": "0000-0001-5541-839X"
+            }
+        ],
+        "keywords": [
+            "pmdbs-spatial",
+            "other-pmdbs",
+            "scherzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
+            "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",
+            "uat": "gs://asap-uat-team-scherzer-pmdbs-spatial-visium-mtg",
+            "prod": "gs://asap-curated-team-scherzer-pmdbs-spatial-visium-mtg"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.1": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -1053,14 +3766,97 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "schlossmacher-mouse-sn-rnaseq-osn-aav-transd": {
         "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
         "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+        "description": "mouse-sc-rnaseq dataset from team-schlossmacher",
         "version": "v1.0",
+        "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
         "doi": "10.5281/zenodo.17358327",
-        "release": {
+        "creators": [
+            {
+                "name": "Belfort, Benjamin",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0002-2866-5763"
+            },
+            {
+                "name": "Jia, Johnathan",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0001-7466-8589"
+            },
+            {
+                "name": "Garza, Alexandra",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0003-3288-4237"
+            },
+            {
+                "name": "Insalaco, Anthony",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0009-0005-7761-0506"
+            },
+            {
+                "name": "McGinnis, John",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0009-0003-5669-5913"
+            },
+            {
+                "name": "Pekarek, Brandon",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0001-8785-4196"
+            },
+            {
+                "name": "Ortiz-Guzman, Joshua",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0002-7000-394X"
+            },
+            {
+                "name": "Tepe, Burak",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0003-4371-2502"
+            },
+            {
+                "name": "Chen, Hu",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0001-5472-7158"
+            },
+            {
+                "name": "Liu, Zhandong",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0002-7608-0831"
+            },
+            {
+                "name": "Arenkiel, Benjamin",
+                "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+                "orcid": "0000-0001-9047-2420"
+            }
+        ],
+        "keywords": [
+            "mouse-sc-rnaseq",
+            "other-mouse",
+            "schlossmacher"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+            "dev": "gs://asap-dev-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+            "uat": "gs://asap-uat-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+            "prod": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v3.0.1": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -1073,26 +3869,127 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0"
+        ]
     },
     "sulzer-fecal-metagenome-fp-spf": {
         "name": "sulzer-fecal-metagenome-fp-spf",
         "title": "team-sulzer-fecal-metagenome-fp-spf",
+        "description": "Dataset from team-sulzer",
         "version": "v1.0",
+        "dataset_title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
         "doi": "10.5281/zenodo.18989559",
-        "release": {
+        "creators": [
+            {
+                "name": "Moiseyenko, Anastasiya",
+                "affiliation": "California Institute of Technology",
+                "orcid": "0000-0001-5379-7808"
+            },
+            {
+                "name": "Mazmanian, Sarkis",
+                "affiliation": "California Institute of Technology",
+                "orcid": "0000-0003-2713-1513"
+            }
+        ],
+        "keywords": [
+            "fecal-metagenome",
+            "sulzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": null,
+        "buckets": {
+            "raw": "gs://asap-raw-team-sulzer-fecal-metagenome-fp-spf",
+            "dev": "gs://asap-dev-team-sulzer-fecal-metagenome-fp-spf",
+            "uat": "gs://asap-uat-team-sulzer-fecal-metagenome-fp-spf",
+            "prod": "gs://asap-curated-team-sulzer-fecal-metagenome-fp-spf"
+        },
+        "cde_version": "v4.3",
+        "releases": {
             "v4.0.2": {
                 "cde_version": "v4.3",
                 "dataset_version": "v1.0"
             }
-        }
+        },
+        "all_versions": [
+            "v1.0"
+        ],
+        "all_releases": [
+            "v4.0.2"
+        ]
     },
     "sulzer-pmdbs-sn-rnaseq": {
         "name": "sulzer-pmdbs-sn-rnaseq",
         "title": "team-sulzer-pmdbs-sn-rnaseq",
-        "version": "1.1",
+        "description": "pmdbs-sc-rnaseq dataset from team-sulzer",
+        "version": "v1.1",
+        "dataset_title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
         "doi": "10.5281/zenodo.17612853",
-        "release": {
+        "creators": [
+            {
+                "name": "Ma, Maxwell",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0008-0193-8646"
+            },
+            {
+                "name": "Jakubiak, Kelly A",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0002-6932-4460"
+            },
+            {
+                "name": "Paryani, Fahad",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0003-1418-1386"
+            },
+            {
+                "name": "Kannan, Adithya",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0001-7359-184X"
+            },
+            {
+                "name": "Lee, Jaeseung",
+                "affiliation": "Columbia University",
+                "orcid": "0009-0003-0806-093X"
+            },
+            {
+                "name": "Li, Juncheng",
+                "affiliation": "Columbia University",
+                "orcid": null
+            },
+            {
+                "name": "Sims, Peter",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0002-3921-4837"
+            },
+            {
+                "name": "Al-Dalahmah, Osama",
+                "affiliation": "Columbia University",
+                "orcid": "0000-0002-3442-5459"
+            }
+        ],
+        "keywords": [
+            "pmdbs-sc-rnaseq",
+            "pmdbs-sc-rnaseq",
+            "sulzer"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-sc-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-sulzer-pmdbs-sn-rnaseq",
+            "dev": "gs://asap-dev-team-sulzer-pmdbs-sn-rnaseq",
+            "uat": "gs://asap-uat-team-sulzer-pmdbs-sn-rnaseq",
+            "prod": "gs://asap-curated-team-sulzer-pmdbs-sn-rnaseq"
+        },
+        "cde_version": "v3.3",
+        "releases": {
             "v4.0.0": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -1101,14 +3998,70 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v4.0.0",
+            "v4.1.0"
+        ]
     },
     "wood-pmdbs-bulk-rnaseq": {
         "name": "wood-pmdbs-bulk-rnaseq",
         "title": "team-wood-pmdbs-bulk-rnaseq",
-        "version": "1.1",
+        "description": "pmdbs-bulk-rnaseq dataset from team-wood",
+        "version": "v1.1",
+        "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
         "doi": "10.5281/zenodo.16749007",
-        "release": {
+        "creators": [
+            {
+                "name": "Toomey, Christina",
+                "affiliation": "Crick",
+                "orcid": "0000-0002-5146-3326"
+            },
+            {
+                "name": "Fairbrother-Browne, Aine",
+                "affiliation": "UCL/EBI",
+                "orcid": "0000-0002-7196-1410"
+            },
+            {
+                "name": "Brenton, Jonathan",
+                "affiliation": "UCL/Cambridge",
+                "orcid": "0000-0002-2381-8484"
+            },
+            {
+                "name": "Grant-Peters, Melissa",
+                "affiliation": "Cambridge",
+                "orcid": "0000-0003-0585-0971"
+            },
+            {
+                "name": "Lahica, Joeanne",
+                "affiliation": "European Institute of Oncology",
+                "orcid": "0000-0002-2066-0589"
+            },
+            {
+                "name": "Ryten, Mina",
+                "affiliation": "UCL",
+                "orcid": "0000-0001-9520-6957"
+            }
+        ],
+        "keywords": [
+            "pmdbs-bulk-rnaseq",
+            "pmdbs-bulk-rnaseq",
+            "wood"
+        ],
+        "license": "CC-BY-4.0",
+        "references": [],
+        "collection": "pmdbs-bulk-rnaseq",
+        "buckets": {
+            "raw": "gs://asap-raw-team-wood-pmdbs-bulk-rnaseq",
+            "dev": "gs://asap-dev-team-wood-pmdbs-bulk-rnaseq",
+            "uat": "gs://asap-uat-team-wood-pmdbs-bulk-rnaseq",
+            "prod": "gs://asap-curated-team-wood-pmdbs-bulk-rnaseq"
+        },
+        "cde_version": "v3.0",
+        "releases": {
             "v2.0.0": {
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0"
@@ -1145,6 +4098,20 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.1"
             }
-        }
+        },
+        "all_versions": [
+            "v1.1"
+        ],
+        "all_releases": [
+            "v2.0.0",
+            "v2.0.1",
+            "v2.0.2",
+            "v2.0.3",
+            "v3.0.0",
+            "v3.0.1",
+            "v3.0.2",
+            "v4.0.0",
+            "v4.1.0"
+        ]
     }
 }

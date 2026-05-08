@@ -66,5 +66,6 @@
             "cde_version": "v3.3",
             "dataset_version": "3.1.1"
         }
-    }
+    },
+    "dataset_title": "asap-cohort-pmdbs-sc-rnaseq"
 }
