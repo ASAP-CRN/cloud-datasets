@@ -30,11 +30,12 @@ This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in 
 
 **ASAP Team:** Scherzer
 
-**Dataset Name:** scherzer-pmdbs-lr-wgs, v0.1
+**Dataset Name:** scherzer-pmdbs-lr-wgs, v1.0
 
-**Principal Investigator:** Dr. Joshua Levin, jlevin@broadinstitute.org
+**Principal Investigator:** Dr. Joshua Levin <jlevin@broadinstitute.org>
 
-**Dataset Submitter:** Kwanho Kim, kwanho@broadinstitute.org
+
+**Dataset Submitter:** Kwanho Kim <kwanho@broadinstitute.org>
 
 **Publication DOI:** NA
 
@@ -46,7 +47,7 @@ This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in 
 
 **Project Description:** Here we will develop a molecular atlas of Parkinson's disease (PD) useful for mapping GWAS/familial genetics to proximal mechanisms in five dimensions: brain cells (1D), brain space (3D), and disease stage (1D). We will reveal how genetic variants modulate transcription in specific cells in specific topographic locations of midbrain and cortex during the progression of neuropathology from healthy brains to prodromal to symptomatic disease. This research will for the first time integrate whole genome sequencing, single-nucleus transcriptomics, and high-resolution spatial transcriptomics of 100 human brains with cell-specific mechanistic analyses in model systems.
 
-**Submission Date:** 2026-03-19
+**Submission Date:** 2026-05-31
 
 __________________________________________
 
