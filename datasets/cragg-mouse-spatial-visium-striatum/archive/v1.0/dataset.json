@@ -1,50 +1,99 @@
 {
-  "name": "cragg-mouse-spatial-visium-striatum",
-  "title": "team-cragg-mouse-spatial-visium-striatum",
-  "description": "mouse-spatial dataset from team-cragg",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.15428115",
-  "creators": [
-    {
-      "name": "team-cragg",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "mouse-spatial",
-    "mouse-other",
-    "cragg"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
-    "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
-    "uat": "gs://asap-uat-team-cragg-mouse-spatial-visium-striatum",
-    "prod": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum"
-  },
-  "cde_version": "v3.1",
-  "releases": {
-    "v2.0.3": {
-      "cde_version": "v3.1",
-      "dataset_version": "v1.0"
+    "name": "cragg-mouse-spatial-visium-striatum",
+    "title": "team-cragg-mouse-spatial-visium-striatum",
+    "description": "mouse-spatial dataset from team-cragg",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15428115",
+    "creators": [
+        {
+            "name": "Graziano, Marta",
+            "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+            "orcid": "0000-0001-9417-5212"
+        },
+        {
+            "name": "Mantas, Ioannis",
+            "affiliation": "Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.",
+            "orcid": "0000-0001-6288-5439"
+        },
+        {
+            "name": "Masarapu, Yuvarani",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0002-3267-2085"
+        },
+        {
+            "name": "Frapard, Sol\u00e8ne",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0002-2649-7225"
+        },
+        {
+            "name": "Garza, Raquel",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0002-2524-3055"
+        },
+        {
+            "name": "Adami, Anita",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University,  Lund, Sweden. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom.",
+            "orcid": "0000-0002-9421-7942"
+        },
+        {
+            "name": "Fazal, Shaline",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK.",
+            "orcid": "0000-0002-2813-4022"
+        },
+        {
+            "name": "Quaegebeur, Annelies",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+            "orcid": "0000-0001-5357-9341"
+        },
+        {
+            "name": "Barker, Roger",
+            "affiliation": "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences and Cambridge Stem Cell Institute, University of Cambridge, Forvie Site, Cambridge CB2 2PY, UK. Cambridge University Hospitals NHS Foundation Trust, Cambridge, United Kingdom",
+            "orcid": "0000-0001-8843-7730"
+        },
+        {
+            "name": "Jakobsson, Johan",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0003-0669-7673"
+        },
+        {
+            "name": "Giacomello, Stefania",
+            "affiliation": "Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute of Technology, Stockholm, Sweden.",
+            "orcid": "0000-0003-0738-1574"
+        },
+        {
+            "name": "Meletis, Konstantinos",
+            "affiliation": "Laboratory of Molecular Neurogenetics, Department of Experimental Medical Science, Wallenberg Neuroscience Center and Lund Stem Cell Center, Lund University, Lund, Sweden.",
+            "orcid": "0000-0001-5665-4781"
+        }
+    ],
+    "keywords": [
+        "mouse-spatial",
+        "mouse-other",
+        "cragg"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": "mouse-spatial",
+    "buckets": {
+        "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
+        "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
+        "uat": "gs://asap-uat-team-cragg-mouse-spatial-visium-striatum",
+        "prod": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum"
     },
-    "v3.0.0": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
+    "cde_version": "v3.1",
+    "releases": {
+        "v2.0.3": {
+            "cde_version": "v3.1",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.0": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        }
     },
-    "v3.0.1": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models."
 }

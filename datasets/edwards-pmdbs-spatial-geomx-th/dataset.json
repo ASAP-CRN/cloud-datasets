@@ -41,7 +41,7 @@
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": null,
+    "collection": "pmdbs-spatial",
     "buckets": {
         "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
         "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
@@ -54,19 +54,7 @@
             "cde_version": "v3.1",
             "dataset_version": "v1.0"
         },
-        "v2.0.3": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v1.0"
         },

@@ -34,27 +34,7 @@
             "cde_version": "v3.0",
             "dataset_version": "v2.0.0"
         },
-        "v2.0.1": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0.0"
-        },
-        "v2.0.2": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0.0"
-        },
-        "v2.0.3": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0.0"
-        },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v3.0.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v3.0.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v3.0.0"
         },
@@ -64,7 +44,8 @@
         },
         "v4.1.0": {
             "cde_version": "v3.3",
-            "dataset_version": "3.1.1"
+            "dataset_version": "v3.1.1"
         }
-    }
+    },
+    "dataset_title": "asap-cohort-pmdbs-sc-rnaseq"
 }

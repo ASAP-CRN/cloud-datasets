@@ -73,7 +73,7 @@
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": null,
+    "collection": "mouse-spatial",
     "buckets": {
         "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
         "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
@@ -87,14 +87,6 @@
             "dataset_version": "v1.0"
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v1.0"
         },

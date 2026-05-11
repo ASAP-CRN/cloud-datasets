@@ -1,54 +1,67 @@
 {
-  "name": "edwards-pmdbs-spatial-geomx-th",
-  "title": "team-edwards-pmdbs-spatial-geomx-th",
-  "description": "pmdbs-spatial dataset from team-edwards",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.15480990",
-  "creators": [
-    {
-      "name": "team-edwards",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "pmdbs-spatial",
-    "pmdbs-other",
-    "edwards"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
-    "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
-    "uat": "gs://asap-uat-team-edwards-pmdbs-spatial-geomx-th",
-    "prod": "gs://asap-curated-team-edwards-pmdbs-spatial-geomx-th"
-  },
-  "cde_version": "v3.1",
-  "releases": {
-    "v2.0.2": {
-      "cde_version": "v3.1",
-      "dataset_version": "v1.0"
+    "name": "edwards-pmdbs-spatial-geomx-th",
+    "title": "team-edwards-pmdbs-spatial-geomx-th",
+    "description": "pmdbs-spatial dataset from team-edwards",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.15480990",
+    "creators": [
+        {
+            "name": "Chatterton, Zac",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+            "orcid": "0000-0002-6683-1400"
+        },
+        {
+            "name": "Pineda, Sandy",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+            "orcid": "0000-0002-9003-0101"
+        },
+        {
+            "name": "Wu, Ping",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia."
+        },
+        {
+            "name": "Li, Hongyun",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia."
+        },
+        {
+            "name": "Fu, Yuhong",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+            "orcid": "0000-0003-4539-2039"
+        },
+        {
+            "name": "Halliday, Glenda",
+            "affiliation": "1.The University of Sydney Brain and Mind Centre, Camperdown, NSW, Australia\n2.Neuroscience, School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW, Australia.",
+            "orcid": "0000-0003-0422-8398"
+        }
+    ],
+    "keywords": [
+        "pmdbs-spatial",
+        "pmdbs-other",
+        "edwards"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": "pmdbs-spatial",
+    "buckets": {
+        "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
+        "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
+        "uat": "gs://asap-uat-team-edwards-pmdbs-spatial-geomx-th",
+        "prod": "gs://asap-curated-team-edwards-pmdbs-spatial-geomx-th"
     },
-    "v2.0.3": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
+    "cde_version": "v3.1",
+    "releases": {
+        "v2.0.2": {
+            "cde_version": "v3.1",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.0": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        }
     },
-    "v3.0.0": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.1": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "dataset_title": "Spatial Transcriptomics data (GeoMx) of midbrain dopamine cells in control and PD subjects"
 }

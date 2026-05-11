@@ -39,25 +39,21 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             },
-            "v3.0.2": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.0"
-            },
             "v4.0.0": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             },
             "v4.0.2": {
-                "cde_version": "v4.3",
+                "cde_version": "v4.2",
                 "dataset_version": "v1.1"
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
             "v3.0.1",
-            "v3.0.2",
             "v4.0.0",
             "v4.0.2"
         ]
@@ -193,11 +189,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -240,11 +236,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -287,11 +283,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -334,11 +330,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -388,10 +384,6 @@
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
             },
-            "v3.0.2": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.0"
-            },
             "v4.0.0": {
                 "cde_version": "v3.3",
                 "dataset_version": "v1.0"
@@ -402,7 +394,6 @@
         ],
         "all_releases": [
             "v3.0.1",
-            "v3.0.2",
             "v4.0.0"
         ]
     },
@@ -462,7 +453,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "mouse-sc-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-biederer-mouse-sc-rnaseq",
             "dev": "gs://asap-dev-team-biederer-mouse-sc-rnaseq",
@@ -475,19 +466,7 @@
                 "cde_version": "v3.1",
                 "dataset_version": "v1.0"
             },
-            "v2.0.3": {
-                "cde_version": "v3.0",
-                "dataset_version": "v1.0"
-            },
             "v3.0.0": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.0"
-            },
-            "v3.0.1": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.0"
-            },
-            "v3.0.2": {
                 "cde_version": "v3.2",
                 "dataset_version": "v1.0"
             },
@@ -501,10 +480,7 @@
         ],
         "all_releases": [
             "v2.0.2",
-            "v2.0.3",
             "v3.0.0",
-            "v3.0.1",
-            "v3.0.2",
             "v4.0.0"
         ]
     },
@@ -513,7 +489,7 @@
         "title": "asap-cohort-mouse-sc-rnaseq",
         "description": "mouse-sc-rnaseq dataset from asap-cohort",
         "version": "v1.0.0",
-        "dataset_title": "",
+        "dataset_title": "asap-cohort-mouse-sc-rnaseq",
         "doi": "10.5281/zenodo.17860975",
         "creators": [
             {
@@ -555,7 +531,7 @@
         "title": "asap-cohort-pmdbs-bulk-rnaseq",
         "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
         "version": "v1.2.1",
-        "dataset_title": "",
+        "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq",
         "doi": "10.5281/zenodo.16975686",
         "creators": [
             {
@@ -584,27 +560,7 @@
                 "cde_version": "v3.0",
                 "dataset_version": "v1.0.0"
             },
-            "v2.0.1": {
-                "cde_version": "v3.0",
-                "dataset_version": "v1.0.0"
-            },
-            "v2.0.2": {
-                "cde_version": "v3.0",
-                "dataset_version": "v1.0.0"
-            },
-            "v2.0.3": {
-                "cde_version": "v3.0",
-                "dataset_version": "v1.0.0"
-            },
             "v3.0.0": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.1.0"
-            },
-            "v3.0.1": {
-                "cde_version": "v3.2",
-                "dataset_version": "v1.1.0"
-            },
-            "v3.0.2": {
                 "cde_version": "v3.2",
                 "dataset_version": "v1.1.0"
             },
@@ -614,20 +570,18 @@
             },
             "v4.1.0": {
                 "cde_version": "v3.3",
-                "dataset_version": "1.2.1"
+                "dataset_version": "v1.2.1"
             }
         },
         "all_versions": [
-            "1.2.1"
+            "v1.1.0",
+            "v1.2.1",
+            "v1.2.0",
+            "v1.0.0"
         ],
         "all_releases": [
             "v2.0.0",
-            "v2.0.1",
-            "v2.0.2",
-            "v2.0.3",
             "v3.0.0",
-            "v3.0.1",
-            "v3.0.2",
             "v4.0.0",
             "v4.1.0"
         ]
@@ -637,7 +591,7 @@
         "title": "asap-cohort-pmdbs-sc-rnaseq",
         "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
         "version": "v3.1.1",
-        "dataset_title": "",
+        "dataset_title": "asap-cohort-pmdbs-sc-rnaseq",
         "doi": "10.5281/zenodo.19876217",
         "creators": [
             {
@@ -700,11 +654,15 @@
             },
             "v4.1.0": {
                 "cde_version": "v3.3",
-                "dataset_version": "3.1.1"
+                "dataset_version": "v3.1.1"
             }
         },
         "all_versions": [
-            "3.1.1"
+            "v2.0.0",
+            "v3.1.1",
+            "v3.1.0",
+            "v3.0.0",
+            "v1.0.0"
         ],
         "all_releases": [
             "v1.0.0",
@@ -795,7 +753,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "mouse-sc-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-cragg-mouse-sn-rnaseq-striatum",
             "dev": "gs://asap-dev-team-cragg-mouse-sn-rnaseq-striatum",
@@ -917,7 +875,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "mouse-spatial",
         "buckets": {
             "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
             "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
@@ -1004,7 +962,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "pmdbs-spatial",
         "buckets": {
             "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
             "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
@@ -1147,7 +1105,8 @@
             }
         },
         "all_versions": [
-            "1.1"
+            "v1.0",
+            "v1.1"
         ],
         "all_releases": [
             "v1.0.0",
@@ -1255,6 +1214,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -1362,6 +1322,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -1731,7 +1692,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "pmdbs-bulk-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-jakobsson-pmdbs-bulk-rnaseq",
             "dev": "gs://asap-dev-team-jakobsson-pmdbs-bulk-rnaseq",
@@ -1868,7 +1829,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "pmdbs-sc-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-jakobsson-pmdbs-sn-rnaseq",
             "dev": "gs://asap-dev-team-jakobsson-pmdbs-sn-rnaseq",
@@ -1919,6 +1880,8 @@
             }
         },
         "all_versions": [
+            "v2.0",
+            "v1.0",
             "v2.1"
         ],
         "all_releases": [
@@ -1971,11 +1934,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -2019,11 +1982,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -2066,11 +2029,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2113,11 +2076,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2160,11 +2123,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2207,11 +2170,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2254,11 +2217,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2301,11 +2264,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2348,11 +2311,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2395,11 +2358,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2443,11 +2406,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2490,11 +2453,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2537,11 +2500,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2584,11 +2547,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2631,11 +2594,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2678,11 +2641,11 @@
         "releases": {
             "v4.1.0": {
                 "cde_version": "v4.3",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.1.0"
@@ -2725,11 +2688,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -2833,6 +2796,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -2954,6 +2918,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -3026,11 +2991,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -3093,11 +3058,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -3109,7 +3074,7 @@
         "description": "Dataset from team-schapira",
         "version": "v1.0",
         "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
-        "doi": null,
+        "doi": "10.5281/zenodo.18353680",
         "creators": [
             {
                 "name": "Menozzi, Elisa",
@@ -3279,11 +3244,11 @@
         "releases": {
             "v4.0.1": {
                 "cde_version": "v4.1",
-                "dataset_version": "1.0"
+                "dataset_version": "v1.0"
             }
         },
         "all_versions": [
-            "1.0"
+            "v1.0"
         ],
         "all_releases": [
             "v4.0.1"
@@ -3357,6 +3322,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -3478,7 +3444,9 @@
             }
         },
         "all_versions": [
-            "v1.2"
+            "v1.2",
+            "v1.0",
+            "v1.1"
         ],
         "all_releases": [
             "v1.0.0",
@@ -3646,7 +3614,9 @@
             }
         },
         "all_versions": [
-            "v1.2"
+            "v1.2",
+            "v1.0",
+            "v1.1"
         ],
         "all_releases": [
             "v2.0.0",
@@ -3741,7 +3711,7 @@
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": null,
+        "collection": "pmdbs-spatial",
         "buckets": {
             "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
             "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",
@@ -3768,6 +3738,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -4000,6 +3971,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [
@@ -4100,6 +4072,7 @@
             }
         },
         "all_versions": [
+            "v1.0",
             "v1.1"
         ],
         "all_releases": [

@@ -34,7 +34,7 @@
     "releases": {
         "v4.0.1": {
             "cde_version": "v4.1",
-            "dataset_version": "1.0"
+            "dataset_version": "v1.0"
         }
     },
     "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice"

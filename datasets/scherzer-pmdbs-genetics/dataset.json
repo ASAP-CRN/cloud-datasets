@@ -2,7 +2,7 @@
     "name": "scherzer-pmdbs-genetics",
     "title": "team-scherzer-pmdbs-genetics",
     "description": "pmdbs-genetics dataset from team-scherzer",
-    "version": "1.1",
+    "version": "v1.1",
     "doi": "10.5281/zenodo.17242295",
     "creators": [
         {
@@ -44,10 +44,6 @@
     "releases": {
         "v3.0.1": {
             "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.2": {
-            "cde_version": "v3.2",
             "dataset_version": "v1.0"
         },
         "v4.0.0": {

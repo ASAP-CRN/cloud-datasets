@@ -2,12 +2,60 @@
     "name": "scherzer-pmdbs-spatial-visium-mtg",
     "title": "team-scherzer-pmdbs-spatial-visium-mtg",
     "description": "pmdbs-spatial dataset from team-scherzer",
-    "version": "1.1",
+    "version": "v1.1",
     "doi": "10.5281/zenodo.17242087",
     "creators": [
         {
-            "name": "team-scherzer",
-            "affiliation": "ASAP CRN"
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Dong, Xianjun",
+            "orcid": "0000-0002-8052-9320"
+        },
+        {
+            "name": "Levin, Joshua",
+            "orcid": "0000-0002-0170-3598"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Tuncali, Idil",
+            "orcid": "0000-0001-5549-3082"
+        },
+        {
+            "name": "Parker, Jacob",
+            "orcid": "0000-0001-9425-6418"
+        },
+        {
+            "name": "Yuan, Jie",
+            "orcid": "0000-0002-5626-2881"
+        },
+        {
+            "name": "Haywood, Nathan",
+            "orcid": "0000-0003-2213-5080"
+        },
+        {
+            "name": "Simmons, Sean",
+            "orcid": "0000-0002-1537-4000"
+        },
+        {
+            "name": "Adiconis, Xian",
+            "orcid": "0000-0002-4052-2503"
+        },
+        {
+            "name": "Weykopf, Beatrice",
+            "orcid": "0000-0001-5541-839X"
         }
     ],
     "keywords": [
@@ -17,7 +65,7 @@
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": null,
+    "collection": "pmdbs-spatial",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
         "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",
@@ -30,10 +78,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
         },
-        "v3.0.2": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
         "v4.0.0": {
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
@@ -42,5 +86,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.1"
         }
-    }
+    },
+    "dataset_title": "PD5D_MTG_Visium10x_ST"
 }

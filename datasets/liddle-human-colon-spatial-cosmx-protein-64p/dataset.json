@@ -54,7 +54,7 @@
     "releases": {
         "v4.0.1": {
             "cde_version": "v4.1",
-            "dataset_version": "1.0"
+            "dataset_version": "v1.0"
         }
     },
     "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset"

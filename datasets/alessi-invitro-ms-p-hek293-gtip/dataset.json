@@ -36,16 +36,12 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
         },
-        "v3.0.2": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
         "v4.0.0": {
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
         },
         "v4.0.2": {
-            "cde_version": "v4.3",
+            "cde_version": "v4.2",
             "dataset_version": "v1.1"
         }
     },

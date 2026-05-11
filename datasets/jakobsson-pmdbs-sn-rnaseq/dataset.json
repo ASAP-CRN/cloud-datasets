@@ -98,7 +98,7 @@
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": null,
+    "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-pmdbs-sn-rnaseq",
         "dev": "gs://asap-dev-team-jakobsson-pmdbs-sn-rnaseq",
@@ -119,23 +119,7 @@
             "cde_version": "v3.1",
             "dataset_version": "v2.0"
         },
-        "v2.0.2": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0"
-        },
-        "v2.0.3": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0"
-        },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v2.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v2.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v2.0"
         },
