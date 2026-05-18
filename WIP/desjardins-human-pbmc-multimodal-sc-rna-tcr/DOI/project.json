@@ -1,0 +1,33 @@
+{
+    "project_name": "Contructing a single cell atlas of human PBMCs from healthy control, RBD, and PD.",
+    "project_description": "Parkinson's disease (PD) is a neurodegenerative disorder marked by the development of cardinal motor deficits preceded by a protracted prodromal period of non-motor symptoms, which may include REM-sleep behavioural disorder (RBD). There is an emerging consensus that both the peripheral immune system and local neuroinflammation play key roles in the etiology of PD. Current work leaves many questions regarding the role of the immuune system in the etiology of PD. This work aims to contruct a comprehensive atlas comparing the transcriptome of HC, RBD, and PD across diverse PBMC cell subtypes.",
+    "dataset_title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+    "dataset_description": "We performed 10X Genomics single-cell RNAsequencing of human prepheral blood mononuclear cells from healthy control, PD and RBD patients. This dataset contains raw FASTQ files. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "creators": [
+        {
+            "name": "MacDonald, Adam",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0002-6470-1186"
+        },
+        {
+            "name": "Stratton, Jo Anne",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0002-1205-1353"
+        }
+    ],
+    "publication_date": "2026-05-18",
+    "version": "v0.1",
+    "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Jo Anne Stratton",
+    "PI_email": "jo.stratton@mcgill.ca",
+    "coPI_full_name": [],
+    "coPI_email": [],
+    "submitter_name": "Moein  Yaqubi",
+    "submitter_email": "moein.yaqubi@mcgill.ca",
+    "publication_DOI": "",
+    "grant_ids": [
+        "000525"
+    ],
+    "team_name": "Desjardins"
+}

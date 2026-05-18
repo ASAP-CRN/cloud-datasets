@@ -1,0 +1,70 @@
+{
+  "created": "2026-05-18T19:38:45.012413+00:00",
+  "modified": "2026-05-18T19:38:45.795703+00:00",
+  "id": 20276411,
+  "conceptrecid": "20276410",
+  "metadata": {
+    "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "publication_date": "2026-05-18",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria cells from wild type and LRRK2 G2019S mice following 1-week post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 4 groups namely wild type and LRRK2 G2019S uninfected and infected mice. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Recinto, Sherilyn",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0001-9632-1201"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Pei, Jessica",
+        "affiliation": "McGill University",
+        "orcid": "0000-0001-7115-5606"
+      },
+      {
+        "name": "Gruenheid, Samantha",
+        "affiliation": "McGill University",
+        "orcid": "0000-0002-0908-6715"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276411",
+      "recid": 20276411
+    }
+  },
+  "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20276411",
+    "html": "https://zenodo.org/deposit/20276411",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20276411/files",
+    "bucket": "https://zenodo.org/api/files/637ac56b-0c43-4b09-a130-7254e0d44405",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276411",
+    "latest_draft_html": "https://zenodo.org/deposit/20276411",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276411/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276411/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276411/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276411/actions/newversion"
+  },
+  "record_id": 20276411,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

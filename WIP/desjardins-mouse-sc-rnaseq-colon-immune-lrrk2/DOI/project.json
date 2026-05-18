@@ -1,0 +1,47 @@
+{
+    "project_name": "LRRK2 G2019S mutation incites increased cell-intrinsic neutrophil effector functions and intestinal inflammation in a model of infectious colitis",
+    "project_description": "Parkinson's Disease (PD) is a neurodegenerative disorder often preceded by gastrointestinal dysfunction. Mutations in leucine-rich repeat kinase 2 (LRRK2) are known risk factors for both PD and inflammatory bowel disease (IBD), suggesting a link between PD and the gastrointestinal tract. Using single-cell RNA-sequencing and spectral flow cytometry, we demonstrated that the Lrrk2 Gly2019Ser (G2019S) mutation is associated with an increased neutrophil presence in the colonic lamina propria during Citrobacter rodentium infection. This concurred with a Th17 skewing, upregulated Il17a, and greater colonic pathology during infection. In vitro experiments showed enhanced kinase-dependent neutrophil chemotaxis and neutrophil extracellular trap (NET) formation in Lrrk2 G2019S mice compared to wild-type counterparts. Our results add to the understanding of LRRK2-driven immune cell dysregulation and its contribution to PD, offering insights into potential biomarkers for early diagnosis and intervention in PD.",
+    "dataset_title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "dataset_description": "We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria cells from wild type and LRRK2 G2019S mice following 1-week post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 4 groups namely wild type and LRRK2 G2019S uninfected and infected mice. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+    "creators": [
+        {
+            "name": "Recinto, Sherilyn",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0001-9632-1201"
+        },
+        {
+            "name": "Stratton, Jo Anne",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0002-1205-1353"
+        },
+        {
+            "name": "Pei, Jessica",
+            "affiliation": "McGill University",
+            "orcid": "0000-0001-7115-5606"
+        },
+        {
+            "name": "Gruenheid, Samantha",
+            "affiliation": "McGill University",
+            "orcid": "0000-0002-0908-6715"
+        }
+    ],
+    "publication_date": "2026-05-18",
+    "version": "v0.1",
+    "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Samantha Gruenheid",
+    "PI_email": "samantha.gruenheid@mcgill.ca",
+    "coPI_full_name": [
+        "Jo Anne Stratton"
+    ],
+    "coPI_email": [
+        "jo.stratton@mcgill.ca"
+    ],
+    "submitter_name": "Moein  Yaqubi",
+    "submitter_email": "moein.yaqubi@mcgill.ca",
+    "publication_DOI": "",
+    "grant_ids": [
+        "000525"
+    ],
+    "team_name": "Desjardins"
+}

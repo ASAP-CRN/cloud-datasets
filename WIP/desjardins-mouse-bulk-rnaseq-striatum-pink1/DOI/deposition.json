@@ -1,0 +1,65 @@
+{
+  "created": "2026-05-18T19:38:47.859209+00:00",
+  "modified": "2026-05-18T19:38:48.574606+00:00",
+  "id": 20276415,
+  "conceptrecid": "20276414",
+  "metadata": {
+    "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
+    "publication_date": "2026-05-18",
+    "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Mukherjee, Sriparna",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0002-1299-4343"
+      },
+      {
+        "name": "Trudeau, Louis-Eric",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0003-4684-1377"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276415",
+      "recid": 20276415
+    }
+  },
+  "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20276415",
+    "html": "https://zenodo.org/deposit/20276415",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20276415/files",
+    "bucket": "https://zenodo.org/api/files/0a1ee7ee-8299-472a-b59e-02e13650164b",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276415",
+    "latest_draft_html": "https://zenodo.org/deposit/20276415",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276415/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276415/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276415/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276415/actions/newversion"
+  },
+  "record_id": 20276415,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

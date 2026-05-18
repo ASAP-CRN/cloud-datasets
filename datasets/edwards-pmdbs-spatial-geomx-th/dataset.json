@@ -35,13 +35,13 @@
         }
     ],
     "keywords": [
-        "pmdbs-spatial",
+        "pmdbs-spatial-rnaseq",
         "pmdbs-other",
         "edwards"
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": "pmdbs-spatial",
+    "collection": "pmdbs-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
         "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",

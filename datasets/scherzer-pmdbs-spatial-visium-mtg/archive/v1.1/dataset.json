@@ -59,13 +59,13 @@
         }
     ],
     "keywords": [
-        "pmdbs-spatial",
+        "pmdbs-spatial-rnaseq",
         "other-pmdbs",
         "scherzer"
     ],
     "license": "CC-BY-4.0",
     "references": [],
-    "collection": "pmdbs-spatial",
+    "collection": "pmdbs-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
         "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",

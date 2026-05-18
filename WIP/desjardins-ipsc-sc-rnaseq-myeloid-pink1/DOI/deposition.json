@@ -1,0 +1,60 @@
+{
+  "created": "2026-05-18T19:38:46.427671+00:00",
+  "modified": "2026-05-18T19:38:47.156919+00:00",
+  "id": 20276413,
+  "conceptrecid": "20276412",
+  "metadata": {
+    "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
+    "publication_date": "2026-05-18",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocytes and macrophages in vitro. Cells were treated with 500 ng/mL lipopolysaccharide (LPS) and 50 ng/mL interleukin-1 beta (IL1b) for 24 hours. This dataset contains raw FASTQ files from myeloid cells, sorted into 4 groups namely monocytes (Mono) and Macrophages (Mac) non-stimulated (NS) and LPS+IL1b-stimulated cells. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Recinto, Sherilyn",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0001-9632-1201"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0002-1205-1353"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276413",
+      "recid": 20276413
+    }
+  },
+  "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20276413",
+    "html": "https://zenodo.org/deposit/20276413",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20276413/files",
+    "bucket": "https://zenodo.org/api/files/e2b1992d-63d7-460c-bd77-bb71ca0adb33",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276413",
+    "latest_draft_html": "https://zenodo.org/deposit/20276413",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276413/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276413/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276413/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276413/actions/newversion"
+  },
+  "record_id": 20276413,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}
