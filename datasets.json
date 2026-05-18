@@ -869,13 +869,13 @@
             }
         ],
         "keywords": [
-            "mouse-spatial",
+            "mouse-spatial-rnaseq",
             "mouse-other",
             "cragg"
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": "mouse-spatial",
+        "collection": "mouse-spatial-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
             "dev": "gs://asap-dev-team-cragg-mouse-spatial-visium-striatum",
@@ -956,13 +956,13 @@
             }
         ],
         "keywords": [
-            "pmdbs-spatial",
+            "pmdbs-spatial-rnaseq",
             "pmdbs-other",
             "edwards"
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": "pmdbs-spatial",
+        "collection": "pmdbs-spatial-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
             "dev": "gs://asap-dev-team-edwards-pmdbs-spatial-geomx-th",
@@ -3705,13 +3705,13 @@
             }
         ],
         "keywords": [
-            "pmdbs-spatial",
+            "pmdbs-spatial-rnaseq",
             "other-pmdbs",
             "scherzer"
         ],
         "license": "CC-BY-4.0",
         "references": [],
-        "collection": "pmdbs-spatial",
+        "collection": "pmdbs-spatial-rnaseq",
         "buckets": {
             "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
             "dev": "gs://asap-dev-team-scherzer-pmdbs-spatial-visium-mtg",

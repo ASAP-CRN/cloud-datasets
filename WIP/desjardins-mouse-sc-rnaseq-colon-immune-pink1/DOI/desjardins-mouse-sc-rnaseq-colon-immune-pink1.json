@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+        "upload_type": "dataset",
+        "description": "We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria cells from wild type and PINK1 KO mice following either 1-week or 2-weeks post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 8 groups namely wild type and PINK1 KO uninfected and infected mice at 1- or 2-weeks post-infection. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+        "publication_date": "2026-05-18",
+        "version": "v0.1",
+        "creators": [
+            {
+                "name": "Recinto, Sherilyn",
+                "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+                "orcid": "0000-0001-9632-1201"
+            },
+            {
+                "name": "Stratton, Jo Anne",
+                "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+                "orcid": "0000-0002-1205-1353"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Desjardins"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

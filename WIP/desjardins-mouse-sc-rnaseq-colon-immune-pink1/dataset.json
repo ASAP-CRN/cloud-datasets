@@ -4,7 +4,7 @@
     "description": "Dataset from team-desjardins",
     "version": "v0.1",
     "dataset_title": "",
-    "doi": null,
+    "doi": "10.5281/zenodo.20276571",
     "creators": [
         {
             "name": "team-desjardins",

@@ -36,6 +36,11 @@ datasets/
 
 ## Dataset Metadata Schema
 
+
+TODO:  add curation_version information
+- None for uncurated datasets
+- release version for when "curated" outputs are added.  (e.g. v4.1.0 release dataset version / metadata bumps which did NOT change the curated outputs.)
+
 example
 ```json
 {
