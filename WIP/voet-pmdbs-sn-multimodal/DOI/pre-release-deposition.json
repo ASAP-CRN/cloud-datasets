@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T04:19:41.842450+00:00",
-  "modified": "2026-05-08T04:19:49.734290+00:00",
+  "modified": "2026-05-21T00:41:03.713355+00:00",
   "id": 20078306,
   "conceptrecid": "18988753",
   "conceptdoi": "10.5281/zenodo.18988753",
@@ -103,6 +103,16 @@
       "links": {
         "self": "https://zenodo.org/api/deposit/depositions/20078306/files/793d56f7-eb8d-426d-ba55-fcf0b228c96b",
         "download": "https://zenodo.org/api/records/20078306/draft/files/voet-pmdbs-sn-multimodal_README.pdf/content"
+      }
+    },
+    {
+      "id": "aec6b495-c792-462b-8a5e-00bcfa182f39",
+      "filename": "voet-pmdbs-sn-rnaseq_README.pdf",
+      "filesize": 7282,
+      "checksum": "48a941c7f1a8f3f20c70edc767928736",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20078306/files/aec6b495-c792-462b-8a5e-00bcfa182f39",
+        "download": "https://zenodo.org/api/records/20078306/draft/files/voet-pmdbs-sn-rnaseq_README.pdf/content"
       }
     }
   ],

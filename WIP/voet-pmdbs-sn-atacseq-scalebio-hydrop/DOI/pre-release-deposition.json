@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T00:42:09.566105+00:00",
-  "modified": "2026-05-08T00:59:52.482158+00:00",
+  "modified": "2026-05-21T00:46:59.207874+00:00",
   "id": 20076952,
   "conceptrecid": "18988743",
   "conceptdoi": "10.5281/zenodo.18988743",
@@ -103,6 +103,16 @@
       "links": {
         "self": "https://zenodo.org/api/deposit/depositions/20076952/files/5e006be0-ba8b-4814-b632-90ed21f35b58",
         "download": "https://zenodo.org/api/records/20076952/draft/files/voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf/content"
+      }
+    },
+    {
+      "id": "9f7fa2de-220c-44f2-ade8-7db30b529e2e",
+      "filename": "voet-pmdbs-sn-multimodal_README.pdf",
+      "filesize": 7332,
+      "checksum": "558209fa117fcf5a7f9dc8fb1654a410",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20076952/files/9f7fa2de-220c-44f2-ade8-7db30b529e2e",
+        "download": "https://zenodo.org/api/records/20076952/draft/files/voet-pmdbs-sn-multimodal_README.pdf/content"
       }
     }
   ],

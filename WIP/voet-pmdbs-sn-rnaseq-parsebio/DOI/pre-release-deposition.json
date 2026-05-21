@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T04:23:06.284928+00:00",
-  "modified": "2026-05-08T04:23:33.140027+00:00",
+  "modified": "2026-05-21T04:42:33.424382+00:00",
   "id": 20078329,
   "conceptrecid": "19124632",
   "conceptdoi": "10.5281/zenodo.19124632",
@@ -156,13 +156,53 @@
       }
     },
     {
-      "id": "ad0e94d4-0c32-4e35-9f3b-bcbf8c15ec68",
-      "filename": "voet-pmdbs-sn-rnaseq-parsebio_README.pdf",
-      "filesize": 6607,
-      "checksum": "2222c6110b79702b23f3dd9fa4d24089",
+      "id": "b0350e35-a869-401e-80fd-a4a4b51ec895",
+      "filename": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf",
+      "filesize": 7035,
+      "checksum": "815fb0cfa057ad5c02b20249aba85255",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/ad0e94d4-0c32-4e35-9f3b-bcbf8c15ec68",
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/b0350e35-a869-401e-80fd-a4a4b51ec895",
+        "download": "https://zenodo.org/api/records/20078329/draft/files/scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf/content"
+      }
+    },
+    {
+      "id": "84117a1d-cb9a-4262-ba6d-97a1c4c2ed90",
+      "filename": "voet-pmdbs-sn-rnaseq_README.pdf",
+      "filesize": 7282,
+      "checksum": "e57ccdd0b3cb843b6b3a2918ff077a0b",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/84117a1d-cb9a-4262-ba6d-97a1c4c2ed90",
+        "download": "https://zenodo.org/api/records/20078329/draft/files/voet-pmdbs-sn-rnaseq_README.pdf/content"
+      }
+    },
+    {
+      "id": "8dc23e0a-b7f4-41a9-9a2b-05e649547a71",
+      "filename": "voet-pmdbs-sn-atacseq-scalebio-10x_README.pdf",
+      "filesize": 7315,
+      "checksum": "43c3543f67d13d9a5921aa0cf664e4e7",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/8dc23e0a-b7f4-41a9-9a2b-05e649547a71",
+        "download": "https://zenodo.org/api/records/20078329/draft/files/voet-pmdbs-sn-atacseq-scalebio-10x_README.pdf/content"
+      }
+    },
+    {
+      "id": "937f8e51-e2a6-41fd-a9af-d3b31b9b6780",
+      "filename": "voet-pmdbs-sn-rnaseq-parsebio_README.pdf",
+      "filesize": 37312,
+      "checksum": "ddc4caeaa0ec14eff2a98bf5a5f7d062",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/937f8e51-e2a6-41fd-a9af-d3b31b9b6780",
         "download": "https://zenodo.org/api/records/20078329/draft/files/voet-pmdbs-sn-rnaseq-parsebio_README.pdf/content"
+      }
+    },
+    {
+      "id": "77ee687e-d779-4982-b37f-9e2ba7e8370a",
+      "filename": "voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf",
+      "filesize": 37412,
+      "checksum": "569da4dd05595a2f29f6c161527003d9",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/77ee687e-d779-4982-b37f-9e2ba7e8370a",
+        "download": "https://zenodo.org/api/records/20078329/draft/files/voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf/content"
       }
     }
   ],
