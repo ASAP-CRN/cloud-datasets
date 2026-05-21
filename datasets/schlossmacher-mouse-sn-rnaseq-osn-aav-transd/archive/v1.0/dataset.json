@@ -1,42 +1,90 @@
 {
-  "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-  "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-  "description": "mouse-sc-rnaseq dataset from team-schlossmacher",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.17358327",
-  "creators": [
-    {
-      "name": "team-schlossmacher",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "mouse-sc-rnaseq",
-    "other-mouse",
-    "schlossmacher"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-    "dev": "gs://asap-dev-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-    "uat": "gs://asap-uat-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-    "prod": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd"
-  },
-  "cde_version": "v3.3",
-  "releases": {
-    "v3.0.1": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
+    "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+    "description": "mouse-sc-rnaseq dataset from team-schlossmacher",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17358327",
+    "creators": [
+        {
+            "name": "Belfort, Benjamin",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-2866-5763"
+        },
+        {
+            "name": "Jia, Johnathan",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-7466-8589"
+        },
+        {
+            "name": "Garza, Alexandra",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0003-3288-4237"
+        },
+        {
+            "name": "Insalaco, Anthony",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0009-0005-7761-0506"
+        },
+        {
+            "name": "McGinnis, John",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0009-0003-5669-5913"
+        },
+        {
+            "name": "Pekarek, Brandon",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-8785-4196"
+        },
+        {
+            "name": "Ortiz-Guzman, Joshua",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-7000-394X"
+        },
+        {
+            "name": "Tepe, Burak",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0003-4371-2502"
+        },
+        {
+            "name": "Chen, Hu",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-5472-7158"
+        },
+        {
+            "name": "Liu, Zhandong",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0002-7608-0831"
+        },
+        {
+            "name": "Arenkiel, Benjamin",
+            "affiliation": "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX.",
+            "orcid": "0000-0001-9047-2420"
+        }
+    ],
+    "keywords": [
+        "mouse-sc-rnaseq",
+        "other-mouse",
+        "schlossmacher"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+        "dev": "gs://asap-dev-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+        "uat": "gs://asap-uat-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
+        "prod": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd"
     },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
+    "cde_version": "v3.3",
+    "releases": {
+        "v3.0.1": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        }
     },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus"
 }

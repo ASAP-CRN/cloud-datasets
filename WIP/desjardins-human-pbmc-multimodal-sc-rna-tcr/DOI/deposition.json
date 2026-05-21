@@ -1,0 +1,60 @@
+{
+  "created": "2026-05-18T19:38:51.017127+00:00",
+  "modified": "2026-05-18T19:38:51.773516+00:00",
+  "id": 20276419,
+  "conceptrecid": "20276418",
+  "metadata": {
+    "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+    "publication_date": "2026-05-18",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of human prepheral blood mononuclear cells from healthy control, PD and RBD patients. This dataset contains raw FASTQ files. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "MacDonald, Adam",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-6470-1186"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276419",
+      "recid": 20276419
+    }
+  },
+  "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20276419",
+    "html": "https://zenodo.org/deposit/20276419",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20276419/files",
+    "bucket": "https://zenodo.org/api/files/299e8f28-b65f-4e6c-a7e4-5e44f492b34c",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276419",
+    "latest_draft_html": "https://zenodo.org/deposit/20276419",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276419/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276419/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276419/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276419/actions/newversion"
+  },
+  "record_id": 20276419,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

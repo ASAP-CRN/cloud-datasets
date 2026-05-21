@@ -2,12 +2,42 @@
     "name": "lee-pmdbs-bulk-rnaseq-mfg",
     "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
     "description": "pmdbs-bulk-rnaseq dataset from team-lee",
-    "version": "1.1",
+    "version": "v1.1",
     "doi": "10.5281/zenodo.16748937",
     "creators": [
         {
-            "name": "team-lee",
-            "affiliation": "ASAP CRN"
+            "name": "Marshall, Lee L.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-9884-4636"
+        },
+        {
+            "name": "Paquette, Kimberly E.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-3989-4614"
+        },
+        {
+            "name": "DenHaan, Kaitlyn E.",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-7804-6661"
+        },
+        {
+            "name": "Lopes, Ellison",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-1661-6304"
+        },
+        {
+            "name": "Pyman, Andrew D.",
+            "affiliation": "Van Andel Institute"
+        },
+        {
+            "name": "Guerreiro, Rita",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-5879-3486"
+        },
+        {
+            "name": "Bras, Jose",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0001-8186-0333"
         }
     ],
     "keywords": [
@@ -30,27 +60,7 @@
             "cde_version": "v3.0",
             "dataset_version": "v1.0"
         },
-        "v2.0.1": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
-        "v2.0.2": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
-        "v2.0.3": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v1.0"
         },
@@ -62,5 +72,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.1"
         }
-    }
+    },
+    "dataset_title": "Bulk RNA-sequencing of human middle frontal gyrus"
 }

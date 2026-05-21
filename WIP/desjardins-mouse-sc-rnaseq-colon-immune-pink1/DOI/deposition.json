@@ -1,0 +1,60 @@
+{
+  "created": "2026-05-18T19:56:14.926735+00:00",
+  "modified": "2026-05-18T19:56:15.633852+00:00",
+  "id": 20276572,
+  "conceptrecid": "20276571",
+  "metadata": {
+    "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+    "publication_date": "2026-05-18",
+    "description": "We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria cells from wild type and PINK1 KO mice following either 1-week or 2-weeks post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 8 groups namely wild type and PINK1 KO uninfected and infected mice at 1- or 2-weeks post-infection. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Recinto, Sherilyn",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0001-9632-1201"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276572",
+      "recid": 20276572
+    }
+  },
+  "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20276572",
+    "html": "https://zenodo.org/deposit/20276572",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20276572/files",
+    "bucket": "https://zenodo.org/api/files/362467f1-dd7c-4be7-a8d1-5c7a9be7ac04",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276572",
+    "latest_draft_html": "https://zenodo.org/deposit/20276572",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276572/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276572/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276572/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276572/actions/newversion"
+  },
+  "record_id": 20276572,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

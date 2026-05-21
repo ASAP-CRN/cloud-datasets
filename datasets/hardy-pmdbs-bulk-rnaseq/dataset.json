@@ -2,12 +2,38 @@
     "name": "hardy-pmdbs-bulk-rnaseq",
     "title": "team-hardy-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from team-hardy",
-    "version": "1.1",
+    "version": "v1.1",
     "doi": "10.5281/zenodo.16749098",
     "creators": [
         {
-            "name": "team-hardy",
-            "affiliation": "ASAP CRN"
+            "name": "Fairbrother-Browne, Aine",
+            "affiliation": "UCL/EBI",
+            "orcid": "0000-0002-7196-1410"
+        },
+        {
+            "name": "Brenton, Jonathan",
+            "affiliation": "UCL/Cambridge",
+            "orcid": "0000-0002-2381-8484"
+        },
+        {
+            "name": "Grant-Peters, Melissa",
+            "affiliation": "Cambridge",
+            "orcid": "0000-0003-0585-0971"
+        },
+        {
+            "name": "Reynolds, Regina",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-6470-7919"
+        },
+        {
+            "name": "Ryten, Mina",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-9520-6957"
+        },
+        {
+            "name": "Jaunmuktane, Zane",
+            "affiliation": "UCL",
+            "orcid": "0000-0001-7738-8881"
         }
     ],
     "keywords": [
@@ -30,27 +56,7 @@
             "cde_version": "v3.0",
             "dataset_version": "v1.0"
         },
-        "v2.0.1": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
-        "v2.0.2": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
-        "v2.0.3": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.1": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.2": {
             "cde_version": "v3.2",
             "dataset_version": "v1.0"
         },
@@ -62,5 +68,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.1"
         }
-    }
+    },
+    "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors"
 }

@@ -2,12 +2,28 @@
     "name": "scherzer-pmdbs-genetics",
     "title": "team-scherzer-pmdbs-genetics",
     "description": "pmdbs-genetics dataset from team-scherzer",
-    "version": "1.1",
+    "version": "v1.1",
     "doi": "10.5281/zenodo.17242295",
     "creators": [
         {
-            "name": "team-scherzer",
-            "affiliation": "ASAP CRN"
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Lin, Zechuan",
+            "orcid": "0000-0003-2270-5194"
         }
     ],
     "keywords": [
@@ -30,10 +46,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
         },
-        "v3.0.2": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
         "v4.0.0": {
             "cde_version": "v3.3",
             "dataset_version": "v1.0"
@@ -42,5 +54,6 @@
             "cde_version": "v3.3",
             "dataset_version": "v1.1"
         }
-    }
+    },
+    "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype"
 }

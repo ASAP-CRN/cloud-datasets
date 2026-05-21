@@ -6,8 +6,14 @@
     "doi": "10.5281/zenodo.18273844",
     "creators": [
         {
-            "name": "team-lee",
-            "affiliation": "ASAP CRN"
+            "name": "Ma, Yue",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0002-1031-5175"
+        },
+        {
+            "name": "Moore, Darren",
+            "affiliation": "Van Andel Institute",
+            "orcid": "0000-0003-2359-5679"
         }
     ],
     "keywords": [
@@ -28,7 +34,8 @@
     "releases": {
         "v4.1.0": {
             "cde_version": "v4.3",
-            "dataset_version": "1.0"
+            "dataset_version": "v1.0"
         }
-    }
+    },
+    "dataset_title": "Untargeted lipidomic profiling of the liver in G2019S LRRK2 knockin mice under a specialized diet"
 }

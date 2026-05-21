@@ -6,8 +6,34 @@
     "doi": "10.5281/zenodo.17917788",
     "creators": [
         {
-            "name": "team-liddle",
-            "affiliation": "ASAP CRN"
+            "name": "Bolen, MacKenzie L.",
+            "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA",
+            "orcid": "0000-0003-1973-3784"
+        },
+        {
+            "name": "Buendia, Marc",
+            "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain,& August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, CIBER-EHD, Spain;,& 7 Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+            "orcid": "Not available"
+        },
+        {
+            "name": "Shi, Ji",
+            "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+            "orcid": "Not available"
+        },
+        {
+            "name": "Salas, Azucena",
+            "affiliation": "University of Barcelona, Gran Via de les Corts, Catalanes, 585, L\u2019Eixample, 08007, Barcelona, Spain",
+            "orcid": "Not available"
+        },
+        {
+            "name": "Thompson, E. Aubrey",
+            "affiliation": "Department of Cancer Biology, Mayo Clinic, Jacksonville, FL, USA",
+            "orcid": "Not available"
+        },
+        {
+            "name": "Tansey, Mal\u00fa G.",
+            "affiliation": "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, USA;,& Department of Neuroscience, College of Medicine, University of Florida, Gainesville, FL, USA; McKnight Brain Institute, University of Florida, Gainesville, FL, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA; Department of Neurology, Stark Neuroscience Research Institute, School of Medicine, Indiana University, Indianapolis, IN, USA",
+            "orcid": "0000-0002-1719-4708"
         }
     ],
     "keywords": [
@@ -28,7 +54,8 @@
     "releases": {
         "v4.0.1": {
             "cde_version": "v4.1",
-            "dataset_version": "1.0"
+            "dataset_version": "v1.0"
         }
-    }
+    },
+    "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset"
 }

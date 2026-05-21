@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+        "upload_type": "dataset",
+        "description": "We performed bulk RNAsequencing of substantia nigra from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+        "publication_date": "2026-05-18",
+        "version": "v0.1",
+        "creators": [
+            {
+                "name": "Stratton, Jo Anne",
+                "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+                "orcid": "0000-0002-1205-1353"
+            },
+            {
+                "name": "Mukherjee, Sriparna",
+                "affiliation": "University of Montreal",
+                "orcid": "0000-0002-1299-4343"
+            },
+            {
+                "name": "Trudeau, Louis-Eric",
+                "affiliation": "University of Montreal",
+                "orcid": "0000-0003-4684-1377"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Desjardins"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

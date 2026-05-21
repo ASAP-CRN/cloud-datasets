@@ -1,42 +1,55 @@
 {
-  "name": "scherzer-pmdbs-genetics",
-  "title": "team-scherzer-pmdbs-genetics",
-  "description": "pmdbs-genetics dataset from team-scherzer",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.17242295",
-  "creators": [
-    {
-      "name": "team-scherzer",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "pmdbs-genetics",
-    "other-pmdbs",
-    "scherzer"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-scherzer-pmdbs-genetics",
-    "dev": "gs://asap-dev-team-scherzer-pmdbs-genetics",
-    "uat": "gs://asap-uat-team-scherzer-pmdbs-genetics",
-    "prod": "gs://asap-curated-team-scherzer-pmdbs-genetics"
-  },
-  "cde_version": "v3.3",
-  "releases": {
-    "v3.0.1": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
+    "name": "scherzer-pmdbs-genetics",
+    "title": "team-scherzer-pmdbs-genetics",
+    "description": "pmdbs-genetics dataset from team-scherzer",
+    "version": "v1.0",
+    "doi": "10.5281/zenodo.17242295",
+    "creators": [
+        {
+            "name": "Scherzer, Clemens",
+            "orcid": "0000-0002-0567-9193"
+        },
+        {
+            "name": "Serrano, Geidy",
+            "orcid": "0000-0002-9527-2011"
+        },
+        {
+            "name": "Beach, Thomas",
+            "orcid": "0000-0003-3296-6128"
+        },
+        {
+            "name": "Liao, Zhixiang",
+            "orcid": "0000-0001-7014-5465"
+        },
+        {
+            "name": "Lin, Zechuan",
+            "orcid": "0000-0003-2270-5194"
+        }
+    ],
+    "keywords": [
+        "pmdbs-genetics",
+        "other-pmdbs",
+        "scherzer"
+    ],
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-scherzer-pmdbs-genetics",
+        "dev": "gs://asap-dev-team-scherzer-pmdbs-genetics",
+        "uat": "gs://asap-uat-team-scherzer-pmdbs-genetics",
+        "prod": "gs://asap-curated-team-scherzer-pmdbs-genetics"
     },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
+    "cde_version": "v3.3",
+    "releases": {
+        "v3.0.1": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        }
     },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype"
 }
