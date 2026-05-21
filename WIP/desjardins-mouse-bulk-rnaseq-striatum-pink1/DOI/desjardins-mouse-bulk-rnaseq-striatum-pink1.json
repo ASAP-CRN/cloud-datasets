@@ -4,7 +4,7 @@
         "upload_type": "dataset",
         "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
         "publication_date": "2026-05-18",
-        "version": "v0.1",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Stratton, Jo Anne",

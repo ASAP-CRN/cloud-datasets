@@ -1,30 +1,30 @@
 {
-    "name": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
-    "title": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
-    "description": "Dataset from team-desjardins",
-    "version": "v0.1",
-    "dataset_title": "",
-    "doi": "10.5281/zenodo.20276571",
-    "creators": [
-        {
-            "name": "team-desjardins",
-            "affiliation": "ASAP CRN",
-            "orcid": null
-        }
-    ],
-    "keywords": [
-        "desjardins"
-    ],
-    "license": "CC-BY-4.0",
-    "references": [],
-    "collection": null,
-    "buckets": {
-        "raw": "gs://asap-raw-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
-        "dev": "gs://asap-dev-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
-        "uat": "gs://asap-uat-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
-        "prod": "gs://asap-curated-desjardins-mouse-sc-rnaseq-colon-immune-pink1"
-    },
-    "cde_version": "v4.3",
-    "releases": {},
-    "all_releases": []
+  "name": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+  "title": "desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+  "description": "Dataset from team-desjardins",
+  "version": "v0.1",
+  "dataset_title": "",
+  "doi": "10.5281/zenodo.20276571",
+  "creators": [
+    {
+      "name": "team-desjardins",
+      "affiliation": "ASAP CRN",
+      "orcid": null
+    }
+  ],
+  "keywords": [
+    "desjardins"
+  ],
+  "license": "CC-BY-4.0",
+  "references": [],
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+    "dev": "gs://asap-dev-team-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+    "uat": "gs://asap-uat-team-desjardins-mouse-sc-rnaseq-colon-immune-pink1",
+    "prod": "gs://asap-curated-team-desjardins-mouse-sc-rnaseq-colon-immune-pink1"
+  },
+  "cde_version": "v4.3",
+  "releases": {},
+  "all_releases": []
 }

@@ -1,0 +1,74 @@
+{
+  "created": "2026-05-21T22:58:23.938489+00:00",
+  "modified": "2026-05-21T22:58:33.032706+00:00",
+  "id": 20334812,
+  "conceptrecid": "20276418",
+  "conceptdoi": "10.5281/zenodo.20276418",
+  "metadata": {
+    "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of human prepheral blood mononuclear cells from healthy control, PD and RBD patients. This dataset contains raw FASTQ files. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "MacDonald, Adam",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-6470-1186"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      }
+    ],
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20334812",
+      "recid": 20334812
+    }
+  },
+  "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20334812",
+    "html": "https://zenodo.org/deposit/20334812",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20334812/files",
+    "bucket": "https://zenodo.org/api/files/2efc8013-cedd-49f0-aae5-f684b4a12d9d",
+    "thumb250": "https://zenodo.org/record/20334812/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20334812/thumb10",
+      "50": "https://zenodo.org/record/20334812/thumb50",
+      "100": "https://zenodo.org/record/20334812/thumb100",
+      "250": "https://zenodo.org/record/20334812/thumb250",
+      "750": "https://zenodo.org/record/20334812/thumb750",
+      "1200": "https://zenodo.org/record/20334812/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20334812",
+    "latest_draft_html": "https://zenodo.org/deposit/20334812",
+    "publish": "https://zenodo.org/api/deposit/depositions/20334812/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20334812/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20334812/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20334812/actions/newversion"
+  },
+  "record_id": 20334812,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "98bba271-e996-48a8-9fc0-c3723c8db442",
+      "filename": "desjardins-human-pbmc-multimodal-sc-rna-tcr_README.pdf",
+      "filesize": 35544,
+      "checksum": "0091e0facca4f4f01294e082c2b80ebb",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20334812/files/98bba271-e996-48a8-9fc0-c3723c8db442",
+        "download": "https://zenodo.org/api/records/20334812/draft/files/desjardins-human-pbmc-multimodal-sc-rna-tcr_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

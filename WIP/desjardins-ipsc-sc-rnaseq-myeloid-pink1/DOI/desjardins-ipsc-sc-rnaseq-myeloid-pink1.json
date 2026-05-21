@@ -4,7 +4,7 @@
         "upload_type": "dataset",
         "description": "We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocytes and macrophages in vitro. Cells were treated with 500 ng/mL lipopolysaccharide (LPS) and 50 ng/mL interleukin-1 beta (IL1b) for 24 hours. This dataset contains raw FASTQ files from myeloid cells, sorted into 4 groups namely monocytes (Mono) and Macrophages (Mac) non-stimulated (NS) and LPS+IL1b-stimulated cells. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
         "publication_date": "2026-05-18",
-        "version": "v0.1",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Recinto, Sherilyn",

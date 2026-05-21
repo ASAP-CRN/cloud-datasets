@@ -15,7 +15,7 @@ We performed 10X Genomics single-cell RNAsequencing of human prepheral blood mon
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-human-pbmc-multimodal-sc-rna-tcr, vv0.1
+**Dataset Name:** desjardins-human-pbmc-multimodal-sc-rna-tcr, v1.0
 
 **Principal Investigator:** Jo Anne Stratton <jo.stratton@mcgill.ca>
 

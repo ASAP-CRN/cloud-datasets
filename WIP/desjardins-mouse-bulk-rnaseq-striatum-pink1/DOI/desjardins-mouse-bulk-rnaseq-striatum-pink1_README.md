@@ -16,7 +16,7 @@ We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-mouse-bulk-rnaseq-striatum-pink1, vv0.1
+**Dataset Name:** desjardins-mouse-bulk-rnaseq-striatum-pink1, v1.0
 
 **Principal Investigator:** Louis-Eric Trudeau <louis-eric.trudeau@umontreal.ca>
 

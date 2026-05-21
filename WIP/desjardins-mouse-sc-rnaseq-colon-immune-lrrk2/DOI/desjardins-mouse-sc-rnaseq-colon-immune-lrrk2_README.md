@@ -17,7 +17,7 @@ We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria ce
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-lrrk2, vv0.1
+**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-lrrk2, v1.0
 
 **Principal Investigator:** Samantha Gruenheid <samantha.gruenheid@mcgill.ca>
 

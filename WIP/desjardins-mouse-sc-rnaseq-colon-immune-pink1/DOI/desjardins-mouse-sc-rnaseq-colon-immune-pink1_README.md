@@ -15,7 +15,7 @@ We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria c
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-pink1, vv0.1
+**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-pink1, v1.0
 
 **Principal Investigator:** Jo Anne Stratton <jo.stratton@mcgill.ca>
 
