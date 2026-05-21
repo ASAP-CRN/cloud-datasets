@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T03:43:46.995335+00:00",
-  "modified": "2026-05-21T06:10:44.738599+00:00",
+  "modified": "2026-05-21T23:38:52.897584+00:00",
   "id": 20078073,
   "conceptrecid": "19124469",
   "conceptdoi": "10.5281/zenodo.19124469",
@@ -146,12 +146,12 @@
   "owner": 615261,
   "files": [
     {
-      "id": "d7705b09-14e7-497b-ae92-0581acc7fe04",
+      "id": "c5346b8b-3da4-432f-a9f0-9904b95f0e3d",
       "filename": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf",
-      "filesize": 6489,
-      "checksum": "a631eb3240bc313ba5c8131063de61c9",
+      "filesize": 37660,
+      "checksum": "a9c882daaf3df6ded22a01da30a5e377",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078073/files/d7705b09-14e7-497b-ae92-0581acc7fe04",
+        "self": "https://zenodo.org/api/deposit/depositions/20078073/files/c5346b8b-3da4-432f-a9f0-9904b95f0e3d",
         "download": "https://zenodo.org/api/records/20078073/draft/files/scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf/content"
       }
     }

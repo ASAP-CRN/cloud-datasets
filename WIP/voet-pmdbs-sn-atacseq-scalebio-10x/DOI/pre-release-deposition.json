@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T03:41:56.426963+00:00",
-  "modified": "2026-05-21T06:12:48.361736+00:00",
+  "modified": "2026-05-21T23:38:29.653806+00:00",
   "id": 20078062,
   "conceptrecid": "18988717",
   "conceptdoi": "10.5281/zenodo.18988717",
@@ -96,12 +96,12 @@
   "owner": 615261,
   "files": [
     {
-      "id": "4e0d3f57-765d-48e1-9c05-7d2860dd891a",
+      "id": "08f30aca-e0b0-433e-93b9-55e1df112ba6",
       "filename": "voet-pmdbs-sn-atacseq-scalebio-10x_README.pdf",
-      "filesize": 6782,
-      "checksum": "3a406fb7bade51a604ea9b851acc24db",
+      "filesize": 38106,
+      "checksum": "766fac2822b51c13e005d3e2c19e2a55",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078062/files/4e0d3f57-765d-48e1-9c05-7d2860dd891a",
+        "self": "https://zenodo.org/api/deposit/depositions/20078062/files/08f30aca-e0b0-433e-93b9-55e1df112ba6",
         "download": "https://zenodo.org/api/records/20078062/draft/files/voet-pmdbs-sn-atacseq-scalebio-10x_README.pdf/content"
       }
     }

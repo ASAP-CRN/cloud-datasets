@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T04:23:06.284928+00:00",
-  "modified": "2026-05-21T06:08:38.319441+00:00",
+  "modified": "2026-05-21T23:38:58.610470+00:00",
   "id": 20078329,
   "conceptrecid": "19124632",
   "conceptdoi": "10.5281/zenodo.19124632",
@@ -146,12 +146,12 @@
   "owner": 615261,
   "files": [
     {
-      "id": "78b38b5d-9c33-4e63-bb02-20e93a14773e",
+      "id": "33c3ff64-be36-455e-9b93-58fab6bee6b0",
       "filename": "scherzer-pmdbs-lr-wgs_README.pdf",
-      "filesize": 7000,
-      "checksum": "4efdf7acb43f67b676bc7a5553202892",
+      "filesize": 37627,
+      "checksum": "7ce65824cb81c84b094db04b17461def",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/78b38b5d-9c33-4e63-bb02-20e93a14773e",
+        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/33c3ff64-be36-455e-9b93-58fab6bee6b0",
         "download": "https://zenodo.org/api/records/20078329/draft/files/scherzer-pmdbs-lr-wgs_README.pdf/content"
       }
     }
