@@ -1,6 +1,6 @@
 {
   "created": "2026-05-08T00:42:09.566105+00:00",
-  "modified": "2026-05-21T00:46:59.207874+00:00",
+  "modified": "2026-05-21T05:39:50.419734+00:00",
   "id": 20076952,
   "conceptrecid": "18988743",
   "conceptdoi": "10.5281/zenodo.18988743",
@@ -96,23 +96,13 @@
   "owner": 615261,
   "files": [
     {
-      "id": "5e006be0-ba8b-4814-b632-90ed21f35b58",
+      "id": "956ea387-a2d2-41fb-9db6-9e31d7caece0",
       "filename": "voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf",
-      "filesize": 6636,
-      "checksum": "c7382adcf47f0533cde629cbcd079cd1",
+      "filesize": 37412,
+      "checksum": "1988ca9e6711f5be2eae276a19c9aea0",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20076952/files/5e006be0-ba8b-4814-b632-90ed21f35b58",
+        "self": "https://zenodo.org/api/deposit/depositions/20076952/files/956ea387-a2d2-41fb-9db6-9e31d7caece0",
         "download": "https://zenodo.org/api/records/20076952/draft/files/voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf/content"
-      }
-    },
-    {
-      "id": "9f7fa2de-220c-44f2-ade8-7db30b529e2e",
-      "filename": "voet-pmdbs-sn-multimodal_README.pdf",
-      "filesize": 7332,
-      "checksum": "558209fa117fcf5a7f9dc8fb1654a410",
-      "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20076952/files/9f7fa2de-220c-44f2-ade8-7db30b529e2e",
-        "download": "https://zenodo.org/api/records/20076952/draft/files/voet-pmdbs-sn-multimodal_README.pdf/content"
       }
     }
   ],

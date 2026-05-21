@@ -1,13 +1,13 @@
 {
-  "created": "2026-05-08T04:23:06.284928+00:00",
-  "modified": "2026-05-21T05:51:03.654184+00:00",
-  "id": 20078329,
-  "conceptrecid": "19124632",
-  "conceptdoi": "10.5281/zenodo.19124632",
+  "created": "2026-05-08T03:43:46.995335+00:00",
+  "modified": "2026-05-08T04:30:30.080105+00:00",
+  "id": 20078073,
+  "conceptrecid": "19124469",
+  "conceptdoi": "10.5281/zenodo.19124469",
   "metadata": {
-    "title": "PD5D long read DNA-seq",
+    "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
     "publication_date": "2026-05-08",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D long read DNA-seq\".</p>\n<p><strong>Description:</strong> This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D midbrain single-nucleus RNA-seq hybrid selection\".</p>\n<p><strong>Description:</strong> This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
       {
@@ -115,44 +115,44 @@
     ],
     "upload_type": "dataset",
     "prereserve_doi": {
-      "doi": "10.5281/zenodo.20078329",
-      "recid": 20078329
+      "doi": "10.5281/zenodo.20078073",
+      "recid": 20078073
     }
   },
-  "title": "PD5D long read DNA-seq",
+  "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/20078329",
-    "html": "https://zenodo.org/deposit/20078329",
+    "self": "https://zenodo.org/api/deposit/depositions/20078073",
+    "html": "https://zenodo.org/deposit/20078073",
     "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/20078329/files",
-    "bucket": "https://zenodo.org/api/files/22757834-024b-4f7f-94fa-e4506193fcf6",
-    "thumb250": "https://zenodo.org/record/20078329/thumb250",
+    "files": "https://zenodo.org/api/deposit/depositions/20078073/files",
+    "bucket": "https://zenodo.org/api/files/ea3a9c27-7155-4045-8fd0-4ac62ee36d1c",
+    "thumb250": "https://zenodo.org/record/20078073/thumb250",
     "thumbs": {
-      "10": "https://zenodo.org/record/20078329/thumb10",
-      "50": "https://zenodo.org/record/20078329/thumb50",
-      "100": "https://zenodo.org/record/20078329/thumb100",
-      "250": "https://zenodo.org/record/20078329/thumb250",
-      "750": "https://zenodo.org/record/20078329/thumb750",
-      "1200": "https://zenodo.org/record/20078329/thumb1200"
+      "10": "https://zenodo.org/record/20078073/thumb10",
+      "50": "https://zenodo.org/record/20078073/thumb50",
+      "100": "https://zenodo.org/record/20078073/thumb100",
+      "250": "https://zenodo.org/record/20078073/thumb250",
+      "750": "https://zenodo.org/record/20078073/thumb750",
+      "1200": "https://zenodo.org/record/20078073/thumb1200"
     },
-    "latest_draft": "https://zenodo.org/api/deposit/depositions/20078329",
-    "latest_draft_html": "https://zenodo.org/deposit/20078329",
-    "publish": "https://zenodo.org/api/deposit/depositions/20078329/actions/publish",
-    "edit": "https://zenodo.org/api/deposit/depositions/20078329/actions/edit",
-    "discard": "https://zenodo.org/api/deposit/depositions/20078329/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/20078329/actions/newversion"
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20078073",
+    "latest_draft_html": "https://zenodo.org/deposit/20078073",
+    "publish": "https://zenodo.org/api/deposit/depositions/20078073/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20078073/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20078073/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20078073/actions/newversion"
   },
-  "record_id": 20078329,
+  "record_id": 20078073,
   "owner": 615261,
   "files": [
     {
-      "id": "78b38b5d-9c33-4e63-bb02-20e93a14773e",
-      "filename": "scherzer-pmdbs-lr-wgs_README.pdf",
-      "filesize": 7000,
-      "checksum": "4efdf7acb43f67b676bc7a5553202892",
+      "id": "d7705b09-14e7-497b-ae92-0581acc7fe04",
+      "filename": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf",
+      "filesize": 6489,
+      "checksum": "a631eb3240bc313ba5c8131063de61c9",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078329/files/78b38b5d-9c33-4e63-bb02-20e93a14773e",
-        "download": "https://zenodo.org/api/records/20078329/draft/files/scherzer-pmdbs-lr-wgs_README.pdf/content"
+        "self": "https://zenodo.org/api/deposit/depositions/20078073/files/d7705b09-14e7-497b-ae92-0581acc7fe04",
+        "download": "https://zenodo.org/api/records/20078073/draft/files/scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf/content"
       }
     }
   ],
