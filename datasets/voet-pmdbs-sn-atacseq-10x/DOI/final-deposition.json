@@ -1,0 +1,121 @@
+{
+  "created": "2026-05-28T17:44:28.950599+00:00",
+  "modified": "2026-05-28T17:44:29.233308+00:00",
+  "id": 20077637,
+  "conceptrecid": "18988729",
+  "doi": "10.5281/zenodo.20077637",
+  "conceptdoi": "10.5281/zenodo.18988729",
+  "doi_url": "https://doi.org/10.5281/zenodo.20077637",
+  "metadata": {
+    "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x snATAC-seq.",
+    "doi": "10.5281/zenodo.20077637",
+    "publication_date": "2026-05-08",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single nuclei ATAC sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x snATAC-seq.\".</p>\n<p><strong>Description:</strong> This dataset consists of raw sequencing snATAC-seq data (10x Genomics Chromium Next GEM Single Cell ATAC v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found here:  https://www.protocols.io/view/nuclei-isolation-from-brain-tissue-for-single-cell-14egnrb7ql5d/v1. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Pan\u010d\u00edkov\u00e1, Alexandra",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium,& Laboratory of Integrative Cancer Genomics, VIB-KU Leuven Center for Cancer Biology, Leuven, Belgium,& Department of Oncology, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0693-132X"
+      },
+      {
+        "name": "Theunis, Koen",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0699-6676"
+      },
+      {
+        "name": "Hulselmans, Gert",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-2205-1899"
+      },
+      {
+        "name": "Sigalova, Olga",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0001-8598-1079"
+      },
+      {
+        "name": "De Man, Julie",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0009-0003-7208-8961"
+      },
+      {
+        "name": "Voet, Thierry",
+        "affiliation": "Department of Human Genetics, KU Leuven, Leuven, Belgium,& KU Leuven Institute for Single Cell Omics (LISCO), University of Leuven, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-1204-9963"
+      },
+      {
+        "name": "Aerts, Stein",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-8006-0315"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Voet"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000430"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20077637",
+      "recid": 20077637
+    }
+  },
+  "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x snATAC-seq.",
+  "links": {
+    "self": "https://zenodo.org/api/records/20077637",
+    "html": "https://zenodo.org/records/20077637",
+    "doi": "https://doi.org/10.5281/zenodo.20077637",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18988729",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20077637.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18988729.svg",
+    "files": "https://zenodo.org/api/records/20077637/files",
+    "bucket": "https://zenodo.org/api/files/6820bbac-2fec-4702-8e0d-e9fcf3a74051",
+    "thumb250": "https://zenodo.org/record/20077637/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20077637/thumb10",
+      "50": "https://zenodo.org/record/20077637/thumb50",
+      "100": "https://zenodo.org/record/20077637/thumb100",
+      "250": "https://zenodo.org/record/20077637/thumb250",
+      "750": "https://zenodo.org/record/20077637/thumb750",
+      "1200": "https://zenodo.org/record/20077637/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20077637",
+    "latest_draft_html": "https://zenodo.org/deposit/20077637",
+    "publish": "https://zenodo.org/api/deposit/depositions/20077637/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20077637/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20077637/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20077637/actions/newversion",
+    "record": "https://zenodo.org/api/records/20077637",
+    "record_html": "https://zenodo.org/record/20077637",
+    "latest": "https://zenodo.org/api/records/20077637/versions/latest",
+    "latest_html": "https://zenodo.org/records/20077637/latest"
+  },
+  "record_id": 20077637,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "3605f70a-1f93-406b-998a-29afda65c564",
+      "filename": "voet-pmdbs-sn-atacseq-10x_README.pdf",
+      "filesize": 37402,
+      "checksum": "632aa52d996face3a60bfb7f38c59af1",
+      "links": {
+        "self": "https://zenodo.org/api/records/20077637/files/3605f70a-1f93-406b-998a-29afda65c564",
+        "download": "https://zenodo.org/api/records/20077637/draft/files/voet-pmdbs-sn-atacseq-10x_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

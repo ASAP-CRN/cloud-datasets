@@ -1,0 +1,174 @@
+{
+  "created": "2026-05-28T17:44:38.658979+00:00",
+  "modified": "2026-05-28T17:44:38.890290+00:00",
+  "id": 20078073,
+  "conceptrecid": "19124469",
+  "doi": "10.5281/zenodo.20078073",
+  "conceptdoi": "10.5281/zenodo.19124469",
+  "doi_url": "https://doi.org/10.5281/zenodo.20078073",
+  "metadata": {
+    "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+    "doi": "10.5281/zenodo.20078073",
+    "publication_date": "2026-05-08",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D midbrain single-nucleus RNA-seq hybrid selection\".</p>\n<p><strong>Description:</strong> This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Kim, Kwanho",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0002-4448-3193"
+      },
+      {
+        "name": "Lin, Zechuan",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA,& APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+        "orcid": "0000-0003-2270-5194"
+      },
+      {
+        "name": "Simmons, Sean",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0002-1537-4000"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Kearney, Matthew",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA",
+        "orcid": "0009-0005-2106-7401"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Precision Neurology Program of Brigham & Women's Hospital, Harvard Medical School, Boston, MA  02115, USA",
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Haywood, Nathan",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0003-2213-5080"
+      },
+      {
+        "name": "Zhang, Jixiang",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0002-1641-8650"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Precision Neurology Program of Brigham & Women's Hospital, Harvard Medical School, Boston, MA  02115, USA",
+        "orcid": "0000-0001-7437-285X"
+      },
+      {
+        "name": "Sharma, Monika",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA",
+        "orcid": "0000-0002-7258-1399"
+      },
+      {
+        "name": "Serrano, Geidy",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Banner Sun Health Research Institute, Sun City, AZ  85351, USA",
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neuroscience, Yale, New Haven, CT  06510, USA",
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Popic, Victoria",
+        "affiliation": "Broad Clinical Labs, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0003-3181-5432"
+      },
+      {
+        "name": "Scherzer, Clemens",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT  06510, USA; APDA Center for Parkinson Precision Medicine, Yale School of Medicine, New Haven, CT  06510, USA; Department of Neurology, Yale School of Medicine, New Haven, CT  06510, USA; Department of Genetics, Yale, New Haven, CT  06510, USA",
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Levin, Joshua",
+        "affiliation": "Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD  20815, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA  02142, USA",
+        "orcid": "0000-0002-0170-3598"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-000301"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20078073",
+      "recid": 20078073
+    }
+  },
+  "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+  "links": {
+    "self": "https://zenodo.org/api/records/20078073",
+    "html": "https://zenodo.org/records/20078073",
+    "doi": "https://doi.org/10.5281/zenodo.20078073",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19124469",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20078073.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19124469.svg",
+    "files": "https://zenodo.org/api/records/20078073/files",
+    "bucket": "https://zenodo.org/api/files/ea3a9c27-7155-4045-8fd0-4ac62ee36d1c",
+    "thumb250": "https://zenodo.org/record/20078073/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20078073/thumb10",
+      "50": "https://zenodo.org/record/20078073/thumb50",
+      "100": "https://zenodo.org/record/20078073/thumb100",
+      "250": "https://zenodo.org/record/20078073/thumb250",
+      "750": "https://zenodo.org/record/20078073/thumb750",
+      "1200": "https://zenodo.org/record/20078073/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20078073",
+    "latest_draft_html": "https://zenodo.org/deposit/20078073",
+    "publish": "https://zenodo.org/api/deposit/depositions/20078073/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20078073/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20078073/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20078073/actions/newversion",
+    "record": "https://zenodo.org/api/records/20078073",
+    "record_html": "https://zenodo.org/record/20078073",
+    "latest": "https://zenodo.org/api/records/20078073/versions/latest",
+    "latest_html": "https://zenodo.org/records/20078073/latest"
+  },
+  "record_id": 20078073,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "c5346b8b-3da4-432f-a9f0-9904b95f0e3d",
+      "filename": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf",
+      "filesize": 37660,
+      "checksum": "a9c882daaf3df6ded22a01da30a5e377",
+      "links": {
+        "self": "https://zenodo.org/api/records/20078073/files/c5346b8b-3da4-432f-a9f0-9904b95f0e3d",
+        "download": "https://zenodo.org/api/records/20078073/draft/files/scherzer-pmdbs-sn-rnaseq-midbrain-hybsel_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
