@@ -1,10 +1,10 @@
 This Zenodo deposit contains a publicly available description of the Dataset:
 
-# "Single nuclei RNA sequencing (10x) of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients – 10x snRNA-seq.".
+# "Single nuclei RNA sequencing (10x) of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients – 10x snRNA-seq.".
 
 ## Dataset Description:
  
-This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Next GEM Single Cell 3ʹ). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found here:  https://dx.doi.org/10.17504/protocols.io.5qpvo1rddg4o/v1, https://www.10xgenomics.com/support/universal-three-prime-gene-expression/documentation/steps/library-prep/chromium-single-cell-3-reagent-kits-user-guide-v-3-1-chemistry-dual-index. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.
+This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Next GEM Single Cell 3ʹ). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.
 
 
 **Authors:**
@@ -29,9 +29,9 @@ This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Ne
 
 **Publication DOI:** NA
 
-**Grant IDs:** ['ASAP-000430']
+**Grant IDs:** [['ASAP-000430']]
 
-**ASAP Lab:** Aerts Lab
+**ASAP Lab:** 
 
 **ASAP Project:** Understanding inherited and acquired genetic variation in Parkinson's disease through single-cell multi-omics analyses: a unique data resource
 

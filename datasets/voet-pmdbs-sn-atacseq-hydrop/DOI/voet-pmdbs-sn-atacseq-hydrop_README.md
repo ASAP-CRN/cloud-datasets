@@ -1,10 +1,10 @@
 This Zenodo deposit contains a publicly available description of the Dataset:
 
-# "Single nuclei ATAC sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients – HyDrop-ATAC v2.".
+# "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors and Parkinson's disease patients – HyDrop-ATAC v2".
 
 ## Dataset Description:
  
-This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples can be found here:  https://www.protocols.io/view/nuclei-isolation-from-brain-tissue-for-single-cell-14egnrb7ql5d/v1, https://dx.doi.org/10.17504/protocols.io.x54v97mmpg3e/v1. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.
+This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.
 
 
 **Authors:**
@@ -29,9 +29,9 @@ This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is
 
 **Publication DOI:** NA
 
-**Grant IDs:** ['ASAP-000430']
+**Grant IDs:** [['ASAP-000430']]
 
-**ASAP Lab:** Aerts Lab
+**ASAP Lab:** 
 
 **ASAP Project:** Understanding inherited and acquired genetic variation in Parkinson's disease through single-cell multi-omics analyses: a unique data resource
 

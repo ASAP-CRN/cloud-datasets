@@ -1,6 +1,6 @@
 {
   "created": "2026-05-28T17:44:28.950599+00:00",
-  "modified": "2026-05-28T17:44:29.233308+00:00",
+  "modified": "2026-05-29T21:02:55.528973+00:00",
   "id": 20077637,
   "conceptrecid": "18988729",
   "doi": "10.5281/zenodo.20077637",
@@ -106,13 +106,13 @@
   "owner": 615261,
   "files": [
     {
-      "id": "3605f70a-1f93-406b-998a-29afda65c564",
-      "filename": "voet-pmdbs-sn-atacseq-10x_README.pdf",
-      "filesize": 37402,
-      "checksum": "632aa52d996face3a60bfb7f38c59af1",
+      "id": "637b153b-5b32-47b4-98a0-d12a00fbe3f5",
+      "filename": "voet-pmdbs-sn-rnaseq-parsebio_README.pdf",
+      "filesize": 37217,
+      "checksum": "f5671c59e3d30497b5805fa8864c662e",
       "links": {
-        "self": "https://zenodo.org/api/records/20077637/files/3605f70a-1f93-406b-998a-29afda65c564",
-        "download": "https://zenodo.org/api/records/20077637/draft/files/voet-pmdbs-sn-atacseq-10x_README.pdf/content"
+        "self": "https://zenodo.org/api/records/20077637/files/637b153b-5b32-47b4-98a0-d12a00fbe3f5",
+        "download": "https://zenodo.org/api/records/20077637/draft/files/voet-pmdbs-sn-rnaseq-parsebio_README.pdf/content"
       }
     }
   ],
