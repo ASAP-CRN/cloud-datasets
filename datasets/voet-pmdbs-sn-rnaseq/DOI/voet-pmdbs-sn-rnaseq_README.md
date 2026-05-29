@@ -29,7 +29,7 @@ This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Ne
 
 **Publication DOI:** NA
 
-**Grant IDs:** [['ASAP-000430']]
+**Grant IDs:** [[[['ASAP-000430']]]]
 
 **ASAP Lab:** 
 

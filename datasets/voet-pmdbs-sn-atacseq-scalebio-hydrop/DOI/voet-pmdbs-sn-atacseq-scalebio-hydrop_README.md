@@ -29,7 +29,7 @@ This dataset consists of raw sequencing ATAC-seq data (Scale-ATAC + HyDrop v2). 
 
 **Publication DOI:** NA
 
-**Grant IDs:** [[['ASAP-000430']]]
+**Grant IDs:** [[[[['ASAP-000430']]]]]
 
 **ASAP Lab:** 
 

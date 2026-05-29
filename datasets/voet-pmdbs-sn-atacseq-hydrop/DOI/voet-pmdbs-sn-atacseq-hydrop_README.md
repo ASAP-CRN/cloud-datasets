@@ -29,7 +29,7 @@ This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is
 
 **Publication DOI:** NA
 
-**Grant IDs:** [['ASAP-000430']]
+**Grant IDs:** [[[['ASAP-000430']]]]
 
 **ASAP Lab:** 
 

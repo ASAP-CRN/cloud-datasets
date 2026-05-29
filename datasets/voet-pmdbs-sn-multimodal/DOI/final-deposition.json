@@ -1,64 +1,15 @@
 {
-  "created": "2026-05-28T17:44:16.513239+00:00",
-  "modified": "2026-05-29T20:59:01.211423+00:00",
+  "created": "2026-05-08T04:19:41.842450+00:00",
+  "modified": "2026-05-29T23:57:06.293854+00:00",
   "id": 20078306,
   "conceptrecid": "18988753",
   "doi": "10.5281/zenodo.20078306",
   "conceptdoi": "10.5281/zenodo.18988753",
   "doi_url": "https://doi.org/10.5281/zenodo.20078306",
   "metadata": {
-    "title": "Single nuclei RNA sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x multiome (snRNA-seq and snATAC-seq).",
     "doi": "10.5281/zenodo.20078306",
-    "publication_date": "2026-05-08",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single nuclei RNA sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x multiome (snRNA-seq and snATAC-seq).\".</p>\n<p><strong>Description:</strong> This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x Genomics Chromium Next GEM Multiome ATAC/GEX). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found here: https://www.protocols.io/view/nuclei-isolation-and-permeabilisation-of-fresh-fro-n2bvj3yqnlk5/v1, https://cdn.10xgenomics.com/image/upload/v1728078404/support-documents/CG000338_ChromiumNextGEM_Multiome_ATAC_GEX_User_Guide_RevG.pdf.pdf. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "publication_date": "2026-05-30",
     "access_right": "open",
-    "creators": [
-      {
-        "name": "Pan\u010d\u00edkov\u00e1, Alexandra",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium,& Laboratory of Integrative Cancer Genomics, VIB-KU Leuven Center for Cancer Biology, Leuven, Belgium,& Department of Oncology, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0002-0693-132X"
-      },
-      {
-        "name": "Theunis, Koen",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0002-0699-6676"
-      },
-      {
-        "name": "Hulselmans, Gert",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0003-2205-1899"
-      },
-      {
-        "name": "Sigalova, Olga",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0001-8598-1079"
-      },
-      {
-        "name": "De Man, Julie",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
-        "orcid": "0009-0003-7208-8961"
-      },
-      {
-        "name": "Voet, Thierry",
-        "affiliation": "Department of Human Genetics, KU Leuven, Leuven, Belgium,& KU Leuven Institute for Single Cell Omics (LISCO), University of Leuven, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0003-1204-9963"
-      },
-      {
-        "name": "Aerts, Stein",
-        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
-        "orcid": "0000-0002-8006-0315"
-      }
-    ],
-    "version": "1.0",
-    "references": [
-      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
-      "Team Voet"
-    ],
-    "grants": [
-      {
-        "id": "10.13039/100018231::ASAP-000430"
-      }
-    ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
     "communities": [
@@ -66,22 +17,19 @@
         "identifier": "asaphub"
       }
     ],
-    "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.20078306",
       "recid": 20078306
     }
   },
-  "title": "Single nuclei RNA sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x multiome (snRNA-seq and snATAC-seq).",
+  "title": "",
   "links": {
-    "self": "https://zenodo.org/api/records/20078306",
-    "html": "https://zenodo.org/records/20078306",
+    "self": "https://zenodo.org/api/deposit/depositions/20078306",
+    "html": "https://zenodo.org/deposit/20078306",
     "doi": "https://doi.org/10.5281/zenodo.20078306",
-    "parent_doi": "https://doi.org/10.5281/zenodo.18988753",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20078306.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18988753.svg",
-    "files": "https://zenodo.org/api/records/20078306/files",
-    "bucket": "https://zenodo.org/api/files/119e0beb-0759-489d-a476-d24be7e58343",
+    "files": "https://zenodo.org/api/deposit/depositions/20078306/files",
+    "bucket": "https://zenodo.org/api/files/c2d5166f-7742-47ab-90f5-6144931cb3f9",
     "thumb250": "https://zenodo.org/record/20078306/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/20078306/thumb10",
@@ -111,11 +59,11 @@
       "filesize": 37385,
       "checksum": "bcefe6f294e095cbaf9fd9569b05ff6f",
       "links": {
-        "self": "https://zenodo.org/api/records/20078306/files/0df4cfe7-14cc-4e12-8191-77982e7503f7",
+        "self": "https://zenodo.org/api/deposit/depositions/20078306/files/0df4cfe7-14cc-4e12-8191-77982e7503f7",
         "download": "https://zenodo.org/api/records/20078306/draft/files/voet-pmdbs-sn-multimodal_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }
