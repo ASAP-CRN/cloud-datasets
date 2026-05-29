@@ -48,7 +48,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg",
@@ -83,5 +82,40 @@
             "dataset_version": "v1.2"
         }
     },
-    "dataset_title": "PD5D_MTG_snRNAseq"
+    "dataset_title": "PD5D_MTG_snRNAseq",
+    "curation": {
+        "name": "pmdbs-sc-rnaseq",
+        "version": "v3.1.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-sc-rnaseq",
+            "version": "v3.1.0",
+            "collection_doi": "10.5281/zenodo.14373047"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v1.0.0",
+                "collection_version_doi": null
+            },
+            "v3.1.0": {
+                "collection_version": "v3.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860778"
+            }
+        }
+    },
+    "all_releases": [
+        "v1.0.0",
+        "v2.0.0",
+        "v3.0.0",
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0",
+        "v1.2"
+    ]
 }

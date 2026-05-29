@@ -27,7 +27,6 @@
         "alessi"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
@@ -46,5 +45,13 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice"
+    "dataset_title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+    "curation": {},
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

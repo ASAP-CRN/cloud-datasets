@@ -72,7 +72,6 @@
         "cragg"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "mouse-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-cragg-mouse-sn-rnaseq-striatum",
@@ -95,5 +94,30 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models."
+    "dataset_title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
+    "curation": {
+        "name": "mouse-sc-rnaseq",
+        "version": "v1.0.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "mouse-sc-rnaseq",
+            "version": "v1.0.0",
+            "collection_doi": "10.5281/zenodo.17860974"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860975"
+            }
+        }
+    },
+    "all_releases": [
+        "v2.0.2",
+        "v3.0.0",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

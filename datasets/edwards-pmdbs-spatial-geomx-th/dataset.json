@@ -40,7 +40,6 @@
         "edwards"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-edwards-pmdbs-spatial-geomx-th",
@@ -63,5 +62,30 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Spatial Transcriptomics data (GeoMx) of midbrain dopamine cells in control and PD subjects"
+    "dataset_title": "Spatial Transcriptomics data (GeoMx) of midbrain dopamine cells in control and PD subjects",
+    "curation": {
+        "name": "pmdbs-spatial-rnaseq",
+        "version": "v1.1.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-spatial-rnaseq",
+            "version": "v1.1.0",
+            "collection_doi": "10.5281/zenodo.16979474"
+        },
+        "releases": {
+            "v1.1.0": {
+                "collection_version": "v1.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860901"
+            }
+        }
+    },
+    "all_releases": [
+        "v2.0.2",
+        "v3.0.0",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

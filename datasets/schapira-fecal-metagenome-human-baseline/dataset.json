@@ -160,7 +160,6 @@
         "schapira"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-schapira-fecal-metagenome-human-baseline",
@@ -175,5 +174,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls"
+    "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
+    "curation": {},
+    "all_releases": [
+        "v4.0.1"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

@@ -22,7 +22,6 @@
         "alessi"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
@@ -37,5 +36,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition."
+    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
+    "curation": {},
+    "all_releases": [
+        "v4.0.2"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

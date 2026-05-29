@@ -64,7 +64,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
@@ -87,5 +86,31 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "PD5D_MTG_Visium10x_ST"
+    "dataset_title": "PD5D_MTG_Visium10x_ST",
+    "curation": {
+        "name": "pmdbs-spatial-rnaseq",
+        "version": "v1.1.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-spatial-rnaseq",
+            "version": "v1.1.0",
+            "collection_doi": "10.5281/zenodo.16979474"
+        },
+        "releases": {
+            "v1.1.0": {
+                "collection_version": "v1.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860901"
+            }
+        }
+    },
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ]
 }

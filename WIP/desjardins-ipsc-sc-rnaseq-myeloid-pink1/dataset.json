@@ -1,30 +1,33 @@
 {
-  "name": "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
-  "title": "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
-  "description": "Dataset from team-desjardins",
-  "version": "v0.1",
-  "dataset_title": "",
-  "doi": "10.5281/zenodo.20276412",
-  "creators": [
-    {
-      "name": "team-desjardins",
-      "affiliation": "ASAP CRN",
-      "orcid": null
-    }
-  ],
-  "keywords": [
-    "desjardins"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
-    "dev": "gs://asap-dev-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
-    "uat": "gs://asap-uat-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
-    "prod": "gs://asap-curated-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1"
-  },
-  "cde_version": "v4.3",
-  "releases": {},
-  "all_releases": []
+    "name": "desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+    "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocytes and macrophages in vitro. Cells were treated with 500 ng/mL lipopolysaccharide (LPS) and 50 ng/mL interleukin-1 beta (IL1b) for 24 hours. This dataset contains raw FASTQ files from myeloid cells, sorted into 4 groups namely monocytes (Mono) and Macrophages (Mac) non-stimulated (NS) and LPS+IL1b-stimulated cells. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "version": "v1.0",
+    "dataset_title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
+    "doi": "10.5281/zenodo.20276412",
+    "creators": [
+        {
+            "name": "Recinto, Sherilyn",
+            "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+            "orcid": "0000-0001-9632-1201"
+        },
+        {
+            "name": "Stratton, Jo Anne",
+            "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+            "orcid": "0000-0002-1205-1353"
+        }
+    ],
+    "keywords": null,
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+        "dev": "gs://asap-dev-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+        "uat": "gs://asap-uat-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1",
+        "prod": "gs://asap-curated-team-desjardins-ipsc-sc-rnaseq-myeloid-pink1"
+    },
+    "cde_version": null,
+    "releases": {},
+    "all_releases": []
 }

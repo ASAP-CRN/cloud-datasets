@@ -42,7 +42,6 @@
         "liddle"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-liddle-human-colon-spatial-cosmx-protein-64p",
@@ -57,5 +56,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset"
+    "dataset_title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
+    "curation": {},
+    "all_releases": [
+        "v4.0.1"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

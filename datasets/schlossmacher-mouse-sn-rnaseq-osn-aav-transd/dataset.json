@@ -67,7 +67,6 @@
         "schlossmacher"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
@@ -86,5 +85,13 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus"
+    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
+    "curation": {},
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

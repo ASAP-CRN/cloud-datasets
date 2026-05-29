@@ -22,7 +22,6 @@
         "alessi"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-alessi-mouse-ms-p-lung-vps35-d620n-wt",
@@ -37,5 +36,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung"
+    "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung",
+    "curation": {},
+    "all_releases": [
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

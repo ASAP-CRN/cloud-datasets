@@ -51,7 +51,6 @@
         "sulzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-sulzer-pmdbs-sn-rnaseq",
@@ -70,5 +69,30 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains"
+    "dataset_title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
+    "curation": {
+        "name": "pmdbs-sc-rnaseq",
+        "version": "v3.1.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-sc-rnaseq",
+            "version": "v3.1.0",
+            "collection_doi": "10.5281/zenodo.14373047"
+        },
+        "releases": {
+            "v3.1.0": {
+                "collection_version": "v3.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860778"
+            }
+        }
+    },
+    "all_releases": [
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ]
 }

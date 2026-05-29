@@ -21,7 +21,6 @@
         "sulzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-sulzer-fecal-metagenome-fp-spf",
@@ -36,5 +35,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii"
+    "dataset_title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+    "curation": {},
+    "all_releases": [
+        "v4.0.2"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

@@ -72,7 +72,6 @@
         "cragg"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "mouse-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-cragg-mouse-spatial-visium-striatum",
@@ -95,5 +94,30 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models."
+    "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
+    "curation": {
+        "name": "mouse-spatial-rnaseq",
+        "version": "v1.0.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "mouse-spatial-rnaseq",
+            "version": "v1.0.0",
+            "collection_doi": "10.5281/zenodo.16979296"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.16979297"
+            }
+        }
+    },
+    "all_releases": [
+        "v2.0.3",
+        "v3.0.0",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

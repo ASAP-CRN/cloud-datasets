@@ -1,30 +1,38 @@
 {
-  "name": "desjardins-mouse-bulk-rnaseq-nigra-pink1",
-  "title": "desjardins-mouse-bulk-rnaseq-nigra-pink1",
-  "description": "Dataset from team-desjardins",
-  "version": "v0.1",
-  "dataset_title": "",
-  "doi": "10.5281/zenodo.20276416",
-  "creators": [
-    {
-      "name": "team-desjardins",
-      "affiliation": "ASAP CRN",
-      "orcid": null
-    }
-  ],
-  "keywords": [
-    "desjardins"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": null,
-  "buckets": {
-    "raw": "gs://asap-raw-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
-    "dev": "gs://asap-dev-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
-    "uat": "gs://asap-uat-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
-    "prod": "gs://asap-curated-team-desjardins-mouse-bulk-rnaseq-nigra-pink1"
-  },
-  "cde_version": "v4.3",
-  "releases": {},
-  "all_releases": []
+    "name": "desjardins-mouse-bulk-rnaseq-nigra-pink1",
+    "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+    "description": "We performed bulk RNAsequencing of substantia nigra from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+    "version": "v1.0",
+    "dataset_title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+    "doi": "10.5281/zenodo.20276416",
+    "creators": [
+        {
+            "name": "Stratton, Jo Anne",
+            "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+            "orcid": "0000-0002-1205-1353"
+        },
+        {
+            "name": "Mukherjee, Sriparna",
+            "affiliation": "University of Montreal",
+            "orcid": "0000-0002-1299-4343"
+        },
+        {
+            "name": "Trudeau, Louis-Eric",
+            "affiliation": "University of Montreal",
+            "orcid": "0000-0003-4684-1377"
+        }
+    ],
+    "keywords": null,
+    "license": "CC-BY-4.0",
+    "references": [],
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
+        "dev": "gs://asap-dev-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
+        "uat": "gs://asap-uat-team-desjardins-mouse-bulk-rnaseq-nigra-pink1",
+        "prod": "gs://asap-curated-team-desjardins-mouse-bulk-rnaseq-nigra-pink1"
+    },
+    "cde_version": null,
+    "releases": {},
+    "all_releases": []
 }

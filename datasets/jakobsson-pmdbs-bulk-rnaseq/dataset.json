@@ -97,7 +97,6 @@
         "jakobsson"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-bulk-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-pmdbs-bulk-rnaseq",
@@ -116,5 +115,29 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Deep bulk RNAseq of neurological controls and PD brains"
+    "dataset_title": "Deep bulk RNAseq of neurological controls and PD brains",
+    "curation": {
+        "name": "pmdbs-bulk-rnaseq",
+        "version": "v1.2.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-bulk-rnaseq",
+            "version": "v1.2.0",
+            "collection_doi": "10.5281/zenodo.14373343"
+        },
+        "releases": {
+            "v1.2.0": {
+                "collection_version": "v1.2.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860841"
+            }
+        }
+    },
+    "all_releases": [
+        "v3.0.0",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

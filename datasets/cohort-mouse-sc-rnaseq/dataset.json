@@ -16,7 +16,6 @@
         "cohort"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "mouse-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-cohort-mouse-sc-rnaseq",
@@ -31,5 +30,28 @@
             "dataset_version": "v1.0.0"
         }
     },
-    "dataset_title": "asap-cohort-mouse-sc-rnaseq"
+    "dataset_title": "asap-cohort-mouse-sc-rnaseq",
+    "curation": {
+        "name": "mouse-sc-rnaseq",
+        "version": "v1.0.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "mouse-sc-rnaseq",
+            "version": "v1.0.0",
+            "collection_doi": "10.5281/zenodo.17860974"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860975"
+            }
+        }
+    },
+    "all_releases": [
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0.0"
+    ]
 }

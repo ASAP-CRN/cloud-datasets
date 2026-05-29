@@ -22,7 +22,6 @@
         "alessi"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-alessi-invitro-ms-p-hek293-gtip",
@@ -45,5 +44,15 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content"
+    "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "curation": {},
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0",
+        "v4.0.2"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ]
 }

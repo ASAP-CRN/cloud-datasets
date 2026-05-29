@@ -1,11 +1,12 @@
 {
   "created": "2026-05-21T22:58:23.938489+00:00",
-  "modified": "2026-05-21T22:58:33.032706+00:00",
+  "modified": "2026-05-22T04:08:57.171214+00:00",
   "id": 20334812,
   "conceptrecid": "20276418",
   "conceptdoi": "10.5281/zenodo.20276418",
   "metadata": {
     "title": "Single-cell RNAseq of human PBMCs from healthy control, RBD, and PD.",
+    "publication_date": "2026-05-22",
     "description": "We performed 10X Genomics single-cell RNAsequencing of human prepheral blood mononuclear cells from healthy control, PD and RBD patients. This dataset contains raw FASTQ files. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
     "access_right": "open",
     "creators": [
@@ -20,6 +21,7 @@
         "orcid": "0000-0002-1205-1353"
       }
     ],
+    "version": "1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Desjardins"

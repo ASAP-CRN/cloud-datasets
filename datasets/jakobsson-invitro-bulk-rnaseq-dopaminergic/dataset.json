@@ -97,7 +97,6 @@
         "jakobsson"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
@@ -116,5 +115,13 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Bulk RNAseq of dopaminergic neurons in vitro cultures"
+    "dataset_title": "Bulk RNAseq of dopaminergic neurons in vitro cultures",
+    "curation": {},
+    "all_releases": [
+        "v3.0.2",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

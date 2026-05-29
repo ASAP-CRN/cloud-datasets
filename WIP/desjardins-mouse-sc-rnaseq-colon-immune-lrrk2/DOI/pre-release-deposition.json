@@ -1,11 +1,12 @@
 {
   "created": "2026-05-21T22:49:58.484019+00:00",
-  "modified": "2026-05-21T22:55:28.046748+00:00",
+  "modified": "2026-05-22T04:08:46.489174+00:00",
   "id": 20334742,
   "conceptrecid": "20276410",
   "conceptdoi": "10.5281/zenodo.20276410",
   "metadata": {
     "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "publication_date": "2026-05-22",
     "description": "We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria cells from wild type and LRRK2 G2019S mice following 1-week post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 4 groups namely wild type and LRRK2 G2019S uninfected and infected mice. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
     "access_right": "open",
     "creators": [
@@ -30,6 +31,7 @@
         "orcid": "0000-0002-0908-6715"
       }
     ],
+    "version": "1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Desjardins"

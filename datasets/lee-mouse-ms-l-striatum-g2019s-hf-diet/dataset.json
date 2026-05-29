@@ -22,7 +22,6 @@
         "lee"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-lee-mouse-ms-l-striatum-g2019s-hf-diet",
@@ -37,5 +36,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Untargeted lipidomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet"
+    "dataset_title": "Untargeted lipidomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
+    "curation": {},
+    "all_releases": [
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

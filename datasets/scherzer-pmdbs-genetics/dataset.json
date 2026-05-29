@@ -32,7 +32,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-genetics",
@@ -55,5 +54,15 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype"
+    "dataset_title": "PD5D_MTG_MEGA_Chip_Genotype",
+    "curation": {},
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ]
 }

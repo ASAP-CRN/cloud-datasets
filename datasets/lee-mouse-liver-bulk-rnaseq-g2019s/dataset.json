@@ -23,7 +23,6 @@
         "lee"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-lee-mouse-liver-bulk-rnaseq-g2019s",
@@ -38,5 +37,12 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice"
+    "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
+    "curation": {},
+    "all_releases": [
+        "v4.0.1"
+    ],
+    "all_versions": [
+        "v1.0"
+    ]
 }

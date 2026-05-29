@@ -46,7 +46,6 @@
         "lee"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-bulk-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-lee-pmdbs-bulk-rnaseq-mfg",
@@ -73,5 +72,32 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "Bulk RNA-sequencing of human middle frontal gyrus"
+    "dataset_title": "Bulk RNA-sequencing of human middle frontal gyrus",
+    "curation": {
+        "name": "pmdbs-bulk-rnaseq",
+        "version": "v1.2.0",
+        "release": "v4.0.0",
+        "collection": {
+            "name": "pmdbs-bulk-rnaseq",
+            "version": "v1.2.0",
+            "collection_doi": "10.5281/zenodo.14373343"
+        },
+        "releases": {
+            "v1.2.0": {
+                "collection_version": "v1.2.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860841"
+            }
+        }
+    },
+    "all_releases": [
+        "v2.0.0",
+        "v3.0.0",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ]
 }

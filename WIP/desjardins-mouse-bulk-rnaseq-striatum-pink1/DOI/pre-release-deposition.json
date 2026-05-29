@@ -1,11 +1,12 @@
 {
   "created": "2026-05-21T22:57:52.900751+00:00",
-  "modified": "2026-05-21T22:58:04.754470+00:00",
+  "modified": "2026-05-22T04:08:51.855102+00:00",
   "id": 20334808,
   "conceptrecid": "20276414",
   "conceptdoi": "10.5281/zenodo.20276414",
   "metadata": {
     "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
+    "publication_date": "2026-05-22",
     "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
     "access_right": "open",
     "creators": [
@@ -25,6 +26,7 @@
         "orcid": "0000-0003-4684-1377"
       }
     ],
+    "version": "1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Desjardins"

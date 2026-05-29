@@ -84,7 +84,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
@@ -115,5 +114,18 @@
             "dataset_version": "v1.2"
         }
     },
-    "dataset_title": "PD5D_MTG_snRNAseq_hybsel"
+    "dataset_title": "PD5D_MTG_snRNAseq_hybsel",
+    "curation": {},
+    "all_releases": [
+        "v2.0.0",
+        "v3.0.0",
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0",
+        "v1.2"
+    ]
 }
