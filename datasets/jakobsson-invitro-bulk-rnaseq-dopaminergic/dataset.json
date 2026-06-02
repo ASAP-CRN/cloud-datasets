@@ -1,7 +1,7 @@
 {
     "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
-    "title": "team-jakobsson-invitro-bulk-rnaseq-dopaminergic",
-    "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
+    "title": "Bulk RNAseq of dopaminergic neurons in vitro cultures",
+    "description": "This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human embryonic stem cells into dopaminergic neurons. Briefly, hES (RC17) and hiPSCs (KOLF2.1) were differentiated towards ventral midbrain (vMB) fate based on a previously published protocol (Nolbrant et al, 2017). Detailed protocols for generation of human ventral midbrain dopaminergic progenitors and dopaminergic neurons can be found at dx.doi.org/10.17504/protocols.io.kxygx4eqol8j/v1 and dx.doi.org/10.17504/protocols.io.q26g7nbd1lwz/v1, respectively.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.17149266",
     "creators": [
@@ -123,5 +123,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "invitro-bulk-rnaseq dataset from team-jakobsson"
 }

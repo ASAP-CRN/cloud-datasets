@@ -1,7 +1,7 @@
 {
     "name": "biederer-mouse-sc-rnaseq",
-    "title": "team-biederer-mouse-sc-rnaseq",
-    "description": "mouse-sc-rnaseq dataset from team-biederer",
+    "title": "Singel Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology",
+    "description": "This dataset was created with the goal of identifying transcriptomic changes associated with alpha-synuclein pathology in the alpha-synuclein fibril seeding mouse model. The dataset includes single cell RNA Sequencing data from motor cortex of mice injected with alpha-synuclein pre-formed fibrils (\u201cPFF\u201d group) or alpha-synuclein monomer as controls (\u201cControl\u201d group). The dataset includes subject cohorts with different levels of the following additional experimental factors: sex (male or female); brain hemisphere relative to the PFF injection site (ipsilateral or contralateral); time post-injection (1, 3, 6, or 9 months post-injection).",
     "version": "v1.0",
     "doi": "10.5281/zenodo.15485103",
     "creators": [
@@ -77,8 +77,9 @@
     "dataset_title": "Single Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology",
     "curation": {
         "name": "mouse-sc-rnaseq",
-        "version": "v1.0.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.0.0",
         "collection": {
             "name": "mouse-sc-rnaseq",
             "version": "v1.0.0",
@@ -99,5 +100,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "mouse-sc-rnaseq dataset from team-biederer"
 }

@@ -1,7 +1,7 @@
 {
     "name": "sulzer-fecal-metagenome-fp-spf",
-    "title": "team-sulzer-fecal-metagenome-fp-spf",
-    "description": "Dataset from team-sulzer",
+    "title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
+    "description": "A number of microbial taxa have been found to be reduced in Parkinson's disease (PD). Treatment of \u03b1-synuclein overxpressing (Thy1-ASO) mice, an animal model of PD, with these taxa has also been shown to improve motor and GI deficits. This dataset focuses on one of the reduced taxa, Faecalibacterium prausnitzii, and the effect of providing it as an oral treatment to both Thy1-ASO mice and wild-type controls.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18989559",
     "creators": [
@@ -42,5 +42,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-sulzer"
 }

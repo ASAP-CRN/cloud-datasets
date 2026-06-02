@@ -49,8 +49,9 @@
     "dataset_title": "asap-cohort-pmdbs-sc-rnaseq",
     "curation": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
-        "release": "v4.0.0",
+        "dataset_version": "v3.1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v3.1.0",
         "collection": {
             "name": "pmdbs-sc-rnaseq",
             "version": "v3.1.0",

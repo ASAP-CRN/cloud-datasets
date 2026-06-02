@@ -1,7 +1,7 @@
 {
     "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
-    "title": "team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
-    "description": "mouse-sc-rnaseq dataset from team-alessi",
+    "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
+    "description": "We performed single-nucleus transcriptomic analysis of the dorsal striatum from 5 wild-type and 5 G2019S LRRK2 mutant mice. This dataset contains the raw fastqs files (grouped together by indexes) from mouse dorsal striatum, sorted by 10 samples (S1 to S10), with files separated by read 1 (R1), read 2 (R2), index reads (I1 and I2), and which lane they were in on the S4 flow cell (L1 to L4). These files are created by bcl2fastq of Cell Ranger; the sequences in those files were used for the alignments.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.17212215",
     "creators": [
@@ -53,5 +53,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "mouse-sc-rnaseq dataset from team-alessi"
 }

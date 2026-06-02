@@ -1,6 +1,6 @@
 {
   "created": "2026-05-28T17:44:38.658979+00:00",
-  "modified": "2026-05-28T17:44:38.890290+00:00",
+  "modified": "2026-06-02T02:15:17.260326+00:00",
   "id": 20078073,
   "conceptrecid": "19124469",
   "doi": "10.5281/zenodo.20078073",
@@ -9,8 +9,8 @@
   "metadata": {
     "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
     "doi": "10.5281/zenodo.20078073",
-    "publication_date": "2026-05-08",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D midbrain single-nucleus RNA-seq hybrid selection\".</p>\n<p><strong>Description:</strong> This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "publication_date": "2026-05-31",
+    "description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.",
     "access_right": "open",
     "creators": [
       {
@@ -99,15 +99,10 @@
         "orcid": "0000-0002-0170-3598"
       }
     ],
-    "version": "1.0",
+    "version": "v1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Scherzer"
-    ],
-    "grants": [
-      {
-        "id": "10.13039/100018231::ASAP-000301"
-      }
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",

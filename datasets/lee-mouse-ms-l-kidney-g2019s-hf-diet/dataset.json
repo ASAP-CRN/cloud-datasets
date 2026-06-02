@@ -1,7 +1,7 @@
 {
     "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
-    "title": "team-lee-mouse-ms-l-kidney-g2019s-hf-diet",
-    "description": "Dataset from team-lee",
+    "title": "Untargeted lipidomic profiling of the kidney in G2019S LRRK2 knockin mice under a specialized diet",
+    "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 5-6 per group).",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18273858",
     "creators": [
@@ -43,5 +43,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-lee"
 }

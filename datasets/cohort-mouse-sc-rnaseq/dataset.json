@@ -33,8 +33,9 @@
     "dataset_title": "asap-cohort-mouse-sc-rnaseq",
     "curation": {
         "name": "mouse-sc-rnaseq",
-        "version": "v1.0.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.0.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.0.0",
         "collection": {
             "name": "mouse-sc-rnaseq",
             "version": "v1.0.0",

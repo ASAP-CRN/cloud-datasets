@@ -1,7 +1,7 @@
 {
     "name": "scherzer-pmdbs-genetics",
-    "title": "team-scherzer-pmdbs-genetics",
-    "description": "pmdbs-genetics dataset from team-scherzer",
+    "title": "PD5D_MTG_MEGA_Chip_Genotype",
+    "description": "This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD5D_MTG_snRNAseq). All subjects were genotyped on the  Infinium Multi-Ethnic Global-8 v1 chip. Raw genotypes were processed  with PLINK (v1.90) and basic quality control, including removal of low quality genotypes and low-quality variants, was performed. Please note  that the position information in the file was based on human GRC37/hg19  reference genome.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.17242295",
     "creators": [
@@ -64,5 +64,6 @@
     "all_versions": [
         "v1.1",
         "v1.0"
-    ]
+    ],
+    "short_description": "pmdbs-genetics dataset from team-scherzer"
 }

@@ -46,8 +46,9 @@
     "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq",
     "curation": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.2.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.2.0",
         "collection": {
             "name": "pmdbs-bulk-rnaseq",
             "version": "v1.2.0",

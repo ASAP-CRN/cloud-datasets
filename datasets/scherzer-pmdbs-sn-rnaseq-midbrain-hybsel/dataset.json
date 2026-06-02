@@ -1,26 +1,36 @@
 {
-    "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
-    "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
-    "description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.",
-    "version": "v1.0",
-    "doi": "10.5281/zenodo.19124469",
-    "keywords": [
-        "pmdbs",
-        "sn-rnaseq",
-        "scherzer"
-    ],
-    "license": "CC-BY-4.0",
-    "collection": null,
-    "buckets": {
-        "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
-        "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
-        "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
-        "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel"
-    },
-    "cde_version": "v4.4",
-    "releases": {},
-    "dataset_title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
-    "curation": {},
-    "all_releases": [],
-    "all_versions": []
+  "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+  "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+  "description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.19124469",
+  "keywords": [
+    "pmdbs",
+    "sn-rnaseq",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-midbrain-hybsel"
+  },
+  "cde_version": "v4.4",
+  "releases": {
+    "v4.1.1": {
+      "cde_version": "v4.4",
+      "dataset_version": "v1.0"
+    }
+  },
+  "dataset_title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
+  "curation": {},
+  "all_releases": [
+    "v4.1.1"
+  ],
+  "all_versions": [
+    "v1.0"
+  ],
+  "short_description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics."
 }

@@ -1,7 +1,7 @@
 {
     "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
-    "title": "team-lee-mouse-ms-p-lung-g2019s-hf-diet",
-    "description": "Dataset from team-lee",
+    "title": "Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet",
+    "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized and homogenized. Protein were digested and dried down before resuspension for LC-MS/MS analysis. DIA data was processed in Spectronaut (version 18, Biognosys, Switzerland) using direct DIA. Data was searched against the Mus musculus proteome, including expected mutations. The manufacturer's default parameters were used. Each experimental group contained biological replicates (n = 4 per group).",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18273812",
     "creators": [
@@ -43,5 +43,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-lee"
 }

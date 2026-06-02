@@ -1,7 +1,7 @@
 {
     "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
-    "title": "team-lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
-    "description": "Dataset from team-lee",
+    "title": "Nucleoside quantification in the plasma of G2019S LRRK2 knockin mice",
+    "description": "G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, and whole blood was collected from cardiac puncture. 50 \u03bcL plasma from each mouse was split and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n =8-9 per group).",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18273863",
     "creators": [
@@ -43,5 +43,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-lee"
 }

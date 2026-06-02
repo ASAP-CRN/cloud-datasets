@@ -1,7 +1,7 @@
 {
     "name": "alessi-mefs-ms-p-vps35-d620n-wt",
-    "title": "team-alessi-mefs-ms-p-vps35-d620n-wt",
-    "description": "Dataset from team-alessi",
+    "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
+    "description": "Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and whole-cell extracts (WCL) from VPS35[D620N] knock-in MEFs. The dataset includes six biological replicates comparing cells treated with the LRRK2 inhibitor MLi-2 (100 nM, 2 h) against DMSO vehicle controls. Expression of the 3XHA-TMEM192 lysosomal tag was determined by genotyping PCR and verified via anti-HA immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18476408",
     "creators": [
@@ -43,5 +43,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-alessi"
 }

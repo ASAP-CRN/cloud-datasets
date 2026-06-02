@@ -1,7 +1,7 @@
 {
     "name": "lee-pmdbs-sn-rnaseq",
-    "title": "team-lee-pmdbs-sn-rnaseq",
-    "description": "pmdbs-sc-rnaseq dataset from team-lee",
+    "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "description": "Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substantia nigra samples of human PD and control postmortem brains. All three brain regions were co-sampled from each donor to enable direct comparison of transcriptomic signatures across anatomically and functionally distinct regions within the same brain.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.16744323",
     "creators": [
@@ -84,8 +84,9 @@
     "dataset_title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
     "curation": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v3.1.0",
         "collection": {
             "name": "pmdbs-sc-rnaseq",
             "version": "v3.1.0",
@@ -114,5 +115,6 @@
     "all_versions": [
         "v1.1",
         "v1.0"
-    ]
+    ],
+    "short_description": "pmdbs-sc-rnaseq dataset from team-lee"
 }

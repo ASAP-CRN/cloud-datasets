@@ -1,7 +1,7 @@
 {
     "name": "hardy-pmdbs-bulk-rnaseq",
-    "title": "team-hardy-pmdbs-bulk-rnaseq",
-    "description": "pmdbs-bulk-rnaseq dataset from team-hardy",
+    "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "description": "Bulk RNA-seq data from 288 samples derived from PMDBS samples across Anterior Cingulate Cortex (ACG), Inferior Parietal Lobule (IPL), Middle Frontal Gyrus (MFG), and Middle Temporal Gyrus (MTG) Types of Samples: Late stage (Braak 6) PD and control post-mortem brains.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.16749098",
     "creators": [
@@ -71,8 +71,9 @@
     "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "curation": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.2.0",
         "collection": {
             "name": "pmdbs-bulk-rnaseq",
             "version": "v1.2.0",
@@ -95,5 +96,6 @@
     "all_versions": [
         "v1.1",
         "v1.0"
-    ]
+    ],
+    "short_description": "pmdbs-bulk-rnaseq dataset from team-hardy"
 }

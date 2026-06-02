@@ -1,7 +1,7 @@
 {
     "name": "lee-pmdbs-bulk-rnaseq-mfg",
-    "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
-    "description": "pmdbs-bulk-rnaseq dataset from team-lee",
+    "title": "Bulk RNA-sequencing of human middle frontal gyrus",
+    "description": "Bulk RNA-seq data from middle frontal gyrus samples of human PD and control postmortem brains.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.16748937",
     "creators": [
@@ -75,8 +75,9 @@
     "dataset_title": "Bulk RNA-sequencing of human middle frontal gyrus",
     "curation": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
-        "release": "v4.0.0",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.2.0",
         "collection": {
             "name": "pmdbs-bulk-rnaseq",
             "version": "v1.2.0",
@@ -99,5 +100,6 @@
     "all_versions": [
         "v1.1",
         "v1.0"
-    ]
+    ],
+    "short_description": "pmdbs-bulk-rnaseq dataset from team-lee"
 }

@@ -1,7 +1,7 @@
 {
     "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
-    "title": "team-liddle-human-colon-spatial-cosmx-rna-1000p",
-    "description": "Dataset from team-liddle",
+    "title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
+    "description": "NanoString CosMxTM human sigmoid colon RNA 1000-plex dataset exported from Atomx for downstream analysis spatially resolves up to 1000 transcripts (CMx Hs Univ Cell Panel RNA Kit EA: CAT# 121500002). A custom spike in for the following 12 genes labeled following the HUGO gene nomenclature were included in the RNA assay: SLC6A4 (solute carrier family 6 member 4), CHGA (chromogranin A), SLC11A2 (solute carrier family 11 member 2), FTH1(ferritin heavy chain 1), HAMP (hepcidin antimicrobial peptide), IREB2 (iron responsive element binding protein 2), ITPKB (Inositol-Trisphosphate 3-Kinase B), NDUFB1 (NADH: Ubiquinone Oxidoreductase Subunit B1), PINK1 (PTEN-induced kinase 1), PYY (peptide YY), RAB8A (RAB8A, member RAS oncogene family), TF (transferrin). We used morphology markers CD45, PanCK, CD3 to visualize the tissue and picked two 0.5mm fields of view (FOV) per sample.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.17917788",
     "creators": [
@@ -63,5 +63,6 @@
     ],
     "all_versions": [
         "v1.0"
-    ]
+    ],
+    "short_description": "Dataset from team-liddle"
 }

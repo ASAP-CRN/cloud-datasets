@@ -1,15 +1,59 @@
 {
-  "created": "2026-05-08T03:43:20.338386+00:00",
-  "modified": "2026-05-29T23:57:10.569727+00:00",
+  "created": "2026-05-28T17:44:35.613095+00:00",
+  "modified": "2026-06-02T02:15:09.729974+00:00",
   "id": 20078069,
   "conceptrecid": "18988768",
   "doi": "10.5281/zenodo.20078069",
   "conceptdoi": "10.5281/zenodo.18988768",
   "doi_url": "https://doi.org/10.5281/zenodo.20078069",
   "metadata": {
+    "title": "Single nuclei RNA sequencing (10x) of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients \u2013 10x snRNA-seq.",
     "doi": "10.5281/zenodo.20078069",
-    "publication_date": "2026-05-30",
+    "publication_date": "2026-05-31",
+    "description": "This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Next GEM Single Cell 3\u02b9). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
     "access_right": "open",
+    "creators": [
+      {
+        "name": "Pan\u010d\u00edkov\u00e1, Alexandra",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium,& Laboratory of Integrative Cancer Genomics, VIB-KU Leuven Center for Cancer Biology, Leuven, Belgium,& Department of Oncology, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0693-132X"
+      },
+      {
+        "name": "Theunis, Koen",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0699-6676"
+      },
+      {
+        "name": "Hulselmans, Gert",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-2205-1899"
+      },
+      {
+        "name": "Sigalova, Olga",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0001-8598-1079"
+      },
+      {
+        "name": "De Man, Julie",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0009-0003-7208-8961"
+      },
+      {
+        "name": "Voet, Thierry",
+        "affiliation": "Department of Human Genetics, KU Leuven, Leuven, Belgium,& KU Leuven Institute for Single Cell Omics (LISCO), University of Leuven, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-1204-9963"
+      },
+      {
+        "name": "Aerts, Stein",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-8006-0315"
+      }
+    ],
+    "version": "v1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Voet"
+    ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
     "communities": [
@@ -17,19 +61,22 @@
         "identifier": "asaphub"
       }
     ],
+    "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.20078069",
       "recid": 20078069
     }
   },
-  "title": "",
+  "title": "Single nuclei RNA sequencing (10x) of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients \u2013 10x snRNA-seq.",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/20078069",
-    "html": "https://zenodo.org/deposit/20078069",
+    "self": "https://zenodo.org/api/records/20078069",
+    "html": "https://zenodo.org/records/20078069",
     "doi": "https://doi.org/10.5281/zenodo.20078069",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18988768",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20078069.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/20078069/files",
-    "bucket": "https://zenodo.org/api/files/1437da2e-cd0d-4986-abda-cc145622c928",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.18988768.svg",
+    "files": "https://zenodo.org/api/records/20078069/files",
+    "bucket": "https://zenodo.org/api/files/3a2d3f18-d81f-45e2-af6d-ffc9c2c32148",
     "thumb250": "https://zenodo.org/record/20078069/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/20078069/thumb10",
@@ -59,11 +106,11 @@
       "filesize": 37390,
       "checksum": "d64a4400ce6c1327122da480c371a4d1",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20078069/files/cd06efbf-d7e2-44ab-952b-f91f25164ee4",
+        "self": "https://zenodo.org/api/records/20078069/files/cd06efbf-d7e2-44ab-952b-f91f25164ee4",
         "download": "https://zenodo.org/api/records/20078069/draft/files/voet-pmdbs-sn-rnaseq_README.pdf/content"
       }
     }
   ],
-  "state": "inprogress",
+  "state": "done",
   "submitted": true
 }

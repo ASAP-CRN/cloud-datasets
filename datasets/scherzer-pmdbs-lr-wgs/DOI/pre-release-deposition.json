@@ -1,13 +1,16 @@
 {
   "created": "2026-05-08T04:23:06.284928+00:00",
-  "modified": "2026-05-21T23:38:58.610470+00:00",
+  "modified": "2026-06-02T02:10:57.638198+00:00",
   "id": 20078329,
   "conceptrecid": "19124632",
+  "doi": "10.5281/zenodo.20078329",
   "conceptdoi": "10.5281/zenodo.19124632",
+  "doi_url": "https://doi.org/10.5281/zenodo.20078329",
   "metadata": {
     "title": "PD5D long read DNA-seq",
-    "publication_date": "2026-05-08",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"PD5D long read DNA-seq\".</p>\n<p><strong>Description:</strong> This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "doi": "10.5281/zenodo.20078329",
+    "publication_date": "2026-05-31",
+    "description": "This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.",
     "access_right": "open",
     "creators": [
       {
@@ -96,19 +99,17 @@
         "orcid": "0000-0002-0170-3598"
       }
     ],
-    "version": "1.0",
+    "version": "v1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Scherzer"
     ],
-    "grants": [
-      {
-        "id": "10.13039/100018231::ASAP-000301"
-      }
-    ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
     "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
       {
         "identifier": "asaphub"
       }
@@ -123,9 +124,10 @@
   "links": {
     "self": "https://zenodo.org/api/deposit/depositions/20078329",
     "html": "https://zenodo.org/deposit/20078329",
-    "badge": "https://zenodo.org/badge/doi/.svg",
+    "doi": "https://doi.org/10.5281/zenodo.20078329",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20078329.svg",
     "files": "https://zenodo.org/api/deposit/depositions/20078329/files",
-    "bucket": "https://zenodo.org/api/files/22757834-024b-4f7f-94fa-e4506193fcf6",
+    "bucket": "https://zenodo.org/api/files/4bc39344-648f-44b7-8008-b9593fffdab2",
     "thumb250": "https://zenodo.org/record/20078329/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/20078329/thumb10",
@@ -140,7 +142,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/20078329/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/20078329/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/20078329/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/20078329/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/20078329/actions/newversion",
+    "record": "https://zenodo.org/api/records/20078329",
+    "record_html": "https://zenodo.org/record/20078329",
+    "latest": "https://zenodo.org/api/records/20078329/versions/latest",
+    "latest_html": "https://zenodo.org/records/20078329/latest"
   },
   "record_id": 20078329,
   "owner": 615261,
@@ -156,6 +162,6 @@
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "inprogress",
+  "submitted": true
 }
