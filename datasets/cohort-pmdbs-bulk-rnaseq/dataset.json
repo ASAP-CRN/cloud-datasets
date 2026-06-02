@@ -7,7 +7,8 @@
     "creators": [
         {
             "name": "asap-cohort",
-            "affiliation": "ASAP CRN"
+            "affiliation": "ASAP CRN",
+            "orcid": ""
         }
     ],
     "keywords": [
@@ -16,7 +17,6 @@
         "cohort"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-bulk-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-cohort-pmdbs-bulk-rnaseq",
@@ -43,5 +43,35 @@
             "dataset_version": "v1.2.1"
         }
     },
-    "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq"
+    "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq",
+    "curation": {
+        "name": "pmdbs-bulk-rnaseq",
+        "dataset_version": "v1.2.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.2.0",
+        "collection": {
+            "name": "pmdbs-bulk-rnaseq",
+            "version": "v1.2.0",
+            "collection_doi": "10.5281/zenodo.14373343"
+        },
+        "releases": {
+            "v1.2.0": {
+                "collection_version": "v1.2.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860841"
+            }
+        }
+    },
+    "all_releases": [
+        "v2.0.0",
+        "v3.0.0",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.2.1",
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0"
+    ]
 }

@@ -1,0 +1,96 @@
+{
+  "created": "2026-05-21T22:49:58.484019+00:00",
+  "modified": "2026-05-22T04:08:46.489174+00:00",
+  "id": 20334742,
+  "conceptrecid": "20276410",
+  "conceptdoi": "10.5281/zenodo.20276410",
+  "metadata": {
+    "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "publication_date": "2026-05-22",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria cells from wild type and LRRK2 G2019S mice following 1-week post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 4 groups namely wild type and LRRK2 G2019S uninfected and infected mice. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Recinto, Sherilyn",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0001-9632-1201"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Pei, Jessica",
+        "affiliation": "McGill University",
+        "orcid": "0000-0001-7115-5606"
+      },
+      {
+        "name": "Gruenheid, Samantha",
+        "affiliation": "McGill University",
+        "orcid": "0000-0002-0908-6715"
+      }
+    ],
+    "version": "1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20334742",
+      "recid": 20334742
+    }
+  },
+  "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20334742",
+    "html": "https://zenodo.org/deposit/20334742",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20334742/files",
+    "bucket": "https://zenodo.org/api/files/90e48187-7c2e-4447-a514-28cdef9de9d1",
+    "thumb250": "https://zenodo.org/record/20334742/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20334742/thumb10",
+      "50": "https://zenodo.org/record/20334742/thumb50",
+      "100": "https://zenodo.org/record/20334742/thumb100",
+      "250": "https://zenodo.org/record/20334742/thumb250",
+      "750": "https://zenodo.org/record/20334742/thumb750",
+      "1200": "https://zenodo.org/record/20334742/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20334742",
+    "latest_draft_html": "https://zenodo.org/deposit/20334742",
+    "publish": "https://zenodo.org/api/deposit/depositions/20334742/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20334742/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20334742/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20334742/actions/newversion"
+  },
+  "record_id": 20334742,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "edce584e-b565-43dc-b389-549023e93e23",
+      "filename": "desjardins-ipsc-sc-rnaseq-myeloid-pink1_README.pdf",
+      "filesize": 6120,
+      "checksum": "9c43eab98ec5f8bb00c9a0fc234992db",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20334742/files/edce584e-b565-43dc-b389-549023e93e23",
+        "download": "https://zenodo.org/api/records/20334742/draft/files/desjardins-ipsc-sc-rnaseq-myeloid-pink1_README.pdf/content"
+      }
+    },
+    {
+      "id": "fa8d5320-adf2-408a-9e88-1bde6d576e4c",
+      "filename": "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2_README.pdf",
+      "filesize": 36436,
+      "checksum": "2a9ba1e516843d4fe7e00eb2fbbec75d",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20334742/files/fa8d5320-adf2-408a-9e88-1bde6d576e4c",
+        "download": "https://zenodo.org/api/records/20334742/draft/files/desjardins-mouse-sc-rnaseq-colon-immune-lrrk2_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}

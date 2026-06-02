@@ -1,30 +1,43 @@
 {
     "name": "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
-    "title": "desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
-    "description": "Dataset from team-desjardins",
-    "version": "v0.1",
-    "dataset_title": "",
+    "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
+    "description": "We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria cells from wild type and LRRK2 G2019S mice following 1-week post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 4 groups namely wild type and LRRK2 G2019S uninfected and infected mice. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.",
+    "version": "v1.0",
+    "dataset_title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
     "doi": "10.5281/zenodo.20276410",
     "creators": [
         {
-            "name": "team-desjardins",
-            "affiliation": "ASAP CRN",
-            "orcid": null
+            "name": "Recinto, Sherilyn",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0001-9632-1201"
+        },
+        {
+            "name": "Stratton, Jo Anne",
+            "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+            "orcid": "0000-0002-1205-1353"
+        },
+        {
+            "name": "Pei, Jessica",
+            "affiliation": "McGill University",
+            "orcid": "0000-0001-7115-5606"
+        },
+        {
+            "name": "Gruenheid, Samantha",
+            "affiliation": "McGill University",
+            "orcid": "0000-0002-0908-6715"
         }
     ],
-    "keywords": [
-        "desjardins"
-    ],
+    "keywords": null,
     "license": "CC-BY-4.0",
     "references": [],
     "collection": null,
     "buckets": {
-        "raw": "gs://asap-raw-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
-        "dev": "gs://asap-dev-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
-        "uat": "gs://asap-uat-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
-        "prod": "gs://asap-curated-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2"
+        "raw": "gs://asap-raw-team-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+        "dev": "gs://asap-dev-team-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+        "uat": "gs://asap-uat-team-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2",
+        "prod": "gs://asap-curated-team-desjardins-mouse-sc-rnaseq-colon-immune-lrrk2"
     },
-    "cde_version": "v4.3",
+    "cde_version": null,
     "releases": {},
     "all_releases": []
 }

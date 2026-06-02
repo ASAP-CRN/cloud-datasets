@@ -1,7 +1,7 @@
 {
     "name": "scherzer-pmdbs-spatial-visium-mtg",
-    "title": "team-scherzer-pmdbs-spatial-visium-mtg",
-    "description": "pmdbs-spatial dataset from team-scherzer",
+    "title": "PD5D_MTG_Visium10x_ST",
+    "description": "Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  temporal gyrus of 96 human subjects. Individuals with incidental Lewy body  disease, clinical PD, and healthy control were included. In addition to subject level metadata, Visium spatial metadata such as H&E images and spot  coordinates are included.   These data are one component of the PD5D cohort, which intends to build a  multi-dimensional and multi-omic atlas of PD pathology. For the same subjects, other omics assays have been collected including genotyping,  snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus  and substantia nigra.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.17242087",
     "creators": [
@@ -64,7 +64,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-spatial-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-spatial-visium-mtg",
@@ -87,5 +86,33 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "PD5D_MTG_Visium10x_ST"
+    "dataset_title": "PD5D_MTG_Visium10x_ST",
+    "curation": {
+        "name": "pmdbs-spatial-rnaseq",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v1.1.0",
+        "collection": {
+            "name": "pmdbs-spatial-rnaseq",
+            "version": "v1.1.0",
+            "collection_doi": "10.5281/zenodo.16979474"
+        },
+        "releases": {
+            "v1.1.0": {
+                "collection_version": "v1.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860901"
+            }
+        }
+    },
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ],
+    "short_description": "pmdbs-spatial dataset from team-scherzer"
 }

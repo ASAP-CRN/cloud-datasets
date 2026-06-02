@@ -1,7 +1,7 @@
 {
     "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-    "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
-    "description": "pmdbs-sc-rnaseq dataset from team-scherzer",
+    "title": "PD5D_MTG_snRNAseq",
+    "description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.\n\nVersion bump from 1.1 to 1.2\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs.",
     "version": "1.2",
     "doi": "10.5281/zenodo.16751625",
     "creators": [
@@ -48,7 +48,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg",
@@ -83,5 +82,42 @@
             "dataset_version": "v1.2"
         }
     },
-    "dataset_title": "PD5D_MTG_snRNAseq"
+    "dataset_title": "PD5D_MTG_snRNAseq",
+    "curation": {
+        "name": "pmdbs-sc-rnaseq",
+        "dataset_version": "v1.1",
+        "release_version": "v4.0.0",
+        "collection_version": "v3.1.0",
+        "collection": {
+            "name": "pmdbs-sc-rnaseq",
+            "version": "v3.1.0",
+            "collection_doi": "10.5281/zenodo.14373047"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v1.0.0",
+                "collection_version_doi": null
+            },
+            "v3.1.0": {
+                "collection_version": "v3.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860778"
+            }
+        }
+    },
+    "all_releases": [
+        "v1.0.0",
+        "v2.0.0",
+        "v3.0.0",
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0",
+        "v1.2"
+    ],
+    "short_description": "pmdbs-sc-rnaseq dataset from team-scherzer"
 }

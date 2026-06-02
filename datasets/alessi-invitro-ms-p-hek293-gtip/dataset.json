@@ -1,7 +1,7 @@
 {
     "name": "alessi-invitro-ms-p-hek293-gtip",
-    "title": "team-alessi-invitro-ms-p-hek293-gtip",
-    "description": "proteomics dataset from team-alessi",
+    "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "description": "Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data set contains six replicates of GolgiTAG-IP, Control-IP, GolgiTAG whole cell extract and Control cells whole cell extract. The mass spectrometry data is acquired using variable data independent acquisition (vDIA) on an Orbitrap Exploris 480 mass spectrometer. Database searches performed against Human Uniprot database using Spectronaut search algorithm.",
     "version": "v1.1",
     "doi": "10.5281/zenodo.17355407",
     "creators": [
@@ -22,7 +22,6 @@
         "alessi"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-alessi-invitro-ms-p-hek293-gtip",
@@ -45,5 +44,16 @@
             "dataset_version": "v1.1"
         }
     },
-    "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content"
+    "dataset_title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
+    "curation": {},
+    "all_releases": [
+        "v3.0.1",
+        "v4.0.0",
+        "v4.0.2"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ],
+    "short_description": "proteomics dataset from team-alessi"
 }

@@ -1,7 +1,7 @@
 {
     "name": "schapira-fecal-metagenome-human-baseline",
-    "title": "team-schapira-fecal-metagenome-human-baseline",
-    "description": "Dataset from team-schapira",
+    "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
+    "description": "The microbial species abundance table: list of microbial species detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial species catalogues. The species are listed as msp_ID, which corresponds to metagenomic species pangenomes (MSPs), which is a collection of known or still unknown species reconstructed from human gut metagenomic assemblies. The MSPs are annotated at all taxonomical level using the Genome Taxonomy Database GDTB R07-RS207 database, up until the lowest known taxonomical rank. The microbial functional abundance table: list of microbial functions detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial gene catalogues and annotated with KEGG, eggNOG and TIGRFAM databases. These databases are used to infer the presence, abundance and completeness of functional modules (Gut-Brain modules, Gut-Metabolic modules and KEGG modules) in each metagenomic samples.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18353680",
     "creators": [
@@ -160,7 +160,6 @@
         "schapira"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-schapira-fecal-metagenome-human-baseline",
@@ -175,5 +174,13 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls"
+    "dataset_title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
+    "curation": {},
+    "all_releases": [
+        "v4.0.1"
+    ],
+    "all_versions": [
+        "v1.0"
+    ],
+    "short_description": "Dataset from team-schapira"
 }

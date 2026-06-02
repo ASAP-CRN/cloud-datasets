@@ -1,0 +1,36 @@
+{
+  "name": "scherzer-pmdbs-lr-wgs",
+  "title": "PD5D long read DNA-seq",
+  "description": "This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.19124632",
+  "keywords": [
+    "pmdbs",
+    "lr-wgs",
+    "scherzer"
+  ],
+  "license": "CC-BY-4.0",
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-scherzer-pmdbs-lr-wgs",
+    "dev": "gs://asap-dev-team-scherzer-pmdbs-lr-wgs",
+    "uat": "gs://asap-uat-team-scherzer-pmdbs-lr-wgs",
+    "prod": "gs://asap-curated-team-scherzer-pmdbs-lr-wgs"
+  },
+  "cde_version": "v4.4",
+  "releases": {
+    "v4.1.1": {
+      "cde_version": "v4.4",
+      "dataset_version": "v1.0"
+    }
+  },
+  "dataset_title": "PD5D long read DNA-seq",
+  "curation": {},
+  "all_releases": [
+    "v4.1.1"
+  ],
+  "all_versions": [
+    "v1.0"
+  ],
+  "short_description": "This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics."
+}

@@ -1,7 +1,7 @@
 {
     "name": "jakobsson-invitro-bulk-rnaseq-microglia",
-    "title": "team-jakobsson-invitro-bulk-rnaseq-microglia",
-    "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
+    "title": "Bulk RNAseq of microglia in vitro cultures",
+    "description": "This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human pluripotent stem cells (hPSCs) into microglia. Briefly, hES (H9) and hiPSCs (KOLF2.1) underwent mesodermal induction via embryoid body formation, followed by hemogenic endothelium induction and myeloid differentiation to generate primitive monocyte-like precursors. These precursors were then matured into microglia by supplementing with key neuron-derived factors that promote microglial identity, thereby recapitulating human microglia in monoculture. A detailed protocol can be found at doi: dx.doi.org/10.17504/protocols.io.14egnr8ezl5d/v1.",
     "version": "v1.0",
     "doi": "10.5281/zenodo.17149290",
     "creators": [
@@ -97,7 +97,6 @@
         "jakobsson"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-microglia",
@@ -116,5 +115,14 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Bulk RNAseq of microglia in vitro cultures"
+    "dataset_title": "Bulk RNAseq of microglia in vitro cultures",
+    "curation": {},
+    "all_releases": [
+        "v3.0.2",
+        "v4.0.0"
+    ],
+    "all_versions": [
+        "v1.0"
+    ],
+    "short_description": "invitro-bulk-rnaseq dataset from team-jakobsson"
 }

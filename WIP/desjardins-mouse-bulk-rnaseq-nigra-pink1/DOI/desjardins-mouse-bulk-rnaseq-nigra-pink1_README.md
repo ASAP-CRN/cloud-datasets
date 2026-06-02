@@ -16,7 +16,7 @@ We performed bulk RNAsequencing of substantia nigra from wild type and PINK1 KO 
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-mouse-bulk-rnaseq-nigra-pink1, vv0.1
+**Dataset Name:** desjardins-mouse-bulk-rnaseq-nigra-pink1, v1.0
 
 **Principal Investigator:** Louis-Eric Trudeau <louis-eric.trudeau@umontreal.ca>
 

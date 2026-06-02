@@ -1,7 +1,7 @@
 {
     "name": "scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-    "title": "team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
-    "description": "pmdbs-other dataset from team-scherzer",
+    "title": "PD5D_MTG_snRNAseq_hybsel",
+    "description": "This dataset contains the raw data in FASTQ format for single-nucleus RNA  sequencing (snRNAseq) enriched with Agilent SureSelect for reads from a list  of targeted transcripts for human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. This data comes from the same 10X  libraries as PD5D_MTG_snRNAseq, except with the additional enrichment  step before sequencing. It's part of the PD5D cohort, where the same subjects  were also profiled with other omics assays incl. genotyping, single-cell  ATACseq, and spatial transcriptomics.\n\nVersion bump from 1.1 to 1.2\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs.",
     "version": "1.2",
     "doi": "10.5281/zenodo.16885839",
     "creators": [
@@ -84,7 +84,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg-hybsel",
@@ -115,5 +114,19 @@
             "dataset_version": "v1.2"
         }
     },
-    "dataset_title": "PD5D_MTG_snRNAseq_hybsel"
+    "dataset_title": "PD5D_MTG_snRNAseq_hybsel",
+    "curation": {},
+    "all_releases": [
+        "v2.0.0",
+        "v3.0.0",
+        "v3.0.1",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0",
+        "v1.2"
+    ],
+    "short_description": "pmdbs-other dataset from team-scherzer"
 }

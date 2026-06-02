@@ -1,7 +1,7 @@
 {
     "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
-    "title": "team-lee-mouse-liver-bulk-rnaseq-g2019s",
-    "description": "Dataset from team-lee",
+    "title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
+    "description": "The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).",
     "version": "v1.0",
     "doi": "10.5281/zenodo.18273810",
     "creators": [
@@ -23,7 +23,6 @@
         "lee"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": null,
     "buckets": {
         "raw": "gs://asap-raw-team-lee-mouse-liver-bulk-rnaseq-g2019s",
@@ -38,5 +37,13 @@
             "dataset_version": "v1.0"
         }
     },
-    "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice"
+    "dataset_title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
+    "curation": {},
+    "all_releases": [
+        "v4.0.1"
+    ],
+    "all_versions": [
+        "v1.0"
+    ],
+    "short_description": "Dataset from team-lee"
 }

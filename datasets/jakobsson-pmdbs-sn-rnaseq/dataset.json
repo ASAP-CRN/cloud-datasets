@@ -1,7 +1,7 @@
 {
     "name": "jakobsson-pmdbs-sn-rnaseq",
-    "title": "team-jakobsson-pmdbs-sn-rnaseq",
-    "description": "pmdbs-sc-rnaseq dataset from team-jakobsson",
+    "title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
+    "description": "We performed single nuclei RNA sequencing of postmortem PD and control brain tissue of four different brain regions (substantia nigra, putamen, amygdala, and prefrontal cortex). Briefly, 8500 nuclei were FACS sorted from approximately 2 mm3 of tissue. Single nuclei RNAseq libraries were prepared using 10X genomics platform for single cell 3' sequencing. Sequencing libraries are prepared by fragmentation, end repair and a tailing followed by sample index PCR. To process the data, FASTQ files were processed using Cell Ranger, aligning and quantifying for hg38. Intronic reads were also quantified.",
     "version": "2.1",
     "doi": "10.5281/zenodo.15162834",
     "creators": [
@@ -97,7 +97,6 @@
         "jakobsson"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-pmdbs-sn-rnaseq",
@@ -132,5 +131,42 @@
             "dataset_version": "v2.1"
         }
     },
-    "dataset_title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals"
+    "dataset_title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
+    "curation": {
+        "name": "pmdbs-sc-rnaseq",
+        "dataset_version": "v2.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v3.1.0",
+        "collection": {
+            "name": "pmdbs-sc-rnaseq",
+            "version": "v3.1.0",
+            "collection_doi": "10.5281/zenodo.14373047"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v1.0.0",
+                "collection_version_doi": null
+            },
+            "v3.1.0": {
+                "collection_version": "v3.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860778"
+            }
+        }
+    },
+    "all_releases": [
+        "v1.0.0",
+        "v2.0.0",
+        "v2.0.1",
+        "v3.0.0",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v2.1",
+        "v2.0",
+        "v1.0"
+    ],
+    "short_description": "pmdbs-sc-rnaseq dataset from team-jakobsson"
 }

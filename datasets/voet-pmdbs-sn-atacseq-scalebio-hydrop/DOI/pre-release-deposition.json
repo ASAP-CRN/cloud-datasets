@@ -1,0 +1,117 @@
+{
+  "created": "2026-05-08T00:42:09.566105+00:00",
+  "modified": "2026-06-02T02:10:40.141930+00:00",
+  "id": 20076952,
+  "conceptrecid": "18988743",
+  "doi": "10.5281/zenodo.20076952",
+  "conceptdoi": "10.5281/zenodo.18988743",
+  "doi_url": "https://doi.org/10.5281/zenodo.20076952",
+  "metadata": {
+    "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors \u2013 Scale-ATAC + HyDrop v2.",
+    "doi": "10.5281/zenodo.20076952",
+    "publication_date": "2026-05-31",
+    "description": "This dataset consists of raw sequencing ATAC-seq data (Scale-ATAC + HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocols followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Pan\u010d\u00edkov\u00e1, Alexandra",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium,& Laboratory of Integrative Cancer Genomics, VIB-KU Leuven Center for Cancer Biology, Leuven, Belgium,& Department of Oncology, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0693-132X"
+      },
+      {
+        "name": "Theunis, Koen",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-0699-6676"
+      },
+      {
+        "name": "Hulselmans, Gert",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-2205-1899"
+      },
+      {
+        "name": "Sigalova, Olga",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0001-8598-1079"
+      },
+      {
+        "name": "De Man, Julie",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0009-0003-7208-8961"
+      },
+      {
+        "name": "Voet, Thierry",
+        "affiliation": "Department of Human Genetics, KU Leuven, Leuven, Belgium,& KU Leuven Institute for Single Cell Omics (LISCO), University of Leuven, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0003-1204-9963"
+      },
+      {
+        "name": "Aerts, Stein",
+        "affiliation": "Laboratory of Computational Biology, VIB Center for AI & Computational Biology (VIB.AI), Leuven, Belgium,& VIB-KU Leuven Center for Brain & Disease Research, Leuven, Belgium.,& Department of Human Genetics, KU Leuven, Leuven, Belgium",
+        "orcid": "0000-0002-8006-0315"
+      }
+    ],
+    "version": "v1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Voet"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20076952",
+      "recid": 20076952
+    }
+  },
+  "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors \u2013 Scale-ATAC + HyDrop v2.",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/20076952",
+    "html": "https://zenodo.org/deposit/20076952",
+    "doi": "https://doi.org/10.5281/zenodo.20076952",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20076952.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/20076952/files",
+    "bucket": "https://zenodo.org/api/files/55087692-b8d2-4f98-aa8d-ddfd29dd49b6",
+    "thumb250": "https://zenodo.org/record/20076952/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20076952/thumb10",
+      "50": "https://zenodo.org/record/20076952/thumb50",
+      "100": "https://zenodo.org/record/20076952/thumb100",
+      "250": "https://zenodo.org/record/20076952/thumb250",
+      "750": "https://zenodo.org/record/20076952/thumb750",
+      "1200": "https://zenodo.org/record/20076952/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20076952",
+    "latest_draft_html": "https://zenodo.org/deposit/20076952",
+    "publish": "https://zenodo.org/api/deposit/depositions/20076952/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20076952/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20076952/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20076952/actions/newversion",
+    "record": "https://zenodo.org/api/records/20076952",
+    "record_html": "https://zenodo.org/record/20076952",
+    "latest": "https://zenodo.org/api/records/20076952/versions/latest",
+    "latest_html": "https://zenodo.org/records/20076952/latest"
+  },
+  "record_id": 20076952,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "f43f802e-d5c2-4842-b58c-903dd7851d78",
+      "filename": "voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf",
+      "filesize": 37236,
+      "checksum": "35b7b2b48e75021e5a021776161587f9",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/20076952/files/f43f802e-d5c2-4842-b58c-903dd7851d78",
+        "download": "https://zenodo.org/api/records/20076952/draft/files/voet-pmdbs-sn-atacseq-scalebio-hydrop_README.pdf/content"
+      }
+    }
+  ],
+  "state": "inprogress",
+  "submitted": true
+}

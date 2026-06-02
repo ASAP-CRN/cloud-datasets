@@ -15,7 +15,7 @@ We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocy
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-ipsc-sc-rnaseq-myeloid-pink1, vv0.1
+**Dataset Name:** desjardins-ipsc-sc-rnaseq-myeloid-pink1, v1.0
 
 **Principal Investigator:** Jo Anne Stratton <jo.stratton@mcgill.ca>
 

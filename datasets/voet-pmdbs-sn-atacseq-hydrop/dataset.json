@@ -1,0 +1,36 @@
+{
+  "name": "voet-pmdbs-sn-atacseq-hydrop",
+  "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors and Parkinson's disease patients \u2013 HyDrop-ATAC v2",
+  "description": "This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
+  "version": "v1.0",
+  "doi": "10.5281/zenodo.18988735",
+  "keywords": [
+    "pmdbs",
+    "sn-atacseq",
+    "voet"
+  ],
+  "license": "CC-BY-4.0",
+  "collection": null,
+  "buckets": {
+    "raw": "gs://asap-raw-team-voet-pmdbs-sn-atacseq-hydrop",
+    "dev": "gs://asap-dev-team-voet-pmdbs-sn-atacseq-hydrop",
+    "uat": "gs://asap-uat-team-voet-pmdbs-sn-atacseq-hydrop",
+    "prod": "gs://asap-curated-team-voet-pmdbs-sn-atacseq-hydrop"
+  },
+  "cde_version": "v4.4",
+  "releases": {
+    "v4.1.1": {
+      "cde_version": "v4.4",
+      "dataset_version": "v1.0"
+    }
+  },
+  "dataset_title": "Single nuclei ATAC sequencing of postmortem cingulate cortex,midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 HyDrop-ATAC v2.",
+  "curation": {},
+  "all_releases": [
+    "v4.1.1"
+  ],
+  "all_versions": [
+    "v1.0"
+  ],
+  "short_description": "This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples can be found here:  https://www.protocols.io/view/nuclei-isolation-from-brain-tissue-for-single-cell-14egnrb7ql5d/v1, https://dx.doi.org/10.17504/protocols.io.x54v97mmpg3e/v1. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors."
+}
