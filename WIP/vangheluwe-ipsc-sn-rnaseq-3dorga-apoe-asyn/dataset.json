@@ -1,0 +1,31 @@
+{
+    "name": "vangheluwe-ipsc-sn-rnaseq-3dorga-apoe-asyn",
+    "title": "vangheluwe-ipsc-sn-rnaseq-3dorga-apoe-asyn",
+    "description": "Dataset from team-vangheluwe",
+    "version": "v0.1",
+    "doi": "10.5281/zenodo.21510592",
+    "creators": [
+        {
+            "name": "team-vangheluwe",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "vangheluwe"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-vangheluwe",
+        "dev": "gs://asap-dev-team-vangheluwe",
+        "uat": "gs://asap-uat-team-vangheluwe",
+        "prod": "gs://asap-curated-team-vangheluwe"
+    },
+    "cde_version": "v4.4",
+    "releases": {},
+    "dataset_title": "vangheluwe-ipsc-sn-rnaseq-3dorga-apoe-asyn",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-vangheluwe"
+}

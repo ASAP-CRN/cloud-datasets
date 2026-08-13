@@ -1,0 +1,68 @@
+{
+    "project_name": "Implications of Polyamine and Glucosylceramide Transport for Parkinson's Disease (IMPACT-PD)",
+    "project_description": "Our research program investigates through which mechanisms genetic variants associated with Parkinson's Disease modulate neurodegenerative phenotypes. As part of the ASAP Collaborative Research Network (CRN), our team generated a novel synucleinopathy-modeling platform by combining tissue engineering with genetic editing approaches. This project presents transcriptomic data of these 3D brain tissues, or miBrains, with or without synuclein pathology specifically in the neurons, and disease risk variants in the APOE gene across all cell types. By generating transcriptomic datasets of these tissues, we aim to map cell-autonomous and non-cell autonomous cellular pathways linking genetic risk variants to synuclein pathological mechanisms in a multicellular brain tissue context. Ultimately, this work aims to identify PD causal pathways and therapeutic targets to prevent neurodegeneration.",
+    "dataset_title": "Single-nucleus RNA sequencing of miBrains, a human brain tissue model",
+    "dataset_description": "This dataset contains snRNA-seq data generated from human induced pluripotent stem cell-derived 3D brain tissue. Specifically, this is a multicellular integrated human brain tissue (miBrain) containing multiple brain cell types. The dataset includes three experimental conditions: control miBrains, miBrains with overexpression and mutation of the SNCA gene (A53T) and the APOE3/3 genotype, and miBrains with SNCA-A53T and APOE4/4 genotype. The SNCA manipulation is present only in the neurons, whereas the APOE genotype manipulation is identical in all cell types within the same sample. Control miBrains express endogenous SNCA and harbor APOE3/3. All miBrains are isogenic.",
+    "creators": [
+        {
+            "name": "Mesentier-Louro, Louise A.",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Department of\u00a0Stem Cell Biology and Regenerative Medicine, Mount Sinai, New York, NY, USA; Nash Family Department of Neuroscience, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Ronald M. Loeb Center for Alzheimer\u2019s Disease, Mount Sinai, New York, NY USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+            "orcid": "0000-0002-0937-9331"
+        },
+        {
+            "name": "Goldman, Camille",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Department of\u00a0Stem Cell Biology and Regenerative Medicine, Mount Sinai, New York, NY, USA; Nash Family Department of Neuroscience, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Ronald M. Loeb Center for Alzheimer\u2019s Disease, Mount Sinai, New York, NY USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+            "orcid": "0000-0002-9089-7290"
+        },
+        {
+            "name": "Buonfiglioli, Alice",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Department of\u00a0Stem Cell Biology and Regenerative Medicine, Mount Sinai, New York, NY, USA; Nash Family Department of Neuroscience, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Ronald M. Loeb Center for Alzheimer\u2019s Disease, Mount Sinai, New York, NY USA",
+            "orcid": "0000-0002-5550-9360"
+        },
+        {
+            "name": "Kyriakis, Dimitrios",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Department of Psychiatry, Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Mount Sinai, New York, NY, USA; Center for Disease Neurogenomics, Mount Sinai, New York, NY, USA.",
+            "orcid": "0000-0003-1643-2310"
+        },
+        {
+            "name": "Fullard, John F.",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Department of Psychiatry, Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Mount Sinai, New York, NY, USA; Center for Disease Neurogenomics, Mount Sinai, New York, NY, USA.",
+            "orcid": "0000-0001-9874-2907"
+        },
+        {
+            "name": "Hennigan, Evelyn",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Department of Psychiatry, Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Mount Sinai, New York, NY, USA; Center for Disease Neurogenomics, Mount Sinai, New York, NY, USA.",
+            "orcid": "0009-0002-8311-4750"
+        },
+        {
+            "name": "Lee, Donghoon",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Department of Psychiatry, Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Mount Sinai, New York, NY, USA; Center for Disease Neurogenomics, Mount Sinai, New York, NY, USA.",
+            "orcid": "0000-0003-0453-6059"
+        },
+        {
+            "name": "Roussos, Panos",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Department of Psychiatry, Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Mount Sinai, New York, NY, USA; Center for Disease Neurogenomics, Mount Sinai, New York, NY, USA.",
+            "orcid": "0000-0002-4640-6239"
+        },
+        {
+            "name": "Blanchard, Joel W.",
+            "affiliation": "Icahn School of Medicine, Mount Sinai, New York, NY, USA; Department of\u00a0Stem Cell Biology and Regenerative Medicine, Mount Sinai, New York, NY, USA; Nash Family Department of Neuroscience, Mount Sinai, New York, NY, USA; Friedman Brain Institute, Mount Sinai, New York, NY, USA; Ronald M. Loeb Center for Alzheimer\u2019s Disease, Mount Sinai, New York, NY USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD, 20815",
+            "orcid": "0000-0003-3142-2970"
+        }
+    ],
+    "publication_date": "2026-07-23",
+    "version": "0.1",
+    "title": "Single-nucleus RNA sequencing of miBrains, a human brain tissue model",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Joel Blanchard",
+    "PI_email": "joel.blanchard@mssm.edu",
+    "coPI_full_name": [],
+    "coPI_email": [],
+    "submitter_name": "Dimitrios  Kyriakis",
+    "submitter_email": "dimitrios.kyriakis@mssm.edu",
+    "publication_DOI": "",
+    "grant_ids": [
+        "ASAP-024297"
+    ],
+    "team_name": "Vangheluwe"
+}

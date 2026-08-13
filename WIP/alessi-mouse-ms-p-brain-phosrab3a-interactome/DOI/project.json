@@ -1,0 +1,34 @@
+{
+    "project_name": "Leucine-rich repeat kinase 2 impairs the release sites of Parkinson's disease vulnerable dopamine axons",
+    "project_description": "This study uses intersectional genetic mouse models to uncover synaptic perturbations in vulnerable dopamine neurons, focusing on the LRRK2 kinase, a protein closely linked to PD. Through a combination of immunofluorescence and advanced proximity labeling methods, we found higher LRRK2 expression in the most vulnerable dopamine neuron subclusters. High-resolution imaging revealed that pathogenic LRRK2 disrupts release sites in vulnerable dopamine axons, leading to decreased in vivo evoked striatal dopamine release in mice with LRRK2 mutations. Proteomic and biochemical analyses indicate that mutant LRRK2 increases the phosphorylation of RAB3 proteins, reducing their interactions with RIM1/2 effector proteins and impacting their synaptic functions.",
+    "dataset_title": "The Parkinson's disease kinase LRRK2 impairs release sites of vulnerable dopamine axons",
+    "dataset_description": "Data relating to the section: \"Phosphorylation of Rab3a decreases its binding to the effector proteins Rim1&2 from mouse brain\". Briefly, p-FLAG RAB3A and FLAG-RAB3A were used as \u2018bait' for the immunoprecipitation of proteins from mouse brain lysate to identify binders that interact differentially. Brains from mice administered a subcutaneous injection of MLi-2 (30 mg/kg, 2 hours). Whole brain was processed and proteomics was performed using DIA-MS on an Orbitrap Astral mass spectrometer.",
+    "creators": [
+        {
+            "name": "Jaconelli, Matthew",
+            "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+            "orcid": "0009-0003-1536-435X"
+        },
+        {
+            "name": "Alessi, Dario",
+            "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+            "orcid": "0000-0002-2140-9185"
+        }
+    ],
+    "publication_date": "2026-07-29",
+    "version": "0.1",
+    "title": "The Parkinson's disease kinase LRRK2 impairs release sites of vulnerable dopamine axons",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Dario Alessi",
+    "PI_email": "d.r.alessi@dundee.ac.uk",
+    "coPI_full_name": [],
+    "coPI_email": [],
+    "submitter_name": "Matthew Jaconelli",
+    "submitter_email": "MJaconelli001@dundee.ac.uk",
+    "publication_DOI": "",
+    "grant_ids": [
+        "ASAP-020600",
+        "ASAP-000463"
+    ],
+    "team_name": "Alessi"
+}

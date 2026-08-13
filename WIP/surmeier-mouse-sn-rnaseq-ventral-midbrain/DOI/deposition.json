@@ -1,0 +1,63 @@
+{
+  "created": "2026-07-11T10:50:52.517278+00:00",
+  "modified": "2026-07-11T10:50:53.463681+00:00",
+  "id": 21308458,
+  "conceptrecid": "21308457",
+  "metadata": {
+    "title": "Single-nucleus RNA sequencing of mouse ventral midbrain in the MitoPark model of Parkinson's disease",
+    "publication_date": "2026-07-06",
+    "description": "Single-nucleus RNA sequencing (snRNA-seq) of ventral midbrain nuclei from MitoPark mice, their MitoPark littermate controls, and C57BL/6 mice collected at 8, 16, and 24 weeks of age (8 mice per group; 4 males and 4 females). Nuclei were isolated by FACS and profiled with the 10x Genomics Chromium Single Cell 3' v3 platform on an Illumina NovaSeq 6000. The dataset was generated to identify molecular subtypes of midbrain dopaminergic neurons that are selectively vulnerable in Parkinson's disease, leading to the identification of an Anxa1+ subtype of Sox6+ dopaminergic neurons.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Fushiki, Akira",
+        "affiliation": "Allen Institute",
+        "orcid": "0000-0002-7987-6405"
+      },
+      {
+        "name": "Costa, Rui M.",
+        "affiliation": "Allen Institute",
+        "orcid": "0000-0003-0495-8374"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Surmeier"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21308458",
+      "recid": 21308458
+    }
+  },
+  "title": "Single-nucleus RNA sequencing of mouse ventral midbrain in the MitoPark model of Parkinson's disease",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/21308458",
+    "html": "https://zenodo.org/deposit/21308458",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/21308458/files",
+    "bucket": "https://zenodo.org/api/files/78fc12be-84c5-44cc-b5c6-1cc9c6bc9fd4",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21308458",
+    "latest_draft_html": "https://zenodo.org/deposit/21308458",
+    "publish": "https://zenodo.org/api/deposit/depositions/21308458/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21308458/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21308458/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21308458/actions/newversion"
+  },
+  "record_id": 21308458,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

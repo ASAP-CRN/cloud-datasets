@@ -1,0 +1,31 @@
+{
+    "name": "dombeck-mouse-ms-p-striatum-nigra-apex2",
+    "title": "dombeck-mouse-ms-p-striatum-nigra-apex2",
+    "description": "Dataset from team-dombeck",
+    "version": "v0.1",
+    "doi": "10.5281/zenodo.21827657",
+    "creators": [
+        {
+            "name": "team-dombeck",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "dombeck"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-dombeck",
+        "dev": "gs://asap-dev-team-dombeck",
+        "uat": "gs://asap-uat-team-dombeck",
+        "prod": "gs://asap-curated-team-dombeck"
+    },
+    "cde_version": "v4.4",
+    "releases": {},
+    "dataset_title": "dombeck-mouse-ms-p-striatum-nigra-apex2",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-dombeck"
+}

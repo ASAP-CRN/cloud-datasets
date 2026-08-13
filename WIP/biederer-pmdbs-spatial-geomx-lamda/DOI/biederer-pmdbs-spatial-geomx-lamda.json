@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "title": "Human PD Cingulate GeoMx",
+        "upload_type": "dataset",
+        "description": "Segments were captured from specific cortical layers of Parkinson's disease cases capturing whole transcriptomes from neurons positive for Lewy bodies, or negative for Lewy bodies using the GeoMx WTA platform.",
+        "publication_date": "2026-07-29",
+        "version": "0.1",
+        "creators": [
+            {
+                "name": "Goralski, Thomas",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0003-2625-9195"
+            },
+            {
+                "name": "Meyerdirk, Lindsay",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0003-4640-9517"
+            },
+            {
+                "name": "Breton, Libby",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0001-9968-1878"
+            },
+            {
+                "name": "Brasseur, Laura",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0009-0003-5331-138X"
+            },
+            {
+                "name": "Kurgat, Kevin",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0003-3237-7390"
+            },
+            {
+                "name": "DeWeerd, Daniella",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0002-2675-5132"
+            },
+            {
+                "name": "Turner, Lisa",
+                "affiliation": "Van Andel Institute Pathology Core , Grand Rapids, MI 49503",
+                "orcid": "0000-0003-3586-8566"
+            },
+            {
+                "name": "Becker, Katelyn",
+                "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+                "orcid": "0000-0003-4060-6181"
+            },
+            {
+                "name": "Adams, Marie",
+                "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+                "orcid": "0000-0001-7909-2339"
+            },
+            {
+                "name": "Newhouse, Daniel",
+                "affiliation": "NanoString Technologies, Seattle, WA, USA",
+                "orcid": "0000-0002-7694-0475"
+            },
+            {
+                "name": "Henderson, Michael",
+                "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD",
+                "orcid": "0000-0001-9710-0726"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "crn-cloud"
+            },
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Biederer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "alessi-mouse-ms-p-brain-phosrab3a-interactome",
+    "title": "alessi-mouse-ms-p-brain-phosrab3a-interactome",
+    "description": "Dataset from team-alessi",
+    "version": "v0.1",
+    "doi": "10.5281/zenodo.21729042",
+    "creators": [
+        {
+            "name": "team-alessi",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "alessi"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-alessi",
+        "dev": "gs://asap-dev-team-alessi",
+        "uat": "gs://asap-uat-team-alessi",
+        "prod": "gs://asap-curated-team-alessi"
+    },
+    "cde_version": "v4.4",
+    "releases": {},
+    "dataset_title": "alessi-mouse-ms-p-brain-phosrab3a-interactome",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-alessi"
+}

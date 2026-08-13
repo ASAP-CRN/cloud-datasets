@@ -1,0 +1,63 @@
+{
+  "created": "2026-07-31T22:33:50.106524+00:00",
+  "modified": "2026-07-31T22:33:50.783561+00:00",
+  "id": 21729043,
+  "conceptrecid": "21729042",
+  "metadata": {
+    "title": "The Parkinson's disease kinase LRRK2 impairs release sites of vulnerable dopamine axons",
+    "publication_date": "2026-07-29",
+    "description": "Data relating to the section: \"Phosphorylation of Rab3a decreases its binding to the effector proteins Rim1&amp;2 from mouse brain\". Briefly, p-FLAG RAB3A and FLAG-RAB3A were used as 'bait' for the immunoprecipitation of proteins from mouse brain lysate to identify binders that interact differentially. Brains from mice administered a subcutaneous injection of MLi-2 (30 mg/kg, 2 hours). Whole brain was processed and proteomics was performed using DIA-MS on an Orbitrap Astral mass spectrometer.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Jaconelli, Matthew",
+        "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+        "orcid": "0009-0003-1536-435X"
+      },
+      {
+        "name": "Alessi, Dario",
+        "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+        "orcid": "0000-0002-2140-9185"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Alessi"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21729043",
+      "recid": 21729043
+    }
+  },
+  "title": "The Parkinson's disease kinase LRRK2 impairs release sites of vulnerable dopamine axons",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/21729043",
+    "html": "https://zenodo.org/deposit/21729043",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/21729043/files",
+    "bucket": "https://zenodo.org/api/files/605809b6-acb2-4379-9048-39f3a46b39c6",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21729043",
+    "latest_draft_html": "https://zenodo.org/deposit/21729043",
+    "publish": "https://zenodo.org/api/deposit/depositions/21729043/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21729043/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21729043/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21729043/actions/newversion"
+  },
+  "record_id": 21729043,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

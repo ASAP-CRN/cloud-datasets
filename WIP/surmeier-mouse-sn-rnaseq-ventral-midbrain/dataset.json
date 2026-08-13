@@ -1,0 +1,31 @@
+{
+    "name": "surmeier-mouse-sn-rnaseq-ventral-midbrain",
+    "title": "surmeier-mouse-sn-rnaseq-ventral-midbrain",
+    "description": "Dataset from team-surmeier",
+    "version": "v0.1",
+    "doi": "10.5281/zenodo.21308457",
+    "creators": [
+        {
+            "name": "team-surmeier",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "surmeier"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-surmeier",
+        "dev": "gs://asap-dev-team-surmeier",
+        "uat": "gs://asap-uat-team-surmeier",
+        "prod": "gs://asap-curated-team-surmeier"
+    },
+    "cde_version": "v4.4",
+    "releases": {},
+    "dataset_title": "surmeier-mouse-sn-rnaseq-ventral-midbrain",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-surmeier"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "biederer-mouse-spatial-geomx-lamda",
+    "title": "biederer-mouse-spatial-geomx-lamda",
+    "description": "Dataset from team-biederer",
+    "version": "v0.1",
+    "doi": "10.5281/zenodo.21727342",
+    "creators": [
+        {
+            "name": "team-biederer",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "biederer"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-biederer",
+        "dev": "gs://asap-dev-team-biederer",
+        "uat": "gs://asap-uat-team-biederer",
+        "prod": "gs://asap-curated-team-biederer"
+    },
+    "cde_version": "v4.4",
+    "releases": {},
+    "dataset_title": "biederer-mouse-spatial-geomx-lamda",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-biederer"
+}

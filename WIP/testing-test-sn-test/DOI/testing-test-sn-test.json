@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "title": "The testing of the test.",
+        "upload_type": "dataset",
+        "description": "Dummy text. Liquid Chromatography-Mass Spectrometry (LC-MS) studies on striatal synaptosomes from Lrrk2G2019S mice. Mice were treated with vehicle and LRRK2 inhibitor Mli2. We and others previously reported that knock-in mice expressing the pathogenic hyperactive Lrrk2G2019S mutation, exhibit deficits in dopamine release within the striatum. To investigate the underlying molecular mechanisms, we conducted quantitative phosphoproteomic",
+        "publication_date": "2026-07-23",
+        "version": "0.1",
+        "creators": [
+            {
+                "name": "Testy, Test",
+                "affiliation": "Department of Pharmacology, Northwestern University, Chicago, IL, USA",
+                "orcid": "0000-0002-2569-4100"
+            },
+            {
+                "name": "Chen, Chuyu",
+                "affiliation": "Department of Pharmacology, Northwestern University, Chicago, IL, USA",
+                "orcid": "0000-0001-5666-1173"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "crn-cloud"
+            },
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Testing"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "project_name": "A Vulnerable Subtype of Dopaminergic Neurons Drives Early Motor Deficits in Parkinson's Disease",
+    "project_description": "Identification and functional characterization of a selectively vulnerable subtype of midbrain dopaminergic neurons in Parkinson's disease. The project combines single-nucleus transcriptomics, a knock-in Cre mouse line for Anxa1+ dopaminergic neurons, anatomical input-output mapping, and behavioral analyses to test whether Anxa1+ Sox6+ dopaminergic neurons are preferentially lost early in disease and are sufficient to drive early motor symptoms.",
+    "dataset_title": "Single-nucleus RNA sequencing of mouse ventral midbrain in the MitoPark model of Parkinson's disease",
+    "dataset_description": "Single-nucleus RNA sequencing (snRNA-seq) of ventral midbrain nuclei from MitoPark mice, their MitoPark littermate controls, and C57BL/6 mice collected at 8, 16, and 24 weeks of age (8 mice per group; 4 males and 4 females). Nuclei were isolated by FACS and profiled with the 10x Genomics Chromium Single Cell 3' v3 platform on an Illumina NovaSeq 6000. The dataset was generated to identify molecular subtypes of midbrain dopaminergic neurons that are selectively vulnerable in Parkinson's disease, leading to the identification of an Anxa1+ subtype of Sox6+ dopaminergic neurons.",
+    "creators": [
+        {
+            "name": "Fushiki, Akira",
+            "affiliation": "Allen Institute",
+            "orcid": "0000-0002-7987-6405"
+        },
+        {
+            "name": "Costa, Rui M.",
+            "affiliation": "Allen Institute",
+            "orcid": "0000-0003-0495-8374"
+        }
+    ],
+    "publication_date": "2026-07-06",
+    "version": "0.1",
+    "title": "Single-nucleus RNA sequencing of mouse ventral midbrain in the MitoPark model of Parkinson's disease",
+    "ASAP_lab_name": "",
+    "PI_full_name": "Rui M. Costa",
+    "PI_email": "rui.costa@alleninstitute.org",
+    "coPI_full_name": [],
+    "coPI_email": [],
+    "submitter_name": "Akira Fushiki",
+    "submitter_email": "akira.fushiki@alleninstitute.org",
+    "publication_DOI": "",
+    "grant_ids": [
+        "ASAP-020551"
+    ],
+    "team_name": "Surmeier"
+}

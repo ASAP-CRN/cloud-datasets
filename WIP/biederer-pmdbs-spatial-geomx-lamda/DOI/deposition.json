@@ -1,0 +1,51 @@
+{
+  "created": "2026-07-31T20:12:52.556576+00:00",
+  "modified": "2026-07-31T20:12:53.234213+00:00",
+  "id": 21727341,
+  "conceptrecid": "21727340",
+  "metadata": {
+    "title": "Thomas",
+    "publication_date": "2026-07-29",
+    "description": "Lindsay",
+    "access_right": "open",
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Biederer"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21727341",
+      "recid": 21727341
+    }
+  },
+  "title": "Thomas",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/21727341",
+    "html": "https://zenodo.org/deposit/21727341",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/21727341/files",
+    "bucket": "https://zenodo.org/api/files/51e77ffc-ca11-4041-9d5f-9d4330bc6e93",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21727341",
+    "latest_draft_html": "https://zenodo.org/deposit/21727341",
+    "publish": "https://zenodo.org/api/deposit/depositions/21727341/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21727341/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21727341/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21727341/actions/newversion"
+  },
+  "record_id": 21727341,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

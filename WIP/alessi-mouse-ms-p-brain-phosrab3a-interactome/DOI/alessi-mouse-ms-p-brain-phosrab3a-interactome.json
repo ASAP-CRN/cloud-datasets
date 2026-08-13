@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "title": "The Parkinson's disease kinase LRRK2 impairs release sites of vulnerable dopamine axons",
+        "upload_type": "dataset",
+        "description": "Data relating to the section: \"Phosphorylation of Rab3a decreases its binding to the effector proteins Rim1&2 from mouse brain\". Briefly, p-FLAG RAB3A and FLAG-RAB3A were used as \u2018bait' for the immunoprecipitation of proteins from mouse brain lysate to identify binders that interact differentially. Brains from mice administered a subcutaneous injection of MLi-2 (30 mg/kg, 2 hours). Whole brain was processed and proteomics was performed using DIA-MS on an Orbitrap Astral mass spectrometer.",
+        "publication_date": "2026-07-29",
+        "version": "0.1",
+        "creators": [
+            {
+                "name": "Jaconelli, Matthew",
+                "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+                "orcid": "0009-0003-1536-435X"
+            },
+            {
+                "name": "Alessi, Dario",
+                "affiliation": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of Dundee, Dundee, Scotland, United Kingdom.",
+                "orcid": "0000-0002-2140-9185"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "crn-cloud"
+            },
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Alessi"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}
