@@ -21,7 +21,7 @@ datasets/
     ├── dataset.json                       # Canonical metadata (see schema below)
     ├── DOI/                               # Zenodo deposition files for current version
     │   ├── <dataset-name>.json            # Dataset summary
-    │   ├── project.json                   # Project-level details
+    │   ├── project.json                   # ingest document details
     │   ├── dataset.doi                    # Concept DOI (all versions)
     │   ├── version.doi                    # Version-specific DOI
     │   ├── deposition.json                # Zenodo deposition record
@@ -44,80 +44,121 @@ TODO:  add curation_version information
 example
 ```json
 {
-  "name": "hafler-pmdbs-sn-rnaseq-pfc",
-  "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
-  "description": "pmdbs-sc-rnaseq dataset from team-hafler",
-  "version": "v1.0",
-  "doi": "10.5281/zenodo.15490150",
-  "creators": [
-    {
-      "name": "team-hafler",
-      "affiliation": "ASAP CRN"
-    }
-  ],
-  "keywords": [
-    "pmdbs-sc-rnaseq",
-    "pmdbs-sc-rnaseq",
-    "hafler"
-  ],
-  "license": "CC-BY-4.0",
-  "references": [],
-  "collection": "pmdbs-sc-rnaseq",
-  "buckets": {
-    "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
-    "dev": "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
-    "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
-    "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
-  },
-  "cde_version": "v2.1",
-  "all_versions": {
-    "v1.0": {
-      "doi": "10.5281/zenodo.15490150",
-      "releases":{
-
-      }
-    }
-
-  },
-  "releases": {
-    "v1.0.0": {
-      "cde_version": "v2.1",
-      "dataset_version": "v1.0"
+    "name": "hafler-pmdbs-sn-rnaseq-pfc",
+    "title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
+    "description": "To identify ...[REDACTED].",
+    "version": "v1.1",
+    "doi": "10.5281/zenodo.15490150",
+    "creators": [
+        {
+            "name": "Zhang, Le",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-4860-831X"
+        },
+        {
+            "name": "Sreeganga, Chandra",
+            "affiliation": "Yale University",
+            "orcid": "0000-0001-9035-1733"
+        },
+        {
+            "name": "Biqing, Zhu",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-7428-6297"
+        },
+        {
+            "name": "Jae Min, Park",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-9770-7197"
+        },
+        {
+            "name": "Anthony, Russo",
+            "affiliation": "Yale University",
+            "orcid": "0000-0002-0623-6618"
+        },
+        {
+            "name": "Haowei, Wang",
+            "affiliation": "Yale University"
+        }
+    ],
+    "keywords": [
+        "pmdbs-sc-rnaseq",
+        "pmdbs-sc-rnaseq",
+        "hafler"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": "pmdbs-sc-rnaseq",
+    "buckets": {
+        "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
+        "dev": "gs://asap-dev-team-hafler-pmdbs-sn-rnaseq-pfc",
+        "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
+        "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
     },
-    "v2.0.0": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
+    "cde_version": "v2.1",
+    "releases": {
+        "v1.0.0": {
+            "cde_version": "v2.1",
+            "dataset_version": "v1.0"
+        },
+        "v2.0.0": {
+            "cde_version": "v3.0",
+            "dataset_version": "v1.0"
+        },
+        "v3.0.0": {
+            "cde_version": "v3.2",
+            "dataset_version": "v1.0"
+        },
+        "v4.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0"
+        },
+        "v4.1.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.1"
+        }
     },
-    "v2.0.1": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
+    "dataset_title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
+    "curation": {
+        "name": "pmdbs-sc-rnaseq",
+        "dataset_version": "v1.0",
+        "release_version": "v4.0.0",
+        "collection_version": "v3.1.0",
+        "collection": {
+            "name": "pmdbs-sc-rnaseq",
+            "version": "v3.1.0",
+            "collection_doi": "10.5281/zenodo.14373047"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v1.0.0",
+                "collection_version_doi": null
+            },
+            "v2.0.0": {
+                "collection_version": "v2.0.0",
+                "release_version": "v2.0.0",
+                "collection_version_doi": null
+            },
+            "v3.1.0": {
+                "collection_version": "v3.1.0",
+                "release_version": "v4.0.0",
+                "collection_version_doi": "10.5281/zenodo.17860778"
+            }
+        }
     },
-    "v2.0.2": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
-    },
-    "v2.0.3": {
-      "cde_version": "v3.0",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.0": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.1": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v3.0.2": {
-      "cde_version": "v3.2",
-      "dataset_version": "v1.0"
-    },
-    "v4.0.0": {
-      "cde_version": "v3.3",
-      "dataset_version": "v1.0"
-    }
-  }
+    "all_releases": [
+        "v1.0.0",
+        "v2.0.0",
+        "v3.0.0",
+        "v4.0.0",
+        "v4.1.0"
+    ],
+    "all_versions": [
+        "v1.1",
+        "v1.0"
+    ],
+    "short_description": "pmdbs-sc-rnaseq dataset from team-hafler"
 }
+
 
 ```
 
