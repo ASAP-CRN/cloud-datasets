@@ -1,0 +1,108 @@
+{
+  "created": "2026-09-01T01:58:16.703849+00:00",
+  "modified": "2026-09-01T01:58:17.359391+00:00",
+  "id": 22218189,
+  "conceptrecid": "22218188",
+  "metadata": {
+    "title": "PD5D Midbrain snRNAseq",
+    "publication_date": "2026-08-31",
+    "description": "This dataset contains single-nucleus (snRNAseq) raw data in FASTQ format for 108 midbrain samples from human subjects. Individuals with incidental Lewy body disease, clinical PD, and healthy control were included.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Teng, Xufei",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9282-4282"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-7437-285X"
+      },
+      {
+        "name": "Sharma, Monika",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-7258-1399"
+      },
+      {
+        "name": "Serrano, Geidy E.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas G.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Weykopf, Beatrice",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-5541-839X"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Scherzer, Clemens R.",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-0567-9193"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.22218189",
+      "recid": 22218189
+    }
+  },
+  "title": "PD5D Midbrain snRNAseq",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/22218189",
+    "html": "https://zenodo.org/deposit/22218189",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/22218189/files",
+    "bucket": "https://zenodo.org/api/files/4731248d-3a98-4dfb-ba27-3150c47beae1",
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22218189",
+    "latest_draft_html": "https://zenodo.org/deposit/22218189",
+    "publish": "https://zenodo.org/api/deposit/depositions/22218189/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22218189/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22218189/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22218189/actions/newversion"
+  },
+  "record_id": 22218189,
+  "owner": 615261,
+  "files": [],
+  "state": "unsubmitted",
+  "submitted": false
+}

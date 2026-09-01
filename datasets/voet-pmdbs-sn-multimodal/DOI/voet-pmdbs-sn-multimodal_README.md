@@ -20,7 +20,7 @@ This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x 
 
 **ASAP Team:** Voet
 
-**Dataset Name:** voet-pmdbs-sn-multimodal, v1.0
+**Dataset Name:** voet-pmdbs-sn-multimodal, v2.0
 
 **Principal Investigator:** Stein Aerts <stein.aerts@kuleuven.be>
 
@@ -37,7 +37,7 @@ This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x 
 
 **Project Description:** The functional roles of inherited and acquired genetic variation in the pathogenesis of Parkinson's disease (PD) remain largely unknown. Here, we will first study how germline genetic variants at PD-risk loci, which were identified by genome-wide association study (GWAS), perturb the expression of genes in specific cell (sub)populations of the brain and gut. To this aim, we will apply single-cell gene-expression and open-chromatin quantitative trait locus (QTL) analyses, enabling identification of PD-relevant genes and cell (sub)types. We will deliver the mechanisms of PD-candidate gene expression (dys)regulation in the normal condition, with ageing and in PD, as well as a unique single-cell multi-omic resource for the community. Second, we will study the  nature and role of somatic mutations in brain and gut cells in PD- etiopathology. Finally, we will characterize biochemical and phenotypic effects of loss- or gain-of-function QTLs and somatic mutations of candidate genes in in vitro and in vivo model systems, including their impact on the neuro-immune axis.
 
-**Submission Date:** 2026-05-31
+**Submission Date:** 2026-08-23
 
 __________________________________________
 
