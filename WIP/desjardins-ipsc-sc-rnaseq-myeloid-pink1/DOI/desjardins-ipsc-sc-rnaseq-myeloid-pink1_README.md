@@ -15,7 +15,7 @@ We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocy
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-ipsc-sc-rnaseq-myeloid-pink1, v1.0
+**Dataset Name:** desjardins-ipsc-sc-rnaseq-myeloid-pink1, v0.1
 
 **Principal Investigator:** Jo Anne Stratton <jo.stratton@mcgill.ca>
 
@@ -32,7 +32,7 @@ We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocy
 
 **Project Description:** Parkinson's disease (PD) is a neurodegenerative disorder marked by the development of cardinal motor deficits preceded by a protracted prodromal period of non-motor symptoms often involving the gastrointestinal (GI) tract. There is an emerging consensus that both the peripheral immune system and local neuroinflammation play key roles in the etiology of PD. We previously demonstrated a critical function for the Parkinson's related proteins PINK1 and Parkin as repressors of the innate to adaptive immune response in cultured cells and mouse models of infection. However, it remained unclear whether these processes were conserved in patient-derived models, and precisely how immune signaling may ultimately drive the death of dopaminergic neurons. Here we show that GI infection of PINK1 knockout (KO) mice triggered acute neurodegeneration which was evident early in the enteric nervous system. Treating wild type enteric or dopaminergic neurons with conditioned medium from immune-stimulated PINK1 KO macrophages was sufficient to promote neuronal disruption in both mouse and human neurons in vitro. Within immune-activated macrophages, we reveal that loss of PINK1 led to an enhanced release of mitochondrial DNA (mtDNA) within mitochondrial derived vesicles, leading to the activation of cGAS/STING pathways. These changes were seen in both mouse/human in vitro models and in PD patient-derived primary macrophages. Notably, pharmacological modulation using a PINK1 activator with high therapeutic potential attenuated pro-inflammatory profiles elicited by the mtDNA-dependent STING/NF-κB pathway in idiopathic patient-derived macrophages. Ultimately, our study lays the foundation for understanding PINK1-related peripheral macrophage mechanisms in idiopathic PD and provides a target for further development to treat the disease at early stages.
 
-**Submission Date:** 2026-05-18
+**Submission Date:** 2026-09-30
 
 __________________________________________
 

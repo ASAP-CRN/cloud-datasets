@@ -1,0 +1,96 @@
+{
+  "created": "2026-05-21T21:55:48.257571+00:00",
+  "modified": "2026-09-12T16:55:06.954395+00:00",
+  "id": 20276417,
+  "conceptrecid": "20276416",
+  "doi": "10.5281/zenodo.20276417",
+  "conceptdoi": "10.5281/zenodo.20276416",
+  "doi_url": "https://doi.org/10.5281/zenodo.20276417",
+  "metadata": {
+    "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+    "doi": "10.5281/zenodo.20276417",
+    "publication_date": "2026-05-18",
+    "description": "We performed bulk RNAsequencing of substantia nigra from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Mukherjee, Sriparna",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0002-1299-4343"
+      },
+      {
+        "name": "Trudeau, Louis-Eric",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0003-4684-1377"
+      }
+    ],
+    "version": "v0.0.1-error",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276417",
+      "recid": 20276417
+    }
+  },
+  "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/records/20276417",
+    "html": "https://zenodo.org/records/20276417",
+    "doi": "https://doi.org/10.5281/zenodo.20276417",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276416",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276417.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276416.svg",
+    "files": "https://zenodo.org/api/records/20276417/files",
+    "bucket": "https://zenodo.org/api/files/3e67f4ac-7645-4583-994f-52fe0315cf01",
+    "thumb250": "https://zenodo.org/record/20276417/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20276417/thumb10",
+      "50": "https://zenodo.org/record/20276417/thumb50",
+      "100": "https://zenodo.org/record/20276417/thumb100",
+      "250": "https://zenodo.org/record/20276417/thumb250",
+      "750": "https://zenodo.org/record/20276417/thumb750",
+      "1200": "https://zenodo.org/record/20276417/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276417",
+    "latest_draft_html": "https://zenodo.org/deposit/20276417",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276417/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276417/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276417/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276417/actions/newversion",
+    "record": "https://zenodo.org/api/records/20276417",
+    "record_html": "https://zenodo.org/record/20276417",
+    "latest": "https://zenodo.org/api/records/20276417/versions/latest",
+    "latest_html": "https://zenodo.org/records/20276417/latest"
+  },
+  "record_id": 20276417,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "be3ab81e-d95e-4721-839e-fa46d6ab54cc",
+      "filename": "desjardins-human-pbmc-multimodal-sc-rna-tcr_README.pdf",
+      "filesize": 5095,
+      "checksum": "c52557247d976e93c158806f04af1b68",
+      "links": {
+        "self": "https://zenodo.org/api/records/20276417/files/be3ab81e-d95e-4721-839e-fa46d6ab54cc",
+        "download": "https://zenodo.org/api/records/20276417/draft/files/desjardins-human-pbmc-multimodal-sc-rna-tcr_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

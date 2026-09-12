@@ -1,0 +1,99 @@
+{
+  "created": "2026-09-12T17:42:09.906274+00:00",
+  "modified": "2026-09-12T17:42:10.171727+00:00",
+  "id": 20334808,
+  "conceptrecid": "20276414",
+  "doi": "10.5281/zenodo.20334808",
+  "conceptdoi": "10.5281/zenodo.20276414",
+  "doi_url": "https://doi.org/10.5281/zenodo.20334808",
+  "metadata": {
+    "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
+    "doi": "10.5281/zenodo.20334808",
+    "publication_date": "2026-05-22",
+    "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Mukherjee, Sriparna",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0002-1299-4343"
+      },
+      {
+        "name": "Trudeau, Louis-Eric",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0003-4684-1377"
+      }
+    ],
+    "version": "0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20334808",
+      "recid": 20334808
+    }
+  },
+  "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/records/20334808",
+    "html": "https://zenodo.org/records/20334808",
+    "doi": "https://doi.org/10.5281/zenodo.20334808",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276414",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20334808.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276414.svg",
+    "files": "https://zenodo.org/api/records/20334808/files",
+    "bucket": "https://zenodo.org/api/files/852296f2-abaa-4c2f-a6fd-3d8199a1b1d1",
+    "thumb250": "https://zenodo.org/record/20334808/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20334808/thumb10",
+      "50": "https://zenodo.org/record/20334808/thumb50",
+      "100": "https://zenodo.org/record/20334808/thumb100",
+      "250": "https://zenodo.org/record/20334808/thumb250",
+      "750": "https://zenodo.org/record/20334808/thumb750",
+      "1200": "https://zenodo.org/record/20334808/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20334808",
+    "latest_draft_html": "https://zenodo.org/deposit/20334808",
+    "publish": "https://zenodo.org/api/deposit/depositions/20334808/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20334808/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20334808/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20334808/actions/newversion",
+    "record": "https://zenodo.org/api/records/20334808",
+    "record_html": "https://zenodo.org/record/20334808",
+    "latest": "https://zenodo.org/api/records/20334808/versions/latest",
+    "latest_html": "https://zenodo.org/records/20334808/latest"
+  },
+  "record_id": 20334808,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "95ce9f44-528c-4a0f-b25a-24780ac788be",
+      "filename": "desjardins-mouse-bulk-rnaseq-striatum-pink1_README.pdf",
+      "filesize": 36804,
+      "checksum": "ee6a41ba11bf70f85e5a8a3be8aaecf7",
+      "links": {
+        "self": "https://zenodo.org/api/records/20334808/files/95ce9f44-528c-4a0f-b25a-24780ac788be",
+        "download": "https://zenodo.org/api/records/20334808/draft/files/desjardins-mouse-bulk-rnaseq-striatum-pink1_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

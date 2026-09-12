@@ -17,7 +17,7 @@ We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria ce
 
 **ASAP Team:** Desjardins
 
-**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-lrrk2, v1.0
+**Dataset Name:** desjardins-mouse-sc-rnaseq-colon-immune-lrrk2, v0.1
 
 **Principal Investigator:** Samantha Gruenheid <samantha.gruenheid@mcgill.ca>
 
@@ -35,7 +35,7 @@ We performed 10X Genomics single-cell RNAsequencing of colonic lamina propria ce
 
 **Project Description:** Parkinson's Disease (PD) is a neurodegenerative disorder often preceded by gastrointestinal dysfunction. Mutations in leucine-rich repeat kinase 2 (LRRK2) are known risk factors for both PD and inflammatory bowel disease (IBD), suggesting a link between PD and the gastrointestinal tract. Using single-cell RNA-sequencing and spectral flow cytometry, we demonstrated that the Lrrk2 Gly2019Ser (G2019S) mutation is associated with an increased neutrophil presence in the colonic lamina propria during Citrobacter rodentium infection. This concurred with a Th17 skewing, upregulated Il17a, and greater colonic pathology during infection. In vitro experiments showed enhanced kinase-dependent neutrophil chemotaxis and neutrophil extracellular trap (NET) formation in Lrrk2 G2019S mice compared to wild-type counterparts. Our results add to the understanding of LRRK2-driven immune cell dysregulation and its contribution to PD, offering insights into potential biomarkers for early diagnosis and intervention in PD.
 
-**Submission Date:** 2026-05-18
+**Submission Date:** 2026-09-30
 
 __________________________________________
 

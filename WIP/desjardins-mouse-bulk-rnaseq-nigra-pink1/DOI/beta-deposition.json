@@ -1,0 +1,99 @@
+{
+  "created": "2026-09-12T17:45:38.091159+00:00",
+  "modified": "2026-09-12T17:45:38.264115+00:00",
+  "id": 20334811,
+  "conceptrecid": "20276416",
+  "doi": "10.5281/zenodo.20334811",
+  "conceptdoi": "10.5281/zenodo.20276416",
+  "doi_url": "https://doi.org/10.5281/zenodo.20334811",
+  "metadata": {
+    "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+    "doi": "10.5281/zenodo.20334811",
+    "publication_date": "2026-05-22",
+    "description": "We performed bulk RNAsequencing of substantia nigra from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "orcid": "0000-0002-1205-1353"
+      },
+      {
+        "name": "Mukherjee, Sriparna",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0002-1299-4343"
+      },
+      {
+        "name": "Trudeau, Louis-Eric",
+        "affiliation": "University of Montreal",
+        "orcid": "0000-0003-4684-1377"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20334811",
+      "recid": 20334811
+    }
+  },
+  "title": "Bulk RNAseq of mouse substantia nigra of wild type and PINK1 KO mice after C.rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/records/20334811",
+    "html": "https://zenodo.org/records/20334811",
+    "doi": "https://doi.org/10.5281/zenodo.20334811",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276416",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20334811.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276416.svg",
+    "files": "https://zenodo.org/api/records/20334811/files",
+    "bucket": "https://zenodo.org/api/files/a9f77f6f-6304-4414-b4d9-0bcdb7885b4f",
+    "thumb250": "https://zenodo.org/record/20334811/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20334811/thumb10",
+      "50": "https://zenodo.org/record/20334811/thumb50",
+      "100": "https://zenodo.org/record/20334811/thumb100",
+      "250": "https://zenodo.org/record/20334811/thumb250",
+      "750": "https://zenodo.org/record/20334811/thumb750",
+      "1200": "https://zenodo.org/record/20334811/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20334811",
+    "latest_draft_html": "https://zenodo.org/deposit/20334811",
+    "publish": "https://zenodo.org/api/deposit/depositions/20334811/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20334811/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20334811/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20334811/actions/newversion",
+    "record": "https://zenodo.org/api/records/20334811",
+    "record_html": "https://zenodo.org/record/20334811",
+    "latest": "https://zenodo.org/api/records/20334811/versions/latest",
+    "latest_html": "https://zenodo.org/records/20334811/latest"
+  },
+  "record_id": 20334811,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "a7d1a626-c814-4f1e-a309-da0cc01c7a99",
+      "filename": "desjardins-mouse-bulk-rnaseq-nigra-pink1_README.pdf",
+      "filesize": 36825,
+      "checksum": "08f6c2144e0bf50a26b773f073036de4",
+      "links": {
+        "self": "https://zenodo.org/api/records/20334811/files/a7d1a626-c814-4f1e-a309-da0cc01c7a99",
+        "download": "https://zenodo.org/api/records/20334811/draft/files/desjardins-mouse-bulk-rnaseq-nigra-pink1_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
