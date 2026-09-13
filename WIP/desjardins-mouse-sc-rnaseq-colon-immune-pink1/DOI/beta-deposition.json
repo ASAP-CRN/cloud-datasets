@@ -1,0 +1,94 @@
+{
+  "created": "2026-05-21T20:26:48.134488+00:00",
+  "modified": "2026-09-13T00:20:50.836535+00:00",
+  "id": 20276572,
+  "conceptrecid": "20276571",
+  "doi": "10.5281/zenodo.20276572",
+  "conceptdoi": "10.5281/zenodo.20276571",
+  "doi_url": "https://doi.org/10.5281/zenodo.20276572",
+  "metadata": {
+    "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+    "doi": "10.5281/zenodo.20276572",
+    "publication_date": "2026-05-18",
+    "description": "<p>We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria cells from wild type and PINK1 KO mice following either 1-week or 2-weeks post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 8 groups namely wild type and PINK1 KO uninfected and infected mice at 1- or 2-weeks post-infection. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.&nbsp;</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Recinto, Sherilyn",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0001-9632-1201"
+      },
+      {
+        "name": "Stratton, Jo Anne",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
+        "orcid": "0000-0002-1205-1353"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Desjardins"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.20276572",
+      "recid": 20276572
+    }
+  },
+  "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+  "links": {
+    "self": "https://zenodo.org/api/records/20276572",
+    "html": "https://zenodo.org/records/20276572",
+    "doi": "https://doi.org/10.5281/zenodo.20276572",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276571",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276572.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276571.svg",
+    "files": "https://zenodo.org/api/records/20276572/files",
+    "bucket": "https://zenodo.org/api/files/362467f1-dd7c-4be7-a8d1-5c7a9be7ac04",
+    "thumb250": "https://zenodo.org/record/20276572/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/20276572/thumb10",
+      "50": "https://zenodo.org/record/20276572/thumb50",
+      "100": "https://zenodo.org/record/20276572/thumb100",
+      "250": "https://zenodo.org/record/20276572/thumb250",
+      "750": "https://zenodo.org/record/20276572/thumb750",
+      "1200": "https://zenodo.org/record/20276572/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/20276572",
+    "latest_draft_html": "https://zenodo.org/deposit/20276572",
+    "publish": "https://zenodo.org/api/deposit/depositions/20276572/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/20276572/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/20276572/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/20276572/actions/newversion",
+    "record": "https://zenodo.org/api/records/20276572",
+    "record_html": "https://zenodo.org/record/20276572",
+    "latest": "https://zenodo.org/api/records/20276572/versions/latest",
+    "latest_html": "https://zenodo.org/records/20276572/latest"
+  },
+  "record_id": 20276572,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "894d6194-4a3c-401c-b726-8dfb63a5a777",
+      "filename": "desjardins-mouse-sc-rnaseq-colon-immune-pink1_README.pdf",
+      "filesize": 5854,
+      "checksum": "49d380100f0275be21f9cb4354591c7d",
+      "links": {
+        "self": "https://zenodo.org/api/records/20276572/files/894d6194-4a3c-401c-b726-8dfb63a5a777",
+        "download": "https://zenodo.org/api/records/20276572/draft/files/desjardins-mouse-sc-rnaseq-colon-immune-pink1_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

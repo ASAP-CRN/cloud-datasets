@@ -33,7 +33,7 @@ We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria c
 
 **Project Description:** Parkinson's disease is characterized by a period of non-motor symptoms, including gastrointestinal dysfunction, preceding motor deficits by several years to decades. This long prodrome is suggestive of peripheral immunity involvement in the initiation of disease. We previously developed a model system in PINK1 KO mice displaying PD-like motor symptoms at late stages following intestinal infections. In this study, we map the initiating immune events at the site of infection in this model. Using single-cell RNAseq, we demonstrate that peripheral myeloid cells are the earliest highly dysregulated immune cell type followed by an aberrant T cell response shortly after. We also demonstrate an increased propensity for antigen presentation and that activated myeloid cells acquire a proinflammatory profile capable of inducing cytotoxic T cell responses. Together, our study provides the first evidence that PINK1 is a key regulator of immune functions in the gut underlying early PD-related disease mechanisms.
 
-**Submission Date:** 2026-05-18
+**Submission Date:** 2026-09-30
 
 __________________________________________
 
