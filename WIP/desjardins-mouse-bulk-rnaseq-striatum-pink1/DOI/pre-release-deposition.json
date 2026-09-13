@@ -1,12 +1,12 @@
 {
-  "created": "2026-05-21T22:57:52.900751+00:00",
-  "modified": "2026-05-22T04:08:51.855102+00:00",
-  "id": 20334808,
+  "created": "2026-09-12T18:04:55.845059+00:00",
+  "modified": "2026-09-12T21:45:10.678315+00:00",
+  "id": 22728589,
   "conceptrecid": "20276414",
   "conceptdoi": "10.5281/zenodo.20276414",
   "metadata": {
     "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
-    "publication_date": "2026-05-22",
+    "publication_date": "2026-09-12",
     "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
     "access_right": "open",
     "creators": [
@@ -26,63 +26,61 @@
         "orcid": "0000-0003-4684-1377"
       }
     ],
-    "version": "1.0",
+    "version": "v1.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Desjardins"
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
-      "doi": "10.5281/zenodo.20334808",
-      "recid": 20334808
+      "doi": "10.5281/zenodo.22728589",
+      "recid": 22728589
     }
   },
   "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/20334808",
-    "html": "https://zenodo.org/deposit/20334808",
+    "self": "https://zenodo.org/api/deposit/depositions/22728589",
+    "html": "https://zenodo.org/deposit/22728589",
     "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/20334808/files",
-    "bucket": "https://zenodo.org/api/files/852296f2-abaa-4c2f-a6fd-3d8199a1b1d1",
-    "thumb250": "https://zenodo.org/record/20334808/thumb250",
+    "files": "https://zenodo.org/api/deposit/depositions/22728589/files",
+    "bucket": "https://zenodo.org/api/files/623ea556-5688-4eaa-be63-97793100d209",
+    "thumb250": "https://zenodo.org/record/22728589/thumb250",
     "thumbs": {
-      "10": "https://zenodo.org/record/20334808/thumb10",
-      "50": "https://zenodo.org/record/20334808/thumb50",
-      "100": "https://zenodo.org/record/20334808/thumb100",
-      "250": "https://zenodo.org/record/20334808/thumb250",
-      "750": "https://zenodo.org/record/20334808/thumb750",
-      "1200": "https://zenodo.org/record/20334808/thumb1200"
+      "10": "https://zenodo.org/record/22728589/thumb10",
+      "50": "https://zenodo.org/record/22728589/thumb50",
+      "100": "https://zenodo.org/record/22728589/thumb100",
+      "250": "https://zenodo.org/record/22728589/thumb250",
+      "750": "https://zenodo.org/record/22728589/thumb750",
+      "1200": "https://zenodo.org/record/22728589/thumb1200"
     },
-    "latest_draft": "https://zenodo.org/api/deposit/depositions/20334808",
-    "latest_draft_html": "https://zenodo.org/deposit/20334808",
-    "publish": "https://zenodo.org/api/deposit/depositions/20334808/actions/publish",
-    "edit": "https://zenodo.org/api/deposit/depositions/20334808/actions/edit",
-    "discard": "https://zenodo.org/api/deposit/depositions/20334808/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/20334808/actions/newversion"
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22728589",
+    "latest_draft_html": "https://zenodo.org/deposit/22728589",
+    "publish": "https://zenodo.org/api/deposit/depositions/22728589/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22728589/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22728589/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22728589/actions/newversion"
   },
-  "record_id": 20334808,
+  "record_id": 22728589,
   "owner": 615261,
   "files": [
     {
-      "id": "efc6931f-f06b-4368-ad2b-b750fa997172",
-      "filename": "desjardins-mouse-bulk-rnaseq-nigra-pink1_README.pdf",
-      "filesize": 6237,
-      "checksum": "87d5e881f73785369d7c9f04c9391d26",
-      "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20334808/files/efc6931f-f06b-4368-ad2b-b750fa997172",
-        "download": "https://zenodo.org/api/records/20334808/draft/files/desjardins-mouse-bulk-rnaseq-nigra-pink1_README.pdf/content"
-      }
-    },
-    {
-      "id": "d3f166a9-7690-4b2c-9373-44edae77546a",
+      "id": "bcd9253d-60cf-4ed7-b075-72a4c3c44927",
       "filename": "desjardins-mouse-bulk-rnaseq-striatum-pink1_README.pdf",
-      "filesize": 36802,
-      "checksum": "e00730e45b360bff39171c9f8bf8a555",
+      "filesize": 36804,
+      "checksum": "af41527c09002e4c0d0ad3c9838f5728",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/20334808/files/d3f166a9-7690-4b2c-9373-44edae77546a",
-        "download": "https://zenodo.org/api/records/20334808/draft/files/desjardins-mouse-bulk-rnaseq-striatum-pink1_README.pdf/content"
+        "self": "https://zenodo.org/api/deposit/depositions/22728589/files/bcd9253d-60cf-4ed7-b075-72a4c3c44927",
+        "download": "https://zenodo.org/api/records/22728589/draft/files/desjardins-mouse-bulk-rnaseq-striatum-pink1_README.pdf/content"
       }
     }
   ],

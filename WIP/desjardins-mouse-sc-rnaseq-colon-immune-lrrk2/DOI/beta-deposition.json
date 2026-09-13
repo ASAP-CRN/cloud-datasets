@@ -43,10 +43,10 @@
     "imprint_publisher": "Zenodo",
     "communities": [
       {
-        "identifier": "asaphub"
+        "identifier": "crn-cloud"
       },
       {
-        "identifier": "crn-cloud"
+        "identifier": "asaphub"
       }
     ],
     "upload_type": "dataset",
