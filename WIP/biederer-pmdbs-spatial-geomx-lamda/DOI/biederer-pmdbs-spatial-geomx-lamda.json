@@ -3,8 +3,8 @@
         "title": "Human PD Cingulate GeoMx",
         "upload_type": "dataset",
         "description": "Segments were captured from specific cortical layers of Parkinson's disease cases capturing whole transcriptomes from neurons positive for Lewy bodies, or negative for Lewy bodies using the GeoMx WTA platform.",
-        "publication_date": "2026-07-29",
-        "version": "0.1",
+        "publication_date": "2026-09-30",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Goralski, Thomas",

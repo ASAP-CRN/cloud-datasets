@@ -24,7 +24,7 @@ Segments were captured from specific cortical layers of Parkinson's disease case
 
 **ASAP Team:** Biederer
 
-**Dataset Name:** biederer-pmdbs-spatial-geomx-lamda, v0.1
+**Dataset Name:** biederer-pmdbs-spatial-geomx-lamda, v1.0
 
 **Principal Investigator:** Michael Henderson <michael.henderson@vai.org>
 
@@ -41,7 +41,7 @@ Segments were captured from specific cortical layers of Parkinson's disease case
 
 **Project Description:** Persons with Parkinson's disease often experience cognitive decline and dementia that is well correlated with Lewy pathology in the neocortex. To address how PD impacts cognition, we study the impact of cellular pathology on cortical transcription, connectivity, and function. First, we determine how pathology causes the breakdown of synapses, the cellular structures that connect neurons into networks. Second, we establish links between pathology, dysregulated gene expression, and altered neuronal activity. Third, we use mathematical modeling to understand regional vulnerability. Our findings aim to reveal the molecular dysfunctions and cortical network aberrations that contribute to cognitive impairments in PD.
 
-**Submission Date:** 2026-07-29
+**Submission Date:** 2026-09-30
 
 __________________________________________
 

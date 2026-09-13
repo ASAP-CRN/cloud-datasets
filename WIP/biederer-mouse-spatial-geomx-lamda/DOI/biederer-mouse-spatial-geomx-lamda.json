@@ -3,8 +3,8 @@
         "title": "\u03b1-Synuclein PFF mouse cortex GeoMx",
         "upload_type": "dataset",
         "description": "Segments were captured from specific cortical layers of wildtype mice injected with \u03b1-synuclein PFFs in the dorsal striatum, capturing whole transcriptomes from neurons positive for \u03b1-synuclein inclusions, or negative for \u03b1-synuclein inclusions using the GeoMx WTA platform.",
-        "publication_date": "2026-07-29",
-        "version": "0.1",
+        "publication_date": "2026-09-30",
+        "version": "1.0",
         "creators": [
             {
                 "name": "Goralski, Thomas",

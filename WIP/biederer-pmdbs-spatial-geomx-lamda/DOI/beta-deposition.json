@@ -1,0 +1,144 @@
+{
+  "created": "2026-09-13T03:56:16.952501+00:00",
+  "modified": "2026-09-13T04:07:10.131361+00:00",
+  "id": 21727341,
+  "conceptrecid": "21727340",
+  "doi": "10.5281/zenodo.21727341",
+  "conceptdoi": "10.5281/zenodo.21727340",
+  "doi_url": "https://doi.org/10.5281/zenodo.21727341",
+  "metadata": {
+    "title": "Human PD Cingulate GeoMx",
+    "doi": "10.5281/zenodo.21727341",
+    "publication_date": "2026-07-29",
+    "description": "Segments were captured from specific cortical layers of Parkinson's disease cases capturing whole transcriptomes from neurons positive for Lewy bodies, or negative for Lewy bodies using the GeoMx WTA platform.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Goralski, Thomas",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-2625-9195"
+      },
+      {
+        "name": "Meyerdirk, Lindsay",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-4640-9517"
+      },
+      {
+        "name": "Breton, Libby",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0001-9968-1878"
+      },
+      {
+        "name": "Brasseur, Laura",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0009-0003-5331-138X"
+      },
+      {
+        "name": "Kurgat, Kevin",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-3237-7390"
+      },
+      {
+        "name": "DeWeerd, Daniella",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0002-2675-5132"
+      },
+      {
+        "name": "Turner, Lisa",
+        "affiliation": "Van Andel Institute Pathology Core , Grand Rapids, MI 49503",
+        "orcid": "0000-0003-3586-8566"
+      },
+      {
+        "name": "Becker, Katelyn",
+        "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+        "orcid": "0000-0003-4060-6181"
+      },
+      {
+        "name": "Adams, Marie",
+        "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+        "orcid": "0000-0001-7909-2339"
+      },
+      {
+        "name": "Newhouse, Daniel",
+        "affiliation": "NanoString Technologies, Seattle, WA, USA",
+        "orcid": "0000-0002-7694-0475"
+      },
+      {
+        "name": "Henderson, Michael",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0001-9710-0726"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Biederer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-025191"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21727341",
+      "recid": 21727341
+    }
+  },
+  "title": "Human PD Cingulate GeoMx",
+  "links": {
+    "self": "https://zenodo.org/api/records/21727341",
+    "html": "https://zenodo.org/records/21727341",
+    "doi": "https://doi.org/10.5281/zenodo.21727341",
+    "parent_doi": "https://doi.org/10.5281/zenodo.21727340",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21727341.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21727340.svg",
+    "files": "https://zenodo.org/api/records/21727341/files",
+    "bucket": "https://zenodo.org/api/files/51e77ffc-ca11-4041-9d5f-9d4330bc6e93",
+    "thumb250": "https://zenodo.org/record/21727341/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/21727341/thumb10",
+      "50": "https://zenodo.org/record/21727341/thumb50",
+      "100": "https://zenodo.org/record/21727341/thumb100",
+      "250": "https://zenodo.org/record/21727341/thumb250",
+      "750": "https://zenodo.org/record/21727341/thumb750",
+      "1200": "https://zenodo.org/record/21727341/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21727341",
+    "latest_draft_html": "https://zenodo.org/deposit/21727341",
+    "publish": "https://zenodo.org/api/deposit/depositions/21727341/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21727341/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21727341/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21727341/actions/newversion",
+    "record": "https://zenodo.org/api/records/21727341",
+    "record_html": "https://zenodo.org/record/21727341",
+    "latest": "https://zenodo.org/api/records/21727341/versions/latest",
+    "latest_html": "https://zenodo.org/records/21727341/latest"
+  },
+  "record_id": 21727341,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "85965413-aa01-4913-84cf-f4c9bd71a33a",
+      "filename": "biederer-pmdbs-spatial-geomx-lamda_README.pdf",
+      "filesize": 35964,
+      "checksum": "88e2cbfc173fac3147aa4077a56cf917",
+      "links": {
+        "self": "https://zenodo.org/api/records/21727341/files/85965413-aa01-4913-84cf-f4c9bd71a33a",
+        "download": "https://zenodo.org/api/records/21727341/draft/files/biederer-pmdbs-spatial-geomx-lamda_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}

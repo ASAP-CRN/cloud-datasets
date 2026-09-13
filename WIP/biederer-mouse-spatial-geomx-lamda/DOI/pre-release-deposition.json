@@ -1,0 +1,134 @@
+{
+  "created": "2026-09-13T04:28:50.194633+00:00",
+  "modified": "2026-09-13T04:43:55.881211+00:00",
+  "id": 22732220,
+  "conceptrecid": "21727342",
+  "conceptdoi": "10.5281/zenodo.21727342",
+  "metadata": {
+    "title": "\u03b1-Synuclein PFF mouse cortex GeoMx",
+    "publication_date": "2026-09-13",
+    "description": "Segments were captured from specific cortical layers of wildtype mice injected with \u03b1-synuclein PFFs in the dorsal striatum, capturing whole transcriptomes from neurons positive for \u03b1-synuclein inclusions, or negative for \u03b1-synuclein inclusions using the GeoMx WTA platform.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Goralski, Thomas",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-2625-9195"
+      },
+      {
+        "name": "Meyerdirk, Lindsay",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-4640-9517"
+      },
+      {
+        "name": "Breton, Libby",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0001-9968-1878"
+      },
+      {
+        "name": "Brasseur, Laura",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0009-0003-5331-138X"
+      },
+      {
+        "name": "Kurgat, Kevin",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0003-3237-7390"
+      },
+      {
+        "name": "DeWeerd, Daniella",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0002-2675-5132"
+      },
+      {
+        "name": "Turner, Lisa",
+        "affiliation": "Van Andel Institute Pathology Core , Grand Rapids, MI 49503",
+        "orcid": "0000-0003-3586-8566"
+      },
+      {
+        "name": "Becker, Katelyn",
+        "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+        "orcid": "0000-0003-4060-6181"
+      },
+      {
+        "name": "Adams, Marie",
+        "affiliation": "Van Andel Institute Genomics Core, Grand Rapids, MI 49503",
+        "orcid": "0000-0001-7909-2339"
+      },
+      {
+        "name": "Newhouse, Daniel",
+        "affiliation": "NanoString Technologies, Seattle, WA, USA",
+        "orcid": "0000-0002-7694-0475"
+      },
+      {
+        "name": "Henderson, Michael",
+        "affiliation": "Department of Neurodegenerative Science, Van Andel Institute, Grand Rapids, MI 49503; 2Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD",
+        "orcid": "0000-0001-9710-0726"
+      }
+    ],
+    "version": "v1.0",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Biederer"
+    ],
+    "grants": [
+      {
+        "id": "10.13039/100018231::ASAP-025191"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.22732220",
+      "recid": 22732220
+    }
+  },
+  "title": "\u03b1-Synuclein PFF mouse cortex GeoMx",
+  "links": {
+    "self": "https://zenodo.org/api/deposit/depositions/22732220",
+    "html": "https://zenodo.org/deposit/22732220",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/22732220/files",
+    "bucket": "https://zenodo.org/api/files/514044b7-a72d-4ba8-84c7-3b6377fd9240",
+    "thumb250": "https://zenodo.org/record/22732220/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/22732220/thumb10",
+      "50": "https://zenodo.org/record/22732220/thumb50",
+      "100": "https://zenodo.org/record/22732220/thumb100",
+      "250": "https://zenodo.org/record/22732220/thumb250",
+      "750": "https://zenodo.org/record/22732220/thumb750",
+      "1200": "https://zenodo.org/record/22732220/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22732220",
+    "latest_draft_html": "https://zenodo.org/deposit/22732220",
+    "publish": "https://zenodo.org/api/deposit/depositions/22732220/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22732220/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22732220/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22732220/actions/newversion"
+  },
+  "record_id": 22732220,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "47cf2e84-bc01-4f1a-80f0-f091db4168b0",
+      "filename": "biederer-mouse-spatial-geomx-lamda_README.pdf",
+      "filesize": 36399,
+      "checksum": "b78084846f181d3995763e4ddfa54278",
+      "links": {
+        "self": "https://zenodo.org/api/deposit/depositions/22732220/files/47cf2e84-bc01-4f1a-80f0-f091db4168b0",
+        "download": "https://zenodo.org/api/records/22732220/draft/files/biederer-mouse-spatial-geomx-lamda_README.pdf/content"
+      }
+    }
+  ],
+  "state": "unsubmitted",
+  "submitted": false
+}
