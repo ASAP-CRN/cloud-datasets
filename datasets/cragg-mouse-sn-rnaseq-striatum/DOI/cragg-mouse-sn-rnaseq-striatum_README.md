@@ -12,6 +12,8 @@ This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived fro
 	* 10–11 weeks of age: Early stage, pre-symptomatic or mildly affected, and  
 	* 15–18 weeks of age: Late stage, with clear motor deficits and advanced degeneration.   This snRNA-seq dataset enables in-depth analysis of transcriptomic alterations across distinct PD etiologies and stages.
 
+This v2.0 Dataset reflects fixing some metadata encoding erros and replace corrupted fastqs.
+
 
 **Authors:**
 
@@ -31,11 +33,12 @@ This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived fro
 
 **ASAP Team:** Cragg
 
-**Dataset Name:** cragg-mouse-sn-rnaseq-striatum, v1.0
+**Dataset Name:** cragg-mouse-sn-rnaseq-striatum, v2.0
 
-**Principal Investigator:** Dr. Konstantinos Meletis, dinos.meletis@ki.se
+**Principal Investigator:** Dr. Konstantinos Meletis <dinos.meletis@ki.se>
 
-**Dataset Submitter:** Marta Graziano, marta.graziano@ki.se
+
+**Dataset Submitter:** Marta Graziano <marta.graziano@ki.se>
 
 **Publication DOI:** NA
 
@@ -47,7 +50,7 @@ This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived fro
 
 **Project Description:** As part of the ASAP Collaborative Research Network (CRN), our research program aims to uncover the cellular and molecular mechanisms underlying Parkinson's disease (PD) progression by integrating high-resolution transcriptomic and spatial data across mouse models. The overarching goal is to define convergent and divergent pathways across disease stages, brain regions, and etiologies, and to map how cellular composition and gene expression landscapes are altered in PD.
 
-**Submission Date:** 2025-05-08
+**Submission Date:** 2026-08-23
 
 __________________________________________
 
