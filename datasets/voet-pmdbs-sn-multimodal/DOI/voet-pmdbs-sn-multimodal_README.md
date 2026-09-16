@@ -6,6 +6,8 @@ This Zenodo deposit contains a publicly available description of the Dataset:
  
 This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x Genomics Chromium Next GEM Multiome ATAC/GEX). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors. (edited)
 
+This v2.0 Dataset reflects fixing some metadata encoding erros of fastq file names.
+
 
 **Authors:**
 
@@ -37,7 +39,7 @@ This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x 
 
 **Project Description:** The functional roles of inherited and acquired genetic variation in the pathogenesis of Parkinson's disease (PD) remain largely unknown. Here, we will first study how germline genetic variants at PD-risk loci, which were identified by genome-wide association study (GWAS), perturb the expression of genes in specific cell (sub)populations of the brain and gut. To this aim, we will apply single-cell gene-expression and open-chromatin quantitative trait locus (QTL) analyses, enabling identification of PD-relevant genes and cell (sub)types. We will deliver the mechanisms of PD-candidate gene expression (dys)regulation in the normal condition, with ageing and in PD, as well as a unique single-cell multi-omic resource for the community. Second, we will study the  nature and role of somatic mutations in brain and gut cells in PD- etiopathology. Finally, we will characterize biochemical and phenotypic effects of loss- or gain-of-function QTLs and somatic mutations of candidate genes in in vitro and in vivo model systems, including their impact on the neuro-immune axis.
 
-**Submission Date:** 2026-08-23
+**Submission Date:** 2026-09-30
 
 __________________________________________
 
