@@ -1,6 +1,6 @@
 {
-  "created": "2026-04-16T00:47:43.991780+00:00",
-  "modified": "2026-04-16T00:47:44.379995+00:00",
+  "created": "2026-04-16T00:47:36.688380+00:00",
+  "modified": "2026-09-13T05:25:07.509978+00:00",
   "id": 19600813,
   "conceptrecid": "19600812",
   "doi": "10.5281/zenodo.19600813",
@@ -161,6 +161,14 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.19600813",
@@ -169,14 +177,12 @@
   },
   "title": "iSCORE-PD: NGS genotyping and zygosity testing of isogenic hESC clones",
   "links": {
-    "self": "https://zenodo.org/api/records/19600813",
-    "html": "https://zenodo.org/records/19600813",
+    "self": "https://zenodo.org/api/deposit/depositions/19600813",
+    "html": "https://zenodo.org/deposit/19600813",
     "doi": "https://doi.org/10.5281/zenodo.19600813",
-    "parent_doi": "https://doi.org/10.5281/zenodo.19600812",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600813.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600812.svg",
-    "files": "https://zenodo.org/api/records/19600813/files",
-    "bucket": "https://zenodo.org/api/files/c20f291f-b886-46fa-b64d-66816e13caf9",
+    "files": "https://zenodo.org/api/deposit/depositions/19600813/files",
+    "bucket": "https://zenodo.org/api/files/cc6fd5d0-4a3b-4209-8a09-2ddb2f5d5874",
     "thumb250": "https://zenodo.org/record/19600813/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/19600813/thumb10",
@@ -206,11 +212,11 @@
       "filesize": 9336,
       "checksum": "770d7ecabb1979d1a9653ac305e28112",
       "links": {
-        "self": "https://zenodo.org/api/records/19600813/files/8b01cd36-71e1-43e0-9c6a-730a2c271578",
+        "self": "https://zenodo.org/api/deposit/depositions/19600813/files/8b01cd36-71e1-43e0-9c6a-730a2c271578",
         "download": "https://zenodo.org/api/records/19600813/draft/files/rio-hesc-targeted-ngs-mutant-zygosity_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }

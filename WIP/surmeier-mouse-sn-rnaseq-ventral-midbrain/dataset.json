@@ -2,7 +2,7 @@
     "name": "surmeier-mouse-sn-rnaseq-ventral-midbrain",
     "title": "surmeier-mouse-sn-rnaseq-ventral-midbrain",
     "description": "Dataset from team-surmeier",
-    "version": "v0.1",
+    "version": "0.1",
     "doi": "10.5281/zenodo.21308457",
     "creators": [
         {

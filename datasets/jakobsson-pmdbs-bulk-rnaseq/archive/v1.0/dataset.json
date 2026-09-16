@@ -2,7 +2,7 @@
     "name": "jakobsson-pmdbs-bulk-rnaseq",
     "title": "team-jakobsson-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from team-jakobsson",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.16929448",
     "creators": [
         {

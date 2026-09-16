@@ -2,7 +2,7 @@
     "name": "scherzer-pmdbs-sn-rnaseq-mtg",
     "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
     "description": "pmdbs-sc-rnaseq dataset from team-scherzer",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.16751625",
     "creators": [
         {

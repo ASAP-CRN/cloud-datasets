@@ -1,6 +1,6 @@
 {
-  "created": "2026-04-16T00:47:27.123667+00:00",
-  "modified": "2026-04-16T00:47:27.410353+00:00",
+  "created": "2026-04-16T00:47:20.780863+00:00",
+  "modified": "2026-09-13T05:24:26.693939+00:00",
   "id": 19600808,
   "conceptrecid": "19600807",
   "doi": "10.5281/zenodo.19600808",
@@ -161,6 +161,14 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.19600808",
@@ -169,14 +177,12 @@
   },
   "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 hESCs",
   "links": {
-    "self": "https://zenodo.org/api/records/19600808",
-    "html": "https://zenodo.org/records/19600808",
+    "self": "https://zenodo.org/api/deposit/depositions/19600808",
+    "html": "https://zenodo.org/deposit/19600808",
     "doi": "https://doi.org/10.5281/zenodo.19600808",
-    "parent_doi": "https://doi.org/10.5281/zenodo.19600807",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600808.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600807.svg",
-    "files": "https://zenodo.org/api/records/19600808/files",
-    "bucket": "https://zenodo.org/api/files/f33cb49a-642b-42ef-81a8-8d2abd0d0ca6",
+    "files": "https://zenodo.org/api/deposit/depositions/19600808/files",
+    "bucket": "https://zenodo.org/api/files/e083aa07-8d85-4039-9ebc-20bb365da2b2",
     "thumb250": "https://zenodo.org/record/19600808/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/19600808/thumb10",
@@ -206,11 +212,11 @@
       "filesize": 9113,
       "checksum": "8675a4f2dcab544bfb6acf5efa1e534e",
       "links": {
-        "self": "https://zenodo.org/api/records/19600808/files/4a892978-0691-4ec7-9e60-d94a8c42848c",
+        "self": "https://zenodo.org/api/deposit/depositions/19600808/files/4a892978-0691-4ec7-9e60-d94a8c42848c",
         "download": "https://zenodo.org/api/records/19600808/draft/files/rio-hesc-sc-rnaseq-irradiated_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }

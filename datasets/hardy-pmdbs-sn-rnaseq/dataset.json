@@ -2,7 +2,7 @@
     "name": "hardy-pmdbs-sn-rnaseq",
     "title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Parietal Lobule (IPL), and Anterior Cingulate Cortex (ACG). Types of Samples: Late stage (Braak 5-6) PD and control post-mortem brains.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16749080",
     "creators": [
         {
@@ -76,7 +76,7 @@
         "collection_version": "v3.1.0",
         "collection": {
             "name": "pmdbs-sc-rnaseq",
-            "version": "v3.1.0",
+            "version": "3.1.0",
             "collection_doi": "10.5281/zenodo.14373047"
         },
         "releases": {

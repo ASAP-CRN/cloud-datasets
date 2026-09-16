@@ -3,7 +3,7 @@
     "name": "hafler-pmdbs-sn-rnaseq-pfc",
     "title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
     "description": "To identify and characterize selectively vulnerable brain cell populations in Parkinson\u2019s disease (PD), we performed single nucleus transcriptomics and unbiased proteomics to profile the prefrontal cortex from postmortem human brains of six individuals with late-stage PD and six age-matched controls. Analysis of nearly 80,000 nuclei led to the identification of eight major brain cell types, including elevated brain-resident T cells in PD, each with distinct transcriptional changes in agreement with the known genetics of PD. By analyzing Lewy body pathology in the same postmortem brain tissues, we found that \u03b1-synuclein pathology was inversely correlated with chaperone expression in excitatory neurons. Examining cell-cell interactions, we found a selective abatement of neuron-astrocyte interactions and enhanced neuroinflammation. Proteomic analyses of the same brains identified synaptic proteins in the prefrontal cortex that were preferentially downregulated in PD. By comparing this single cell PD dataset with a published analysis of similar brain regions in Alzheimer\u2019s disease (AD), we found no common differentially expressed genes in neurons but identified many shared differentially expressed genes in glial cells, suggesting that the disease etiologies, especially in the context of neuronal vulnerability, in PD and AD are likely distinct. To prepare these samples, nuclei were isolated from post-mortem, fresh-frozen human brain tissue. Approximately 50 to 100 mg of frozen tissue was homogenized in 15 ml of ice-cold nuclei homogenization buffer [2 M sucrose, 10 mM HEPES (pH 7.9), 25 mM KCl, 1 mM EDTA (pH 8.0), 10% glycerol, with freshly added RNase inhibitors (80 U/ml)] using a Dounce tissue grinder (10 strokes with the loose pestle, followed by 10 strokes with the tight pestle). The homogenate was layered over 10 ml of fresh homogenization buffer in an ultracentrifuge tube and centrifuged at 25,000 rpm for 60 minutes at 4\u00b0C. After ultracentrifugation, the supernatant was discarded, and the nuclei pellet was resuspended in 1 ml of nuclei resuspension buffer [15 mM HEPES (pH 7.4), 15 mM NaCl, 60 mM KCl, 2 mM MgCl\u2082, 3 mM CaCl\u2082, with freshly added RNase inhibitors (80 U/ml)] and counted using a hemocytometer prior to loading for 10x Genomics platform.  The snRNA-seq libraries were prepared by the 10x Genomics Chromium Single Cell 3' Reagent Kit v3 chemistry according to the manufacturer's instructions and sequenced using Illumina NovaSeq6000 S4 sequencer. A custom pre-mRNA human genome reference was generated with GRCh38 (Ensembl 93) that included pre-mRNA sequences by 10x Cell Ranger. snRNA-seq data were aligned to this GRCh38 pre-mRNA human genome reference (Ensembl 93) to map both unspliced pre-mRNA and mature mRNA using 10x CellRanger version 3.1.0.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.15490150",
     "creators": [
       {
@@ -80,7 +80,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -113,7 +113,7 @@
     "name": "lee-pmdbs-sn-rnaseq",
     "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
     "description": "Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substantia nigra samples of human PD and control postmortem brains. All three brain regions were co-sampled from each donor to enable direct comparison of transcriptomic signatures across anatomically and functionally distinct regions within the same brain.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16744323",
     "creators": [
       {
@@ -200,7 +200,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -321,7 +321,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -356,7 +356,7 @@
     "name": "hardy-pmdbs-sn-rnaseq",
     "title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Parietal Lobule (IPL), and Anterior Cingulate Cortex (ACG). Types of Samples: Late stage (Braak 5-6) PD and control post-mortem brains.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16749080",
     "creators": [
       {
@@ -430,7 +430,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -457,7 +457,7 @@
     "name": "hardy-pmdbs-bulk-rnaseq",
     "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 288 samples derived from PMDBS samples across Anterior Cingulate Cortex (ACG), Inferior Parietal Lobule (IPL), Middle Frontal Gyrus (MFG), and Middle Temporal Gyrus (MTG) Types of Samples: Late stage (Braak 6) PD and control post-mortem brains.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16749098",
     "creators": [
       {
@@ -531,7 +531,7 @@
       "collection_version": "v1.2.0",
       "collection": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
+        "version": "1.2.0",
         "collection_doi": "10.5281/zenodo.14373343"
       },
       "releases": {
@@ -558,7 +558,7 @@
     "name": "lee-pmdbs-bulk-rnaseq-mfg",
     "title": "Bulk RNA-sequencing of human middle frontal gyrus",
     "description": "Bulk RNA-seq data from middle frontal gyrus samples of human PD and control postmortem brains.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16748937",
     "creators": [
       {
@@ -636,7 +636,7 @@
       "collection_version": "v1.2.0",
       "collection": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
+        "version": "1.2.0",
         "collection_doi": "10.5281/zenodo.14373343"
       },
       "releases": {
@@ -663,7 +663,7 @@
     "name": "wood-pmdbs-bulk-rnaseq",
     "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 234 samples derived from PMDBS samples across Substantia Nigra, Caudate, Putamen, Parahippocampal Gyrus, Cingulate Cortex, Temporal Cortex, Frontal Cortex, Parietal Cortex Types of Samples: (Braak 3-4) PD and control post-mortem brains. https://github.com/Jbrenton191/RNAseq_splicing_pipeline",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16749007",
     "creators": [
       {
@@ -737,7 +737,7 @@
       "collection_version": "v1.2.0",
       "collection": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
+        "version": "1.2.0",
         "collection_doi": "10.5281/zenodo.14373343"
       },
       "releases": {
@@ -896,7 +896,7 @@
     "name": "cohort-pmdbs-sc-rnaseq",
     "title": "asap-cohort-pmdbs-sc-rnaseq",
     "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
-    "version": "v3.1.1",
+    "version": "3.1.1",
     "doi": "10.5281/zenodo.19876217",
     "creators": [
       {
@@ -948,7 +948,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -983,7 +983,7 @@
     "name": "cohort-pmdbs-bulk-rnaseq",
     "title": "asap-cohort-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
-    "version": "v1.2.1",
+    "version": "1.2.1",
     "doi": "10.5281/zenodo.16975686",
     "creators": [
       {
@@ -1032,7 +1032,7 @@
       "collection_version": "v1.2.0",
       "collection": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
+        "version": "1.2.0",
         "collection_doi": "10.5281/zenodo.14373343"
       },
       "releases": {
@@ -1197,7 +1197,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -1232,7 +1232,7 @@
     "name": "biederer-mouse-sc-rnaseq",
     "title": "Singel Cell RNASeq of motor cortex in a mouse model of alpha-synuclein pathology",
     "description": "This dataset was created with the goal of identifying transcriptomic changes associated with alpha-synuclein pathology in the alpha-synuclein fibril seeding mouse model. The dataset includes single cell RNA Sequencing data from motor cortex of mice injected with alpha-synuclein pre-formed fibrils (\u201cPFF\u201d group) or alpha-synuclein monomer as controls (\u201cControl\u201d group). The dataset includes subject cohorts with different levels of the following additional experimental factors: sex (male or female); brain hemisphere relative to the PFF injection site (ipsilateral or contralateral); time post-injection (1, 3, 6, or 9 months post-injection).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15485103",
     "creators": [
       {
@@ -1312,7 +1312,7 @@
       "collection_version": "v1.0.0",
       "collection": {
         "name": "mouse-sc-rnaseq",
-        "version": "v1.0.0",
+        "version": "1.0.0",
         "collection_doi": "10.5281/zenodo.17860974"
       },
       "releases": {
@@ -1337,7 +1337,7 @@
     "name": "cragg-mouse-sn-rnaseq-striatum",
     "title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
     "description": "This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived from mouse models of Parkinson's disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology.  Single-nucleus RNA sequencing (snRNA-seq) was performed on mouse striatal tissue from two distinct PD models: \n\n1. Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls. \n\n2. Progressive Genetic Model (MitoPark): The MitoPark model (Slc6a3-cre; Tfam^flx/flx) induces mitochondrial dysfunction specifically in dopaminergic neurons, leading to progressive neurodegeneration. Samples were collected at two timepoints: \n\t* 10\u201311 weeks of age: Early stage, pre-symptomatic or mildly affected, and  \n\t* 15\u201318 weeks of age: Late stage, with clear motor deficits and advanced degeneration.   This snRNA-seq dataset enables in-depth analysis of transcriptomic alterations across distinct PD etiologies and stages.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15400039",
     "creators": [
       {
@@ -1437,7 +1437,7 @@
       "collection_version": "v1.0.0",
       "collection": {
         "name": "mouse-sc-rnaseq",
-        "version": "v1.0.0",
+        "version": "1.0.0",
         "collection_doi": "10.5281/zenodo.17860974"
       },
       "releases": {
@@ -1462,7 +1462,7 @@
     "name": "edwards-pmdbs-spatial-geomx-th",
     "title": "Spatial Transcriptomics data (GeoMx) of midbrain dopamine cells in control and PD subjects",
     "description": "The repository includes Spatial Transcriptomic datasets generated by Nanostring GeoMx (Hu WTA) analysis of midbrain TH+ cells from Controls (n=10), Incidental Lewy Body Disease (n=10), early Parkinsons Disease (ePD,n=5) and late Parkinsons Disease (lPD,n=5). A total 348 Regions of Interest were analysed. The raw and processed counts and metadata are provided as an R Seurat object (geomx_edwards_thmask.rds). The scripts used for low level data processing are described in https://github.com/zchatt/ASAP-SpatialTranscriptomics/blob/main/geomx/lowlevel/README.md  Tissue samples from pathologically confirmed asymptomatic stage I-II Lewy body disease, stage IV Lewy body PD (early-PD), stage VI Lewy body PD (late-PD)(Braak, Del Tredici et al. 2003) and controls without the neurological or neuropathological disease were obtained from the Sydney Brain Bank. The study was approved by the University of Sydney Human Research Ethics Committee (2021/845). All cases with PD were levodopa-responsive and fulfilled the UK Brain Bank Clinical Criteria for a diagnosis of clinical PD (Hughes, Ben-Shlomo et al. 1992) with no other neurodegenerative conditions.   Cells were not extracted. Tissue sections were cut from FFPE blocks of post-mortem human midbrains at 6\u00b5m on a rotary microtome (HistoCore MULTICUT, Leica Biosystems) and mounted on Series 2 adhesive microscope slides (Trajan Scientific Medical, AU) for processing for spatial trranscriptomics. To remove the paraffin, slides were incubated in the oven at 60\u00b0C for 1hr and then submerged in HistoChoice Clearing Agent (Sigma-Aldrich, H2779) for 2x7mins, followed by rehydration in decreasing ethanol concentrations (100% ethanol for 2x3mins, 95% ethanol for 3mins, 70% ethanol for 3mins) and distilled H2O for 3mins.   Tissue sections were immunohistochemically stained for tyrosine hydroxylase and Regions of Interest (ROIs) processed following Nanostring GeoMx\u00ae Digital Spatial Profiler using the manufacturer\u2019s instructions. Libraries were sequenced on Illumina Novaseq 6000 platform using NovaSeq SP 100 cycle kit (XP workflow, 27-8-8-27).  This research was funded in whole or in part by Aligning Science Across Parkinson\u2019s (ASAP-020529) through the Michael J. Fox Foundation for Parkinson\u2019s Research (MJFF). For the purpose of open access, the author has applied a CC BY 4.0 public copyright license to all Author Accepted Manuscripts arising from this submission.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15480990",
     "creators": [
       {
@@ -1530,7 +1530,7 @@
       "collection_version": "v1.1.0",
       "collection": {
         "name": "pmdbs-spatial-rnaseq",
-        "version": "v1.1.0",
+        "version": "1.1.0",
         "collection_doi": "10.5281/zenodo.16979474"
       },
       "releases": {
@@ -1555,7 +1555,7 @@
     "name": "cragg-mouse-spatial-visium-striatum",
     "title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
     "description": "This dataset includes Spatial Transcriptomics (ST) data derived from mouse models of Parkinson\u2019s disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology. The Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls. Spatial gene expression profiling was conducted on the striata of mice from the mild 6-OHDA model to preserve anatomical context. Tissue sections were collected from six adult mice \u2014 three 6-OHDA-treated and three untreated controls. For each animal, four rostro-caudal levels of the striatum were analyzed, capturing regional heterogeneity in response to dopaminergic denervation. The 10X Genomics Visium platform was used to generate spatially resolved transcriptomic maps. This ST dataset allows for the visualization and quantification of spatial patterns in gene expression following mild dopaminergic injury, complementing the cell-type-specific insights gained from the snRNA-seq data.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15428115",
     "creators": [
       {
@@ -1655,7 +1655,7 @@
       "collection_version": "v1.0.0",
       "collection": {
         "name": "mouse-spatial-rnaseq",
-        "version": "v1.0.0",
+        "version": "1.0.0",
         "collection_doi": "10.5281/zenodo.16979296"
       },
       "releases": {
@@ -1680,7 +1680,7 @@
     "name": "jakobsson-pmdbs-bulk-rnaseq",
     "title": "Deep bulk RNAseq of neurological controls and PD brains",
     "description": "Human post-mortem brain tissue from donors with Lewy Body pathology and neurologically healthy controls was sourced from the Cambridge Brain Bank under London\u2013Bloomsbury Research Ethics Committee (REC reference no. 16/LO/0508). Donors with Lewy Body pathology (n=25) had a clinical diagnosis of Parkinson's disease and were compared to an age- and sex-matched group of neurologically healthy control donors (n=18) who had no history of neurological illness. A neuropathologist assessed all cases for Lewy Body pathology Braak staging, co-existing proteinopathies and other pathologies. Fresh frozen tissue was sampled from SN,  PUT, AMY, and PFC at the level of Brodmann area 46 (PFC). A 3 mm3 tissue piece was cut from the same tissue block that had been used for snRNA sequencing and disrupted using a Tissuelyser (Qiagen). A steel bead and RLT buffer with -mercaptoethanol was added to the Tissuelyser and shaken at 30 Hz for 2 minutes. Total RNA was isolated from the disrupted tissue using the RNeasy Mini Kit (Qiagen; RRID). The sequencing libraries were then generated using Illumina TruSeq Stranded mRNA library prep kit (with poly-A selection) and sequenced on a NovaSeq6000 or Novaseq X plus (2 x 150 paired end). Basecalling and sample-specific fastq files were done using Illumina's bcl2fastq  in default parameters. Reads were uniquely mapped to hg38 reference genome using STAR aligner (version 2.7.8a; REF; RFID, --outFilterMultimapNmax 1, --outFilterMismatchNoverLmax 0.03).  TE and gene quantification was performed using featureCounts (subread package version 1.6.3; REF; RFID -s 2) and gencode annotation version 38, repeatmasker (open-4.0.5, filtered from tRNAs, simple repeats, small RNAs, and low-complexity regions), or retrotector predictions annotation.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.16929448",
     "creators": [
       {
@@ -1801,7 +1801,7 @@
       "collection_version": "v1.2.0",
       "collection": {
         "name": "pmdbs-bulk-rnaseq",
-        "version": "v1.2.0",
+        "version": "1.2.0",
         "collection_doi": "10.5281/zenodo.14373343"
       },
       "releases": {
@@ -1825,7 +1825,7 @@
     "name": "alessi-invitro-ms-p-hek293-gtip",
     "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content",
     "description": "Quantitative DIA-based proteomic analysis of Golgi-IP in HEK293 cells. The data set contains six replicates of GolgiTAG-IP, Control-IP, GolgiTAG whole cell extract and Control cells whole cell extract. The mass spectrometry data is acquired using variable data independent acquisition (vDIA) on an Orbitrap Exploris 480 mass spectrometer. Database searches performed against Human Uniprot database using Spectronaut search algorithm.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.17355407",
     "creators": [
       {
@@ -1884,7 +1884,7 @@
     "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
     "title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
     "description": "Single-nucleus RNA sequencing data of 4 mice, each inoculated with 4 AAV serotypes. The mice were all male and 8-10 weeks of age at when olfactory epithelium tissue was harvested. Samples were paired-end sequences using v3.1 \u2013 Dual Index using Illumina Novaseq 6000 sequencer.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17358327",
     "creators": [
       {
@@ -1982,7 +1982,7 @@
     "name": "scherzer-pmdbs-spatial-visium-mtg",
     "title": "PD5D_MTG_Visium10x_ST",
     "description": "Visium 10x spatial transcriptomic raw data in FASTQ format of the middle  temporal gyrus of 96 human subjects. Individuals with incidental Lewy body  disease, clinical PD, and healthy control were included. In addition to subject level metadata, Visium spatial metadata such as H&E images and spot  coordinates are included.   These data are one component of the PD5D cohort, which intends to build a  multi-dimensional and multi-omic atlas of PD pathology. For the same subjects, other omics assays have been collected including genotyping,  snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus  and substantia nigra.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.17242087",
     "creators": [
       {
@@ -2074,7 +2074,7 @@
       "collection_version": "v1.1.0",
       "collection": {
         "name": "pmdbs-spatial-rnaseq",
-        "version": "v1.1.0",
+        "version": "1.1.0",
         "collection_doi": "10.5281/zenodo.16979474"
       },
       "releases": {
@@ -2100,7 +2100,7 @@
     "name": "scherzer-pmdbs-genetics",
     "title": "PD5D_MTG_MEGA_Chip_Genotype",
     "description": "This dataset represents the PLINK bed format genotype data of PD5D  subjects (PD5D_MTG_snRNAseq). All subjects were genotyped on the  Infinium Multi-Ethnic Global-8 v1 chip. Raw genotypes were processed  with PLINK (v1.90) and basic quality control, including removal of low quality genotypes and low-quality variants, was performed. Please note  that the position information in the file was based on human GRC37/hg19  reference genome.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.17242295",
     "creators": [
       {
@@ -2169,7 +2169,7 @@
     "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
     "title": "Single-nucleus transcriptomic analysis of the dorsal striatum from 6-month-old G2019S LRRK2 mutant mice",
     "description": "We performed single-nucleus transcriptomic analysis of the dorsal striatum from 5 wild-type and 5 G2019S LRRK2 mutant mice. This dataset contains the raw fastqs files (grouped together by indexes) from mouse dorsal striatum, sorted by 10 samples (S1 to S10), with files separated by read 1 (R1), read 2 (R2), index reads (I1 and I2), and which lane they were in on the S4 flow cell (L1 to L4). These files are created by bcl2fastq of Cell Ranger; the sequences in those files were used for the alignments.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17212215",
     "creators": [
       {
@@ -2227,7 +2227,7 @@
     "name": "jakobsson-invitro-bulk-rnaseq-dopaminergic",
     "title": "Bulk RNAseq of dopaminergic neurons in vitro cultures",
     "description": "This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human embryonic stem cells into dopaminergic neurons. Briefly, hES (RC17) and hiPSCs (KOLF2.1) were differentiated towards ventral midbrain (vMB) fate based on a previously published protocol (Nolbrant et al, 2017). Detailed protocols for generation of human ventral midbrain dopaminergic progenitors and dopaminergic neurons can be found at dx.doi.org/10.17504/protocols.io.kxygx4eqol8j/v1 and dx.doi.org/10.17504/protocols.io.q26g7nbd1lwz/v1, respectively.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17149266",
     "creators": [
       {
@@ -2355,7 +2355,7 @@
     "name": "jakobsson-invitro-bulk-rnaseq-microglia",
     "title": "Bulk RNAseq of microglia in vitro cultures",
     "description": "This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human pluripotent stem cells (hPSCs) into microglia. Briefly, hES (H9) and hiPSCs (KOLF2.1) underwent mesodermal induction via embryoid body formation, followed by hemogenic endothelium induction and myeloid differentiation to generate primitive monocyte-like precursors. These precursors were then matured into microglia by supplementing with key neuron-derived factors that promote microglial identity, thereby recapitulating human microglia in monoculture. A detailed protocol can be found at doi: dx.doi.org/10.17504/protocols.io.14egnr8ezl5d/v1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17149290",
     "creators": [
       {
@@ -2483,7 +2483,7 @@
     "name": "sulzer-pmdbs-sn-rnaseq",
     "title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
     "description": "Samples of the Cingulate Cortex and Substantia Nigra from  post-mortem brains from the New York Brain Bank were dissected and processed using 10X single-nucleus RNA sequencing on the  Chromium Next GEM Single Cell v3.1 (Dual Index) platform.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.17612853",
     "creators": [
       {
@@ -2558,7 +2558,7 @@
       "collection_version": "v3.1.0",
       "collection": {
         "name": "pmdbs-sc-rnaseq",
-        "version": "v3.1.0",
+        "version": "3.1.0",
         "collection_doi": "10.5281/zenodo.14373047"
       },
       "releases": {
@@ -2583,7 +2583,7 @@
     "name": "cohort-mouse-sc-rnaseq",
     "title": "asap-cohort-mouse-sc-rnaseq",
     "description": "mouse-sc-rnaseq dataset from asap-cohort",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "doi": "10.5281/zenodo.17860975",
     "creators": [
       {
@@ -2619,7 +2619,7 @@
       "collection_version": "v1.0.0",
       "collection": {
         "name": "mouse-sc-rnaseq",
-        "version": "v1.0.0",
+        "version": "1.0.0",
         "collection_doi": "10.5281/zenodo.17860974"
       },
       "releases": {
@@ -2641,7 +2641,7 @@
     "name": "schapira-fecal-metagenome-human-baseline",
     "title": "Human fecal shotgun metagenomic sequencing in Parkinson's disease individuals, non-manifesting GBA1 variant carriers and healthy controls",
     "description": "The microbial species abundance table: list of microbial species detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial species catalogues. The species are listed as msp_ID, which corresponds to metagenomic species pangenomes (MSPs), which is a collection of known or still unknown species reconstructed from human gut metagenomic assemblies. The MSPs are annotated at all taxonomical level using the Genome Taxonomy Database GDTB R07-RS207 database, up until the lowest known taxonomical rank. The microbial functional abundance table: list of microbial functions detected from fecal samples sequenced by shotgun metagenomic sequencing. Software used: METEOR, in combination with human digestive (gut and oral) microbial gene catalogues and annotated with KEGG, eggNOG and TIGRFAM databases. These databases are used to infer the presence, abundance and completeness of functional modules (Gut-Brain modules, Gut-Metabolic modules and KEGG modules) in each metagenomic samples.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18353680",
     "creators": [
       {
@@ -2827,7 +2827,7 @@
     "name": "lee-mouse-liver-bulk-rnaseq-g2019s",
     "title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
     "description": "The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273810",
     "creators": [
       {
@@ -2876,7 +2876,7 @@
     "name": "lee-mouse-bulk-rnaseq-striatum-g2019s-hf-diet",
     "title": "Bulk RNA-seq analysis of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, striatal tissue was collected for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273802",
     "creators": [
       {
@@ -2924,7 +2924,7 @@
     "name": "lee-mouse-sn-rnaseq-midbrain-g2019s-hf-diet",
     "title": "Bulk RNA-seq analysis of the liver in G2019S LRRK2 knockin mice",
     "description": "The liver was collected from G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) for bulk RNA-seq analysis. Each experimental group contained biological replicates (n = 4 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273808",
     "creators": [
       {
@@ -2972,7 +2972,7 @@
     "name": "liddle-human-colon-spatial-cosmx-rna-1000p",
     "title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
     "description": "NanoString CosMxTM human sigmoid colon RNA 1000-plex dataset exported from Atomx for downstream analysis spatially resolves up to 1000 transcripts (CMx Hs Univ Cell Panel RNA Kit EA: CAT# 121500002). A custom spike in for the following 12 genes labeled following the HUGO gene nomenclature were included in the RNA assay: SLC6A4 (solute carrier family 6 member 4), CHGA (chromogranin A), SLC11A2 (solute carrier family 11 member 2), FTH1(ferritin heavy chain 1), HAMP (hepcidin antimicrobial peptide), IREB2 (iron responsive element binding protein 2), ITPKB (Inositol-Trisphosphate 3-Kinase B), NDUFB1 (NADH: Ubiquinone Oxidoreductase Subunit B1), PINK1 (PTEN-induced kinase 1), PYY (peptide YY), RAB8A (RAB8A, member RAS oncogene family), TF (transferrin). We used morphology markers CD45, PanCK, CD3 to visualize the tissue and picked two 0.5mm fields of view (FOV) per sample.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17917788",
     "creators": [
       {
@@ -3040,7 +3040,7 @@
     "name": "liddle-human-colon-spatial-cosmx-protein-64p",
     "title": "Bolen Human Sigmoid Colon RNA CosMx Dataset",
     "description": "NanoString CosMxTM human sigmoid colon RNA 1000-plex dataset exported from Atomx for downstream analysis spatially resolves up to 1000 transcripts (CMx Hs Univ Cell Panel RNA Kit EA: CAT# 121500002). A custom spike in for the following 12 genes labeled following the HUGO gene nomenclature were included in the RNA assay: SLC6A4 (solute carrier family 6 member 4), CHGA (chromogranin A), SLC11A2 (solute carrier family 11 member 2), FTH1(ferritin heavy chain 1), HAMP (hepcidin antimicrobial peptide), IREB2 (iron responsive element binding protein 2), ITPKB (Inositol-Trisphosphate 3-Kinase B), NDUFB1 (NADH: Ubiquinone Oxidoreductase Subunit B1), PINK1 (PTEN-induced kinase 1), PYY (peptide YY), RAB8A (RAB8A, member RAS oncogene family), TF (transferrin). We used morphology markers CD45, PanCK, CD3 to visualize the tissue and picked two 0.5mm fields of view (FOV) per sample.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17917771",
     "creators": [
       {
@@ -3108,7 +3108,7 @@
     "name": "alessi-mefs-ms-p-vps35-d620n-wt",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
     "description": "Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and whole-cell extracts (WCL) from VPS35[D620N] knock-in MEFs. The dataset includes six biological replicates comparing cells treated with the LRRK2 inhibitor MLi-2 (100 nM, 2 h) against DMSO vehicle controls. Expression of the 3XHA-TMEM192 lysosomal tag was determined by genotyping PCR and verified via anti-HA immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476408",
     "creators": [
       {
@@ -3156,7 +3156,7 @@
     "name": "alessi-mefs-ms-p-vps35-d620n-dmso-mli2",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Embryonic Fibroblasts (MEFs) with LRRK2 inhibition.",
     "description": "Quantitative DIA-based proteomic analysis of isolated lysosomes (Lyso-IP) and whole-cell extracts (WCL) from VPS35[D620N] knock-in MEFs. The dataset includes six biological replicates comparing cells treated with the LRRK2 inhibitor MLi-2 (100 nM, 2 h) against DMSO vehicle controls. Expression of the 3XHA-TMEM192 lysosomal tag was determined by genotyping PCR and verified via anti-HA immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476410",
     "creators": [
       {
@@ -3204,7 +3204,7 @@
     "name": "sulzer-fecal-metagenome-fp-spf",
     "title": "Oral treatment of Thy1-ASO mice with Faecalibacterium prausnitzii",
     "description": "A number of microbial taxa have been found to be reduced in Parkinson's disease (PD). Treatment of \u03b1-synuclein overxpressing (Thy1-ASO) mice, an animal model of PD, with these taxa has also been shown to improve motor and GI deficits. This dataset focuses on one of the reduced taxa, Faecalibacterium prausnitzii, and the effect of providing it as an oral treatment to both Thy1-ASO mice and wild-type controls.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18989559",
     "creators": [
       {
@@ -3251,7 +3251,7 @@
     "name": "lee-mouse-ms-p-lung-g2019s-hf-diet",
     "title": "Global proteomic analysis of the lung in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized and homogenized. Protein were digested and dried down before resuspension for LC-MS/MS analysis. DIA data was processed in Spectronaut (version 18, Biognosys, Switzerland) using direct DIA. Data was searched against the Mus musculus proteome, including expected mutations. The manufacturer's default parameters were used. Each experimental group contained biological replicates (n = 4 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273812",
     "creators": [
       {
@@ -3299,7 +3299,7 @@
     "name": "lee-mouse-ms-mb-plasma-g2019s-hf-diet",
     "title": "Targeted metabolomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, and whole blood was collected from cardiac puncture. 50 \u03bcL plasma from each mouse was split and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273818",
     "creators": [
       {
@@ -3347,7 +3347,7 @@
     "name": "lee-mouse-ms-mb-liver-g2019s-hf-diet",
     "title": "Targeted metabolomic profiling of the liver in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273822",
     "creators": [
       {
@@ -3395,7 +3395,7 @@
     "name": "lee-mouse-ms-mb-striatum-g2019s-hf-diet",
     "title": "Targeted metabolomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 5-6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273824",
     "creators": [
       {
@@ -3443,7 +3443,7 @@
     "name": "lee-mouse-ms-mb-lung-g2019s-hf-diet",
     "title": "Targeted metabolomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 5-6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273832",
     "creators": [
       {
@@ -3491,7 +3491,7 @@
     "name": "lee-mouse-ms-mb-kidney-g2019s-hf-diet",
     "title": "Targeted metabolomic profiling of the kidney in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273834",
     "creators": [
       {
@@ -3539,7 +3539,7 @@
     "name": "lee-mouse-ms-l-plasma-g2019s-hf-diet",
     "title": "Untargeted lipidomic profiling of the plasma in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, and whole blood was collected from cardiac puncture. 50 \u03bcL plasma from each mouse was split and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273840",
     "creators": [
       {
@@ -3587,7 +3587,7 @@
     "name": "lee-mouse-ms-l-liver-g2019s-hf-diet",
     "title": "Untargeted lipidomic profiling of the liver in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273844",
     "creators": [
       {
@@ -3635,7 +3635,7 @@
     "name": "lee-mouse-ms-l-striatum-g2019s-hf-diet",
     "title": "Untargeted lipidomic profiling of the striatum in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 5-6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273848",
     "creators": [
       {
@@ -3683,7 +3683,7 @@
     "name": "lee-mouse-ms-l-lung-g2019s-hf-diet",
     "title": "Untargeted lipidomic profiling of the lung in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 5-6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273852",
     "creators": [
       {
@@ -3731,7 +3731,7 @@
     "name": "lee-mouse-ms-l-kidney-g2019s-hf-diet",
     "title": "Untargeted lipidomic profiling of the kidney in G2019S LRRK2 knockin mice under a specialized diet",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates were maintained on a normal chow diet (23.7% kcal from fat) for the first 11 months of life. At that time, animals were randomly assigned to either a high-fat diet group (60% kcal from fat) or a control diet group (10% kcal from fat). Mice remained on their respective diets for an additional five months. At 16 months of age, mice were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Lipid identifications were assigned using LipidSearch (v5.0, Thermo Fisher Scientific) which was used to generate a compound list, and lipid peak areas were quantified in Skyline. Each experimental group contained biological replicates (n = 5-6 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273858",
     "creators": [
       {
@@ -3779,7 +3779,7 @@
     "name": "lee-mouse-ms-mb-plasma-g2019s-nuc-quant",
     "title": "Nucleoside quantification in the plasma of G2019S LRRK2 knockin mice",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, and whole blood was collected from cardiac puncture. 50 \u03bcL plasma from each mouse was split and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n =8-9 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273863",
     "creators": [
       {
@@ -3827,7 +3827,7 @@
     "name": "lee-mouse-ms-mb-striatum-g2019s-nuc-quant",
     "title": "Nucleoside quantification in the striatum of G2019S LRRK2 knockin mice",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 9 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273868",
     "creators": [
       {
@@ -3875,7 +3875,7 @@
     "name": "lee-mouse-ms-mb-midbrain-g2019s-nuc-quant",
     "title": "Nucleoside quantification in the ventral midbrain of G2019S LRRK2 knockin mice",
     "description": "G2019S LRRK2 knockin mice and their wild-type littermates (3-5 months old) were anesthetized with an isoflurane vaporizer, tissue were then collected and immediately snap frozen in liquid nitrogen. Frozen tissues were cryopulverized, homogenized and processed using the Bligh-Dyer method. Absolute nucleoside quantitation was accomplished by running an external calibration curve with the samples. The stock mix contained Deoxyadenosine (dA), Deoxycytidine (dC), Deoxyguanosine (dG), Deoxythymidine (dT), and Deoxyuridine (dU). Targeted metabolomics peak picking and integration were conducted in Skyline (v25.1) using accurate mass MS1, MS2 fragmentation pattern matching, and retention time derived from analytical standards run through each chromatography method. Raw data files for all samples of a given experiment were imported and metabolite peaks were auto-integrated based standard verified m/z, precursor adducts, and retention times for all metabolites of interest. Each experimental group contained biological replicates (n = 9 per group).",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18273870",
     "creators": [
       {
@@ -3924,7 +3924,7 @@
     "name": "alessi-mouse-ms-p-lung-vps35-d620n-wt",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung",
     "description": "Basal proteomic comparison of WT and VPS35[D620N] mutant lung lysosomes. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476393",
     "creators": [
       {
@@ -3972,7 +3972,7 @@
     "name": "alessi-mouse-ms-p-brain-vps35-d620n-wt",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain.",
     "description": "Proteomic characterization of brain lysosomes comparing WT and VPS35[D620N] mutant mice. Tissue was processed via glass-Teflon homogenization and 3-minute Lyso-IP. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476398",
     "creators": [
       {
@@ -4020,7 +4020,7 @@
     "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain with LRRK2 inhibition.",
     "description": "Proteomic analysis of lysosomes isolated from the brain tissue of VPS35[D620N] mice treated in vivo with MLi-2 (100 mg/kg via oral gavage, 2 h). Tag expression was determined by genotyping PCR and brain lysate immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476402",
     "creators": [
       {
@@ -4068,7 +4068,7 @@
     "name": "alessi-mouse-ms-p-lung-vps35-d620n-dmso-mli2",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Lung with LRRK2 inhibition",
     "description": "Proteomic analysis of lung lysosomes from VPS35[D620N] mice treated in vivo with MLi-2 (100 mg/kg, 2 h). Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18476404",
     "creators": [
       {
@@ -4116,7 +4116,7 @@
     "name": "voet-pmdbs-sn-multimodal",
     "title": "Single nuclei RNA sequencing of postmortem cingulate cortex, midbrain and motor cortex of healthy donors and Parkinson's disease patients \u2013 10x multiome (snRNA-seq and snATAC-seq).",
     "description": "This dataset consists of raw sequencing snRNA-seq data and snATAC-seq data (10x Genomics Chromium Next GEM Multiome ATAC/GEX). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors. (edited)",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988753",
     "keywords": [
       "pmdbs",
@@ -4152,7 +4152,7 @@
     "name": "voet-pmdbs-sn-atacseq-scalebio-hydrop",
     "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors \u2013 Scale-ATAC + HyDrop v2.",
     "description": "This dataset consists of raw sequencing ATAC-seq data (Scale-ATAC + HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocols followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108 ) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988743",
     "keywords": [
       "pmdbs",
@@ -4188,7 +4188,7 @@
     "name": "voet-pmdbs-sn-atacseq-scalebio-10x",
     "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients \u2013 Scale-ATAC + 10x Genomics.",
     "description": "This dataset consists of raw sequencing ATAC-seq data (Scale-ATAC pre-indexing followed by 10x Genomics snATAC v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988717",
     "keywords": [
       "pmdbs",
@@ -4224,7 +4224,7 @@
     "name": "voet-pmdbs-sn-atacseq-hydrop",
     "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex of healthy donors and Parkinson's disease patients \u2013 HyDrop-ATAC v2",
     "description": "This dataset consists of raw sequencing snATAC-seq data (HyDrop v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988735",
     "keywords": [
       "pmdbs",
@@ -4260,7 +4260,7 @@
     "name": "voet-pmdbs-sn-atacseq-10x",
     "title": "Single nuclei ATAC sequencing of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients \u2013 10x snATAC-seq.",
     "description": "This dataset consists of raw sequencing snATAC-seq data (10x Genomics Chromium Next GEM Single Cell ATAC v2). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors. (edited)",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988729",
     "keywords": [
       "pmdbs",
@@ -4296,7 +4296,7 @@
     "name": "voet-pmdbs-sn-rnaseq-parsebio",
     "title": "Single nuclei RNA sequencing (ParseBio) of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients.",
     "description": "This dataset consists of raw sequencing snRNA-seq data using ParseBio Evercode Whole Transcriptome. The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a specific ParseBio barcode. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988761",
     "keywords": [
       "pmdbs",
@@ -4332,7 +4332,7 @@
     "name": "voet-pmdbs-sn-rnaseq",
     "title": "Single nuclei RNA sequencing (10x) of postmortem cingulate cortex and midbrain of healthy donors and Parkinson's disease patients \u2013 10x snRNA-seq.",
     "description": "This dataset consists of raw sequencing snRNA-seq data (10x Genomics Chromium Next GEM Single Cell 3\u02b9). The data is part of an overall set of samples derived from postmortem midbrain (n=140), cingulate cortex (n=190) and motor cortex (n=4) of healthy donors (n=114), patients with Parkinson's disease (n=75) or patients with other neurological disorder (n=1). The protocol followed to isolate nuclei from postmortem brain samples and to prepare sequencing libraries can be found below. To increase throughput and to decrease batch effects, several donors have been pooled together into a single sequencing library. To computationally demultiplex the nuclei to their corresponding donors, cellsnp-lite (version commit: aad18644adcde853c313362a856a24245c9b91f7) followed by vireo (https://github.com/single-cell-genetics/vireo/pull/108) has been used. The population VCF with the donor genotypes derived from whole genome sequencing data has been used to assign nuclei back to their donors.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.18988768",
     "keywords": [
       "pmdbs",
@@ -4368,7 +4368,7 @@
     "name": "scherzer-pmdbs-sn-rnaseq-midbrain-hybsel",
     "title": "PD5D midbrain single-nucleus RNA-seq hybrid selection",
     "description": "This dataset contains raw FASTQ files from the midbrain single-nucleus RNA sequencing (snRNAseq) dataset with hybrid selection for the matching PMDBS samples from the PD5D chort. The same subjects were also profiled with other omics assays including genomic DNAseq, genotyping, single-cell ATACseq, and spatial transcriptomics.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.19124469",
     "keywords": [
       "pmdbs",
@@ -4404,7 +4404,7 @@
     "name": "scherzer-pmdbs-lr-wgs",
     "title": "PD5D long read DNA-seq",
     "description": "This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.19124632",
     "keywords": [
       "pmdbs",

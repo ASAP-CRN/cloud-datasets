@@ -2,7 +2,7 @@
     "name": "cohort-mouse-sc-rnaseq",
     "title": "asap-cohort-mouse-sc-rnaseq",
     "description": "mouse-sc-rnaseq dataset from asap-cohort",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "doi": "10.5281/zenodo.17860975",
     "creators": [
         {
@@ -38,7 +38,7 @@
         "collection_version": "v1.0.0",
         "collection": {
             "name": "mouse-sc-rnaseq",
-            "version": "v1.0.0",
+            "version": "1.0.0",
             "collection_doi": "10.5281/zenodo.17860974"
         },
         "releases": {

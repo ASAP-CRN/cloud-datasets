@@ -2,7 +2,7 @@
     "name": "desjardins-mouse-bulk-rnaseq-striatum-pink1",
     "title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
     "description": "We performed bulk RNAsequencing of striatum from wild type and PINK1 KO mice 26-days post C.rodentium infection. This dataset contains raw fastq files from striatal cells, sorted into 4 groups namely wild type and PINK1 KO uninfected and infected mice. Sequencing was performed using NextSeq500. FASTQs generated from sequencing output were aligned to the mm10 reference genome using STAR aligner.",
-    "version": "v1.0",
+    "version": "1.0",
     "dataset_title": "Bulk RNAseq of mouse striatum of wild type and PINK1 KO mice after C.rodentium infection",
     "doi": "10.5281/zenodo.20276414",
     "creators": [

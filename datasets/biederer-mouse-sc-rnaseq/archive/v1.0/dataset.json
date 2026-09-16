@@ -2,7 +2,7 @@
     "name": "biederer-mouse-sc-rnaseq",
     "title": "team-biederer-mouse-sc-rnaseq",
     "description": "mouse-sc-rnaseq dataset from team-biederer",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15485103",
     "creators": [
         {

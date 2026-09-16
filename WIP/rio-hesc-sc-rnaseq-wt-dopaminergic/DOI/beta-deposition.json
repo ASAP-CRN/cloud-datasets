@@ -1,6 +1,6 @@
 {
-  "created": "2026-04-16T00:47:35.303595+00:00",
-  "modified": "2026-04-16T00:47:35.710134+00:00",
+  "created": "2026-04-16T00:47:28.396151+00:00",
+  "modified": "2026-09-13T05:24:47.620671+00:00",
   "id": 19600811,
   "conceptrecid": "19600810",
   "doi": "10.5281/zenodo.19600811",
@@ -161,6 +161,14 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "crn-cloud"
+      },
+      {
+        "identifier": "asaphub"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.19600811",
@@ -169,14 +177,12 @@
   },
   "title": "iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons",
   "links": {
-    "self": "https://zenodo.org/api/records/19600811",
-    "html": "https://zenodo.org/records/19600811",
+    "self": "https://zenodo.org/api/deposit/depositions/19600811",
+    "html": "https://zenodo.org/deposit/19600811",
     "doi": "https://doi.org/10.5281/zenodo.19600811",
-    "parent_doi": "https://doi.org/10.5281/zenodo.19600810",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600811.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600810.svg",
-    "files": "https://zenodo.org/api/records/19600811/files",
-    "bucket": "https://zenodo.org/api/files/5cfaf6cd-8c3f-4801-98ca-0e9dd4377fce",
+    "files": "https://zenodo.org/api/deposit/depositions/19600811/files",
+    "bucket": "https://zenodo.org/api/files/1bb91282-727a-4c70-9e48-aabdd3cd3fc6",
     "thumb250": "https://zenodo.org/record/19600811/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/19600811/thumb10",
@@ -206,11 +212,11 @@
       "filesize": 9125,
       "checksum": "ff365a41192fe43dc963f738f9e2357d",
       "links": {
-        "self": "https://zenodo.org/api/records/19600811/files/c1eb7c5d-2ff0-453f-b21a-492affe061f5",
+        "self": "https://zenodo.org/api/deposit/depositions/19600811/files/c1eb7c5d-2ff0-453f-b21a-492affe061f5",
         "download": "https://zenodo.org/api/records/19600811/draft/files/rio-hesc-sc-rnaseq-wt-dopaminergic_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }

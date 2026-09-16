@@ -1,6 +1,6 @@
 {
-  "created": "2026-04-16T00:47:19.292502+00:00",
-  "modified": "2026-04-16T00:47:19.676198+00:00",
+  "created": "2026-04-16T00:47:11.003913+00:00",
+  "modified": "2026-09-13T05:10:54.497565+00:00",
   "id": 19600804,
   "conceptrecid": "19600803",
   "doi": "10.5281/zenodo.19600804",
@@ -161,6 +161,14 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.19600804",
@@ -169,14 +177,12 @@
   },
   "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids",
   "links": {
-    "self": "https://zenodo.org/api/records/19600804",
-    "html": "https://zenodo.org/records/19600804",
+    "self": "https://zenodo.org/api/deposit/depositions/19600804",
+    "html": "https://zenodo.org/deposit/19600804",
     "doi": "https://doi.org/10.5281/zenodo.19600804",
-    "parent_doi": "https://doi.org/10.5281/zenodo.19600803",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600804.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600803.svg",
-    "files": "https://zenodo.org/api/records/19600804/files",
-    "bucket": "https://zenodo.org/api/files/17d78f63-5ca4-4965-ae05-f4a8b5c0c8db",
+    "files": "https://zenodo.org/api/deposit/depositions/19600804/files",
+    "bucket": "https://zenodo.org/api/files/33ebb310-5ec1-4427-af3c-d8c9c6f76786",
     "thumb250": "https://zenodo.org/record/19600804/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/19600804/thumb10",
@@ -206,11 +212,11 @@
       "filesize": 9151,
       "checksum": "3c157ad9625fb5e6195fac59a6c43a87",
       "links": {
-        "self": "https://zenodo.org/api/records/19600804/files/c9d641f5-8c01-4ae0-8b1a-f0701cb589f8",
+        "self": "https://zenodo.org/api/deposit/depositions/19600804/files/c9d641f5-8c01-4ae0-8b1a-f0701cb589f8",
         "download": "https://zenodo.org/api/records/19600804/draft/files/rio-hesc-spheroids-sc-rnaseq-irradiated_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }

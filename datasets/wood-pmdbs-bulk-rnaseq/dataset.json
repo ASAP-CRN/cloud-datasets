@@ -2,7 +2,7 @@
     "name": "wood-pmdbs-bulk-rnaseq",
     "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 234 samples derived from PMDBS samples across Substantia Nigra, Caudate, Putamen, Parahippocampal Gyrus, Cingulate Cortex, Temporal Cortex, Frontal Cortex, Parietal Cortex Types of Samples: (Braak 3-4) PD and control post-mortem brains. https://github.com/Jbrenton191/RNAseq_splicing_pipeline",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16749007",
     "creators": [
         {
@@ -76,7 +76,7 @@
         "collection_version": "v1.2.0",
         "collection": {
             "name": "pmdbs-bulk-rnaseq",
-            "version": "v1.2.0",
+            "version": "1.2.0",
             "collection_doi": "10.5281/zenodo.14373343"
         },
         "releases": {

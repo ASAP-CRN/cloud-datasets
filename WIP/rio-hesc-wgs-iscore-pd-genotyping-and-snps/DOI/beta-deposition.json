@@ -1,6 +1,6 @@
 {
-  "created": "2026-04-16T00:47:51.569819+00:00",
-  "modified": "2026-04-16T00:47:51.948671+00:00",
+  "created": "2026-04-16T00:47:45.725041+00:00",
+  "modified": "2026-09-13T05:25:28.769035+00:00",
   "id": 19600815,
   "conceptrecid": "19600814",
   "doi": "10.5281/zenodo.19600815",
@@ -161,6 +161,14 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
+    "communities": [
+      {
+        "identifier": "asaphub"
+      },
+      {
+        "identifier": "crn-cloud"
+      }
+    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.19600815",
@@ -169,14 +177,12 @@
   },
   "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
   "links": {
-    "self": "https://zenodo.org/api/records/19600815",
-    "html": "https://zenodo.org/records/19600815",
+    "self": "https://zenodo.org/api/deposit/depositions/19600815",
+    "html": "https://zenodo.org/deposit/19600815",
     "doi": "https://doi.org/10.5281/zenodo.19600815",
-    "parent_doi": "https://doi.org/10.5281/zenodo.19600814",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600815.svg",
-    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600814.svg",
-    "files": "https://zenodo.org/api/records/19600815/files",
-    "bucket": "https://zenodo.org/api/files/40e987d5-ae3c-45eb-9f6f-977bc78ef42a",
+    "files": "https://zenodo.org/api/deposit/depositions/19600815/files",
+    "bucket": "https://zenodo.org/api/files/e54f40ed-939b-4d7d-8619-c5e77dcdb963",
     "thumb250": "https://zenodo.org/record/19600815/thumb250",
     "thumbs": {
       "10": "https://zenodo.org/record/19600815/thumb10",
@@ -206,11 +212,11 @@
       "filesize": 9388,
       "checksum": "b879570dbc8ad4ef39e903bddb7bfae5",
       "links": {
-        "self": "https://zenodo.org/api/records/19600815/files/873e3580-cd35-46f4-ac15-f0fe33f63472",
+        "self": "https://zenodo.org/api/deposit/depositions/19600815/files/873e3580-cd35-46f4-ac15-f0fe33f63472",
         "download": "https://zenodo.org/api/records/19600815/draft/files/rio-hesc-wgs-iscore-pd-genotyping-and-snps_README.pdf/content"
       }
     }
   ],
-  "state": "done",
+  "state": "inprogress",
   "submitted": true
 }
