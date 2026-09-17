@@ -1,23 +1,26 @@
 {
-  "created": "2026-09-12T18:11:12.727425+00:00",
-  "modified": "2026-09-12T21:47:03.038007+00:00",
-  "id": 22728641,
-  "conceptrecid": "20276412",
-  "conceptdoi": "10.5281/zenodo.20276412",
+  "created": "2026-09-13T00:25:18.403913+00:00",
+  "modified": "2026-09-16T22:22:10.746029+00:00",
+  "id": 22730904,
+  "conceptrecid": "20276571",
+  "doi": "10.5281/zenodo.22730904",
+  "conceptdoi": "10.5281/zenodo.20276571",
+  "doi_url": "https://doi.org/10.5281/zenodo.22730904",
   "metadata": {
-    "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
-    "publication_date": "2026-09-12",
-    "description": "We performed 10X Genomics single-cell RNAsequencing of human iSPC-derived monocytes and macrophages in vitro. Cells were treated with 500 ng/mL lipopolysaccharide (LPS) and 50 ng/mL interleukin-1 beta (IL1b) for 24 hours. This dataset contains raw FASTQ files from myeloid cells, sorted into 4 groups namely monocytes (Mono) and Macrophages (Mac) non-stimulated (NS) and LPS+IL1b-stimulated cells. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the human GRCh38 reference genome using STAR algorithm 2.7.3a.",
+    "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
+    "doi": "10.5281/zenodo.22730904",
+    "publication_date": "2026-09-30",
+    "description": "<p>We performed 10X Genomics single-cell RNA sequencing of colonic lamina propria cells from wild type and PINK1 KO mice following either 1-week or 2-weeks post C. rodentium infection. The cells were pooled from 3 mice per group of both sexes at 8-12 weeks of age. This dataset contains raw FASTQ files from mouse colonic lamina propria, sorted into 8 groups namely wild type and PINK1 KO uninfected and infected mice at 1- or 2-weeks post-infection. Sequencing was performed using NovaSeq 6000 S4 PE 100bp. Reads were processed using the 10X Genomics Cell Ranger Single Cell 2.0.0 pipeline. FASTQs generated from sequencing output were aligned to the mouse GRCm38 reference genome using STAR algorithm 2.7.3a.&nbsp;</p>",
     "access_right": "open",
     "creators": [
       {
         "name": "Recinto, Sherilyn",
-        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
         "orcid": "0000-0001-9632-1201"
       },
       {
         "name": "Stratton, Jo Anne",
-        "affiliation": "Montreal Neurological Institute-Hospital, McGill University",
+        "affiliation": "Montreal Neurological Institute-Hospital; McGill University",
         "orcid": "0000-0002-1205-1353"
       }
     ],
@@ -38,44 +41,45 @@
     ],
     "upload_type": "dataset",
     "prereserve_doi": {
-      "doi": "10.5281/zenodo.22728641",
-      "recid": 22728641
+      "doi": "10.5281/zenodo.22730904",
+      "recid": 22730904
     }
   },
-  "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
+  "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22728641",
-    "html": "https://zenodo.org/deposit/22728641",
-    "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22728641/files",
-    "bucket": "https://zenodo.org/api/files/a183b367-f521-4797-af45-43134d1bcbce",
-    "thumb250": "https://zenodo.org/record/22728641/thumb250",
+    "self": "https://zenodo.org/api/deposit/depositions/22730904",
+    "html": "https://zenodo.org/deposit/22730904",
+    "doi": "https://doi.org/10.5281/zenodo.22730904",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22730904.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/22730904/files",
+    "bucket": "https://zenodo.org/api/files/09e198f8-aed3-4d7d-bce7-7f4dc6fa7b2f",
+    "thumb250": "https://zenodo.org/record/22730904/thumb250",
     "thumbs": {
-      "10": "https://zenodo.org/record/22728641/thumb10",
-      "50": "https://zenodo.org/record/22728641/thumb50",
-      "100": "https://zenodo.org/record/22728641/thumb100",
-      "250": "https://zenodo.org/record/22728641/thumb250",
-      "750": "https://zenodo.org/record/22728641/thumb750",
-      "1200": "https://zenodo.org/record/22728641/thumb1200"
+      "10": "https://zenodo.org/record/22730904/thumb10",
+      "50": "https://zenodo.org/record/22730904/thumb50",
+      "100": "https://zenodo.org/record/22730904/thumb100",
+      "250": "https://zenodo.org/record/22730904/thumb250",
+      "750": "https://zenodo.org/record/22730904/thumb750",
+      "1200": "https://zenodo.org/record/22730904/thumb1200"
     },
-    "latest_draft": "https://zenodo.org/api/deposit/depositions/22728641",
-    "latest_draft_html": "https://zenodo.org/deposit/22728641",
-    "publish": "https://zenodo.org/api/deposit/depositions/22728641/actions/publish",
-    "edit": "https://zenodo.org/api/deposit/depositions/22728641/actions/edit",
-    "discard": "https://zenodo.org/api/deposit/depositions/22728641/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22728641/actions/newversion"
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22730904",
+    "latest_draft_html": "https://zenodo.org/deposit/22730904",
+    "publish": "https://zenodo.org/api/deposit/depositions/22730904/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22730904/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22730904/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22730904/actions/newversion"
   },
-  "record_id": 22728641,
+  "record_id": 22730904,
   "owner": 615261,
   "files": [
     {
-      "id": "dbc075c9-8171-417b-b64b-12a9f8126924",
-      "filename": "desjardins-ipsc-sc-rnaseq-myeloid-pink1_README.pdf",
-      "filesize": 36733,
-      "checksum": "a2cc88d9ee338b9bf69acfff21e75f29",
+      "id": "e0b1dcb8-4c46-483f-b0cc-57ae00a589cd",
+      "filename": "desjardins-mouse-sc-rnaseq-colon-immune-pink1_README.pdf",
+      "filesize": 36309,
+      "checksum": "d26e21961676e88e685a4779ed4fe4c7",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22728641/files/dbc075c9-8171-417b-b64b-12a9f8126924",
-        "download": "https://zenodo.org/api/records/22728641/draft/files/desjardins-ipsc-sc-rnaseq-myeloid-pink1_README.pdf/content"
+        "self": "https://zenodo.org/api/deposit/depositions/22730904/files/e0b1dcb8-4c46-483f-b0cc-57ae00a589cd",
+        "download": "https://zenodo.org/api/records/22730904/draft/files/desjardins-mouse-sc-rnaseq-colon-immune-pink1_README.pdf/content"
       }
     }
   ],
