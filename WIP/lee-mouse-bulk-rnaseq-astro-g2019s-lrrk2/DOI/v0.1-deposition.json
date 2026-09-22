@@ -1,0 +1,86 @@
+{
+  "created": "2026-09-22T18:28:40.097177+00:00",
+  "modified": "2026-09-22T18:28:40.657532+00:00",
+  "id": 22903419,
+  "conceptrecid": "22903418",
+  "doi": "10.5281/zenodo.22903419",
+  "conceptdoi": "10.5281/zenodo.22903418",
+  "doi_url": "https://doi.org/10.5281/zenodo.22903419",
+  "metadata": {
+    "title": "Bulk RNA-seq analysis of G2019S LRRK2 knockin primary astrocytes",
+    "doi": "10.5281/zenodo.22903419",
+    "publication_date": "2026-09-22",
+    "description": "Primary astrocytes were isolated from P1 G2019S LRRK2 knockin pups and their wildtype littermates. The cells were treated either with Etoposide(20uM) or vehicle at 18 days in vitro; cells were collected at 24 days in vitro (n=3/group). Total RNA was isolated from cell pellets, then subjected to bulk RNA-seq.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ma, Yue",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0002-1031-5175"
+      },
+      {
+        "name": "Moore, Darren",
+        "affiliation": "Van Andel Institute",
+        "orcid": "0000-0003-2359-5679"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Lee"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.22903419",
+      "recid": 22903419
+    }
+  },
+  "title": "Bulk RNA-seq analysis of G2019S LRRK2 knockin primary astrocytes",
+  "links": {
+    "self": "https://zenodo.org/api/records/22903419",
+    "html": "https://zenodo.org/records/22903419",
+    "doi": "https://doi.org/10.5281/zenodo.22903419",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22903418",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22903419.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22903418.svg",
+    "files": "https://zenodo.org/api/records/22903419/files",
+    "bucket": "https://zenodo.org/api/files/e833015b-728f-4cc1-98fc-ed8fd614947f",
+    "thumb250": "https://zenodo.org/record/22903419/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/22903419/thumb10",
+      "50": "https://zenodo.org/record/22903419/thumb50",
+      "100": "https://zenodo.org/record/22903419/thumb100",
+      "250": "https://zenodo.org/record/22903419/thumb250",
+      "750": "https://zenodo.org/record/22903419/thumb750",
+      "1200": "https://zenodo.org/record/22903419/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22903419",
+    "latest_draft_html": "https://zenodo.org/deposit/22903419",
+    "publish": "https://zenodo.org/api/deposit/depositions/22903419/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22903419/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22903419/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22903419/actions/newversion",
+    "record": "https://zenodo.org/api/records/22903419",
+    "record_html": "https://zenodo.org/record/22903419",
+    "latest": "https://zenodo.org/api/records/22903419/versions/latest",
+    "latest_html": "https://zenodo.org/records/22903419/latest"
+  },
+  "record_id": 22903419,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "8706ef6c-5293-41b0-9076-8ef259caa4f6",
+      "filename": "lee-mouse-bulk-rnaseq-astro-g2019s-lrrk2_README.pdf",
+      "filesize": 35616,
+      "checksum": "ca6ebc5a5a09161322916732dcc2a7de",
+      "links": {
+        "self": "https://zenodo.org/api/records/22903419/files/8706ef6c-5293-41b0-9076-8ef259caa4f6",
+        "download": "https://zenodo.org/api/records/22903419/draft/files/lee-mouse-bulk-rnaseq-astro-g2019s-lrrk2_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
