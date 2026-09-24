@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "title": "PD5D Midbrain Visium 10x Spatial Transcriptomics",
+        "upload_type": "dataset",
+        "description": "Visium 10x spatial transcriptomic raw data in FASTQ format of the midbrain of 100 human subjects. Individuals with incidental Lewy body disease, clinical PD, and healthy control were included. In addition to subject-level metadata, Visium spatial metadata such as H&E images and spot coordinates are included.  These data are one component of the PD5D cohort, which intends to build a multi-dimensional and multi-omic atlas of PD pathology. Therefore, other omics assays have been collected including genotyping, snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus and substantia nigra.",
+        "publication_date": "2026-09-23",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Scherzer, Clemens R.",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0002-0567-9193"
+            },
+            {
+                "name": "Dong, Xianjun",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0002-8052-9320"
+            },
+            {
+                "name": "Levin, Joshua Z.",
+                "affiliation": "Broad Institute of MIT and Harvard; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0002-0170-3598"
+            },
+            {
+                "name": "Serrano, Geidy E.",
+                "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0002-9527-2011"
+            },
+            {
+                "name": "Beach, Thomas G.",
+                "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0003-3296-6128"
+            },
+            {
+                "name": "Cline, Madison",
+                "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-9672-7738"
+            },
+            {
+                "name": "Liao, Zhixiang",
+                "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-7014-5465"
+            },
+            {
+                "name": "Tuncali, Idil",
+                "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Haywood, Nathan",
+                "affiliation": "Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0003-2213-5080"
+            },
+            {
+                "name": "Parker, Jacob",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-9425-6418"
+            },
+            {
+                "name": "Weykopf, Beatrice",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-5541-839X"
+            },
+            {
+                "name": "Yuan, Jie",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0002-5626-2881"
+            },
+            {
+                "name": "Hu, Ruifeng",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-5549-3082"
+            },
+            {
+                "name": "Teng, Xufei",
+                "affiliation": "Stephen & Denise Adams Center for Parkinson\u2019s Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson\u2019s (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+                "orcid": "0000-0001-9282-4282"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "crn-cloud"
+            },
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Scherzer"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

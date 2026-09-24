@@ -1,0 +1,146 @@
+{
+  "created": "2026-09-24T15:22:35.050953+00:00",
+  "modified": "2026-09-24T15:22:35.511865+00:00",
+  "id": 22942068,
+  "conceptrecid": "22942067",
+  "doi": "10.5281/zenodo.22942068",
+  "conceptdoi": "10.5281/zenodo.22942067",
+  "doi_url": "https://doi.org/10.5281/zenodo.22942068",
+  "metadata": {
+    "title": "PD5D Midbrain Visium 10x Spatial Transcriptomics",
+    "doi": "10.5281/zenodo.22942068",
+    "publication_date": "2026-09-23",
+    "description": "Visium 10x spatial transcriptomic raw data in FASTQ format of the midbrain of 100 human subjects. Individuals with incidental Lewy body disease, clinical PD, and healthy control were included. In addition to subject-level metadata, Visium spatial metadata such as H&amp;E images and spot coordinates are included.  These data are one component of the PD5D cohort, which intends to build a multi-dimensional and multi-omic atlas of PD pathology. Therefore, other omics assays have been collected including genotyping, snRNA-seq, and scATAC-seq across two brain tissues: middle temporal gyrus and substantia nigra.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Scherzer, Clemens R.",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; APDA Center for Parkinson Precision Medicine, Yale, New Haven, CT 06510; Department of Neurology, Yale, New Haven, CT 06510; Department of Genetics, Yale, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-0567-9193"
+      },
+      {
+        "name": "Dong, Xianjun",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-8052-9320"
+      },
+      {
+        "name": "Levin, Joshua Z.",
+        "affiliation": "Broad Institute of MIT and Harvard; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-0170-3598"
+      },
+      {
+        "name": "Serrano, Geidy E.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-9527-2011"
+      },
+      {
+        "name": "Beach, Thomas G.",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0003-3296-6128"
+      },
+      {
+        "name": "Cline, Madison",
+        "affiliation": "Banner Sun Health Research, Sun City, AZ 85351, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9672-7738"
+      },
+      {
+        "name": "Liao, Zhixiang",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-7014-5465"
+      },
+      {
+        "name": "Tuncali, Idil",
+        "affiliation": "Brigham and Women's Hospital; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Haywood, Nathan",
+        "affiliation": "Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0003-2213-5080"
+      },
+      {
+        "name": "Parker, Jacob",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9425-6418"
+      },
+      {
+        "name": "Weykopf, Beatrice",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-5541-839X"
+      },
+      {
+        "name": "Yuan, Jie",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0002-5626-2881"
+      },
+      {
+        "name": "Hu, Ruifeng",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-5549-3082"
+      },
+      {
+        "name": "Teng, Xufei",
+        "affiliation": "Stephen & Denise Adams Center for Parkinson's Disease Research of Yale School of Medicine, New Haven, CT 06510; Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA",
+        "orcid": "0000-0001-9282-4282"
+      }
+    ],
+    "version": "v0.1",
+    "references": [
+      "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+      "Team Scherzer"
+    ],
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "dataset",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.22942068",
+      "recid": 22942068
+    }
+  },
+  "title": "PD5D Midbrain Visium 10x Spatial Transcriptomics",
+  "links": {
+    "self": "https://zenodo.org/api/records/22942068",
+    "html": "https://zenodo.org/records/22942068",
+    "doi": "https://doi.org/10.5281/zenodo.22942068",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22942067",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22942068.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22942067.svg",
+    "files": "https://zenodo.org/api/records/22942068/files",
+    "bucket": "https://zenodo.org/api/files/4e299e33-7365-4f2f-b073-10f17ffde9aa",
+    "thumb250": "https://zenodo.org/record/22942068/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/22942068/thumb10",
+      "50": "https://zenodo.org/record/22942068/thumb50",
+      "100": "https://zenodo.org/record/22942068/thumb100",
+      "250": "https://zenodo.org/record/22942068/thumb250",
+      "750": "https://zenodo.org/record/22942068/thumb750",
+      "1200": "https://zenodo.org/record/22942068/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22942068",
+    "latest_draft_html": "https://zenodo.org/deposit/22942068",
+    "publish": "https://zenodo.org/api/deposit/depositions/22942068/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22942068/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22942068/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22942068/actions/newversion",
+    "record": "https://zenodo.org/api/records/22942068",
+    "record_html": "https://zenodo.org/record/22942068",
+    "latest": "https://zenodo.org/api/records/22942068/versions/latest",
+    "latest_html": "https://zenodo.org/records/22942068/latest"
+  },
+  "record_id": 22942068,
+  "owner": 615261,
+  "files": [
+    {
+      "id": "7dde8b68-e4c9-4dbb-a6ad-be4b854ea289",
+      "filename": "scherzer-pmdbs-spatial-visium-midbrain_README.pdf",
+      "filesize": 37392,
+      "checksum": "3d9a561a1502e9389b6507d5c39ce8a5",
+      "links": {
+        "self": "https://zenodo.org/api/records/22942068/files/7dde8b68-e4c9-4dbb-a6ad-be4b854ea289",
+        "download": "https://zenodo.org/api/records/22942068/draft/files/scherzer-pmdbs-spatial-visium-midbrain_README.pdf/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
