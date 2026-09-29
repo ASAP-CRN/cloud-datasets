@@ -1,13 +1,13 @@
 {
   "created": "2026-09-16T03:44:29.022371+00:00",
-  "modified": "2026-09-16T03:45:07.401345+00:00",
+  "modified": "2026-09-29T06:07:13.741935+00:00",
   "id": 22784504,
   "conceptrecid": "15400039",
   "conceptdoi": "10.5281/zenodo.15400039",
   "metadata": {
     "title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
-    "publication_date": "2026-09-16",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.\".</p>\n<p><strong>Description:</strong> This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived from mouse models of Parkinson's disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology.  Single-nucleus RNA sequencing (snRNA-seq) was performed on mouse striatal tissue from two distinct PD models:  </p>\n<ol>\n<li>\n<p>Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls.  </p>\n</li>\n<li>\n<p>Progressive Genetic Model (MitoPark): The MitoPark model (Slc6a3-cre; Tfam^flx/flx) induces mitochondrial dysfunction specifically in dopaminergic neurons, leading to progressive neurodegeneration. Samples were collected at two timepoints: </p>\n<ul>\n<li>10\u201311 weeks of age: Early stage, pre-symptomatic or mildly affected, and  </li>\n<li>15\u201318 weeks of age: Late stage, with clear motor deficits and advanced degeneration.   This snRNA-seq dataset enables in-depth analysis of transcriptomic alterations across distinct PD etiologies and stages.</li>\n</ul>\n</li>\n</ol>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "publication_date": "2026-09-30",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.\".</p>\n<p><strong>Description:</strong> This dataset includes single-nucleus RNA sequencing (snRNA-seq) data derived from mouse models of Parkinson's disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology. Single-nucleus RNA sequencing (snRNA-seq) was performed on mouse striatal tissue from two distinct PD models:</p>\n<ol>\n<li>\n<p>Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 &micro;g/&micro;L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls.</p>\n</li>\n<li>\n<p>Progressive Genetic Model (MitoPark): The MitoPark model (Slc6a3-cre; Tfam^flx/flx) induces mitochondrial dysfunction specifically in dopaminergic neurons, leading to progressive neurodegeneration. Samples were collected at two timepoints:</p>\n<ul>\n<li>10&ndash;11 weeks of age: Early stage, pre-symptomatic or mildly affected, and</li>\n<li>15&ndash;18 weeks of age: Late stage, with clear motor deficits and advanced degeneration. This snRNA-seq dataset enables in-depth analysis of transcriptomic alterations across distinct PD etiologies and stages.</li>\n</ul>\n</li>\n</ol>\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n<p>This v2.0 Dataset reflects fixing some metadata encoding erros and replace corrupted fastqs.</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
       {
@@ -71,6 +71,7 @@
         "orcid": "0000-0001-5665-4781"
       }
     ],
+    "version": "2.0",
     "references": [
       "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
       "Team Cragg"
@@ -100,8 +101,7 @@
     "prereserve_doi": {
       "doi": "10.5281/zenodo.22784504",
       "recid": 22784504
-    },
-    "version": "2.0"
+    }
   },
   "title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
   "links": {

@@ -1,13 +1,16 @@
 {
-  "created": "2026-09-15T00:17:08.826108+00:00",
-  "modified": "2026-09-29T05:58:05.206013+00:00",
-  "id": 22759832,
-  "conceptrecid": "19600814",
-  "conceptdoi": "10.5281/zenodo.19600814",
+  "created": "2026-09-29T06:05:04.415738+00:00",
+  "modified": "2026-09-29T06:05:04.745722+00:00",
+  "id": 22732608,
+  "conceptrecid": "19600803",
+  "doi": "10.5281/zenodo.22732608",
+  "conceptdoi": "10.5281/zenodo.19600803",
+  "doi_url": "https://doi.org/10.5281/zenodo.22732608",
   "metadata": {
-    "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
+    "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids",
+    "doi": "10.5281/zenodo.22732608",
     "publication_date": "2026-09-30",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls\".</p>\n<p><strong>Description:</strong> Whole-genome sequencing (WGS) data for the iSCORE-PD isogenic hESC clone collection. 150bp paired-end WGS was performed on Illumina NovaSeq X for 49 mutant clones across 11 PD-linked genes, 12 control lines (8 engineered wild-type subclones, 3 WIBR3 subclones, and the WIBR3 parental line), and 5 DJ1/PARK7 heterozygous clones. Variants were called using DeepVariant and jointly genotyped with GLnexus v1.4.1, producing per-chromosome VCF files aligned to GRCh38.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids\".</p>\n<p><strong>Description:</strong> Single-cell RNA sequencing of WIBR3-derived Day 25 cortical spheroids exposed to ionizing radiation at doses of 0, 0.5, 2, 5, and 10 Gy. Spheroids were dissociated and assayed 24h post-irradiation via individual 10x Chromium scRNA-seq libraries per condition.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
       {
@@ -52,7 +55,7 @@
       },
       {
         "name": "Martin, Annika",
-        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA;",
         "orcid": "0009-0006-3369-1495"
       },
       {
@@ -67,7 +70,7 @@
       },
       {
         "name": "Simon, Vivien M.",
-        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA;",
         "orcid": "0009-0001-1976-0937"
       },
       {
@@ -165,47 +168,54 @@
     ],
     "upload_type": "dataset",
     "prereserve_doi": {
-      "doi": "10.5281/zenodo.22759832",
-      "recid": 22759832
+      "doi": "10.5281/zenodo.22732608",
+      "recid": 22732608
     }
   },
-  "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
+  "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22759832",
-    "html": "https://zenodo.org/deposit/22759832",
-    "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22759832/files",
-    "bucket": "https://zenodo.org/api/files/65780fa5-4a49-4ecb-8f76-b6fe2291e7b3",
-    "thumb250": "https://zenodo.org/record/22759832/thumb250",
+    "self": "https://zenodo.org/api/records/22732608",
+    "html": "https://zenodo.org/records/22732608",
+    "doi": "https://doi.org/10.5281/zenodo.22732608",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19600803",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22732608.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600803.svg",
+    "files": "https://zenodo.org/api/records/22732608/files",
+    "bucket": "https://zenodo.org/api/files/2e8fb771-f059-471e-9415-6b7677e52db2",
+    "thumb250": "https://zenodo.org/record/22732608/thumb250",
     "thumbs": {
-      "10": "https://zenodo.org/record/22759832/thumb10",
-      "50": "https://zenodo.org/record/22759832/thumb50",
-      "100": "https://zenodo.org/record/22759832/thumb100",
-      "250": "https://zenodo.org/record/22759832/thumb250",
-      "750": "https://zenodo.org/record/22759832/thumb750",
-      "1200": "https://zenodo.org/record/22759832/thumb1200"
+      "10": "https://zenodo.org/record/22732608/thumb10",
+      "50": "https://zenodo.org/record/22732608/thumb50",
+      "100": "https://zenodo.org/record/22732608/thumb100",
+      "250": "https://zenodo.org/record/22732608/thumb250",
+      "750": "https://zenodo.org/record/22732608/thumb750",
+      "1200": "https://zenodo.org/record/22732608/thumb1200"
     },
-    "latest_draft": "https://zenodo.org/api/deposit/depositions/22759832",
-    "latest_draft_html": "https://zenodo.org/deposit/22759832",
-    "publish": "https://zenodo.org/api/deposit/depositions/22759832/actions/publish",
-    "edit": "https://zenodo.org/api/deposit/depositions/22759832/actions/edit",
-    "discard": "https://zenodo.org/api/deposit/depositions/22759832/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22759832/actions/newversion"
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22732608",
+    "latest_draft_html": "https://zenodo.org/deposit/22732608",
+    "publish": "https://zenodo.org/api/deposit/depositions/22732608/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22732608/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22732608/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22732608/actions/newversion",
+    "record": "https://zenodo.org/api/records/22732608",
+    "record_html": "https://zenodo.org/record/22732608",
+    "latest": "https://zenodo.org/api/records/22732608/versions/latest",
+    "latest_html": "https://zenodo.org/records/22732608/latest"
   },
-  "record_id": 22759832,
+  "record_id": 22732608,
   "owner": 615261,
   "files": [
     {
-      "id": "bd0b61f6-5e6b-4fb7-8d6c-fb39f298f0e7",
-      "filename": "rio-hesc-wgs-iscore-pd-genotyping-and-snps_README.pdf",
-      "filesize": 40077,
-      "checksum": "e41d707024c3e5813226a0a3132a3346",
+      "id": "01181cd1-a9a8-4ff2-bf10-e60246962a63",
+      "filename": "rio-hesc-spheroids-sc-rnaseq-irradiated_README.pdf",
+      "filesize": 39852,
+      "checksum": "1612ef63a40e8875c600e144773706c0",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22759832/files/bd0b61f6-5e6b-4fb7-8d6c-fb39f298f0e7",
-        "download": "https://zenodo.org/api/records/22759832/draft/files/rio-hesc-wgs-iscore-pd-genotyping-and-snps_README.pdf/content"
+        "self": "https://zenodo.org/api/records/22732608/files/01181cd1-a9a8-4ff2-bf10-e60246962a63",
+        "download": "https://zenodo.org/api/records/22732608/draft/files/rio-hesc-spheroids-sc-rnaseq-irradiated_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }

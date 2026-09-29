@@ -1,15 +1,12 @@
 {
   "created": "2026-09-13T05:24:50.826166+00:00",
-  "modified": "2026-09-13T05:25:02.712071+00:00",
+  "modified": "2026-09-29T05:38:46.094030+00:00",
   "id": 22732751,
   "conceptrecid": "19600810",
-  "doi": "10.5281/zenodo.19600811",
   "conceptdoi": "10.5281/zenodo.19600810",
-  "doi_url": "https://doi.org/10.5281/zenodo.19600811",
   "metadata": {
     "title": "iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons",
-    "doi": "10.5281/zenodo.19600811",
-    "publication_date": "2026-04-15",
+    "publication_date": "2026-09-30",
     "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: scRNA-seq of WT WIBR3 hESC-derived dopaminergic neurons\".</p>\n<p><strong>Description:</strong> Single-cell RNA sequencing of WIBR3 hESC-derived dopaminergic neurons differentiated for 35-37 days. Three biological replicates were independently differentiated and assayed via CellPlex-multiplexed 10x Chromium v3.1 scRNA-seq libraries.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
@@ -163,10 +160,10 @@
     "imprint_publisher": "Zenodo",
     "communities": [
       {
-        "identifier": "asaphub"
+        "identifier": "crn-cloud"
       },
       {
-        "identifier": "crn-cloud"
+        "identifier": "asaphub"
       }
     ],
     "upload_type": "dataset",
@@ -179,8 +176,7 @@
   "links": {
     "self": "https://zenodo.org/api/deposit/depositions/22732751",
     "html": "https://zenodo.org/deposit/22732751",
-    "doi": "https://doi.org/10.5281/zenodo.19600811",
-    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600811.svg",
+    "badge": "https://zenodo.org/badge/doi/.svg",
     "files": "https://zenodo.org/api/deposit/depositions/22732751/files",
     "bucket": "https://zenodo.org/api/files/c392038b-0771-4140-8e41-c3394e524cf0",
     "thumb250": "https://zenodo.org/record/22732751/thumb250",
@@ -203,12 +199,12 @@
   "owner": 615261,
   "files": [
     {
-      "id": "118952ce-c5ce-47f1-9af5-817fe2ed1d5d",
+      "id": "1f7b327d-9b58-4490-ab96-cead31f7e954",
       "filename": "rio-hesc-sc-rnaseq-wt-dopaminergic_README.pdf",
       "filesize": 39821,
       "checksum": "298d131811e241f7c5e4928b0d62dc6b",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22732751/files/118952ce-c5ce-47f1-9af5-817fe2ed1d5d",
+        "self": "https://zenodo.org/api/deposit/depositions/22732751/files/1f7b327d-9b58-4490-ab96-cead31f7e954",
         "download": "https://zenodo.org/api/records/22732751/draft/files/rio-hesc-sc-rnaseq-wt-dopaminergic_README.pdf/content"
       }
     }

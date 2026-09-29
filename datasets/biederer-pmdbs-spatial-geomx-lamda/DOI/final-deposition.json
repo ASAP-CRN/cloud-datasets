@@ -1,11 +1,14 @@
 {
-  "created": "2026-09-13T04:28:50.194633+00:00",
-  "modified": "2026-09-29T05:07:43.856603+00:00",
+  "created": "2026-09-29T06:04:40.011295+00:00",
+  "modified": "2026-09-29T06:04:40.444904+00:00",
   "id": 22732220,
   "conceptrecid": "21727342",
+  "doi": "10.5281/zenodo.22732220",
   "conceptdoi": "10.5281/zenodo.21727342",
+  "doi_url": "https://doi.org/10.5281/zenodo.22732220",
   "metadata": {
     "title": "\u03b1-Synuclein PFF mouse cortex GeoMx",
+    "doi": "10.5281/zenodo.22732220",
     "publication_date": "2026-09-30",
     "description": "Segments were captured from specific cortical layers of wildtype mice injected with \u03b1-synuclein PFFs in the dorsal striatum, capturing whole transcriptomes from neurons positive for \u03b1-synuclein inclusions, or negative for \u03b1-synuclein inclusions using the GeoMx WTA platform.",
     "access_right": "open",
@@ -78,14 +81,6 @@
     ],
     "license": "cc-by-4.0",
     "imprint_publisher": "Zenodo",
-    "communities": [
-      {
-        "identifier": "asaphub"
-      },
-      {
-        "identifier": "crn-cloud"
-      }
-    ],
     "upload_type": "dataset",
     "prereserve_doi": {
       "doi": "10.5281/zenodo.22732220",
@@ -94,10 +89,13 @@
   },
   "title": "\u03b1-Synuclein PFF mouse cortex GeoMx",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22732220",
-    "html": "https://zenodo.org/deposit/22732220",
-    "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22732220/files",
+    "self": "https://zenodo.org/api/records/22732220",
+    "html": "https://zenodo.org/records/22732220",
+    "doi": "https://doi.org/10.5281/zenodo.22732220",
+    "parent_doi": "https://doi.org/10.5281/zenodo.21727342",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22732220.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21727342.svg",
+    "files": "https://zenodo.org/api/records/22732220/files",
     "bucket": "https://zenodo.org/api/files/514044b7-a72d-4ba8-84c7-3b6377fd9240",
     "thumb250": "https://zenodo.org/record/22732220/thumb250",
     "thumbs": {
@@ -113,7 +111,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/22732220/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/22732220/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/22732220/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22732220/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/22732220/actions/newversion",
+    "record": "https://zenodo.org/api/records/22732220",
+    "record_html": "https://zenodo.org/record/22732220",
+    "latest": "https://zenodo.org/api/records/22732220/versions/latest",
+    "latest_html": "https://zenodo.org/records/22732220/latest"
   },
   "record_id": 22732220,
   "owner": 615261,
@@ -124,11 +126,11 @@
       "filesize": 36399,
       "checksum": "b78084846f181d3995763e4ddfa54278",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22732220/files/47cf2e84-bc01-4f1a-80f0-f091db4168b0",
+        "self": "https://zenodo.org/api/records/22732220/files/47cf2e84-bc01-4f1a-80f0-f091db4168b0",
         "download": "https://zenodo.org/api/records/22732220/draft/files/biederer-mouse-spatial-geomx-lamda_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }

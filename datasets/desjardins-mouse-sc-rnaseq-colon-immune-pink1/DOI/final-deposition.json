@@ -1,6 +1,6 @@
 {
-  "created": "2026-09-13T00:25:18.403913+00:00",
-  "modified": "2026-09-16T22:22:10.746029+00:00",
+  "created": "2026-09-29T06:05:00.853106+00:00",
+  "modified": "2026-09-29T06:05:01.304513+00:00",
   "id": 22730904,
   "conceptrecid": "20276571",
   "doi": "10.5281/zenodo.22730904",
@@ -33,10 +33,10 @@
     "imprint_publisher": "Zenodo",
     "communities": [
       {
-        "identifier": "asaphub"
+        "identifier": "crn-cloud"
       },
       {
-        "identifier": "crn-cloud"
+        "identifier": "asaphub"
       }
     ],
     "upload_type": "dataset",
@@ -47,11 +47,13 @@
   },
   "title": "Single-cell RNAseq of colonic lamina propria in wild type and PINK1 KO mice after C. rodentium infection",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22730904",
-    "html": "https://zenodo.org/deposit/22730904",
+    "self": "https://zenodo.org/api/records/22730904",
+    "html": "https://zenodo.org/records/22730904",
     "doi": "https://doi.org/10.5281/zenodo.22730904",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276571",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22730904.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22730904/files",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276571.svg",
+    "files": "https://zenodo.org/api/records/22730904/files",
     "bucket": "https://zenodo.org/api/files/09e198f8-aed3-4d7d-bce7-7f4dc6fa7b2f",
     "thumb250": "https://zenodo.org/record/22730904/thumb250",
     "thumbs": {
@@ -67,7 +69,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/22730904/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/22730904/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/22730904/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22730904/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/22730904/actions/newversion",
+    "record": "https://zenodo.org/api/records/22730904",
+    "record_html": "https://zenodo.org/record/22730904",
+    "latest": "https://zenodo.org/api/records/22730904/versions/latest",
+    "latest_html": "https://zenodo.org/records/22730904/latest"
   },
   "record_id": 22730904,
   "owner": 615261,
@@ -78,11 +84,11 @@
       "filesize": 36309,
       "checksum": "d26e21961676e88e685a4779ed4fe4c7",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22730904/files/e0b1dcb8-4c46-483f-b0cc-57ae00a589cd",
+        "self": "https://zenodo.org/api/records/22730904/files/e0b1dcb8-4c46-483f-b0cc-57ae00a589cd",
         "download": "https://zenodo.org/api/records/22730904/draft/files/desjardins-mouse-sc-rnaseq-colon-immune-pink1_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }

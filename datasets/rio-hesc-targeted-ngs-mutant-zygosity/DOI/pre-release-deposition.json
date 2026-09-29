@@ -1,15 +1,12 @@
 {
   "created": "2026-09-13T05:25:10.712309+00:00",
-  "modified": "2026-09-13T05:25:23.277821+00:00",
+  "modified": "2026-09-29T05:47:21.488549+00:00",
   "id": 22732760,
   "conceptrecid": "19600812",
-  "doi": "10.5281/zenodo.19600813",
   "conceptdoi": "10.5281/zenodo.19600812",
-  "doi_url": "https://doi.org/10.5281/zenodo.19600813",
   "metadata": {
     "title": "iSCORE-PD: NGS genotyping and zygosity testing of isogenic hESC clones",
-    "doi": "10.5281/zenodo.19600813",
-    "publication_date": "2026-04-15",
+    "publication_date": "2026-09-30",
     "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: NGS genotyping and zygosity testing of isogenic hESC clones\".</p>\n<p><strong>Description:</strong> Targeted DNA sequencing data for the iSCORE-PD isogenic hESC clone collection, encompassing three complementary analyses: (1) NGS genotyping of 53 mutant clones across 11 PD-linked genes via amplicon sequencing on Illumina iSeq 100 with CRISPResso2 analysis, (2) zygosity testing of a subset of clones in 6 genes via SNP-PCR (NGS or Sanger) to assess zygosity near CRISPR edit sites, and (3) Sanger sequencing of the wild-type allele in 5 DJ1/PARK7 heterozygous clones.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
@@ -163,10 +160,10 @@
     "imprint_publisher": "Zenodo",
     "communities": [
       {
-        "identifier": "asaphub"
+        "identifier": "crn-cloud"
       },
       {
-        "identifier": "crn-cloud"
+        "identifier": "asaphub"
       }
     ],
     "upload_type": "dataset",
@@ -179,8 +176,7 @@
   "links": {
     "self": "https://zenodo.org/api/deposit/depositions/22732760",
     "html": "https://zenodo.org/deposit/22732760",
-    "doi": "https://doi.org/10.5281/zenodo.19600813",
-    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600813.svg",
+    "badge": "https://zenodo.org/badge/doi/.svg",
     "files": "https://zenodo.org/api/deposit/depositions/22732760/files",
     "bucket": "https://zenodo.org/api/files/a1a448af-e266-4152-a7bd-e9e202920908",
     "thumb250": "https://zenodo.org/record/22732760/thumb250",
@@ -203,12 +199,12 @@
   "owner": 615261,
   "files": [
     {
-      "id": "1ebc75f3-c1b1-4697-a878-b44e1ef67c12",
+      "id": "e143f07b-8d3b-4f7a-a300-4e8e7ca47b37",
       "filename": "rio-hesc-targeted-ngs-mutant-zygosity_README.pdf",
       "filesize": 40020,
       "checksum": "f641a95b8482e46c0bdf192921edb442",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22732760/files/1ebc75f3-c1b1-4697-a878-b44e1ef67c12",
+        "self": "https://zenodo.org/api/deposit/depositions/22732760/files/e143f07b-8d3b-4f7a-a300-4e8e7ca47b37",
         "download": "https://zenodo.org/api/records/22732760/draft/files/rio-hesc-targeted-ngs-mutant-zygosity_README.pdf/content"
       }
     }

@@ -1,6 +1,6 @@
 {
-  "created": "2026-09-12T18:11:03.402146+00:00",
-  "modified": "2026-09-15T19:22:33.324679+00:00",
+  "created": "2026-09-29T06:04:57.266206+00:00",
+  "modified": "2026-09-29T06:04:57.589211+00:00",
   "id": 22728637,
   "conceptrecid": "20276410",
   "doi": "10.5281/zenodo.22728637",
@@ -57,11 +57,13 @@
   },
   "title": "Single-cell RNAseq of lamina propria in wild type and LRRK2 G2019S mice after C. rodentium infection",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22728637",
-    "html": "https://zenodo.org/deposit/22728637",
+    "self": "https://zenodo.org/api/records/22728637",
+    "html": "https://zenodo.org/records/22728637",
     "doi": "https://doi.org/10.5281/zenodo.22728637",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276410",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22728637.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22728637/files",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276410.svg",
+    "files": "https://zenodo.org/api/records/22728637/files",
     "bucket": "https://zenodo.org/api/files/b2cc8663-6077-4453-af9e-b8d4618491db",
     "thumb250": "https://zenodo.org/record/22728637/thumb250",
     "thumbs": {
@@ -77,7 +79,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/22728637/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/22728637/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/22728637/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22728637/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/22728637/actions/newversion",
+    "record": "https://zenodo.org/api/records/22728637",
+    "record_html": "https://zenodo.org/record/22728637",
+    "latest": "https://zenodo.org/api/records/22728637/versions/latest",
+    "latest_html": "https://zenodo.org/records/22728637/latest"
   },
   "record_id": 22728637,
   "owner": 615261,
@@ -88,11 +94,11 @@
       "filesize": 36436,
       "checksum": "501ff7c774559ece29aa32812060e37c",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22728637/files/c1a37d7d-bcbd-4c3b-aa34-e3c009c54e9b",
+        "self": "https://zenodo.org/api/records/22728637/files/c1a37d7d-bcbd-4c3b-aa34-e3c009c54e9b",
         "download": "https://zenodo.org/api/records/22728637/draft/files/desjardins-mouse-sc-rnaseq-colon-immune-lrrk2_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }

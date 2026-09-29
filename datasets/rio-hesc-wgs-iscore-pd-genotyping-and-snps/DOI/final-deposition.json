@@ -1,11 +1,14 @@
 {
-  "created": "2026-09-15T00:17:08.826108+00:00",
-  "modified": "2026-09-29T05:58:05.206013+00:00",
+  "created": "2026-09-29T06:05:17.266056+00:00",
+  "modified": "2026-09-29T06:05:17.596116+00:00",
   "id": 22759832,
   "conceptrecid": "19600814",
+  "doi": "10.5281/zenodo.22759832",
   "conceptdoi": "10.5281/zenodo.19600814",
+  "doi_url": "https://doi.org/10.5281/zenodo.22759832",
   "metadata": {
     "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
+    "doi": "10.5281/zenodo.22759832",
     "publication_date": "2026-09-30",
     "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls\".</p>\n<p><strong>Description:</strong> Whole-genome sequencing (WGS) data for the iSCORE-PD isogenic hESC clone collection. 150bp paired-end WGS was performed on Illumina NovaSeq X for 49 mutant clones across 11 PD-linked genes, 12 control lines (8 engineered wild-type subclones, 3 WIBR3 subclones, and the WIBR3 parental line), and 5 DJ1/PARK7 heterozygous clones. Variants were called using DeepVariant and jointly genotyped with GLnexus v1.4.1, producing per-chromosome VCF files aligned to GRCh38.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
@@ -171,10 +174,13 @@
   },
   "title": "iSCORE-PD: Whole-genome sequencing and variant calling of isogenic hESC clones and controls",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22759832",
-    "html": "https://zenodo.org/deposit/22759832",
-    "badge": "https://zenodo.org/badge/doi/.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22759832/files",
+    "self": "https://zenodo.org/api/records/22759832",
+    "html": "https://zenodo.org/records/22759832",
+    "doi": "https://doi.org/10.5281/zenodo.22759832",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19600814",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22759832.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600814.svg",
+    "files": "https://zenodo.org/api/records/22759832/files",
     "bucket": "https://zenodo.org/api/files/65780fa5-4a49-4ecb-8f76-b6fe2291e7b3",
     "thumb250": "https://zenodo.org/record/22759832/thumb250",
     "thumbs": {
@@ -190,7 +196,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/22759832/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/22759832/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/22759832/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22759832/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/22759832/actions/newversion",
+    "record": "https://zenodo.org/api/records/22759832",
+    "record_html": "https://zenodo.org/record/22759832",
+    "latest": "https://zenodo.org/api/records/22759832/versions/latest",
+    "latest_html": "https://zenodo.org/records/22759832/latest"
   },
   "record_id": 22759832,
   "owner": 615261,
@@ -201,11 +211,11 @@
       "filesize": 40077,
       "checksum": "e41d707024c3e5813226a0a3132a3346",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22759832/files/bd0b61f6-5e6b-4fb7-8d6c-fb39f298f0e7",
+        "self": "https://zenodo.org/api/records/22759832/files/bd0b61f6-5e6b-4fb7-8d6c-fb39f298f0e7",
         "download": "https://zenodo.org/api/records/22759832/draft/files/rio-hesc-wgs-iscore-pd-genotyping-and-snps_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }

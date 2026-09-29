@@ -1,16 +1,13 @@
 {
-  "created": "2026-09-13T05:24:29.894058+00:00",
-  "modified": "2026-09-13T05:24:42.036726+00:00",
-  "id": 23031399,
-  "conceptrecid": "19600807",
-  "doi": "10.5281/zenodo.19600808",
-  "conceptdoi": "10.5281/zenodo.19600807",
-  "doi_url": "https://doi.org/10.5281/zenodo.19600808",
+  "created": "2026-09-13T05:19:57.545803+00:00",
+  "modified": "2026-09-29T05:36:58.392154+00:00",
+  "id": 22732608,
+  "conceptrecid": "19600803",
+  "conceptdoi": "10.5281/zenodo.19600803",
   "metadata": {
-    "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 hESCs",
-    "doi": "10.5281/zenodo.19600808",
-    "publication_date": "2026-04-15",
-    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: scRNA-seq of irradiated WIBR3 hESCs\".</p>\n<p><strong>Description:</strong> Single-cell RNA sequencing of WIBR3 human embryonic stem cells (hESCs) exposed to ionizing radiation at doses of 0, 0.5, 2, 5, and 10 Gy. Cells were assayed 24h post-irradiation via multiplexed scRNASeq using MULTI-seq reagents.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
+    "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids",
+    "publication_date": "2026-09-30",
+    "description": "<p>This Zenodo deposit contains a publicly available description of the Dataset:</p>\n<p><strong>Title:</strong> \"iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids\".</p>\n<p><strong>Description:</strong> Single-cell RNA sequencing of WIBR3-derived Day 25 cortical spheroids exposed to ionizing radiation at doses of 0, 0.5, 2, 5, and 10 Gy. Spheroids were dissociated and assayed 24h post-irradiation via individual 10x Chromium scRNA-seq libraries per condition.</p>\n\n\n<blockquote>\n<p>This dataset is made available to researchers via the ASAP CRN Cloud: <a href=\"https://cloud.parkinsonsroadmap.org\">cloud.parkinsonsroadmap.org</a>. Instructions for how to request access can be found in the <a href=\"https://storage.googleapis.com/asap-public-assets/wayfinding/ASAP-CRN-Cloud-User-Manual.pdf\">User Manual</a>.</p>\n<p>This research was funded by the Aligning Science Across Parkinson's Collaborative Research Network (ASAP CRN), through the Michael J. Fox Foundation for Parkinson's Research (MJFF).</p>\n<p>This Zenodo deposit was created by the ASAP CRN Cloud staff on behalf of the dataset authors. It provides a citable reference for a CRN Cloud Dataset</p>\n</blockquote>",
     "access_right": "open",
     "creators": [
       {
@@ -55,7 +52,7 @@
       },
       {
         "name": "Martin, Annika",
-        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA;",
         "orcid": "0009-0006-3369-1495"
       },
       {
@@ -70,7 +67,7 @@
       },
       {
         "name": "Simon, Vivien M.",
-        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA.",
+        "affiliation": "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA;",
         "orcid": "0009-0001-1976-0937"
       },
       {
@@ -163,53 +160,52 @@
     "imprint_publisher": "Zenodo",
     "communities": [
       {
-        "identifier": "asaphub"
+        "identifier": "crn-cloud"
       },
       {
-        "identifier": "crn-cloud"
+        "identifier": "asaphub"
       }
     ],
     "upload_type": "dataset",
     "prereserve_doi": {
-      "doi": "10.5281/zenodo.22732742",
-      "recid": 22732742
+      "doi": "10.5281/zenodo.22732608",
+      "recid": 22732608
     }
   },
-  "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 hESCs",
+  "title": "iSCORE-PD: scRNA-seq of irradiated WIBR3 cortical spheroids",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22732742",
-    "html": "https://zenodo.org/deposit/22732742",
-    "doi": "https://doi.org/10.5281/zenodo.19600808",
-    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.19600808.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22732742/files",
-    "bucket": "https://zenodo.org/api/files/d0cfc792-5530-41d2-816b-8e0b745a44d5",
-    "thumb250": "https://zenodo.org/record/22732742/thumb250",
+    "self": "https://zenodo.org/api/deposit/depositions/22732608",
+    "html": "https://zenodo.org/deposit/22732608",
+    "badge": "https://zenodo.org/badge/doi/.svg",
+    "files": "https://zenodo.org/api/deposit/depositions/22732608/files",
+    "bucket": "https://zenodo.org/api/files/2e8fb771-f059-471e-9415-6b7677e52db2",
+    "thumb250": "https://zenodo.org/record/22732608/thumb250",
     "thumbs": {
-      "10": "https://zenodo.org/record/22732742/thumb10",
-      "50": "https://zenodo.org/record/22732742/thumb50",
-      "100": "https://zenodo.org/record/22732742/thumb100",
-      "250": "https://zenodo.org/record/22732742/thumb250",
-      "750": "https://zenodo.org/record/22732742/thumb750",
-      "1200": "https://zenodo.org/record/22732742/thumb1200"
+      "10": "https://zenodo.org/record/22732608/thumb10",
+      "50": "https://zenodo.org/record/22732608/thumb50",
+      "100": "https://zenodo.org/record/22732608/thumb100",
+      "250": "https://zenodo.org/record/22732608/thumb250",
+      "750": "https://zenodo.org/record/22732608/thumb750",
+      "1200": "https://zenodo.org/record/22732608/thumb1200"
     },
-    "latest_draft": "https://zenodo.org/api/deposit/depositions/22732742",
-    "latest_draft_html": "https://zenodo.org/deposit/22732742",
-    "publish": "https://zenodo.org/api/deposit/depositions/22732742/actions/publish",
-    "edit": "https://zenodo.org/api/deposit/depositions/22732742/actions/edit",
-    "discard": "https://zenodo.org/api/deposit/depositions/22732742/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22732742/actions/newversion"
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/22732608",
+    "latest_draft_html": "https://zenodo.org/deposit/22732608",
+    "publish": "https://zenodo.org/api/deposit/depositions/22732608/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/22732608/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/22732608/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/22732608/actions/newversion"
   },
-  "record_id": 22732742,
+  "record_id": 22732608,
   "owner": 615261,
   "files": [
     {
-      "id": "cb267194-7a78-4dca-8509-92b77329133f",
-      "filename": "rio-hesc-sc-rnaseq-irradiated_README.pdf",
-      "filesize": 39826,
-      "checksum": "8b0bde3355917229cafad384ff9d3e27",
+      "id": "01181cd1-a9a8-4ff2-bf10-e60246962a63",
+      "filename": "rio-hesc-spheroids-sc-rnaseq-irradiated_README.pdf",
+      "filesize": 39852,
+      "checksum": "1612ef63a40e8875c600e144773706c0",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22732742/files/cb267194-7a78-4dca-8509-92b77329133f",
-        "download": "https://zenodo.org/api/records/22732742/draft/files/rio-hesc-sc-rnaseq-irradiated_README.pdf/content"
+        "self": "https://zenodo.org/api/deposit/depositions/22732608/files/01181cd1-a9a8-4ff2-bf10-e60246962a63",
+        "download": "https://zenodo.org/api/records/22732608/draft/files/rio-hesc-spheroids-sc-rnaseq-irradiated_README.pdf/content"
       }
     }
   ],

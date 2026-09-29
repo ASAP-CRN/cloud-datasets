@@ -1,6 +1,6 @@
 {
-  "created": "2026-09-12T18:11:12.727425+00:00",
-  "modified": "2026-09-29T05:07:18.142530+00:00",
+  "created": "2026-09-29T06:04:47.237900+00:00",
+  "modified": "2026-09-29T06:04:47.505820+00:00",
   "id": 22728641,
   "conceptrecid": "20276412",
   "doi": "10.5281/zenodo.22728641",
@@ -47,11 +47,13 @@
   },
   "title": "Single-cell RNAseq of human iPSC-derived wild type and PINK1 KO myeloid cells after lipopolysaccharide and interleukin-1 beta challenge",
   "links": {
-    "self": "https://zenodo.org/api/deposit/depositions/22728641",
-    "html": "https://zenodo.org/deposit/22728641",
+    "self": "https://zenodo.org/api/records/22728641",
+    "html": "https://zenodo.org/records/22728641",
     "doi": "https://doi.org/10.5281/zenodo.22728641",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20276412",
     "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.22728641.svg",
-    "files": "https://zenodo.org/api/deposit/depositions/22728641/files",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.20276412.svg",
+    "files": "https://zenodo.org/api/records/22728641/files",
     "bucket": "https://zenodo.org/api/files/a183b367-f521-4797-af45-43134d1bcbce",
     "thumb250": "https://zenodo.org/record/22728641/thumb250",
     "thumbs": {
@@ -67,7 +69,11 @@
     "publish": "https://zenodo.org/api/deposit/depositions/22728641/actions/publish",
     "edit": "https://zenodo.org/api/deposit/depositions/22728641/actions/edit",
     "discard": "https://zenodo.org/api/deposit/depositions/22728641/actions/discard",
-    "newversion": "https://zenodo.org/api/deposit/depositions/22728641/actions/newversion"
+    "newversion": "https://zenodo.org/api/deposit/depositions/22728641/actions/newversion",
+    "record": "https://zenodo.org/api/records/22728641",
+    "record_html": "https://zenodo.org/record/22728641",
+    "latest": "https://zenodo.org/api/records/22728641/versions/latest",
+    "latest_html": "https://zenodo.org/records/22728641/latest"
   },
   "record_id": 22728641,
   "owner": 615261,
@@ -78,11 +84,11 @@
       "filesize": 36733,
       "checksum": "a2cc88d9ee338b9bf69acfff21e75f29",
       "links": {
-        "self": "https://zenodo.org/api/deposit/depositions/22728641/files/dbc075c9-8171-417b-b64b-12a9f8126924",
+        "self": "https://zenodo.org/api/records/22728641/files/dbc075c9-8171-417b-b64b-12a9f8126924",
         "download": "https://zenodo.org/api/records/22728641/draft/files/desjardins-ipsc-sc-rnaseq-myeloid-pink1_README.pdf/content"
       }
     }
   ],
-  "state": "unsubmitted",
-  "submitted": false
+  "state": "done",
+  "submitted": true
 }
