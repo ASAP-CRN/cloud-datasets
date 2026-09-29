@@ -2,7 +2,7 @@
     "name": "jakobsson-pmdbs-sn-rnaseq",
     "title": "team-jakobsson-pmdbs-sn-rnaseq",
     "description": "pmdbs-sc-rnaseq dataset from team-jakobsson",
-    "version": "v2.1",
+    "version": "2.1",
     "doi": "10.5281/zenodo.15162834",
     "creators": [
         {

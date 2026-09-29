@@ -2,7 +2,7 @@
     "name": "sulzer-pmdbs-sn-rnaseq",
     "title": "Single-nucleus RNAseq of the post-mortem cingulate cortex and substantia nigra from control and Parkinson's disease brains",
     "description": "Samples of the Cingulate Cortex and Substantia Nigra from  post-mortem brains from the New York Brain Bank were dissected and processed using 10X single-nucleus RNA sequencing on the  Chromium Next GEM Single Cell v3.1 (Dual Index) platform.",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.17612853",
     "creators": [
         {
@@ -77,7 +77,7 @@
         "collection_version": "v3.1.0",
         "collection": {
             "name": "pmdbs-sc-rnaseq",
-            "version": "v3.1.0",
+            "version": "3.1.0",
             "collection_doi": "10.5281/zenodo.14373047"
         },
         "releases": {

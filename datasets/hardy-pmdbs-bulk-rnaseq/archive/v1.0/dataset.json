@@ -2,7 +2,7 @@
     "name": "hardy-pmdbs-bulk-rnaseq",
     "title": "team-hardy-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from team-hardy",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.16749098",
     "creators": [
         {

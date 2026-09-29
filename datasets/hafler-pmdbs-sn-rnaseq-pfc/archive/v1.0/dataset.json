@@ -2,7 +2,7 @@
     "name": "hafler-pmdbs-sn-rnaseq-pfc",
     "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
     "description": "pmdbs-sc-rnaseq dataset from team-hafler",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15490150",
     "creators": [
         {

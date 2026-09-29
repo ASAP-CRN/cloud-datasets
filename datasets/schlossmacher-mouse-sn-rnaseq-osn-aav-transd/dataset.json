@@ -2,7 +2,7 @@
     "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
     "title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
     "description": "Single-nucleus RNA sequencing data of 4 mice, each inoculated with 4 AAV serotypes. The mice were all male and 8-10 weeks of age at when olfactory epithelium tissue was harvested. Samples were paired-end sequences using v3.1 \u2013 Dual Index using Illumina Novaseq 6000 sequencer.",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17358327",
     "creators": [
         {

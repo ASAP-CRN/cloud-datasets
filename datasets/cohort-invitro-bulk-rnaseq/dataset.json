@@ -1,0 +1,57 @@
+{
+    "name": "cohort-invitro-bulk-rnaseq",
+    "title": "cohort-invitro-bulk-rnaseq",
+    "description": "invitro-bulk-rnaseq dataset from asap-cohort",
+    "version": "1.0.0",
+    "doi": "110.5281/zenodo.1786097",
+    "creators": [
+        {
+            "name": "asap-cohort",
+            "affiliation": "ASAP CRN"
+        }
+    ],
+    "keywords": [
+        "invitro-bulk-rnaseq",
+        "cohort"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": "invitro-bulk-rnaseq",
+    "buckets": {
+        "raw": "gs://asap-raw-cohort-invitro-bulk-rnaseq",
+        "dev": "gs://asap-dev-cohort-invitro-bulk-rnaseq",
+        "uat": "gs://asap-uat-cohort-invitro-bulk-rnaseq",
+        "prod": "gs://asap-curated-cohort-invitro-bulk-rnaseq"
+    },
+    "cde_version": "v3.3",
+    "releases": {
+        "v5.0.0": {
+            "cde_version": "v3.3",
+            "dataset_version": "v1.0.0"
+        }
+    },
+    "dataset_title": "asap-cohort-invitro-bulk-rnaseq",
+    "curation": {
+        "name": "invitro-bulk-rnaseq",
+        "dataset_version": "v1.0.0",
+        "release_version": "v5.0.0",
+        "collection_version": "v1.0.0",
+        "collection": {
+            "name": "invitro-bulk-rnaseq",
+            "version": "1.0.0",
+            "collection_doi": "10.5281/zenodo.20400938"
+        },
+        "releases": {
+            "v1.0.0": {
+                "collection_version": "v1.0.0",
+                "release_version": "v5.0.0",
+                "collection_version_doi": "10.5281/zenodo.20400468"
+            }
+        }
+    },
+    "all_releases": [
+        "v5.0.0"
+    ],
+    "all_versions": [
+        "v1.0.0"
+    ]
+}

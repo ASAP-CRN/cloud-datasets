@@ -2,7 +2,7 @@
   "name": "scherzer-pmdbs-lr-wgs",
   "title": "PD5D long read DNA-seq",
   "description": "This dataset contains CCS corrected HiFi long-read DNA sequencing (lrDNAseq) in FASTQ format for 100 PMDBS samples from Parkinson's patients and healthy controls. It's part of the PD5D atlas, where the same subjects were also profiled with other omics assays including genotyping, single-cell ATACseq, and spatial transcriptomics.",
-  "version": "v1.0",
+  "version": "1.0",
   "doi": "10.5281/zenodo.19124632",
   "keywords": [
     "pmdbs",

@@ -2,7 +2,7 @@
     "name": "cragg-mouse-sn-rnaseq-striatum",
     "title": "team-cragg-mouse-sn-rnaseq-striatum",
     "description": "mouse-sc-rnaseq dataset from team-cragg",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.15400039",
     "creators": [
         {

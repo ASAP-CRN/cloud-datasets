@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "title": "Bulk RNA-seq analysis of G2019S LRRK2 knockin primary astrocytes",
+        "upload_type": "dataset",
+        "description": "Primary astrocytes were isolated from P1 G2019S LRRK2 knockin pups and their wildtype littermates. The cells were treated either with Etoposide(20uM) or vehicle at 18 days in vitro; cells were collected at 24 days in vitro (n=3/group). Total RNA was isolated from cell pellets, then subjected to bulk RNA-seq.",
+        "publication_date": "2026-09-22",
+        "version": "1.0",
+        "creators": [
+            {
+                "name": "Ma, Yue",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0002-1031-5175"
+            },
+            {
+                "name": "Moore, Darren",
+                "affiliation": "Van Andel Institute",
+                "orcid": "0000-0003-2359-5679"
+            }
+        ],
+        "resource_type": "dataset",
+        "communities": [
+            {
+                "identifier": "crn-cloud"
+            },
+            {
+                "identifier": "asaphub"
+            }
+        ],
+        "references": [
+            "Aligning Science Across Parkinson's Collaborative Research Network Cloud, https://cloud.parkinsonsroadmap.org/collections, RRID:SCR_023923",
+            "Team Lee"
+        ],
+        "license": {
+            "id": "cc-by-4.0"
+        }
+    }
+}

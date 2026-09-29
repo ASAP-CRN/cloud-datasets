@@ -2,7 +2,7 @@
     "name": "jakobsson-invitro-bulk-rnaseq-microglia",
     "title": "team-jakobsson-invitro-bulk-rnaseq-microglia",
     "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17149290",
     "creators": [
         {

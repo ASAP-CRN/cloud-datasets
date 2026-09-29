@@ -2,7 +2,7 @@
     "name": "wood-pmdbs-bulk-rnaseq",
     "title": "team-wood-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from team-wood",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.16749007",
     "creators": [
         {

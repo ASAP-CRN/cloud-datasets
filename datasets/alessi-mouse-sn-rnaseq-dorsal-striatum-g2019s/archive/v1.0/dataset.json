@@ -2,7 +2,7 @@
     "name": "alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
     "title": "team-alessi-mouse-sn-rnaseq-dorsal-striatum-g2019s",
     "description": "mouse-sc-rnaseq dataset from team-alessi",
-    "version": "v1.0",
+    "version": "1.0",
     "doi": "10.5281/zenodo.17212215",
     "creators": [
         {

@@ -1,0 +1,31 @@
+{
+    "name": "rio-hesc-sc-rnaseq-irradiated",
+    "title": "rio-hesc-sc-rnaseq-irradiated",
+    "description": "Dataset from team-rio",
+    "version": "v0.1",
+    "doi": null,
+    "creators": [
+        {
+            "name": "team-rio",
+            "affiliation": "ASAP CRN",
+            "orcid": null
+        }
+    ],
+    "keywords": [
+        "rio"
+    ],
+    "license": "CC-BY-4.0",
+    "collection": null,
+    "buckets": {
+        "raw": "gs://asap-raw-team-rio",
+        "dev": "gs://asap-dev-team-rio",
+        "uat": "gs://asap-uat-team-rio",
+        "prod": "gs://asap-curated-team-rio"
+    },
+    "cde_version": "v4.5",
+    "releases": {},
+    "dataset_title": "rio-hesc-sc-rnaseq-irradiated",
+    "curation": {},
+    "all_releases": [],
+    "short_description": "Dataset from team-rio"
+}

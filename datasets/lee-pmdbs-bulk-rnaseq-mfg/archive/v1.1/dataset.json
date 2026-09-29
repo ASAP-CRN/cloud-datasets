@@ -2,7 +2,7 @@
     "name": "lee-pmdbs-bulk-rnaseq-mfg",
     "title": "team-lee-pmdbs-bulk-rnaseq-mfg",
     "description": "pmdbs-bulk-rnaseq dataset from team-lee",
-    "version": "v1.1",
+    "version": "1.1",
     "doi": "10.5281/zenodo.16748937",
     "creators": [
         {
