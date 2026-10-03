@@ -2,7 +2,6 @@
     "name": "cragg-mouse-spatial-visium-striatum",
     "title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
     "description": "This dataset includes Spatial Transcriptomics (ST) data derived from mouse models of Parkinson\u2019s disease (PD), designed to capture both cell-type-specific and spatial gene expression changes across different stages and mechanisms of PD-like pathology. The Mild Neurotoxin Model (6-OHDA): Adult wild-type mice received unilateral injections of 6-hydroxydopamine (6-OHDA) at a low dose (0.6 \u00b5g/\u00b5L) into the medial forebrain bundle (MFB), selectively damaging nigrostriatal dopaminergic neurons and inducing mild Parkinsonian pathology. Untreated wild-type mice served as controls. Spatial gene expression profiling was conducted on the striata of mice from the mild 6-OHDA model to preserve anatomical context. Tissue sections were collected from six adult mice \u2014 three 6-OHDA-treated and three untreated controls. For each animal, four rostro-caudal levels of the striatum were analyzed, capturing regional heterogeneity in response to dopaminergic denervation. The 10X Genomics Visium platform was used to generate spatially resolved transcriptomic maps. This ST dataset allows for the visualization and quantification of spatial patterns in gene expression following mild dopaminergic injury, complementing the cell-type-specific insights gained from the snRNA-seq data.",
-    "version": "1.0",
     "doi": "10.5281/zenodo.15428115",
     "creators": [
         {
@@ -79,47 +78,32 @@
         "uat": "gs://asap-uat-team-cragg-mouse-spatial-visium-striatum",
         "prod": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum"
     },
-    "cde_version": "v3.1",
-    "releases": {
-        "v2.0.3": {
-            "cde_version": "v3.1",
-            "dataset_version": "v1.0"
-        },
-        "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        }
-    },
     "dataset_title": "Spatial Transcriptomics of the Striatum of Two Murine Parkinson's Disease Models.",
+    "short_description": "mouse-spatial dataset from team-cragg",
+    "version": "v1.0",
     "curation": {
-        "name": "mouse-spatial-rnaseq",
-        "dataset_version": "v1.0",
-        "release_version": "v4.0.0",
-        "collection_version": "v1.0.0",
-        "collection": {
-            "name": "mouse-spatial-rnaseq",
-            "version": "1.0.0",
-            "collection_doi": "10.5281/zenodo.16979296"
-        },
-        "releases": {
-            "v1.0.0": {
-                "collection_version": "v1.0.0",
-                "release_version": "v4.0.0",
-                "collection_version_doi": "10.5281/zenodo.16979297"
+        "v2.0.3": {},
+        "v3.0.0": {
+            "workflow": "mouse-spatial-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.0.0",
+            "workflow_url": "github.com/ASAP-CRN/spatial-transcriptomics-wf/releases#release-spatial_visium_analysis-v1.0.1",
+            "qc": "1.0.0",
+            "cohort_analysis": "v1.0.1",
+            "spaceranger": "v1.0.0",
+            "counts_adata": "v1.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979475",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-mouse-spatial-rnaseq-collection-v1/cragg-mouse-spatial-visium-striatum/mouse_spatial_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-cragg-mouse-spatial-visium-striatum/mouse_spatial_rnaseq/release/v3.0.0"
             }
         }
     },
-    "all_releases": [
-        "v2.0.3",
-        "v3.0.0",
-        "v4.0.0"
-    ],
     "all_versions": [
         "v1.0"
     ],
-    "short_description": "mouse-spatial dataset from team-cragg"
+    "releases": {
+        "v2.0.3": "v1.0",
+        "v3.0.0": "v1.0"
+    }
 }

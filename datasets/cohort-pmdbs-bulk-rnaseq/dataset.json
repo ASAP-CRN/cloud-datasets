@@ -2,7 +2,6 @@
     "name": "cohort-pmdbs-bulk-rnaseq",
     "title": "asap-cohort-pmdbs-bulk-rnaseq",
     "description": "pmdbs-bulk-rnaseq dataset from asap-cohort",
-    "version": "1.2.1",
     "doi": "10.5281/zenodo.16975686",
     "creators": [
         {
@@ -24,54 +23,64 @@
         "uat": "gs://asap-uat-cohort-pmdbs-bulk-rnaseq",
         "prod": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq"
     },
-    "cde_version": "v3.3",
-    "releases": {
+    "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq",
+    "version": "v1.2.1",
+    "curation": {
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0.0"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.0.0",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.0.0",
+            "upstream": "1.0.0",
+            "downstream": "v1.0.0",
+            "cohort_analysis": "v1.0.0",
+            "collection_version_doi": "10.5281/zenodo.14373344",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.1.0"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.1.0",
+            "workflow_version": "v1.1.0",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.1.0",
+            "upstream": "1.0.0",
+            "downstream": "v1.1.0",
+            "cohort_analysis": "v1.1.0",
+            "collection_version_doi": "10.5281/zenodo.16975686",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v3.0.0"
+            }
         },
         "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.2.0"
-        },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.2.1"
-        }
-    },
-    "dataset_title": "asap-cohort-pmdbs-bulk-rnaseq",
-    "curation": {
-        "name": "pmdbs-bulk-rnaseq",
-        "dataset_version": "v1.2.0",
-        "release_version": "v4.0.0",
-        "collection_version": "v1.2.0",
-        "collection": {
-            "name": "pmdbs-bulk-rnaseq",
-            "version": "1.2.0",
-            "collection_doi": "10.5281/zenodo.14373343"
-        },
-        "releases": {
-            "v1.2.0": {
-                "collection_version": "v1.2.0",
-                "release_version": "v4.0.0",
-                "collection_version_doi": "10.5281/zenodo.17860841"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.2.0",
+            "workflow_version": "v1.1.1",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.1.1",
+            "upstream": "1.0.0",
+            "downstream": "v1.1.1",
+            "cohort_analysis": "v1.1.1",
+            "collection_version_doi": "10.5281/zenodo.17860841",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v4.0.0"
             }
-        }
+        },
+        "v4.1.0": {},
+        "v5.0.0": {}
     },
-    "all_releases": [
-        "v2.0.0",
-        "v3.0.0",
-        "v4.0.0",
-        "v4.1.0"
-    ],
     "all_versions": [
-        "v1.2.1",
-        "v1.2.0",
+        "v1.0.0",
         "v1.1.0",
-        "v1.0.0"
-    ]
+        "v1.2.0",
+        "v1.2.1"
+    ],
+    "releases": {
+        "v2.0.0": "v1.0.0",
+        "v3.0.0": "v1.1.0",
+        "v4.0.0": "v1.2.0",
+        "v4.1.0": "v1.2.1"
+    }
 }

@@ -1,8 +1,7 @@
 {
     "name": "hardy-pmdbs-sn-rnaseq",
-    "title": "team-hardy-pmdbs-sn-rnaseq",
-    "description": "pmdbs-sc-rnaseq dataset from team-hardy",
-    "version": "1.0",
+    "title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "description": "Bulk RNA-seq data from 128 samples derived from PMDBS samples across Inferior Parietal Lobule (IPL), and Anterior Cingulate Cortex (ACG). Types of Samples: Late stage (Braak 5-6) PD and control post-mortem brains.",
     "doi": "10.5281/zenodo.16749080",
     "creators": [
         {
@@ -42,7 +41,6 @@
         "hardy"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-hardy-pmdbs-sn-rnaseq",
@@ -50,20 +48,46 @@
         "uat": "gs://asap-uat-team-hardy-pmdbs-sn-rnaseq",
         "prod": "gs://asap-curated-team-hardy-pmdbs-sn-rnaseq"
     },
-    "cde_version": "v3.0",
-    "releases": {
+    "dataset_title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "short_description": "pmdbs-sc-rnaseq dataset from team-hardy",
+    "version": "v1.0",
+    "curation": {
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/hardy-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hardy-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/hardy-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hardy-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
         }
     },
-    "dataset_title": "Single-nucleus RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors"
+    "all_versions": [
+        "v1.0"
+    ],
+    "releases": {
+        "v2.0.0": "v1.0",
+        "v3.0.0": "v1.0"
+    }
 }

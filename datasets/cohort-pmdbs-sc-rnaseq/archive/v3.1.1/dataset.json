@@ -2,7 +2,6 @@
     "name": "cohort-pmdbs-sc-rnaseq",
     "title": "asap-cohort-pmdbs-sc-rnaseq",
     "description": "pmdbs-sc-rnaseq dataset from asap-cohort",
-    "version": "3.1.1",
     "doi": "10.5281/zenodo.19876217",
     "creators": [
         {
@@ -16,7 +15,6 @@
         "cohort"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-cohort-pmdbs-sc-rnaseq",
@@ -24,28 +22,83 @@
         "uat": "gs://asap-uat-cohort-pmdbs-sc-rnaseq",
         "prod": "gs://asap-curated-cohort-pmdbs-sc-rnaseq"
     },
-    "cde_version": "v3.3",
-    "releases": {
+    "dataset_title": "asap-cohort-pmdbs-sc-rnaseq",
+    "version": "v3.1.1",
+    "curation": {
         "v1.0.0": {
-            "cde_version": "v2.1",
-            "dataset_version": "v1.0.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.1.0_1.0.0_2.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.1.0",
+            "collection_version_doi": "",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq/release/v1.0.0"
+            }
         },
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v2.0.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v3.0.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
         },
         "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v3.1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.1.0",
+            "workflow_version": "v3.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.1.0",
+            "collection_version_doi": "10.5281/zenodo.17860778",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq/release/v4.0.0"
+            }
         },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v3.1.1"
-        }
+        "v4.1.0": {}
     },
-    "dataset_title": "asap-cohort-pmdbs-sc-rnaseq"
+    "all_versions": [
+        "v1.0.0",
+        "v2.0.0",
+        "v3.0.0",
+        "v3.1.0",
+        "v3.1.1"
+    ],
+    "releases": {
+        "v1.0.0": "v1.0.0",
+        "v2.0.0": "v2.0.0",
+        "v3.0.0": "v3.0.0",
+        "v4.0.0": "v3.1.0",
+        "v4.1.0": "v3.1.1"
+    }
 }

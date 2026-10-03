@@ -1,8 +1,7 @@
 {
     "name": "jakobsson-invitro-bulk-rnaseq-microglia",
-    "title": "team-jakobsson-invitro-bulk-rnaseq-microglia",
-    "description": "invitro-bulk-rnaseq dataset from team-jakobsson",
-    "version": "1.0",
+    "title": "Bulk RNAseq of microglia in vitro cultures",
+    "description": "This dataset includes bulk RNAseq (2 x 150bps reads; Illumina TruSeq Stranded mRNA library prep kit with poly-A selection) of differentiated human pluripotent stem cells (hPSCs) into microglia. Briefly, hES (H9) and hiPSCs (KOLF2.1) underwent mesodermal induction via embryoid body formation, followed by hemogenic endothelium induction and myeloid differentiation to generate primitive monocyte-like precursors. These precursors were then matured into microglia by supplementing with key neuron-derived factors that promote microglial identity, thereby recapitulating human microglia in monoculture. A detailed protocol can be found at doi: dx.doi.org/10.17504/protocols.io.14egnr8ezl5d/v1.",
     "doi": "10.5281/zenodo.17149290",
     "creators": [
         {
@@ -97,24 +96,38 @@
         "jakobsson"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
-    "collection": null,
+    "collection": "invitro-bulk-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-jakobsson-invitro-bulk-rnaseq-microglia",
         "dev": "gs://asap-dev-team-jakobsson-invitro-bulk-rnaseq-microglia",
         "uat": "gs://asap-uat-team-jakobsson-invitro-bulk-rnaseq-microglia",
         "prod": "gs://asap-curated-team-jakobsson-invitro-bulk-rnaseq-microglia"
     },
-    "cde_version": "v3.3",
-    "releases": {
-        "v3.0.2": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
+    "dataset_title": "Bulk RNAseq of microglia in vitro cultures",
+    "short_description": "invitro-bulk-rnaseq dataset from team-jakobsson",
+    "version": "v1.0",
+    "curation": {
+        "v3.0.2": {},
+        "v5.0.0": {
+            "workflow": "invitro-bulk-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v2.0.0",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-bulk_rnaseq_analysis-v2.0.0",
+            "upstream": "1.0.0",
+            "downstream": "v2.0.0",
+            "cohort_analysis": "v2.0.0",
+            "collection_version_doi": "10.5281/zenodo.20400939",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-invitro-bulk-rnaseq-collection-v1/jakobsson-invitro-bulk-rnaseq-microglia/invitro_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-jakobsson-invitro-bulk-rnaseq-microglia/invitro_bulk_rnaseq/release/v5.0.0"
+            }
         }
     },
-    "dataset_title": "Bulk RNAseq of microglia in vitro cultures"
+    "all_versions": [
+        "v1.0"
+    ],
+    "releases": {
+        "v3.0.2": "v1.0",
+        "v5.0.0": "v1.0"
+    }
 }

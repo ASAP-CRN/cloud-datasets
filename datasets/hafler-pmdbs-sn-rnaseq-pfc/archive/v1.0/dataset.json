@@ -1,8 +1,7 @@
 {
     "name": "hafler-pmdbs-sn-rnaseq-pfc",
-    "title": "team-hafler-pmdbs-sn-rnaseq-pfc",
-    "description": "pmdbs-sc-rnaseq dataset from team-hafler",
-    "version": "1.0",
+    "title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
+    "description": "To identify and characterize selectively vulnerable brain cell populations in Parkinson\u2019s disease (PD), we performed single nucleus transcriptomics and unbiased proteomics to profile the prefrontal cortex from postmortem human brains of six individuals with late-stage PD and six age-matched controls. Analysis of nearly 80,000 nuclei led to the identification of eight major brain cell types, including elevated brain-resident T cells in PD, each with distinct transcriptional changes in agreement with the known genetics of PD. By analyzing Lewy body pathology in the same postmortem brain tissues, we found that \u03b1-synuclein pathology was inversely correlated with chaperone expression in excitatory neurons. Examining cell-cell interactions, we found a selective abatement of neuron-astrocyte interactions and enhanced neuroinflammation. Proteomic analyses of the same brains identified synaptic proteins in the prefrontal cortex that were preferentially downregulated in PD. By comparing this single cell PD dataset with a published analysis of similar brain regions in Alzheimer\u2019s disease (AD), we found no common differentially expressed genes in neurons but identified many shared differentially expressed genes in glial cells, suggesting that the disease etiologies, especially in the context of neuronal vulnerability, in PD and AD are likely distinct. To prepare these samples, nuclei were isolated from post-mortem, fresh-frozen human brain tissue. Approximately 50 to 100 mg of frozen tissue was homogenized in 15 ml of ice-cold nuclei homogenization buffer [2 M sucrose, 10 mM HEPES (pH 7.9), 25 mM KCl, 1 mM EDTA (pH 8.0), 10% glycerol, with freshly added RNase inhibitors (80 U/ml)] using a Dounce tissue grinder (10 strokes with the loose pestle, followed by 10 strokes with the tight pestle). The homogenate was layered over 10 ml of fresh homogenization buffer in an ultracentrifuge tube and centrifuged at 25,000 rpm for 60 minutes at 4\u00b0C. After ultracentrifugation, the supernatant was discarded, and the nuclei pellet was resuspended in 1 ml of nuclei resuspension buffer [15 mM HEPES (pH 7.4), 15 mM NaCl, 60 mM KCl, 2 mM MgCl\u2082, 3 mM CaCl\u2082, with freshly added RNase inhibitors (80 U/ml)] and counted using a hemocytometer prior to loading for 10x Genomics platform.  The snRNA-seq libraries were prepared by the 10x Genomics Chromium Single Cell 3' Reagent Kit v3 chemistry according to the manufacturer's instructions and sequenced using Illumina NovaSeq6000 S4 sequencer. A custom pre-mRNA human genome reference was generated with GRCh38 (Ensembl 93) that included pre-mRNA sequences by 10x Cell Ranger. snRNA-seq data were aligned to this GRCh38 pre-mRNA human genome reference (Ensembl 93) to map both unspliced pre-mRNA and mature mRNA using 10x CellRanger version 3.1.0.",
     "doi": "10.5281/zenodo.15490150",
     "creators": [
         {
@@ -41,7 +40,6 @@
         "hafler"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-hafler-pmdbs-sn-rnaseq-pfc",
@@ -49,24 +47,62 @@
         "uat": "gs://asap-uat-team-hafler-pmdbs-sn-rnaseq-pfc",
         "prod": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc"
     },
-    "cde_version": "v2.1",
-    "releases": {
+    "dataset_title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains",
+    "short_description": "pmdbs-sc-rnaseq dataset from team-hafler",
+    "version": "v1.0",
+    "curation": {
         "v1.0.0": {
-            "cde_version": "v2.1",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.1.0_1.0.0_2.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.1.0",
+            "collection_version_doi": "",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq/release/v1.0.0"
+            }
         },
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hafler-pmdbs-sn-rnaseq-pfc/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
         }
     },
-    "dataset_title": "Single-cell transcriptomic and proteomic analysis of Parkinson\u2019s disease brains"
+    "all_versions": [
+        "v1.0"
+    ],
+    "releases": {
+        "v1.0.0": "v1.0",
+        "v2.0.0": "v1.0",
+        "v3.0.0": "v1.0"
+    }
 }

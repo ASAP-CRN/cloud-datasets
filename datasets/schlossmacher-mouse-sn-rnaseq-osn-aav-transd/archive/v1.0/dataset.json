@@ -1,8 +1,7 @@
 {
     "name": "schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-    "title": "team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
-    "description": "mouse-sc-rnaseq dataset from team-schlossmacher",
-    "version": "1.0",
+    "title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
+    "description": "Single-nucleus RNA sequencing data of 4 mice, each inoculated with 4 AAV serotypes. The mice were all male and 8-10 weeks of age at when olfactory epithelium tissue was harvested. Samples were paired-end sequences using v3.1 \u2013 Dual Index using Illumina Novaseq 6000 sequencer.",
     "doi": "10.5281/zenodo.17358327",
     "creators": [
         {
@@ -67,24 +66,39 @@
         "schlossmacher"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
-    "collection": null,
+    "collection": "mouse-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
         "dev": "gs://asap-dev-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
         "uat": "gs://asap-uat-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd",
         "prod": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd"
     },
-    "cde_version": "v3.3",
-    "releases": {
-        "v3.0.1": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
+    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus",
+    "short_description": "mouse-sc-rnaseq dataset from team-schlossmacher",
+    "version": "v1.0",
+    "curation": {
+        "v3.0.1": {},
+        "v5.1.0": {
+            "workflow": "mouse-sc-rnaseq",
+            "collection_version": "v1.1.0",
+            "workflow_version": "v4.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-sc_rnaseq_analysis-v4.1.0",
+            "preprocess_cellranger": "2.0.0",
+            "preprocess_counts_to_adata": "v1.2.0",
+            "preprocess_cellbender": "v1.0.1",
+            "cohort_analysis": "v4.0.0",
+            "collection_version_doi": "10.5281/zenodo.22757930",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-mouse-sc-rnaseq-collection-v1/schlossmacher-mouse-sn-rnaseq-osn-aav-transd/mouse_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-schlossmacher-mouse-sn-rnaseq-osn-aav-transd/mouse_sc_rnaseq/release/v5.1.0"
+            }
         }
     },
-    "dataset_title": "snRNAseq of olfactory epithelium with AAV serotypes for transduction of olfactory sensory neurons in Mus musculus"
+    "all_versions": [
+        "v1.0"
+    ],
+    "releases": {
+        "v3.0.1": "v1.0",
+        "v5.1.0": "v1.0"
+    }
 }
