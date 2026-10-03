@@ -98,21 +98,6 @@
                 "collection_bucket": "gs://asap-crn-mouse-sc-rnaseq-collection-v1/cragg-mouse-sn-rnaseq-striatum/mouse_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-team-cragg-mouse-sn-rnaseq-striatum/mouse_sc_rnaseq/release/v4.0.0"
             }
-        },
-        "v5.1.0": {
-            "workflow": "mouse-sc-rnaseq",
-            "collection_version": "v1.1.0",
-            "workflow_version": "v4.1.0",
-            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-sc_rnaseq_analysis-v4.1.0",
-            "preprocess_cellranger": "2.0.0",
-            "preprocess_counts_to_adata": "v1.2.0",
-            "preprocess_cellbender": "v1.0.1",
-            "cohort_analysis": "v4.0.0",
-            "collection_version_doi": "10.5281/zenodo.22757930",
-            "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-mouse-sc-rnaseq-collection-v1/cragg-mouse-sn-rnaseq-striatum/mouse_sc_rnaseq",
-                "dataset_bucket": "gs://asap-curated-team-cragg-mouse-sn-rnaseq-striatum/mouse_sc_rnaseq/release/v5.1.0"
-            }
         }
     },
     "all_versions": [
@@ -121,7 +106,6 @@
     "releases": {
         "v2.0.2": "v1.0",
         "v3.0.0": "v1.0",
-        "v4.0.0": "v1.0",
-        "v5.1.0": "v1.0"
+        "v4.0.0": "v1.0"
     }
 }

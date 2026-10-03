@@ -1035,7 +1035,7 @@
         },
         "dataset_title": "Single Nucleus RNA sequencing of the Striatum of Two Murine Parkinson's Disease Models.",
         "short_description": "mouse-sc-rnaseq dataset from team-cragg",
-        "version": "v1.0",
+        "version": "v2.0",
         "curation": {
             "v2.0.2": {},
             "v3.0.0": {},
@@ -1071,13 +1071,14 @@
             }
         },
         "all_versions": [
-            "v1.0"
+            "v1.0",
+            "v2.0"
         ],
         "releases": {
             "v2.0.2": "v1.0",
             "v3.0.0": "v1.0",
             "v4.0.0": "v1.0",
-            "v5.1.0": "v1.0"
+            "v5.1.0": "v2.0"
         }
     },
     "cragg-mouse-spatial-visium-striatum": {
