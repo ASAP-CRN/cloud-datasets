@@ -2,7 +2,6 @@
     "name": "cohort-mouse-sc-rnaseq",
     "title": "asap-cohort-mouse-sc-rnaseq",
     "description": "mouse-sc-rnaseq dataset from asap-cohort",
-    "version": "1.0.0",
     "doi": "10.5281/zenodo.17860975",
     "creators": [
         {
@@ -16,7 +15,6 @@
         "cohort"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "mouse-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-cohort-mouse-sc-rnaseq",
@@ -24,12 +22,29 @@
         "uat": "gs://asap-uat-cohort-mouse-sc-rnaseq",
         "prod": "gs://asap-curated-cohort-mouse-sc-rnaseq"
     },
-    "cde_version": "v3.3",
-    "releases": {
+    "dataset_title": "asap-cohort-mouse-sc-rnaseq",
+    "version": "v1.0.0",
+    "curation": {
         "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0.0"
+            "workflow": "mouse-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v4.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-sc_rnaseq_analysis-v4.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v4.0.0",
+            "collection_version_doi": "10.5281/zenodo.17860975",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-mouse-sc-rnaseq-collection-v1/cohort-mouse-sc-rnaseq/mouse_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-cohort-mouse-sc-rnaseq/mouse_sc_rnaseq/release/v4.0.0"
+            }
         }
     },
-    "dataset_title": "asap-cohort-mouse-sc-rnaseq"
+    "all_versions": [
+        "v1.0.0"
+    ],
+    "releases": {
+        "v4.0.0": "v1.0.0"
+    }
 }

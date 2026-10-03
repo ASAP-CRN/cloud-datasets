@@ -2,7 +2,6 @@
     "name": "hardy-pmdbs-bulk-rnaseq",
     "title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
     "description": "Bulk RNA-seq data from 288 samples derived from PMDBS samples across Anterior Cingulate Cortex (ACG), Inferior Parietal Lobule (IPL), Middle Frontal Gyrus (MFG), and Middle Temporal Gyrus (MTG) Types of Samples: Late stage (Braak 6) PD and control post-mortem brains.",
-    "version": "1.1",
     "doi": "10.5281/zenodo.16749098",
     "creators": [
         {
@@ -49,53 +48,63 @@
         "uat": "gs://asap-uat-team-hardy-pmdbs-bulk-rnaseq",
         "prod": "gs://asap-curated-team-hardy-pmdbs-bulk-rnaseq"
     },
-    "cde_version": "v3.0",
-    "releases": {
+    "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
+    "short_description": "pmdbs-bulk-rnaseq dataset from team-hardy",
+    "version": "v1.1",
+    "curation": {
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.0.0",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.0.0",
+            "upstream": "1.0.0",
+            "downstream": "v1.0.0",
+            "cohort_analysis": "v1.0.0",
+            "collection_version_doi": "10.5281/zenodo.14373344",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.1.0",
+            "workflow_version": "v1.1.0",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.1.0",
+            "upstream": "1.0.0",
+            "downstream": "v1.1.0",
+            "cohort_analysis": "v1.1.0",
+            "collection_version_doi": "10.5281/zenodo.16975686",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v3.0.0"
+            }
         },
         "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.1"
-        }
-    },
-    "dataset_title": "Bulk RNA sequencing of human post-mortem brain tissue from Parkinson's disease and control donors",
-    "curation": {
-        "name": "pmdbs-bulk-rnaseq",
-        "dataset_version": "v1.0",
-        "release_version": "v4.0.0",
-        "collection_version": "v1.2.0",
-        "collection": {
-            "name": "pmdbs-bulk-rnaseq",
-            "version": "1.2.0",
-            "collection_doi": "10.5281/zenodo.14373343"
-        },
-        "releases": {
-            "v1.2.0": {
-                "collection_version": "v1.2.0",
-                "release_version": "v4.0.0",
-                "collection_version_doi": "10.5281/zenodo.17860841"
+            "workflow": "pmdbs-bulk-rnaseq",
+            "collection_version": "v1.2.0",
+            "workflow_version": "v1.1.1",
+            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-pmdbs_bulk_rnaseq_analysis-v1.1.1",
+            "upstream": "1.0.0",
+            "downstream": "v1.1.1",
+            "cohort_analysis": "v1.1.1",
+            "collection_version_doi": "10.5281/zenodo.17860841",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-bulk-rnaseq-collection-v1/hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-hardy-pmdbs-bulk-rnaseq/pmdbs_bulk_rnaseq/release/v4.0.0"
             }
-        }
+        },
+        "v4.1.0": {},
+        "v5.0.0": {}
     },
-    "all_releases": [
-        "v2.0.0",
-        "v3.0.0",
-        "v4.0.0",
-        "v4.1.0"
-    ],
     "all_versions": [
-        "v1.1",
-        "v1.0"
+        "v1.0",
+        "v1.1"
     ],
-    "short_description": "pmdbs-bulk-rnaseq dataset from team-hardy"
+    "releases": {
+        "v2.0.0": "v1.0",
+        "v3.0.0": "v1.0",
+        "v4.0.0": "v1.0",
+        "v4.1.0": "v1.1"
+    }
 }

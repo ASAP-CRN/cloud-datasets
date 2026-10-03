@@ -2,7 +2,6 @@
     "name": "jakobsson-pmdbs-sn-rnaseq",
     "title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
     "description": "We performed single nuclei RNA sequencing of postmortem PD and control brain tissue of four different brain regions (substantia nigra, putamen, amygdala, and prefrontal cortex). Briefly, 8500 nuclei were FACS sorted from approximately 2 mm3 of tissue. Single nuclei RNAseq libraries were prepared using 10X genomics platform for single cell 3' sequencing. Sequencing libraries are prepared by fragmentation, end repair and a tailing followed by sample index PCR. To process the data, FASTQ files were processed using Cell Ranger, aligning and quantifying for hg38. Intronic reads were also quantified.",
-    "version": "2.1",
     "doi": "10.5281/zenodo.15162834",
     "creators": [
         {
@@ -104,69 +103,68 @@
         "uat": "gs://asap-uat-team-jakobsson-pmdbs-sn-rnaseq",
         "prod": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq"
     },
-    "cde_version": "v3.1",
-    "releases": {
+    "dataset_title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
+    "short_description": "pmdbs-sc-rnaseq dataset from team-jakobsson",
+    "version": "v2.1",
+    "curation": {
         "v1.0.0": {
-            "cde_version": "v2.1",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.1.0_1.0.0_2.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.1.0",
+            "collection_version_doi": "",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v1.0.0"
+            }
         },
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
-        },
-        "v2.0.1": {
-            "cde_version": "v3.1",
-            "dataset_version": "v2.0"
-        },
-        "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v2.0"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v2.0"
-        },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v2.1"
-        }
-    },
-    "dataset_title": "Single nuclei sequencing of brain regions from healthy and Parkinson's Disease individuals",
-    "curation": {
-        "name": "pmdbs-sc-rnaseq",
-        "dataset_version": "v2.0",
-        "release_version": "v4.0.0",
-        "collection_version": "v3.1.0",
-        "collection": {
-            "name": "pmdbs-sc-rnaseq",
-            "version": "3.1.0",
-            "collection_doi": "10.5281/zenodo.14373047"
-        },
-        "releases": {
-            "v1.0.0": {
-                "collection_version": "v1.0.0",
-                "release_version": "v1.0.0",
-                "collection_version_doi": null
-            },
-            "v3.1.0": {
-                "collection_version": "v3.1.0",
-                "release_version": "v4.0.0",
-                "collection_version_doi": "10.5281/zenodo.17860778"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v2.0.0"
             }
-        }
+        },
+        "v2.0.1": {},
+        "v3.0.0": {
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-jakobsson-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
+        },
+        "v4.1.0": {}
     },
-    "all_releases": [
-        "v1.0.0",
-        "v2.0.0",
-        "v2.0.1",
-        "v3.0.0",
-        "v4.0.0",
-        "v4.1.0"
-    ],
     "all_versions": [
-        "v2.1",
+        "v1.0",
         "v2.0",
-        "v1.0"
+        "v2.1"
     ],
-    "short_description": "pmdbs-sc-rnaseq dataset from team-jakobsson"
+    "releases": {
+        "v1.0.0": "v1.0",
+        "v2.0.0": "v1.0",
+        "v2.0.1": "v2.0",
+        "v3.0.0": "v2.0",
+        "v4.1.0": "v2.1"
+    }
 }

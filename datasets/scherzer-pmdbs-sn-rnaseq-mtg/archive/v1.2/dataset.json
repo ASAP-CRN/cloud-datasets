@@ -1,8 +1,7 @@
 {
     "name": "scherzer-pmdbs-sn-rnaseq-mtg",
-    "title": "team-scherzer-pmdbs-sn-rnaseq-mtg",
-    "description": "pmdbs-sc-rnaseq dataset from team-scherzer",
-    "version": "1.2",
+    "title": "PD5D_MTG_snRNAseq",
+    "description": "This dataset contains single-nucleus RNA sequencing (snRNAseq) raw data in  FASTQ format for 94 human middle temporal gyrus (MTG) samples from  Parkinson's patients and healthy controls. It's part of the PD5D atlas, where  the same subjects were also profiled with other omics assays incl. genotyping,  single-cell ATACseq, and spatial transcriptomics.\n\nVersion bump from 1.1 to 1.2\n\nThe updated Datasets fix inconsistencies in the ASAP assigned `ASAP_subject_id` and `ASAP_sample_id` for these previously released PMDBS Datasets. These erroneously included the string \"PMBDS\", now replaced with \"PMDBS\". This change does not affect the underlying data files, but does update the metadata to be consistent with the naming convention used for all other PMDBS Datasets and the corresponding CDEs.",
     "doi": "10.5281/zenodo.16751625",
     "creators": [
         {
@@ -48,7 +47,6 @@
         "scherzer"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-scherzer-pmdbs-sn-rnaseq-mtg",
@@ -56,32 +54,68 @@
         "uat": "gs://asap-uat-team-scherzer-pmdbs-sn-rnaseq-mtg",
         "prod": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg"
     },
-    "cde_version": "v3.3",
-    "releases": {
+    "dataset_title": "PD5D_MTG_snRNAseq",
+    "short_description": "pmdbs-sc-rnaseq dataset from team-scherzer",
+    "version": "v1.2",
+    "curation": {
         "v1.0.0": {
-            "cde_version": "v2.1",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.1.0_1.0.0_2.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.1.0",
+            "collection_version_doi": "",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v1.0.0"
+            }
         },
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
         },
-        "v3.0.1": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.1"
-        },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.1"
-        },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.2"
-        }
+        "v3.0.1": {},
+        "v4.1.0": {}
     },
-    "dataset_title": "PD5D_MTG_snRNAseq"
+    "all_versions": [
+        "v1.0",
+        "v1.1",
+        "v1.2"
+    ],
+    "releases": {
+        "v1.0.0": "v1.0",
+        "v2.0.0": "v1.0",
+        "v3.0.0": "v1.0",
+        "v3.0.1": "v1.1",
+        "v4.1.0": "v1.2"
+    }
 }

@@ -2,7 +2,6 @@
     "name": "alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
     "title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain with LRRK2 inhibition.",
     "description": "Proteomic analysis of lysosomes isolated from the brain tissue of VPS35[D620N] mice treated in vivo with MLi-2 (100 mg/kg via oral gavage, 2 h). Tag expression was determined by genotyping PCR and brain lysate immunoblotting. Data acquired on an Orbitrap Exploris 480 and processed using DIA-NN 1.8.1.",
-    "version": "1.0",
     "doi": "10.5281/zenodo.18476402",
     "creators": [
         {
@@ -29,20 +28,16 @@
         "uat": "gs://asap-uat-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2",
         "prod": "gs://asap-curated-team-alessi-mouse-ms-p-brain-vps35-d620n-dmso-mli2"
     },
-    "cde_version": "v4.3",
-    "releases": {
-        "v4.1.0": {
-            "cde_version": "v4.3",
-            "dataset_version": "v1.0"
-        }
-    },
     "dataset_title": "Quantitative DIA-based proteomic analysis of lysosomes (Lyso-IP) from VPS35[D620N] Mouse Brain with LRRK2 inhibition.",
-    "curation": {},
-    "all_releases": [
-        "v4.1.0"
-    ],
+    "short_description": "Dataset from team-alessi",
+    "version": "v1.0",
+    "curation": {
+        "v4.1.0": {}
+    },
     "all_versions": [
         "v1.0"
     ],
-    "short_description": "Dataset from team-alessi"
+    "releases": {
+        "v4.1.0": "v1.0"
+    }
 }

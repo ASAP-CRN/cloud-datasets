@@ -1,8 +1,7 @@
 {
     "name": "lee-pmdbs-sn-rnaseq",
-    "title": "team-lee-pmdbs-sn-rnaseq",
-    "description": "pmdbs-sc-rnaseq dataset from team-lee",
-    "version": "1.1",
+    "title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "description": "Single nucleus RNA-seq data from hippocampus, middle frontal gyrus, and substantia nigra samples of human PD and control postmortem brains. All three brain regions were co-sampled from each donor to enable direct comparison of transcriptomic signatures across anatomically and functionally distinct regions within the same brain.",
     "doi": "10.5281/zenodo.16744323",
     "creators": [
         {
@@ -51,7 +50,6 @@
         "lee"
     ],
     "license": "CC-BY-4.0",
-    "references": [],
     "collection": "pmdbs-sc-rnaseq",
     "buckets": {
         "raw": "gs://asap-raw-team-lee-pmdbs-sn-rnaseq",
@@ -59,28 +57,65 @@
         "uat": "gs://asap-uat-team-lee-pmdbs-sn-rnaseq",
         "prod": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq"
     },
-    "cde_version": "v2.1",
-    "releases": {
+    "dataset_title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra",
+    "short_description": "pmdbs-sc-rnaseq dataset from team-lee",
+    "version": "v1.1",
+    "curation": {
         "v1.0.0": {
-            "cde_version": "v2.1",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v1.0.0",
+            "workflow_version": "v1.1.0_1.0.0_2.1.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.1.0",
+            "collection_version_doi": "",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v1.0.0"
+            }
         },
         "v2.0.0": {
-            "cde_version": "v3.0",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v2.0.0",
+            "workflow_version": "2.2.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v1.1.0_1.0.0_2.1.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v2.2.0",
+            "collection_version_doi": "10.5281/zenodo.14373048",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v2.0.0"
+            }
         },
         "v3.0.0": {
-            "cde_version": "v3.2",
-            "dataset_version": "v1.0"
+            "workflow": "pmdbs-sc-rnaseq",
+            "collection_version": "v3.0.0",
+            "workflow_version": "v3.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-rnaseq-wf/releases#release-harmonized_pmdbs_analysis-v3.0.0",
+            "preprocess_cellranger": "1.1.0",
+            "preprocess_counts_to_adata": "v1.1.0",
+            "preprocess_cellbender": "v1.0.0",
+            "cohort_analysis": "v3.0.0",
+            "collection_version_doi": "10.5281/zenodo.16979638",
+            "gcp_uri": {
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "dataset_bucket": "gs://asap-curated-team-lee-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v3.0.0"
+            }
         },
-        "v4.0.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.0"
-        },
-        "v4.1.0": {
-            "cde_version": "v3.3",
-            "dataset_version": "v1.1"
-        }
+        "v4.1.0": {}
     },
-    "dataset_title": "Single nucleus RNA-sequencing of human postmortem hippocampus, middle frontal gyrus, and substantia nigra"
+    "all_versions": [
+        "v1.0",
+        "v1.1"
+    ],
+    "releases": {
+        "v1.0.0": "v1.0",
+        "v2.0.0": "v1.0",
+        "v3.0.0": "v1.0",
+        "v4.1.0": "v1.1"
+    }
 }
