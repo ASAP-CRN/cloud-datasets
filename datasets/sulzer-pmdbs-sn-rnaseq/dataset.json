@@ -72,7 +72,7 @@
             "cohort_analysis": "v3.1.0",
             "collection_version_doi": "10.5281/zenodo.17860778",
             "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/sulzer-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v3/sulzer-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-team-sulzer-pmdbs-sn-rnaseq/pmdbs_sc_rnaseq/release/v4.0.0"
             }
         },

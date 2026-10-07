@@ -69,7 +69,7 @@
             "cohort_analysis": "v2.1.0",
             "collection_version_doi": "",
             "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v3/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v1.0.0"
             }
         },
@@ -84,7 +84,7 @@
             "cohort_analysis": "v2.2.0",
             "collection_version_doi": "10.5281/zenodo.14373048",
             "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v3/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v2.0.0"
             }
         },
@@ -99,7 +99,7 @@
             "cohort_analysis": "v3.0.0",
             "collection_version_doi": "10.5281/zenodo.16979638",
             "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v3/scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-team-scherzer-pmdbs-sn-rnaseq-mtg/pmdbs_sc_rnaseq/release/v3.0.0"
             }
         }

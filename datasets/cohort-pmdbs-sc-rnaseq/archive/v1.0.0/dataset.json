@@ -36,7 +36,7 @@
             "cohort_analysis": "v2.1.0",
             "collection_version_doi": "",
             "gcp_uri": {
-                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v1/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
+                "collection_bucket": "gs://asap-crn-pmdbs-sc-rnaseq-collection-v3/cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq",
                 "dataset_bucket": "gs://asap-curated-cohort-pmdbs-sc-rnaseq/pmdbs_sc_rnaseq/release/v1.0.0"
             }
         }
