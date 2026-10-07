@@ -22,14 +22,15 @@
     "curation": {
         "v4.1.1": {},
         "v5.0.0": {
-            "workflow": "invitro-bulk-rnaseq",
+            "workflow": "pmdbs-sc-atacseq",
             "collection_version": "v1.0.0",
-            "workflow_version": "v2.0.0",
-            "workflow_url": "github.com/ASAP-CRN/bulk-rnaseq-wf/releases#release-bulk_rnaseq_analysis-v2.0.0",
-            "upstream": "1.0.0",
-            "downstream": "v2.0.0",
-            "cohort_analysis": "v2.0.0",
-            "collection_version_doi": "10.5281/zenodo.20400939",
+            "workflow_version": "v1.0.0",
+            "workflow_url": "github.com/ASAP-CRN/sc-atacseq-wf/releases#release-sc_atacseq_analysis-v1.0.0",
+            "preprocess_cellranger": "1.0.0",
+            "preprocess_counts_to_adata": "v1.0.0",
+            "split_fragment": "v1.0.0",
+            "cohort_analysis": "v1.0.0",
+            "collection_version_doi": "10.5281/zenodo.20400469",
             "gcp_uri": {
                 "collection_bucket": "gs://asap-crn-pmdbs-sc-atacseq-collection-v1/voet-pmdbs-sn-atacseq-10x/pmdbs_sc_atacseq",
                 "dataset_bucket": "gs://asap-curated-team-voet-pmdbs-sn-atacseq-10x/pmdbs_sc_atacseq/release/v5.0.0"
